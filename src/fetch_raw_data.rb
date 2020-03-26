@@ -22,7 +22,7 @@ class FetchRawData
     file_path = "data/sources/jhu_csse/daily_reports/#{formatted_date}.csv"
     file_exists = File.exist?(file_path)
     if file_exists
-      puts "Data has been fetched: #{formatted_date}"
+      puts "Data was already fetched: #{formatted_date}"
       return true
     end
 
