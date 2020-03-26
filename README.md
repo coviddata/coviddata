@@ -1,4 +1,7 @@
-# CovidAPI
+<h1>
+  <img src="https://img.icons8.com/ultraviolet/80/000000/coronavirus.png" width="24" />
+  CovidAPI
+</h1>
 
 CovidAPI is an API that provides statistics about COVID-19:
 
@@ -7,7 +10,7 @@ CovidAPI is an API that provides statistics about COVID-19:
 
 The data is updated using the [Johns Hopkins CSSE data repository](https://github.com/CSSEGISandData/COVID-19) multiple times per day.
 
-**API Reference**: https://coviddata.github.io/covid-api
+**API Reference**: https://coviddata.github.io/covid-api <br />
 **Repo**: https://github.com/coviddata/covid-api
 
 ## API

@@ -7,3 +7,6 @@ fetch_raw_data:
 
 generate_api_data:
 	ruby bin/generate_api_data.rb
+
+update_index_html:
+	ruby bin/update_index_html.rb
