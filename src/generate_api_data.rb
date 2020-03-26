@@ -62,10 +62,8 @@ class GenerateApiData
         location_keys_sort_values[location_key] = dates_data.last.last[:cumulative][:cases]
         [location_key, Hash[dates_data]]
       end
-      # puts location_keys_sort_values
       # Sort locations
       @location_types_location_keys_dates_data[location_type] = @location_types_location_keys_dates_data[location_type].sort_by do |location_key, dates_data|
-        puts location_keys_sort_values[location_key]
         location_keys_sort_values[location_key]
       end
       @location_types_location_keys_dates_data[location_type] = Hash[@location_types_location_keys_dates_data[location_type].reverse]
@@ -130,10 +128,11 @@ class GenerateApiData
   def write_data
     LOCATION_TYPES.each do |location_type|
       plural_name = LOCATION_TYPES_CONFIGS[location_type][:plural_name]
-      output_data = @location_types_location_keys_locations[location_type].values.map do |location|
+      output_data = @location_types_location_keys_dates_data[location_type].map do |location_key, dates_data|
+        location = @location_types_location_keys_locations[location_type][location_key]
         {
           location_type => location,
-          data: @location_types_location_keys_dates_data[location_type][location[:key]]
+          dates: dates_data
         }
       end
       File.write("#{API_DIRECTORY}#{plural_name}/stats_pretty.json", JSON.pretty_generate(output_data))
