@@ -1,0 +1,40 @@
+name: Update Data
+on:
+  schedule:
+    - cron: '0 0,1,2,3,4,5,6,8,10,12,15,18,20,22 * * *'
+
+env:
+  WORKFLOW_ACTION: update_data
+
+jobs:
+  update_data:
+    name: Update Data
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Set up Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - name: Git checkout
+        uses: actions/checkout@v1
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install --jobs 4
+      - name: Fetch Raw Data
+        run: make fetch_raw_data
+      - name: Generate API Data
+        run: make generate_api_data
+      - name: Commit files
+        run: |
+          cd main
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Update API data" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          directory: main
