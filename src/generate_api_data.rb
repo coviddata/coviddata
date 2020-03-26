@@ -6,7 +6,11 @@ class GenerateApiData
   INPUT_DIRECTORY = 'data/sources/jhu_csse/daily_reports/'
   API_DIRECTORY = 'docs/v1/'
   NORMALIZED_COUNTRY_NAMES = {
+    'Iran (Islamic Republic of)' => 'Iran',
+    'Korea, South' => 'South Korea',
     'Mainland China' => 'China',
+    'Republic of Korea' => 'South Korea',
+    'Taiwan*' => 'Taiwan',
     'US' => 'United States'
   }
   COUNT_KEYS = %i(cases deaths recoveries)
@@ -32,7 +36,8 @@ class GenerateApiData
   def perform
     aggregate_data
     sort_data
-    write_data
+    write_json
+    write_csvs
   end
 
   private
@@ -125,7 +130,7 @@ class GenerateApiData
     nil
   end
 
-  def write_data
+  def write_json
     LOCATION_TYPES.each do |location_type|
       plural_name = LOCATION_TYPES_CONFIGS[location_type][:plural_name]
       output_data = @location_types_location_keys_dates_data[location_type].map do |location_key, dates_data|
@@ -137,6 +142,45 @@ class GenerateApiData
       end
       File.write("#{API_DIRECTORY}#{plural_name}/stats_pretty.json", JSON.pretty_generate(output_data))
       File.write("#{API_DIRECTORY}#{plural_name}/stats.json", JSON.dump(output_data))
+    end
+  end
+
+  def write_csvs
+    LOCATION_TYPES.each do |location_type|
+      COUNT_KEYS.each do |count_key|
+        plural_name = LOCATION_TYPES_CONFIGS[location_type][:plural_name]
+        location_keys_dates_data = @location_types_location_keys_dates_data[location_type]
+        dates = location_keys_dates_data.values.map(&:keys).flatten.uniq.sort
+        rows = location_keys_dates_data.map do |location_key, dates_data|
+          location = @location_types_location_keys_locations[location_type][location_key]
+          case location_type
+          when :country
+            row = [location[:name]]
+          when :region
+            row = [location[:name], location[:country][:name]]
+          when :place
+            row = [location[:name], location[:region][:name], location[:country][:name]]
+          end
+          row += dates.map do |date|
+            dates_data[date]&.dig(:cumulative)&.dig(count_key) || 0
+          end
+          row
+        end
+        headers = case location_type
+        when :country then ['Country']
+        when :region then ['Region', 'Country']
+        when :place then ['Place', 'Region', 'Country']
+        end
+        headers += dates.map { |date| date.to_s }
+
+        rows = [headers] + rows
+        output_data = CSV.generate do |csv|
+          rows.each do |row|
+            csv << row
+          end
+        end
+        File.write("#{API_DIRECTORY}#{plural_name}/#{count_key}.csv", output_data)
+      end
     end
   end
 
