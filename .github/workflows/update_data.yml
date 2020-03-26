@@ -1,5 +1,8 @@
 name: Update Data
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: '0 0,1,2,3,4,5,6,8,10,12,15,18,20,22 * * *'
 

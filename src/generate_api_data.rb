@@ -55,12 +55,20 @@ class GenerateApiData
 
   def sort_data
     LOCATION_TYPES.each do |location_type|
-      @location_types_location_keys_locations[location_type] = Hash[@location_types_location_keys_locations[location_type].sort_by(&:first)]
+      location_keys_sort_values = {}
+      # Sort dates
       @location_types_location_keys_dates_data[location_type] = @location_types_location_keys_dates_data[location_type].map do |location_key, dates_data|
-        dates_data = Hash[dates_data.sort_by(&:first)]
-        [location_key, dates_data]
+        dates_data = dates_data.sort_by(&:first)
+        location_keys_sort_values[location_key] = dates_data.last.last[:cumulative][:cases]
+        [location_key, Hash[dates_data]]
       end
-      @location_types_location_keys_dates_data[location_type] = Hash[@location_types_location_keys_dates_data[location_type].sort_by(&:first)]
+      # puts location_keys_sort_values
+      # Sort locations
+      @location_types_location_keys_dates_data[location_type] = @location_types_location_keys_dates_data[location_type].sort_by do |location_key, dates_data|
+        puts location_keys_sort_values[location_key]
+        location_keys_sort_values[location_key]
+      end
+      @location_types_location_keys_dates_data[location_type] = Hash[@location_types_location_keys_dates_data[location_type].reverse]
     end
   end
 
