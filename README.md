@@ -140,6 +140,23 @@ Westchester,New York,United States,0,0,0,0
 
 ## API
 
+The API provides statistics about cases, deaths, and recoveries by country, region, and place.
+
+### Usage
+
+For example, to print the number of cases per day in China using JavaScript on a website:
+
+```javascript
+fetch("https://coviddata.github.io/covid-api/v1/countries/stats.json")
+  .then(response => response.json())
+  .then(data => {
+    const country = data.find(country => country.country.name == "China");
+    for (date in country.dates) {
+      console.log(`${date} - ${country.dates[date].cumulative.cases} cases`);
+    }
+  })
+```
+
 ### Countries
 
 #### [countries/stats.json](https://coviddata.github.io/covid-api/v1/countries/stats.json)

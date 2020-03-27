@@ -112,6 +112,18 @@ New York City,New York,United States,<span class="hljs-number">0</span>,<span cl
 Westchester,New York,United States,<span class="hljs-number">0</span>,<span class="hljs-number">0</span>,<span class="hljs-number">0</span>,<span class="hljs-number">0</span>
 </code></pre>
 <h2 id="api">API</h2>
+<p>The API provides statistics about cases, deaths, and recoveries by country, region, and place.</p>
+<h3 id="usage">Usage</h3>
+<p>For example, to print the number of cases per day in China using JavaScript on a website:</p>
+<pre><code class="lang-javascript">fetch(<span class="hljs-string">"https://coviddata.github.io/covid-api/v1/countries/stats.json"</span>)
+  .then(<span class="hljs-function"><span class="hljs-params">response</span> =&gt;</span> response.json())
+  .then(<span class="hljs-function"><span class="hljs-params">data</span> =&gt;</span> {
+    <span class="hljs-keyword">const</span> country = data.find(<span class="hljs-function"><span class="hljs-params">country</span> =&gt;</span> country.country.name == <span class="hljs-string">"China"</span>);
+    <span class="hljs-keyword">for</span> (date <span class="hljs-keyword">in</span> country.dates) {
+      <span class="hljs-built_in">console</span>.log(<span class="hljs-string">`<span class="hljs-subst">${date}</span> - <span class="hljs-subst">${country.dates[date].cumulative.cases}</span> cases`</span>);
+    }
+  })
+</code></pre>
 <h3 id="countries">Countries</h3>
 <h4 id="-countries-stats-json-https-coviddata-github-io-covid-api-v1-countries-stats-json-"><a href="https://coviddata.github.io/covid-api/v1/countries/stats.json">countries/stats.json</a></h4>
 <p>New and cumulative cases, deaths, and recoveries by country and date.</p>
