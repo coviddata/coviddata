@@ -156,16 +156,28 @@ Example response:
       "name": "China"
     },
     "dates": {
-      "2020-01-22": {
+      "2020-01-25": {
         "new": {
-          "cases": 547,
-          "deaths": 17,
-          "recoveries": 28
+          "cases": 483,
+          "deaths": 16,
+          "recoveries": 3
         },
         "cumulative": {
-          "cases": 547,
-          "deaths": 17,
-          "recoveries": 28
+          "cases": 1399,
+          "deaths": 42,
+          "recoveries": 39
+        }
+      },
+      "2020-01-26": {
+        "new": {
+          "cases": 663,
+          "deaths": 14,
+          "recoveries": 10
+        },
+        "cumulative": {
+          "cases": 2062,
+          "deaths": 56,
+          "recoveries": 49
         }
       }
     }
@@ -194,16 +206,28 @@ Example response:
       }
     },
     "dates": {
-      "2020-02-01": {
+      "2020-01-25": {
         "new": {
-          "cases": 7153,
-          "deaths": 249,
-          "recoveries": 168
+          "cases": 212,
+          "deaths": 16,
+          "recoveries": 1
         },
         "cumulative": {
-          "cases": 7153,
-          "deaths": 249,
-          "recoveries": 168
+          "cases": 761,
+          "deaths": 40,
+          "recoveries": 32
+        }
+      },
+      "2020-01-26": {
+        "new": {
+          "cases": 297,
+          "deaths": 12,
+          "recoveries": 10
+        },
+        "cumulative": {
+          "cases": 1058,
+          "deaths": 52,
+          "recoveries": 42
         }
       }
     }
@@ -241,15 +265,27 @@ Example response:
       }
     },
     "dates": {
-      "2020-03-22": {
+      "2020-03-23": {
         "new": {
-          "cases": 9654,
-          "deaths": 63,
+          "cases": 2651,
+          "deaths": 36,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 9654,
-          "deaths": 63,
+          "cases": 12305,
+          "deaths": 99,
+          "recoveries": 0
+        }
+      },
+      "2020-03-24": {
+        "new": {
+          "cases": 2599,
+          "deaths": 32,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 14904,
+          "deaths": 131,
           "recoveries": 0
         }
       }
