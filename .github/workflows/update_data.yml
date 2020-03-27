@@ -28,7 +28,7 @@ jobs:
       - name: Fetch Raw Data
         run: make fetch_raw_data
       - name: Generate API Data
-        run: make generate_api_data
+        run: make generate_derived_data
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

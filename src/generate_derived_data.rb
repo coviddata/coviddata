@@ -2,7 +2,7 @@ require 'csv'
 require 'date'
 require 'json'
 
-class GenerateApiData
+class GenerateDerivedData
   INPUT_DIRECTORY = 'data/sources/jhu_csse/daily_reports/'
   API_DIRECTORY = 'docs/v1/'
   NORMALIZED_COUNTRY_NAMES = {
