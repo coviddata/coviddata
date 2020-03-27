@@ -48,7 +48,9 @@ class GenerateApiData
       date = Date.new(year.to_i, month.to_i, day.to_i)
       @first_date ||= date
 
-      rows = CSV.parse(File.read(file_path), headers: true)
+      content = File.read(file_path)
+      content = content.gsub(65279.chr(Encoding::UTF_8), '')
+      rows = CSV.parse(content, headers: true)
       puts "CSV Headers: #{rows.first.to_h.keys.join(', ')}"
       rows.each do |row|
         LOCATION_TYPES.each do |location_type|
