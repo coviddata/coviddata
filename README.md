@@ -6,6 +6,7 @@
 [CSVs](https://coviddata.github.io/covid-api#csvs) |
 [API](https://coviddata.github.io/covid-api#api) |
 [Visualization](https://www.covidstats.com/) |
+[Repo](https://github.com/coviddata/covid-api) |
 [About](https://coviddata.github.io/covid-api#about)
 
 CovidAPI provides statistics about COVID-19:
