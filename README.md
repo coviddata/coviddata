@@ -3,22 +3,25 @@
   CovidAPI
 </h1>
 
-CovidAPI is an API that provides statistics about COVID-19:
+CovidAPI provides statistics about COVID-19:
 
 * Daily cases, deaths, and recoveries by country, region, and city
 * Cumulative daily counts and incremental daily counts
-* JSON and CSV formats
+* CSV and JSON formats
 
-The data is updated using the [Johns Hopkins CSSE data repository](https://github.com/CSSEGISandData/COVID-19) multiple times per day.
-
-**API Reference**: https://coviddata.github.io/covid-api <br />
+**Data**: https://coviddata.github.io/covid-api <br />
 **Repo**: https://github.com/coviddata/covid-api
 
 ## Table of Contents
 
+* [Data Updates](#data-updates)
 * [Glossary](#glossary)
 * [API](#api)
 * [CSVs](#csvs)
+
+## Data Updates
+
+The data is updated using the [Johns Hopkins CSSE data repository](https://github.com/CSSEGISandData/COVID-19) multiple times per day. The data update frequency is the same for both the CSVs and JSON. The update schedule can be found in [cron format](https://crontab.cronhub.io/) in [update_data.yml](https://github.com/coviddata/covid-api/blob/master/.github/workflows/update_data.yml).
 
 ## Glossary
 
