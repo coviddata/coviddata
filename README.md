@@ -260,17 +260,15 @@ Example response:
 
 ## About
 
-### Purpose
-
-This project's purpose is to provide frequently-updated COVID-19 datasets with stable formats.
-
 ### Methodology
 
-This project reads data from the [Johns Hopkins CSSE data repository](https://github.com/CSSEGISandData/COVID-19), performs normalization and aggregations on top of it, and exposes the results as CSVs and JSON.
+This project's purpose is to provide frequently-updated COVID-19 datasets with global data in stable, easily-consumed formats.
+
+The project reads data from the [Johns Hopkins CSSE data repository](https://github.com/CSSEGISandData/COVID-19), performs normalization and aggregations on top of it, and exposes the results as CSVs and JSON.
 
 Here's a summary of its logic:
 
-1. Read data from the [csse_covid_19_data/csse_covid_19_daily_reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) directory within [github.com/CSSEGISandData/COVID-19/](https://github.com/CSSEGISandData/COVID-19)
+1. Read data from the [csse_covid_19_data/csse_covid_19_daily_reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) directory within the [JHU CSSE data repository](https://github.com/CSSEGISandData/COVID-19)
 1. Normalize location names (e.g., "Iran (Islamic Republic of)" => "Iran")
 1. Generate cumulative counts per country and per region by grouping by the normalized location names and summing the data
 1. Generate derived data (e.g., incremental daily counts) based on the cumulative data

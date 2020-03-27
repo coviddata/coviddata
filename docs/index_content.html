@@ -190,13 +190,12 @@ Westchester,New York,United States,<span class="hljs-number">0</span>,<span clas
 ]
 </code></pre>
 <h2 id="about">About</h2>
-<h3 id="purpose">Purpose</h3>
-<p>This project&#39;s purpose is to provide frequently-updated COVID-19 datasets with stable formats.</p>
 <h3 id="methodology">Methodology</h3>
-<p>This project reads data from the <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins CSSE data repository</a>, performs normalization and aggregations on top of it, and exposes the results as CSVs and JSON.</p>
+<p>This project&#39;s purpose is to provide frequently-updated COVID-19 datasets with global data in stable, easily-consumed formats.</p>
+<p>The project reads data from the <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins CSSE data repository</a>, performs normalization and aggregations on top of it, and exposes the results as CSVs and JSON.</p>
 <p>Here&#39;s a summary of its logic:</p>
 <ol>
-<li>Read data from the <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports">csse_covid_19_data/csse_covid_19_daily_reports</a> directory within <a href="https://github.com/CSSEGISandData/COVID-19">github.com/CSSEGISandData/COVID-19/</a></li>
+<li>Read data from the <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports">csse_covid_19_data/csse_covid_19_daily_reports</a> directory within the <a href="https://github.com/CSSEGISandData/COVID-19">JHU CSSE data repository</a></li>
 <li>Normalize location names (e.g., &quot;Iran (Islamic Republic of)&quot; =&gt; &quot;Iran&quot;)</li>
 <li>Generate cumulative counts per country and per region by grouping by the normalized location names and summing the data</li>
 <li>Generate derived data (e.g., incremental daily counts) based on the cumulative data</li>
