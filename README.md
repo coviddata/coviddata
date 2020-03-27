@@ -13,7 +13,7 @@ CovidAPI provides statistics about COVID-19:
 * Daily cases, deaths, and recoveries by country, region, and city
 * Cumulative daily counts and incremental daily counts
 * [CSV](https://coviddata.github.io/covid-api#csvs) and [JSON](https://coviddata.github.io/covid-api#api) formats
-* Frequent [data updates](#data-updates)
+* Frequent [data updates](#data-updates) for both formats (CSV and JSON)
 
 ## Table of Contents
 
@@ -282,6 +282,6 @@ All of this logic can be viewed within the project's [repo](https://github.com/c
 * **Region** - A state, province, or similar area
 * **Place** - A city, town, county, or similar area
 
-#### Data Updates
+### Data Updates
 
 The data is updated using the [Johns Hopkins CSSE data repository](https://github.com/CSSEGISandData/COVID-19) multiple times per day. The data update frequency is the same for both the CSVs and JSON. The update schedule can be found in [cron format](https://crontab.cronhub.io/) in [update_data.yml](https://github.com/coviddata/covid-api/blob/master/.github/workflows/update_data.yml).
