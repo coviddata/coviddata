@@ -3,14 +3,13 @@
   CovidAPI
 </h1>
 
+[Data](https://coviddata.github.io/covid-api) | [Repo](https://github.com/coviddata/covid-api) | [Visualization](https://www.covidstats.com/)
+
 CovidAPI provides statistics about COVID-19:
 
 * Daily cases, deaths, and recoveries by country, region, and city
 * Cumulative daily counts and incremental daily counts
 * CSV and JSON formats
-
-**Data**: https://coviddata.github.io/covid-api <br />
-**Repo**: https://github.com/coviddata/covid-api
 
 ## Table of Contents
 
