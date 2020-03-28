@@ -1,18 +1,12 @@
 require 'csv'
 require 'date'
 require 'json'
+require 'yaml'
 
 class GenerateDerivedData
   INPUT_DIRECTORY = 'data/sources/jhu_csse/daily_reports/'
   API_DIRECTORY = 'docs/v1/'
-  NORMALIZED_COUNTRY_NAMES = {
-    'Iran (Islamic Republic of)' => 'Iran',
-    'Korea, South' => 'South Korea',
-    'Mainland China' => 'China',
-    'Republic of Korea' => 'South Korea',
-    'Taiwan*' => 'Taiwan',
-    'US' => 'United States'
-  }
+  NORMALIZED_COUNTRY_NAMES = YAML.load_file('src/config/normalized_location_names.yaml')
   COUNT_KEYS = %i(cases deaths recoveries)
   LOCATION_TYPES_CONFIGS = {
     country: { plural_name: 'countries' },
