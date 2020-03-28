@@ -47109,8 +47109,8 @@
       },
       "2020-03-27": {
         "new": {
-          "cases": 15,
-          "deaths": 1,
+          "cases": 0,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
@@ -49492,7 +49492,7 @@
       },
       "2020-03-27": {
         "new": {
-          "cases": 6,
+          "cases": 0,
           "deaths": 0,
           "recoveries": 0
         },
@@ -53712,7 +53712,7 @@
       },
       "2020-03-20": {
         "new": {
-          "cases": 0,
+          "cases": 3,
           "deaths": 0,
           "recoveries": 0
         },
@@ -53796,7 +53796,7 @@
       },
       "2020-03-27": {
         "new": {
-          "cases": 2,
+          "cases": 0,
           "deaths": 0,
           "recoveries": 0
         },
