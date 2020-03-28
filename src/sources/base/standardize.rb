@@ -27,6 +27,10 @@ module Sources
         @config = config
       end
 
+      def self.parent
+        Object.const_get(name.split('::')[0..-2].join('::'))
+      end
+
       def initialize
         @output_rows = []
       end
