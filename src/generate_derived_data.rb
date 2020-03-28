@@ -1,10 +1,5 @@
-require 'csv'
-require 'date'
-require 'json'
-require 'yaml'
-
 class GenerateDerivedData
-  INPUT_DIRECTORY = 'data/sources/jhu_csse/daily_reports/'
+  SOURCES_DIRECTORY = 'data/sources/'
   API_DIRECTORY = 'docs/v1/'
   NORMALIZED_COUNTRY_NAMES = YAML.load_file('src/config/normalized_location_names.yaml')
   COUNT_KEYS = %i(cases deaths recoveries)
@@ -14,6 +9,10 @@ class GenerateDerivedData
     place: { plural_name: 'places' }
   }
   LOCATION_TYPES = LOCATION_TYPES_CONFIGS.keys
+  FIRST_DATE = Date.new(2020, 1, 22)
+  COUNTRY_KEYS_SOURCE_KEYS = {
+    'united_states' => 'ny_times'
+  }
 
   def initialize
     @location_types_location_keys_dates_data = {}
@@ -23,8 +22,6 @@ class GenerateDerivedData
       @location_types_location_keys_dates_data[location_type] = {}
       @location_types_location_keys_locations[location_type] = {}
     end
-
-    @first_date = nil
   end
 
   def perform
@@ -37,18 +34,15 @@ class GenerateDerivedData
   private
 
   def aggregate_data
-    Dir.glob("#{INPUT_DIRECTORY}/*.csv").sort.each do |file_path|
-      month, day, year = File.basename(file_path).split('.')[0].split('-')
-      date = Date.new(year.to_i, month.to_i, day.to_i)
-      @first_date ||= date
-
+    Sources.all.each do |source|
+      source_key = source.key
+      file_path = "#{SOURCES_DIRECTORY}#{source_key}/standardized/standardized.csv"
+      puts "Aggregating data from #{file_path}"
       content = File.read(file_path)
-      content = content.gsub(65279.chr(Encoding::UTF_8), '')
       rows = CSV.parse(content, headers: true)
-      puts "CSV Headers: #{rows.first.to_h.keys.join(', ')}"
       rows.each do |row|
         LOCATION_TYPES.each do |location_type|
-          update_location_data(location_type, row, date)
+          add_location_data(source, location_type, row)
         end
       end
     end
@@ -71,22 +65,25 @@ class GenerateDerivedData
     end
   end
 
-  def update_location_data(location_type, row, date)
+  def add_location_data(source, location_type, row)
     location_names = row_to_location_names(row)
     return if location_names[location_type].nil?
     location = generate_location(location_type, location_names[:country], location_names[:region], location_names[:place])
+    return unless is_valid_source?(source, location) && is_relevant_row?(source, location_type, location_names)
+
     location_key = location[:key]
+    date = Date.parse(row['date'])
     @location_types_location_keys_dates_data[location_type][location_key] ||= {}
 
     cumulative_data = {
-      cases: row['Confirmed'].to_i,
-      deaths: row['Deaths'].to_i,
-      recoveries: row['Recovered'].to_i
+      cases: row['cases'].to_i,
+      deaths: row['deaths'].to_i,
+      recoveries: row['recoveries'].to_i
     }
 
-    existing_data = @location_types_location_keys_dates_data[location_type][location_key][date]
-    if existing_data
-      existing_cumulative_data = existing_data[:cumulative]
+    existing_date_data = @location_types_location_keys_dates_data[location_type][location_key][date]
+    if existing_date_data
+      existing_cumulative_data = existing_date_data[:cumulative]
       COUNT_KEYS.each do |count_key|
         cumulative_data[count_key] += existing_cumulative_data[count_key] || 0
       end
@@ -103,11 +100,30 @@ class GenerateDerivedData
     @location_types_location_keys_dates_data[location_type][location_key][date] = data
   end
 
+  def is_relevant_row?(source, location_type, location_names)
+    return true if source.config[:calculate_sum_of_location_rows]
+    case location_type
+    when :country
+      location_names[:region].nil? && location_names[:place].nil?
+    when :region
+      location_names[:place].nil?
+    else
+      true
+    end
+  end
+
+  def is_valid_source?(source, location)
+    country_key = location[:country]&.dig(:key) || location[:key]
+    custom_country_source_key = COUNTRY_KEYS_SOURCE_KEYS[country_key]
+    return true unless custom_country_source_key
+    custom_country_source_key == source.key
+  end
+
   def row_to_location_names(row)
-    country_name = row['Country/Region'] || row['Country_Region']
+    country_name = row['country']
     raise 'Missing country' if country_name.nil?
-    region_name = row['Province/State'] || row['Province_State']
-    place_name = row['Admin2']
+    region_name = row['region']
+    place_name = row['place']
     {
       country: country_name,
       region: region_name,
@@ -118,7 +134,7 @@ class GenerateDerivedData
   def find_previous_cumulative_location_data(location_type, location_key, date)
     previous_date = date - 1
     loop do
-      return if previous_date < @first_date
+      return if previous_date < FIRST_DATE
       previous_data = @location_types_location_keys_dates_data[location_type][location_key][previous_date]
       return previous_data[:cumulative] if previous_data
       previous_date = previous_date - 1

@@ -26,11 +26,11 @@
   CovidAPI
 </h1>
 
-<p><a href="https://coviddata.github.io/covid-api#csvs">CSVs</a> |
+<p><a href="https://coviddata.github.io/covid-api#about">About</a> |
+<a href="https://coviddata.github.io/covid-api#csvs">CSVs</a> |
 <a href="https://coviddata.github.io/covid-api#api">API</a> |
 <a href="https://www.covidstats.com/">Visualization</a> |
-<a href="https://github.com/coviddata/covid-api">Repo</a> |
-<a href="https://coviddata.github.io/covid-api#about">About</a></p>
+<a href="https://github.com/coviddata/covid-api">Repo</a></p>
 <p>CovidAPI provides statistics about COVID-19:</p>
 <ul>
 <li>Daily cases, deaths, and recoveries by country, region, and city</li>
@@ -40,10 +40,35 @@
 </ul>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
+<li><a href="#about">About</a></li>
 <li><a href="#csvs">CSVs</a></li>
 <li><a href="#api">API</a></li>
-<li><a href="#about">About</a></li>
 </ul>
+<h2 id="about">About</h2>
+<h3 id="methodology">Methodology</h3>
+<p>This project&#39;s purpose is to provide frequently-updated COVID-19 datasets with global data in stable, easily-consumed formats.</p>
+<p>The project reads data from multiple <a href="#data-sources">data sources</a>, performs normalization and aggregations on top of it, and exposes the results as CSVs and JSON.</p>
+<p>Here&#39;s a summary of its logic:</p>
+<ol>
+<li>Read data from the <a href="#data-sources">data sources</a></li>
+<li>Normalize location names (e.g., &quot;Iran (Islamic Republic of)&quot; =&gt; &quot;Iran&quot;)</li>
+<li>Generate cumulative counts per country and per region by grouping by the normalized location names and summing the data</li>
+<li>Generate derived data (e.g., incremental daily counts) based on the cumulative data</li>
+<li>Write the resulting data to CSVs and JSON files</li>
+</ol>
+<p>All of this logic can be viewed within the project&#39;s <a href="https://github.com/coviddata/covid-api">repo</a>. The logic is in the <a href="https://github.com/coviddata/covid-api/tree/master/src">src directory</a>, and the update scheduling is in the <a href="https://github.com/coviddata/covid-api/tree/master/.github/workflows">.github/workflows</a> directory.</p>
+<h3 id="definitions">Definitions</h3>
+<ul>
+<li><strong>Region</strong> - A state, province, or similar area</li>
+<li><strong>Place</strong> - A city, town, county, or similar area</li>
+</ul>
+<h3 id="data-sources">Data Sources</h3>
+<ul>
+<li><a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports">JHU CSSE</a> - Global data</li>
+<li><a href="https://github.com/nytimes/covid-19-data">New York Times</a> - U.S. data</li>
+</ul>
+<h3 id="data-updates">Data Updates</h3>
+<p>The data is updated from the <a href="#data-sources">data sources</a> multiple times per day. The data update frequency is the same for both the CSVs and JSON. The update schedule can be found in <a href="https://crontab.cronhub.io/">cron format</a> in <a href="https://github.com/coviddata/covid-api/blob/master/.github/workflows/update_data.yml">update_data.yml</a>.</p>
 <h2 id="csvs">CSVs</h2>
 <h3 id="countries">Countries</h3>
 <h4 id="-countries-cases-csv-https-coviddata-github-io-covid-api-v1-countries-cases-csv-"><a href="https://coviddata.github.io/covid-api/v1/countries/cases.csv">countries/cases.csv</a></h4>
@@ -260,26 +285,6 @@ Westchester,New York,United States,<span class="hljs-number">0</span>,<span clas
   }
 ]
 </code></pre>
-<h2 id="about">About</h2>
-<h3 id="methodology">Methodology</h3>
-<p>This project&#39;s purpose is to provide frequently-updated COVID-19 datasets with global data in stable, easily-consumed formats.</p>
-<p>The project reads data from the <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins CSSE data repository</a>, performs normalization and aggregations on top of it, and exposes the results as CSVs and JSON.</p>
-<p>Here&#39;s a summary of its logic:</p>
-<ol>
-<li>Read data from the <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports">csse_covid_19_data/csse_covid_19_daily_reports</a> directory within the <a href="https://github.com/CSSEGISandData/COVID-19">JHU CSSE data repository</a></li>
-<li>Normalize location names (e.g., &quot;Iran (Islamic Republic of)&quot; =&gt; &quot;Iran&quot;)</li>
-<li>Generate cumulative counts per country and per region by grouping by the normalized location names and summing the data</li>
-<li>Generate derived data (e.g., incremental daily counts) based on the cumulative data</li>
-<li>Write the resulting data to CSVs and JSON files</li>
-</ol>
-<p>All of this logic can be viewed within the project&#39;s <a href="https://github.com/coviddata/covid-api">repo</a>. The logic is in the <a href="https://github.com/coviddata/covid-api/tree/master/src">src directory</a>, and the update scheduling is in the <a href="https://github.com/coviddata/covid-api/tree/master/.github/workflows">.github/workflows</a> directory.</p>
-<h3 id="definitions">Definitions</h3>
-<ul>
-<li><strong>Region</strong> - A state, province, or similar area</li>
-<li><strong>Place</strong> - A city, town, county, or similar area</li>
-</ul>
-<h3 id="data-updates">Data Updates</h3>
-<p>The data is updated using the <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins CSSE data repository</a> multiple times per day. The data update frequency is the same for both the CSVs and JSON. The update schedule can be found in <a href="https://crontab.cronhub.io/">cron format</a> in <a href="https://github.com/coviddata/covid-api/blob/master/.github/workflows/update_data.yml">update_data.yml</a>.</p>
 
         </div>
       </div>

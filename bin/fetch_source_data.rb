@@ -1,4 +1,4 @@
-require_relative '../src/sources/all'
+require_relative '../src/sources'
 require 'pry' unless ENV['WORKFLOW_ACTION']
 
-Sources::All.new.perform
+Sources::Fetch.new.perform
