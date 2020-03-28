@@ -1,9 +1,9 @@
 update_data:
-	make fetch_raw_data
+	make fetch_source_data
 	make generate_derived_data
 
-fetch_raw_data:
-	ruby bin/fetch_raw_data.rb
+fetch_source_data:
+	ruby bin/fetch_source_data.rb
 
 generate_derived_data:
 	ruby bin/generate_derived_data.rb

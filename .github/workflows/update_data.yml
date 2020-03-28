@@ -26,7 +26,7 @@ jobs:
           gem install bundler
           bundle install --jobs 4
       - name: Fetch Raw Data
-        run: make fetch_raw_data
+        run: make fetch_source_data
       - name: Generate Derived Data
         run: make generate_derived_data
       - name: Commit files
