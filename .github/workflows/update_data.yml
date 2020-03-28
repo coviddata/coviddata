@@ -27,7 +27,7 @@ jobs:
           bundle install --jobs 4
       - name: Fetch Raw Data
         run: make fetch_raw_data
-      - name: Generate API Data
+      - name: Generate Derived Data
         run: make generate_derived_data
       - name: Commit files
         run: |
