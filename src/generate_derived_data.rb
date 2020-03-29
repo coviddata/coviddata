@@ -70,6 +70,7 @@ class GenerateDerivedData
     location_names = row_to_location_names(row)
     return if location_names[location_type].nil?
     location = generate_location(location_type, location_names[:country], location_names[:region], location_names[:place])
+    return unless is_valid_location?(location)
     return unless is_valid_source?(source, location_type, location) && is_relevant_row?(source, location_type, location_names)
 
     location_key = location[:key]
@@ -113,6 +114,12 @@ class GenerateDerivedData
     end
   end
 
+  def is_valid_location?(location)
+    # The JHU dataset includes some country names in the region column, so we should remove those as regions.
+    return false if location[:location_type] == :region && location[:name] == location[:country][:name]
+    true
+  end
+
   def is_valid_source?(source, location_type, location)
     return true if location_type == :country
     country_key = location[:country]&.dig(:key) || location[:key]
@@ -149,6 +156,7 @@ class GenerateDerivedData
       plural_name = LOCATION_TYPES_CONFIGS[location_type][:plural_name]
       output_data = @location_types_location_keys_dates_data[location_type].map do |location_key, dates_data|
         location = @location_types_location_keys_locations[location_type][location_key]
+        location.delete(:location_type)
         {
           location_type => location,
           dates: dates_data
@@ -211,6 +219,7 @@ class GenerateDerivedData
     when :country
       country_name = NORMALIZED_COUNTRY_NAMES[country_name] || country_name
       country = {
+        location_type: location_type,
         key: parameterize(country_name),
         name: country_name
       }
@@ -220,6 +229,7 @@ class GenerateDerivedData
       country = generate_location(:country, country_name)
       full_name = [region_name, country[:name]].join(', ')
       region = {
+        location_type: location_type,
         key: parameterize(full_name),
         name: region_name,
         full_name: full_name,
@@ -232,6 +242,7 @@ class GenerateDerivedData
       region = generate_location(:region, country_name, region_name)
       full_name = [place_name, region[:name], country[:name]].join(', ')
       place = {
+        location_type: location_type,
         key: parameterize(full_name),
         name: place_name,
         full_name: full_name,

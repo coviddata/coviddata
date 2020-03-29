@@ -5,6 +5,7 @@
       "name": "Hubei",
       "full_name": "Hubei, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -822,6 +823,7 @@
       "name": "New York",
       "full_name": "New York, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -1155,155 +1157,11 @@
   },
   {
     "region": {
-      "key": "france-france",
-      "name": "France",
-      "full_name": "France, France",
-      "country": {
-        "key": "france",
-        "name": "France"
-      }
-    },
-    "dates": {
-      "2020-03-11": {
-        "new": {
-          "cases": 2281,
-          "deaths": 48,
-          "recoveries": 12
-        },
-        "cumulative": {
-          "cases": 2281,
-          "deaths": 48,
-          "recoveries": 12
-        }
-      },
-      "2020-03-12": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2281,
-          "deaths": 48,
-          "recoveries": 12
-        }
-      },
-      "2020-03-13": {
-        "new": {
-          "cases": 1380,
-          "deaths": 31,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3661,
-          "deaths": 79,
-          "recoveries": 12
-        }
-      },
-      "2020-03-14": {
-        "new": {
-          "cases": 808,
-          "deaths": 12,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 4469,
-          "deaths": 91,
-          "recoveries": 12
-        }
-      },
-      "2020-03-15": {
-        "new": {
-          "cases": 30,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 4499,
-          "deaths": 91,
-          "recoveries": 12
-        }
-      },
-      "2020-03-16": {
-        "new": {
-          "cases": 2134,
-          "deaths": 57,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 6633,
-          "deaths": 148,
-          "recoveries": 12
-        }
-      },
-      "2020-03-17": {
-        "new": {
-          "cases": 1019,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 7652,
-          "deaths": 148,
-          "recoveries": 12
-        }
-      },
-      "2020-03-18": {
-        "new": {
-          "cases": 1391,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 9043,
-          "deaths": 148,
-          "recoveries": 12
-        }
-      },
-      "2020-03-19": {
-        "new": {
-          "cases": 1828,
-          "deaths": 95,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10871,
-          "deaths": 243,
-          "recoveries": 12
-        }
-      },
-      "2020-03-20": {
-        "new": {
-          "cases": 1741,
-          "deaths": 207,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 12612,
-          "deaths": 450,
-          "recoveries": 12
-        }
-      },
-      "2020-03-21": {
-        "new": {
-          "cases": 1670,
-          "deaths": 112,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 14282,
-          "deaths": 562,
-          "recoveries": 12
-        }
-      }
-    }
-  },
-  {
-    "region": {
       "key": "new-jersey-united-states",
       "name": "New Jersey",
       "full_name": "New Jersey, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -1601,131 +1459,11 @@
   },
   {
     "region": {
-      "key": "united-kingdom-united-kingdom",
-      "name": "United Kingdom",
-      "full_name": "United Kingdom, United Kingdom",
-      "country": {
-        "key": "united-kingdom",
-        "name": "United Kingdom"
-      }
-    },
-    "dates": {
-      "2020-03-13": {
-        "new": {
-          "cases": 798,
-          "deaths": 8,
-          "recoveries": 18
-        },
-        "cumulative": {
-          "cases": 798,
-          "deaths": 8,
-          "recoveries": 18
-        }
-      },
-      "2020-03-14": {
-        "new": {
-          "cases": 342,
-          "deaths": 13,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1140,
-          "deaths": 21,
-          "recoveries": 18
-        }
-      },
-      "2020-03-15": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1140,
-          "deaths": 21,
-          "recoveries": 18
-        }
-      },
-      "2020-03-16": {
-        "new": {
-          "cases": 403,
-          "deaths": 34,
-          "recoveries": 2
-        },
-        "cumulative": {
-          "cases": 1543,
-          "deaths": 55,
-          "recoveries": 20
-        }
-      },
-      "2020-03-17": {
-        "new": {
-          "cases": 407,
-          "deaths": 0,
-          "recoveries": 32
-        },
-        "cumulative": {
-          "cases": 1950,
-          "deaths": 55,
-          "recoveries": 52
-        }
-      },
-      "2020-03-18": {
-        "new": {
-          "cases": 676,
-          "deaths": 16,
-          "recoveries": 13
-        },
-        "cumulative": {
-          "cases": 2626,
-          "deaths": 71,
-          "recoveries": 65
-        }
-      },
-      "2020-03-19": {
-        "new": {
-          "cases": 63,
-          "deaths": 66,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2689,
-          "deaths": 137,
-          "recoveries": 65
-        }
-      },
-      "2020-03-20": {
-        "new": {
-          "cases": 1294,
-          "deaths": 40,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3983,
-          "deaths": 177,
-          "recoveries": 65
-        }
-      },
-      "2020-03-21": {
-        "new": {
-          "cases": 1035,
-          "deaths": 56,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 5018,
-          "deaths": 233,
-          "recoveries": 65
-        }
-      }
-    }
-  },
-  {
-    "region": {
       "key": "california-united-states",
       "name": "California",
       "full_name": "California, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -2495,6 +2233,7 @@
       "name": "Washington",
       "full_name": "Washington, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -3312,6 +3051,7 @@
       "name": "Michigan",
       "full_name": "Michigan, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -3537,95 +3277,11 @@
   },
   {
     "region": {
-      "key": "netherlands-netherlands",
-      "name": "Netherlands",
-      "full_name": "Netherlands, Netherlands",
-      "country": {
-        "key": "netherlands",
-        "name": "Netherlands"
-      }
-    },
-    "dates": {
-      "2020-03-16": {
-        "new": {
-          "cases": 1413,
-          "deaths": 24,
-          "recoveries": 2
-        },
-        "cumulative": {
-          "cases": 1413,
-          "deaths": 24,
-          "recoveries": 2
-        }
-      },
-      "2020-03-17": {
-        "new": {
-          "cases": 292,
-          "deaths": 19,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1705,
-          "deaths": 43,
-          "recoveries": 2
-        }
-      },
-      "2020-03-18": {
-        "new": {
-          "cases": 346,
-          "deaths": 15,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2051,
-          "deaths": 58,
-          "recoveries": 2
-        }
-      },
-      "2020-03-19": {
-        "new": {
-          "cases": 409,
-          "deaths": 18,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2460,
-          "deaths": 76,
-          "recoveries": 2
-        }
-      },
-      "2020-03-20": {
-        "new": {
-          "cases": 534,
-          "deaths": 30,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2994,
-          "deaths": 106,
-          "recoveries": 2
-        }
-      },
-      "2020-03-21": {
-        "new": {
-          "cases": 637,
-          "deaths": 30,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3631,
-          "deaths": 136,
-          "recoveries": 2
-        }
-      }
-    }
-  },
-  {
-    "region": {
       "key": "massachusetts-united-states",
       "name": "Massachusetts",
       "full_name": "Massachusetts, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -4311,6 +3967,7 @@
       "name": "Florida",
       "full_name": "Florida, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -4648,6 +4305,7 @@
       "name": "Illinois",
       "full_name": "Illinois, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -5429,6 +5087,7 @@
       "name": "Louisiana",
       "full_name": "Louisiana, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -5670,6 +5329,7 @@
       "name": "Quebec",
       "full_name": "Quebec, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -5923,6 +5583,7 @@
       "name": "Pennsylvania",
       "full_name": "Pennsylvania, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -6200,6 +5861,7 @@
       "name": "Georgia",
       "full_name": "Georgia, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -6525,6 +6187,7 @@
       "name": "Texas",
       "full_name": "Texas, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -7078,6 +6741,7 @@
       "name": "Colorado",
       "full_name": "Colorado, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -7367,6 +7031,7 @@
       "name": "New South Wales",
       "full_name": "New South Wales, Australia",
       "country": {
+        "location_type": "country",
         "key": "australia",
         "name": "Australia"
       }
@@ -8124,6 +7789,7 @@
       "name": "Guangdong",
       "full_name": "Guangdong, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -8937,155 +8603,11 @@
   },
   {
     "region": {
-      "key": "denmark-denmark",
-      "name": "Denmark",
-      "full_name": "Denmark, Denmark",
-      "country": {
-        "key": "denmark",
-        "name": "Denmark"
-      }
-    },
-    "dates": {
-      "2020-03-11": {
-        "new": {
-          "cases": 442,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 442,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-03-12": {
-        "new": {
-          "cases": 173,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 615,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-03-13": {
-        "new": {
-          "cases": 186,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 801,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-03-14": {
-        "new": {
-          "cases": 26,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 827,
-          "deaths": 1,
-          "recoveries": 1
-        }
-      },
-      "2020-03-15": {
-        "new": {
-          "cases": 37,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 864,
-          "deaths": 2,
-          "recoveries": 1
-        }
-      },
-      "2020-03-16": {
-        "new": {
-          "cases": 50,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 914,
-          "deaths": 3,
-          "recoveries": 1
-        }
-      },
-      "2020-03-17": {
-        "new": {
-          "cases": 63,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 977,
-          "deaths": 4,
-          "recoveries": 1
-        }
-      },
-      "2020-03-18": {
-        "new": {
-          "cases": 80,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1057,
-          "deaths": 4,
-          "recoveries": 1
-        }
-      },
-      "2020-03-19": {
-        "new": {
-          "cases": 94,
-          "deaths": 2,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1151,
-          "deaths": 6,
-          "recoveries": 1
-        }
-      },
-      "2020-03-20": {
-        "new": {
-          "cases": 104,
-          "deaths": 3,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1255,
-          "deaths": 9,
-          "recoveries": 1
-        }
-      },
-      "2020-03-21": {
-        "new": {
-          "cases": 71,
-          "deaths": 4,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1326,
-          "deaths": 13,
-          "recoveries": 1
-        }
-      }
-    }
-  },
-  {
-    "region": {
       "key": "connecticut-united-states",
       "name": "Connecticut",
       "full_name": "Connecticut, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -9339,6 +8861,7 @@
       "name": "Henan",
       "full_name": "Henan, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -10973,6 +10496,7 @@
       "name": "Ohio",
       "full_name": "Ohio, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -11214,6 +10738,7 @@
       "name": "Ontario",
       "full_name": "Ontario, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -11575,6 +11100,7 @@
       "name": "Tennessee",
       "full_name": "Tennessee, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -11864,6 +11390,7 @@
       "name": "Hunan",
       "full_name": "Hunan, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -12681,6 +12208,7 @@
       "name": "Anhui",
       "full_name": "Anhui, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -13498,6 +13026,7 @@
       "name": "Indiana",
       "full_name": "Indiana, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -13775,6 +13304,7 @@
       "name": "Jiangxi",
       "full_name": "Jiangxi, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -14592,6 +14122,7 @@
       "name": "Wisconsin",
       "full_name": "Wisconsin, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -15229,6 +14760,7 @@
       "name": "British Columbia",
       "full_name": "British Columbia, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -15974,6 +15506,7 @@
       "name": "North Carolina",
       "full_name": "North Carolina, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -16287,6 +15820,7 @@
       "name": "Maryland",
       "full_name": "Maryland, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -16576,6 +16110,7 @@
       "name": "Shandong",
       "full_name": "Shandong, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -17947,6 +17482,7 @@
       "name": "Victoria",
       "full_name": "Victoria, Australia",
       "country": {
+        "location_type": "country",
         "key": "australia",
         "name": "Australia"
       }
@@ -18704,6 +18240,7 @@
       "name": "Missouri",
       "full_name": "Missouri, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -18969,6 +18506,7 @@
       "name": "Arizona",
       "full_name": "Arizona, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -19726,6 +19264,7 @@
       "name": "Jiangsu",
       "full_name": "Jiangsu, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -20543,6 +20082,7 @@
       "name": "Alabama",
       "full_name": "Alabama, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -20736,6 +20276,7 @@
       "name": "Queensland",
       "full_name": "Queensland, Australia",
       "country": {
+        "location_type": "country",
         "key": "australia",
         "name": "Australia"
       }
@@ -21457,6 +20998,7 @@
       "name": "Nevada",
       "full_name": "Nevada, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -21746,6 +21288,7 @@
       "name": "Virginia",
       "full_name": "Virginia, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -22011,6 +21554,7 @@
       "name": "Mississippi",
       "full_name": "Mississippi, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -22228,6 +21772,7 @@
       "name": "Chongqing",
       "full_name": "Chongqing, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -23045,6 +22590,7 @@
       "name": "Beijing",
       "full_name": "Beijing, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -23862,6 +23408,7 @@
       "name": "Hong Kong",
       "full_name": "Hong Kong, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -24091,6 +23638,7 @@
       "name": "Sichuan",
       "full_name": "Sichuan, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -24908,6 +24456,7 @@
       "name": "Alberta",
       "full_name": "Alberta, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -25161,6 +24710,7 @@
       "name": "South Carolina",
       "full_name": "South Carolina, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -25438,6 +24988,7 @@
       "name": "Shanghai",
       "full_name": "Shanghai, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -26255,6 +25806,7 @@
       "name": "Heilongjiang",
       "full_name": "Heilongjiang, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -27072,6 +26624,7 @@
       "name": "Utah",
       "full_name": "Utah, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -27469,6 +27022,7 @@
       "name": "UK",
       "full_name": "UK, United Kingdom",
       "country": {
+        "location_type": "country",
         "key": "united-kingdom",
         "name": "United Kingdom"
       }
@@ -27506,6 +27060,7 @@
       "name": "Oregon",
       "full_name": "Oregon, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -27867,6 +27422,7 @@
       "name": "Minnesota",
       "full_name": "Minnesota, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -28144,6 +27700,7 @@
       "name": "Arkansas",
       "full_name": "Arkansas, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -28361,6 +27918,7 @@
       "name": "Fujian",
       "full_name": "Fujian, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -29178,6 +28736,7 @@
       "name": "Oklahoma",
       "full_name": "Oklahoma, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -29455,6 +29014,7 @@
       "name": "Hebei",
       "full_name": "Hebei, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -30272,6 +29832,7 @@
       "name": "District of Columbia",
       "full_name": "District of Columbia, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -30537,6 +30098,7 @@
       "name": "Kentucky",
       "full_name": "Kentucky, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -30814,6 +30376,7 @@
       "name": "South Australia",
       "full_name": "South Australia, Australia",
       "country": {
+        "location_type": "country",
         "key": "australia",
         "name": "Australia"
       }
@@ -31872,6 +31435,7 @@
       "name": "Guangxi",
       "full_name": "Guangxi, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -32689,6 +32253,7 @@
       "name": "Shaanxi",
       "full_name": "Shaanxi, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -33506,6 +33071,7 @@
       "name": "Iowa",
       "full_name": "Iowa, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -33759,6 +33325,7 @@
       "name": "Idaho",
       "full_name": "Idaho, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -33952,6 +33519,7 @@
       "name": "Kansas",
       "full_name": "Kansas, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -34217,6 +33785,7 @@
       "name": "Rhode Island",
       "full_name": "Rhode Island, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -34554,6 +34123,7 @@
       "name": "New Mexico",
       "full_name": "New Mexico, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -34771,6 +34341,7 @@
       "name": "New Hampshire",
       "full_name": "New Hampshire, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -35096,6 +34667,7 @@
       "name": "Vermont",
       "full_name": "Vermont, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -35361,6 +34933,7 @@
       "name": "Reunion",
       "full_name": "Reunion, France",
       "country": {
+        "location_type": "country",
         "key": "france",
         "name": "France"
       }
@@ -35518,6 +35091,7 @@
       "name": "Yunnan",
       "full_name": "Yunnan, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -36335,6 +35909,7 @@
       "name": "Hainan",
       "full_name": "Hainan, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -37152,6 +36727,7 @@
       "name": "Maine",
       "full_name": "Maine, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -37357,6 +36933,7 @@
       "name": "Delaware",
       "full_name": "Delaware, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -37574,6 +37151,7 @@
       "name": "Tianjin",
       "full_name": "Tianjin, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -38391,6 +37969,7 @@
       "name": "Faroe Islands",
       "full_name": "Faroe Islands, Denmark",
       "country": {
+        "location_type": "country",
         "key": "denmark",
         "name": "Denmark"
       }
@@ -38620,6 +38199,7 @@
       "name": "Guizhou",
       "full_name": "Guizhou, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -39437,6 +39017,7 @@
       "name": "Gansu",
       "full_name": "Gansu, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -40254,6 +39835,7 @@
       "name": "Shanxi",
       "full_name": "Shanxi, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -41071,6 +40653,7 @@
       "name": "Saskatchewan",
       "full_name": "Saskatchewan, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -41276,6 +40859,7 @@
       "name": "Liaoning",
       "full_name": "Liaoning, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -42093,6 +41677,7 @@
       "name": "Montana",
       "full_name": "Montana, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -42286,6 +41871,7 @@
       "name": "Hawaii",
       "full_name": "Hawaii, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -42559,611 +42145,11 @@
   },
   {
     "region": {
-      "key": "hong-kong-hong-kong",
-      "name": "Hong Kong",
-      "full_name": "Hong Kong, Hong Kong",
-      "country": {
-        "key": "hong-kong",
-        "name": "Hong Kong"
-      }
-    },
-    "dates": {
-      "2020-01-22": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-23": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-24": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-25": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-26": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-27": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-28": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-29": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-30": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-31": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 12,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-01": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 13,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-02": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 15,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-03": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 15,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-04": {
-        "new": {
-          "cases": 2,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 17,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-02-05": {
-        "new": {
-          "cases": 4,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 21,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-02-06": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 24,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-02-07": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 25,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-02-08": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 26,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-02-09": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 29,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-02-10": {
-        "new": {
-          "cases": 9,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 38,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-02-11": {
-        "new": {
-          "cases": 11,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 49,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-02-12": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 50,
-          "deaths": 1,
-          "recoveries": 1
-        }
-      },
-      "2020-02-13": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 53,
-          "deaths": 1,
-          "recoveries": 1
-        }
-      },
-      "2020-02-14": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 56,
-          "deaths": 1,
-          "recoveries": 1
-        }
-      },
-      "2020-02-15": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 56,
-          "deaths": 1,
-          "recoveries": 1
-        }
-      },
-      "2020-02-16": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 57,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-17": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 60,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-18": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 62,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-19": {
-        "new": {
-          "cases": 1,
-          "deaths": 1,
-          "recoveries": 3
-        },
-        "cumulative": {
-          "cases": 63,
-          "deaths": 2,
-          "recoveries": 5
-        }
-      },
-      "2020-02-20": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 68,
-          "deaths": 2,
-          "recoveries": 6
-        }
-      },
-      "2020-02-21": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 68,
-          "deaths": 2,
-          "recoveries": 5
-        }
-      },
-      "2020-02-22": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 69,
-          "deaths": 2,
-          "recoveries": 6
-        }
-      },
-      "2020-02-23": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 5
-        },
-        "cumulative": {
-          "cases": 74,
-          "deaths": 2,
-          "recoveries": 11
-        }
-      },
-      "2020-02-24": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 8
-        },
-        "cumulative": {
-          "cases": 79,
-          "deaths": 2,
-          "recoveries": 19
-        }
-      },
-      "2020-02-25": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 84,
-          "deaths": 2,
-          "recoveries": 19
-        }
-      },
-      "2020-02-26": {
-        "new": {
-          "cases": 7,
-          "deaths": 0,
-          "recoveries": 5
-        },
-        "cumulative": {
-          "cases": 91,
-          "deaths": 2,
-          "recoveries": 24
-        }
-      },
-      "2020-02-27": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 92,
-          "deaths": 2,
-          "recoveries": 24
-        }
-      },
-      "2020-02-28": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 6
-        },
-        "cumulative": {
-          "cases": 94,
-          "deaths": 2,
-          "recoveries": 30
-        }
-      },
-      "2020-02-29": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 3
-        },
-        "cumulative": {
-          "cases": 95,
-          "deaths": 2,
-          "recoveries": 33
-        }
-      },
-      "2020-03-01": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 3
-        },
-        "cumulative": {
-          "cases": 96,
-          "deaths": 2,
-          "recoveries": 36
-        }
-      },
-      "2020-03-02": {
-        "new": {
-          "cases": 4,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 100,
-          "deaths": 2,
-          "recoveries": 36
-        }
-      },
-      "2020-03-03": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 100,
-          "deaths": 2,
-          "recoveries": 37
-        }
-      },
-      "2020-03-04": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 105,
-          "deaths": 2,
-          "recoveries": 37
-        }
-      },
-      "2020-03-05": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 6
-        },
-        "cumulative": {
-          "cases": 105,
-          "deaths": 2,
-          "recoveries": 43
-        }
-      },
-      "2020-03-06": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 3
-        },
-        "cumulative": {
-          "cases": 107,
-          "deaths": 2,
-          "recoveries": 46
-        }
-      },
-      "2020-03-07": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 5
-        },
-        "cumulative": {
-          "cases": 108,
-          "deaths": 2,
-          "recoveries": 51
-        }
-      },
-      "2020-03-08": {
-        "new": {
-          "cases": 6,
-          "deaths": 1,
-          "recoveries": 7
-        },
-        "cumulative": {
-          "cases": 114,
-          "deaths": 3,
-          "recoveries": 58
-        }
-      },
-      "2020-03-09": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 115,
-          "deaths": 3,
-          "recoveries": 59
-        }
-      },
-      "2020-03-10": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 6
-        },
-        "cumulative": {
-          "cases": 120,
-          "deaths": 3,
-          "recoveries": 65
-        }
-      }
-    }
-  },
-  {
-    "region": {
       "key": "newfoundland-and-labrador-canada",
       "name": "Newfoundland and Labrador",
       "full_name": "Newfoundland and Labrador, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -43345,6 +42331,7 @@
       "name": "Nova Scotia",
       "full_name": "Nova Scotia, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -43514,6 +42501,7 @@
       "name": "Guadeloupe",
       "full_name": "Guadeloupe, France",
       "country": {
+        "location_type": "country",
         "key": "france",
         "name": "France"
       }
@@ -43683,6 +42671,7 @@
       "name": "Nebraska",
       "full_name": "Nebraska, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -44176,6 +43165,7 @@
       "name": "Channel Islands",
       "full_name": "Channel Islands, United Kingdom",
       "country": {
+        "location_type": "country",
         "key": "united-kingdom",
         "name": "United Kingdom"
       }
@@ -44405,6 +43395,7 @@
       "name": "Jilin",
       "full_name": "Jilin, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -45222,6 +44213,7 @@
       "name": "West Virginia",
       "full_name": "West Virginia, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -45367,6 +44359,7 @@
       "name": "Inner Mongolia",
       "full_name": "Inner Mongolia, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -46184,6 +45177,7 @@
       "name": "Martinique",
       "full_name": "Martinique, France",
       "country": {
+        "location_type": "country",
         "key": "france",
         "name": "France"
       }
@@ -46281,6 +45275,7 @@
       "name": "Alaska",
       "full_name": "Alaska, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -46486,6 +45481,7 @@
       "name": "Xinjiang",
       "full_name": "Xinjiang, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -47303,6 +46299,7 @@
       "name": "Ningxia",
       "full_name": "Ningxia, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -48337,6 +47334,7 @@
       "name": "Australian Capital Territory",
       "full_name": "Australian Capital Territory, Australia",
       "country": {
+        "location_type": "country",
         "key": "australia",
         "name": "Australia"
       }
@@ -48542,6 +47540,7 @@
       "name": "North Dakota",
       "full_name": "North Dakota, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -48759,6 +47758,7 @@
       "name": "Manitoba",
       "full_name": "Manitoba, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -48964,6 +47964,7 @@
       "name": "Puerto Rico",
       "full_name": "Puerto Rico, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -49145,6 +48146,7 @@
       "name": "Mayotte",
       "full_name": "Mayotte, France",
       "country": {
+        "location_type": "country",
         "key": "france",
         "name": "France"
       }
@@ -49326,6 +48328,7 @@
       "name": "Tasmania",
       "full_name": "Tasmania, Australia",
       "country": {
+        "location_type": "country",
         "key": "australia",
         "name": "Australia"
       }
@@ -49663,6 +48666,7 @@
       "name": "Cruise Ship",
       "full_name": "Cruise Ship, Others",
       "country": {
+        "location_type": "country",
         "key": "others",
         "name": "Others"
       }
@@ -49700,6 +48704,7 @@
       "name": "South Dakota",
       "full_name": "South Dakota, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -49929,6 +48934,7 @@
       "name": "Gibraltar",
       "full_name": "Gibraltar, United Kingdom",
       "country": {
+        "location_type": "country",
         "key": "united-kingdom",
         "name": "United Kingdom"
       }
@@ -50158,6 +49164,7 @@
       "name": "New Brunswick",
       "full_name": "New Brunswick, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -50387,6 +49394,7 @@
       "name": "Guam",
       "full_name": "Guam, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -50540,611 +49548,11 @@
   },
   {
     "region": {
-      "key": "taiwan-taiwan",
-      "name": "Taiwan",
-      "full_name": "Taiwan, Taiwan",
-      "country": {
-        "key": "taiwan",
-        "name": "Taiwan"
-      }
-    },
-    "dates": {
-      "2020-01-22": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-23": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-24": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-25": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-26": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 4,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-27": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-28": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-29": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-30": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 9,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-31": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-01": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-02": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-03": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-04": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 11,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-05": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 11,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-06": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 16,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-07": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 16,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-08": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 17,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-09": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 18,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-10": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 18,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-11": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 18,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-12": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 18,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-13": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 18,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-14": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 18,
-          "deaths": 0,
-          "recoveries": 2
-        }
-      },
-      "2020-02-15": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 18,
-          "deaths": 0,
-          "recoveries": 2
-        }
-      },
-      "2020-02-16": {
-        "new": {
-          "cases": 2,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 20,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-17": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 22,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-18": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 22,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-19": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 23,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-20": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 24,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-21": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 26,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-22": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 26,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-23": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 28,
-          "deaths": 1,
-          "recoveries": 2
-        }
-      },
-      "2020-02-24": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 3
-        },
-        "cumulative": {
-          "cases": 30,
-          "deaths": 1,
-          "recoveries": 5
-        }
-      },
-      "2020-02-25": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 31,
-          "deaths": 1,
-          "recoveries": 5
-        }
-      },
-      "2020-02-26": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 32,
-          "deaths": 1,
-          "recoveries": 5
-        }
-      },
-      "2020-02-27": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 32,
-          "deaths": 1,
-          "recoveries": 5
-        }
-      },
-      "2020-02-28": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 34,
-          "deaths": 1,
-          "recoveries": 6
-        }
-      },
-      "2020-02-29": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 3
-        },
-        "cumulative": {
-          "cases": 39,
-          "deaths": 1,
-          "recoveries": 9
-        }
-      },
-      "2020-03-01": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 40,
-          "deaths": 1,
-          "recoveries": 9
-        }
-      },
-      "2020-03-02": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 3
-        },
-        "cumulative": {
-          "cases": 41,
-          "deaths": 1,
-          "recoveries": 12
-        }
-      },
-      "2020-03-03": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 42,
-          "deaths": 1,
-          "recoveries": 12
-        }
-      },
-      "2020-03-04": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 42,
-          "deaths": 1,
-          "recoveries": 12
-        }
-      },
-      "2020-03-05": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 44,
-          "deaths": 1,
-          "recoveries": 12
-        }
-      },
-      "2020-03-06": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 45,
-          "deaths": 1,
-          "recoveries": 12
-        }
-      },
-      "2020-03-07": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 45,
-          "deaths": 1,
-          "recoveries": 12
-        }
-      },
-      "2020-03-08": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 45,
-          "deaths": 1,
-          "recoveries": 13
-        }
-      },
-      "2020-03-09": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 2
-        },
-        "cumulative": {
-          "cases": 45,
-          "deaths": 1,
-          "recoveries": 15
-        }
-      },
-      "2020-03-10": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 2
-        },
-        "cumulative": {
-          "cases": 47,
-          "deaths": 1,
-          "recoveries": 17
-        }
-      }
-    }
-  },
-  {
-    "region": {
       "key": "aruba-netherlands",
       "name": "Aruba",
       "full_name": "Aruba, Netherlands",
       "country": {
+        "location_type": "country",
         "key": "netherlands",
         "name": "Netherlands"
       }
@@ -51290,6 +49698,7 @@
       "name": "Macau",
       "full_name": "Macau, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -51519,6 +49928,7 @@
       "name": "Isle of Man",
       "full_name": "Isle of Man, United Kingdom",
       "country": {
+        "location_type": "country",
         "key": "united-kingdom",
         "name": "United Kingdom"
       }
@@ -51640,6 +50050,7 @@
       "name": "French Polynesia",
       "full_name": "French Polynesia, France",
       "country": {
+        "location_type": "country",
         "key": "france",
         "name": "France"
       }
@@ -51845,6 +50256,7 @@
       "name": "French Guiana",
       "full_name": "French Guiana, France",
       "country": {
+        "location_type": "country",
         "key": "france",
         "name": "France"
       }
@@ -52026,6 +50438,7 @@
       "name": "Toronto, ON",
       "full_name": "Toronto, ON, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -52447,6 +50860,7 @@
       "name": "Qinghai",
       "full_name": "Qinghai, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -53264,6 +51678,7 @@
       "name": "Bermuda",
       "full_name": "Bermuda, United Kingdom",
       "country": {
+        "location_type": "country",
         "key": "united-kingdom",
         "name": "United Kingdom"
       }
@@ -53397,6 +51812,7 @@
       "name": "Virgin Islands",
       "full_name": "Virgin Islands, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -53566,6 +51982,7 @@
       "name": "New Caledonia",
       "full_name": "New Caledonia, France",
       "country": {
+        "location_type": "country",
         "key": "france",
         "name": "France"
       }
@@ -53699,6 +52116,7 @@
       "name": "Northern Territory",
       "full_name": "Northern Territory, Australia",
       "country": {
+        "location_type": "country",
         "key": "australia",
         "name": "Australia"
       }
@@ -54012,6 +52430,7 @@
       "name": "Grand Princess",
       "full_name": "Grand Princess, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -54193,6 +52612,7 @@
       "name": "Prince Edward Island",
       "full_name": "Prince Edward Island, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -54374,6 +52794,7 @@
       "name": "St Martin",
       "full_name": "St Martin, France",
       "country": {
+        "location_type": "country",
         "key": "france",
         "name": "France"
       }
@@ -54603,6 +53024,7 @@
       "name": "Greenland",
       "full_name": "Greenland, Denmark",
       "country": {
+        "location_type": "country",
         "key": "denmark",
         "name": "Denmark"
       }
@@ -54732,611 +53154,11 @@
   },
   {
     "region": {
-      "key": "macau-macau",
-      "name": "Macau",
-      "full_name": "Macau, Macau",
-      "country": {
-        "key": "macau",
-        "name": "Macau"
-      }
-    },
-    "dates": {
-      "2020-01-22": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-23": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-24": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-25": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-26": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-27": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 6,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-28": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 7,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-29": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 7,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-30": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 7,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-01-31": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 7,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-01": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 7,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-02": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-03": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-04": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-05": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-02-06": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-07": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-08": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-09": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-10": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-11": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 1
-        }
-      },
-      "2020-02-12": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 2
-        }
-      },
-      "2020-02-13": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 3
-        }
-      },
-      "2020-02-14": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 3
-        }
-      },
-      "2020-02-15": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 3
-        }
-      },
-      "2020-02-16": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 2
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 5
-        }
-      },
-      "2020-02-17": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 5
-        }
-      },
-      "2020-02-18": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 5
-        }
-      },
-      "2020-02-19": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 5
-        }
-      },
-      "2020-02-20": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 6
-        }
-      },
-      "2020-02-21": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 6
-        }
-      },
-      "2020-02-22": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 6
-        }
-      },
-      "2020-02-23": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 6
-        }
-      },
-      "2020-02-24": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 6
-        }
-      },
-      "2020-02-25": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 7
-        }
-      },
-      "2020-02-26": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 7
-        }
-      },
-      "2020-02-27": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 8
-        }
-      },
-      "2020-02-28": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 8
-        }
-      },
-      "2020-02-29": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 8
-        }
-      },
-      "2020-03-01": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 8
-        }
-      },
-      "2020-03-02": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 8
-        }
-      },
-      "2020-03-03": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 9
-        }
-      },
-      "2020-03-04": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 9
-        }
-      },
-      "2020-03-05": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 9
-        }
-      },
-      "2020-03-06": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 1
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 10
-        }
-      },
-      "2020-03-07": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 10
-        }
-      },
-      "2020-03-08": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 10
-        }
-      },
-      "2020-03-09": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 10
-        }
-      },
-      "2020-03-10": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10,
-          "deaths": 0,
-          "recoveries": 10
-        }
-      }
-    }
-  },
-  {
-    "region": {
       "key": "cayman-islands-united-kingdom",
       "name": "Cayman Islands",
       "full_name": "Cayman Islands, United Kingdom",
       "country": {
+        "location_type": "country",
         "key": "united-kingdom",
         "name": "United Kingdom"
       }
@@ -55506,6 +53328,7 @@
       "name": "Curacao",
       "full_name": "Curacao, Netherlands",
       "country": {
+        "location_type": "country",
         "key": "netherlands",
         "name": "Netherlands"
       }
@@ -55675,6 +53498,7 @@
       "name": "Bavaria",
       "full_name": "Bavaria, Germany",
       "country": {
+        "location_type": "country",
         "key": "germany",
         "name": "Germany"
       }
@@ -55736,6 +53560,7 @@
       "name": "Fench Guiana",
       "full_name": "Fench Guiana, France",
       "country": {
+        "location_type": "country",
         "key": "france",
         "name": "France"
       }
@@ -55761,6 +53586,7 @@
       "name": "Montserrat",
       "full_name": "Montserrat, United Kingdom",
       "country": {
+        "location_type": "country",
         "key": "united-kingdom",
         "name": "United Kingdom"
       }
@@ -55906,6 +53732,7 @@
       "name": "Saint Barthelemy",
       "full_name": "Saint Barthelemy, France",
       "country": {
+        "location_type": "country",
         "key": "france",
         "name": "France"
       }
@@ -56135,6 +53962,7 @@
       "name": " Montreal, QC",
       "full_name": " Montreal, QC, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -56268,6 +54096,7 @@
       "name": "Turks and Caicos Islands",
       "full_name": "Turks and Caicos Islands, United Kingdom",
       "country": {
+        "location_type": "country",
         "key": "united-kingdom",
         "name": "United Kingdom"
       }
@@ -56342,6 +54171,7 @@
       "name": "Edmonton, Alberta",
       "full_name": "Edmonton, Alberta, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -56379,6 +54209,7 @@
       "name": "Sint Maarten",
       "full_name": "Sint Maarten, Netherlands",
       "country": {
+        "location_type": "country",
         "key": "netherlands",
         "name": "Netherlands"
       }
@@ -56500,6 +54331,7 @@
       "name": "Anguilla",
       "full_name": "Anguilla, United Kingdom",
       "country": {
+        "location_type": "country",
         "key": "united-kingdom",
         "name": "United Kingdom"
       }
@@ -56525,6 +54357,7 @@
       "name": "British Virgin Islands",
       "full_name": "British Virgin Islands, United Kingdom",
       "country": {
+        "location_type": "country",
         "key": "united-kingdom",
         "name": "United Kingdom"
       }
@@ -56550,6 +54383,7 @@
       "name": "None",
       "full_name": "None, Austria",
       "country": {
+        "location_type": "country",
         "key": "austria",
         "name": "Austria"
       }
@@ -56575,6 +54409,7 @@
       "name": "Calgary, Alberta",
       "full_name": "Calgary, Alberta, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -56624,6 +54459,7 @@
       "name": "From Diamond Princess",
       "full_name": "From Diamond Princess, Israel",
       "country": {
+        "location_type": "country",
         "key": "israel",
         "name": "Israel"
       }
@@ -56697,6 +54533,7 @@
       "name": "London, ON",
       "full_name": "London, ON, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -57118,6 +54955,7 @@
       "name": "None",
       "full_name": "None, Lebanon",
       "country": {
+        "location_type": "country",
         "key": "lebanon",
         "name": "Lebanon"
       }
@@ -57143,6 +54981,7 @@
       "name": "Northwest Territories",
       "full_name": "Northwest Territories, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -57216,6 +55055,7 @@
       "name": "Tibet",
       "full_name": "Tibet, China",
       "country": {
+        "location_type": "country",
         "key": "china",
         "name": "China"
       }
@@ -57961,6 +55801,7 @@
       "name": "Diamond Princess",
       "full_name": "Diamond Princess, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
@@ -58058,6 +55899,7 @@
       "name": "External territories",
       "full_name": "External territories, Australia",
       "country": {
+        "location_type": "country",
         "key": "australia",
         "name": "Australia"
       }
@@ -58083,6 +55925,7 @@
       "name": "From Diamond Princess",
       "full_name": "From Diamond Princess, Australia",
       "country": {
+        "location_type": "country",
         "key": "australia",
         "name": "Australia"
       }
@@ -58456,6 +56299,7 @@
       "name": "Jervis Bay Territory",
       "full_name": "Jervis Bay Territory, Australia",
       "country": {
+        "location_type": "country",
         "key": "australia",
         "name": "Australia"
       }
@@ -58481,6 +56325,7 @@
       "name": "None",
       "full_name": "None, Iraq",
       "country": {
+        "location_type": "country",
         "key": "iraq",
         "name": "Iraq"
       }
@@ -58506,6 +56351,7 @@
       "name": "Recovered",
       "full_name": "Recovered, Canada",
       "country": {
+        "location_type": "country",
         "key": "canada",
         "name": "Canada"
       }
