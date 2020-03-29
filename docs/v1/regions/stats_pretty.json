@@ -47117,6 +47117,7 @@
       "name": "Wyoming",
       "full_name": "Wyoming, United States",
       "country": {
+        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
@@ -51812,7 +51813,6 @@
       "name": "Virgin Islands",
       "full_name": "Virgin Islands, United States",
       "country": {
-        "location_type": "country",
         "key": "united-states",
         "name": "United States"
       }
