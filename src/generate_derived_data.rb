@@ -11,7 +11,7 @@ class GenerateDerivedData
   LOCATION_TYPES = LOCATION_TYPES_CONFIGS.keys
   FIRST_DATE = Date.new(2020, 1, 22)
   COUNTRY_KEYS_SOURCE_KEYS = {
-    'united_states' => 'ny_times'
+    'united-states' => 'ny_times'
   }
 
   def initialize
@@ -69,7 +69,7 @@ class GenerateDerivedData
     location_names = row_to_location_names(row)
     return if location_names[location_type].nil?
     location = generate_location(location_type, location_names[:country], location_names[:region], location_names[:place])
-    return unless is_valid_source?(source, location) && is_relevant_row?(source, location_type, location_names)
+    return unless is_valid_source?(source, location_type, location) && is_relevant_row?(source, location_type, location_names)
 
     location_key = location[:key]
     date = Date.parse(row['date'])
@@ -112,7 +112,8 @@ class GenerateDerivedData
     end
   end
 
-  def is_valid_source?(source, location)
+  def is_valid_source?(source, location_type, location)
+    return true if location_type == :country
     country_key = location[:country]&.dig(:key) || location[:key]
     custom_country_source_key = COUNTRY_KEYS_SOURCE_KEYS[country_key]
     return true unless custom_country_source_key
