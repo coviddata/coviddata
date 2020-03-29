@@ -1,19 +1,19 @@
 <h1>
   <img src="https://img.icons8.com/ultraviolet/80/000000/coronavirus.png" width="24" />
-  CovidAPI
+  CovidData
 </h1>
 
-[About](https://coviddata.github.io/covid-api#about) |
-[CSVs](https://coviddata.github.io/covid-api#csvs) |
-[API](https://coviddata.github.io/covid-api#api) |
+[About](https://coviddata.github.io/coviddata#about) |
+[CSVs](https://coviddata.github.io/coviddata#csvs) |
+[API](https://coviddata.github.io/coviddata#api) |
 [Visualization](https://www.covidstats.com/) |
-[Repo](https://github.com/coviddata/covid-api)
+[Repo](https://github.com/coviddata/coviddata)
 
-CovidAPI provides statistics about COVID-19:
+CovidData provides statistics about COVID-19:
 
 * Daily cases, deaths, and recoveries by country, region, and city
 * Cumulative daily counts and incremental daily counts
-* [CSV](https://coviddata.github.io/covid-api#csvs) and [JSON](https://coviddata.github.io/covid-api#api) formats
+* [CSV](https://coviddata.github.io/coviddata#csvs) and [JSON](https://coviddata.github.io/coviddata#api) formats
 * Frequent [data updates](#data-updates) for both formats (CSV and JSON)
 
 ## Table of Contents
@@ -38,7 +38,7 @@ Here's a summary of its logic:
 1. Generate derived data (e.g., incremental daily counts) based on the cumulative data
 1. Write the resulting data to CSVs and JSON files
 
-All of this logic can be viewed within the project's [repo](https://github.com/coviddata/covid-api). The logic is in the [src directory](https://github.com/coviddata/covid-api/tree/master/src), and the update scheduling is in the [.github/workflows](https://github.com/coviddata/covid-api/tree/master/.github/workflows) directory.
+All of this logic can be viewed within the project's [repo](https://github.com/coviddata/coviddata). The logic is in the [src directory](https://github.com/coviddata/coviddata/tree/master/src), and the update scheduling is in the [.github/workflows](https://github.com/coviddata/coviddata/tree/master/.github/workflows) directory.
 
 ### Definitions
 
@@ -52,13 +52,13 @@ All of this logic can be viewed within the project's [repo](https://github.com/c
 
 ### Data Updates
 
-The data is updated from the [data sources](#data-sources) multiple times per day. The data update frequency is the same for both the CSVs and JSON. The update schedule can be found in [cron format](https://crontab.cronhub.io/) in [update_data.yml](https://github.com/coviddata/covid-api/blob/master/.github/workflows/update_data.yml).
+The data is updated from the [data sources](#data-sources) multiple times per day. The data update frequency is the same for both the CSVs and JSON. The update schedule can be found in [cron format](https://crontab.cronhub.io/) in [update_data.yml](https://github.com/coviddata/coviddata/blob/master/.github/workflows/update_data.yml).
 
 ## CSVs
 
 ### Countries
 
-#### [countries/cases.csv](https://coviddata.github.io/covid-api/v1/countries/cases.csv)
+#### [countries/cases.csv](https://coviddata.github.io/coviddata/v1/countries/cases.csv)
 
 Cumulative cases by country and date.
 
@@ -70,7 +70,7 @@ China,547,639,916,1399,2062,2863,5494,6070,8124,9783,11871,16607,19693,23680,274
 Italy,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,20,62,155,229,322,453,655,888,1128,1694,2036,2502,3089,3858,4636,5883,7375,9172,10149,12462,12462,17660,21157,24747,27980,31506,35713,41035,47021,53578,59138,63927,69176,74386
 ```
 
-#### [countries/deaths.csv](https://coviddata.github.io/covid-api/v1/countries/deaths.csv)
+#### [countries/deaths.csv](https://coviddata.github.io/coviddata/v1/countries/deaths.csv)
 
 Cumulative deaths by country and date.
 
@@ -82,7 +82,7 @@ China,17,18,26,42,56,82,131,133,171,213,259,361,425,490,562,632,717,804,904,1011
 Italy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,7,10,12,17,21,29,34,52,79,107,148,197,233,366,463,631,827,827,1266,1441,1809,2158,2503,2978,3405,4032,4825,5476,6077,6820,7503
 ```
 
-#### [countries/recoveries.csv](https://coviddata.github.io/covid-api/v1/countries/recoveries.csv)
+#### [countries/recoveries.csv](https://coviddata.github.io/coviddata/v1/countries/recoveries.csv)
 
 Cumulative recoveries by country and date.
 
@@ -96,7 +96,7 @@ Italy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,3,45
 
 ### Regions
 
-#### [regions/cases.csv](https://coviddata.github.io/covid-api/v1/regions/cases.csv)
+#### [regions/cases.csv](https://coviddata.github.io/coviddata/v1/regions/cases.csv)
 
 Cumulative cases by region and date.
 
@@ -108,7 +108,7 @@ Hubei,China,7153,11177,13522,16678,19665,22112,24953,27100,29631,31728,33366,333
 New York,United States,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,173,220,328,525,732,967,1706,2495,5365,8310,11710,15800,20884,25681,30841
 ```
 
-#### [regions/deaths.csv](https://coviddata.github.io/covid-api/v1/regions/deaths.csv)
+#### [regions/deaths.csv](https://coviddata.github.io/coviddata/v1/regions/deaths.csv)
 
 Cumulative deaths by region and date.
 
@@ -120,7 +120,7 @@ Hubei,China,249,350,414,479,549,618,699,780,871,974,1068,1068,1310,1457,1596,169
 New York,United States,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,10,13,16,34,42,60,117,158,210,285
 ```
 
-#### [regions/recoveries.csv](https://coviddata.github.io/covid-api/v1/regions/recoveries.csv)
+#### [regions/recoveries.csv](https://coviddata.github.io/coviddata/v1/regions/recoveries.csv)
 
 Cumulative recoveries by region and date.
 
@@ -134,7 +134,7 @@ New York,United States,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 
 ### Places
 
-#### [places/cases.csv](https://coviddata.github.io/covid-api/v1/places/cases.csv)
+#### [places/cases.csv](https://coviddata.github.io/coviddata/v1/places/cases.csv)
 
 Cumulative cases by place and date.
 
@@ -146,7 +146,7 @@ New York City,New York,United States,9654,12305,14904,17856
 Westchester,New York,United States,1873,2894,3891,4691
 ```
 
-#### [places/deaths.csv](https://coviddata.github.io/covid-api/v1/places/deaths.csv)
+#### [places/deaths.csv](https://coviddata.github.io/coviddata/v1/places/deaths.csv)
 
 Cumulative deaths by place and date.
 
@@ -158,7 +158,7 @@ New York City,New York,United States,63,99,131,199
 Westchester,New York,United States,0,0,1,1
 ```
 
-#### [places/recoveries.csv](https://coviddata.github.io/covid-api/v1/places/recoveries.csv)
+#### [places/recoveries.csv](https://coviddata.github.io/coviddata/v1/places/recoveries.csv)
 
 Cumulative recoveries by place and date.
 
@@ -179,7 +179,7 @@ The API provides statistics about cases, deaths, and recoveries by country, regi
 For example, to print the number of cases per day in China using JavaScript on a website:
 
 ```javascript
-fetch("https://coviddata.github.io/covid-api/v1/countries/stats.json")
+fetch("https://coviddata.github.io/coviddata/v1/countries/stats.json")
   .then(response => response.json())
   .then(data => {
     const country = data.find(country => country.country.name == "China");
@@ -191,7 +191,7 @@ fetch("https://coviddata.github.io/covid-api/v1/countries/stats.json")
 
 ### Countries
 
-#### [countries/stats.json](https://coviddata.github.io/covid-api/v1/countries/stats.json)
+#### [countries/stats.json](https://coviddata.github.io/coviddata/v1/countries/stats.json)
 
 New and cumulative cases, deaths, and recoveries by country and date.
 
@@ -236,7 +236,7 @@ Example response:
 
 ### Regions
 
-#### [regions/stats.json](https://coviddata.github.io/covid-api/v1/regions/stats.json)
+#### [regions/stats.json](https://coviddata.github.io/coviddata/v1/regions/stats.json)
 
 New and cumulative cases, deaths, and recoveries by region and date.
 
@@ -286,7 +286,7 @@ Example response:
 
 ### Places
 
-#### [places/stats.json](https://coviddata.github.io/covid-api/v1/places/stats.json)
+#### [places/stats.json](https://coviddata.github.io/coviddata/v1/places/stats.json)
 
 New and cumulative cases, deaths, and recoveries by place and date.
 
