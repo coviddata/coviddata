@@ -28135,3 +28135,3433 @@ date,country,region,place,cases,deaths,recoveries
 2020-03-27,West Bank and Gaza,,,91,1,17
 2020-03-27,Zambia,,,22,0,0
 2020-03-27,Zimbabwe,,,5,1,0
+2020-03-28,US,South Carolina,Abbeville,3,0,0
+2020-03-28,US,Louisiana,Acadia,9,1,0
+2020-03-28,US,Virginia,Accomack,2,0,0
+2020-03-28,US,Idaho,Ada,76,0,0
+2020-03-28,US,Iowa,Adair,1,0,0
+2020-03-28,US,Kentucky,Adair,0,0,0
+2020-03-28,US,Missouri,Adair,1,0,0
+2020-03-28,US,Oklahoma,Adair,3,0,0
+2020-03-28,US,Colorado,Adams,71,0,0
+2020-03-28,US,Idaho,Adams,0,0,0
+2020-03-28,US,Illinois,Adams,1,0,0
+2020-03-28,US,Indiana,Adams,1,0,0
+2020-03-28,US,Iowa,Adams,0,0,0
+2020-03-28,US,Mississippi,Adams,6,0,0
+2020-03-28,US,Nebraska,Adams,2,0,0
+2020-03-28,US,North Dakota,Adams,0,0,0
+2020-03-28,US,Ohio,Adams,0,0,0
+2020-03-28,US,Pennsylvania,Adams,8,0,0
+2020-03-28,US,Washington,Adams,5,0,0
+2020-03-28,US,Wisconsin,Adams,0,0,0
+2020-03-28,US,Vermont,Addison,15,0,0
+2020-03-28,US,South Carolina,Aiken,7,0,0
+2020-03-28,US,Minnesota,Aitkin,0,0,0
+2020-03-28,US,Florida,Alachua,67,0,0
+2020-03-28,US,North Carolina,Alamance,5,0,0
+2020-03-28,US,California,Alameda,220,4,0
+2020-03-28,US,Colorado,Alamosa,1,0,0
+2020-03-28,US,New York,Albany,195,0,0
+2020-03-28,US,Wyoming,Albany,1,0,0
+2020-03-28,US,Virginia,Albemarle,16,0,0
+2020-03-28,US,Michigan,Alcona,0,0,0
+2020-03-28,US,Mississippi,Alcorn,1,0,0
+2020-03-28,US,Alaska,Aleutians East,0,0,0
+2020-03-28,US,Alaska,Aleutians West,0,0,0
+2020-03-28,US,Illinois,Alexander,0,0,0
+2020-03-28,US,North Carolina,Alexander,1,0,0
+2020-03-28,US,Virginia,Alexandria,20,0,0
+2020-03-28,US,Oklahoma,Alfalfa,0,0,0
+2020-03-28,US,Michigan,Alger,0,0,0
+2020-03-28,US,Iowa,Allamakee,7,1,0
+2020-03-28,US,Michigan,Allegan,2,0,0
+2020-03-28,US,Maryland,Allegany,0,0,0
+2020-03-28,US,New York,Allegany,2,0,0
+2020-03-28,US,North Carolina,Alleghany,1,0,0
+2020-03-28,US,Virginia,Alleghany,0,0,0
+2020-03-28,US,Pennsylvania,Allegheny,219,2,0
+2020-03-28,US,Indiana,Allen,23,1,0
+2020-03-28,US,Kansas,Allen,0,0,0
+2020-03-28,US,Kentucky,Allen,1,0,0
+2020-03-28,US,Louisiana,Allen,7,0,0
+2020-03-28,US,Ohio,Allen,2,0,0
+2020-03-28,US,South Carolina,Allendale,0,0,0
+2020-03-28,US,Michigan,Alpena,0,0,0
+2020-03-28,US,California,Alpine,0,0,0
+2020-03-28,US,California,Amador,2,0,0
+2020-03-28,US,Virginia,Amelia,1,0,0
+2020-03-28,US,Virginia,Amherst,2,0,0
+2020-03-28,US,Mississippi,Amite,0,0,0
+2020-03-28,US,Alaska,Anchorage,43,1,0
+2020-03-28,US,Kansas,Anderson,0,0,0
+2020-03-28,US,Kentucky,Anderson,2,1,0
+2020-03-28,US,South Carolina,Anderson,24,0,0
+2020-03-28,US,Tennessee,Anderson,5,0,0
+2020-03-28,US,Texas,Anderson,0,0,0
+2020-03-28,US,Missouri,Andrew,0,0,0
+2020-03-28,US,Texas,Andrews,1,0,0
+2020-03-28,US,Maine,Androscoggin,7,0,0
+2020-03-28,US,Texas,Angelina,1,0,0
+2020-03-28,US,Maryland,Anne Arundel,88,0,0
+2020-03-28,US,Minnesota,Anoka,12,0,0
+2020-03-28,US,North Carolina,Anson,0,0,0
+2020-03-28,US,Nebraska,Antelope,0,0,0
+2020-03-28,US,Michigan,Antrim,0,0,0
+2020-03-28,US,Arizona,Apache,13,0,0
+2020-03-28,US,Iowa,Appanoose,1,0,0
+2020-03-28,US,Georgia,Appling,0,0,0
+2020-03-28,US,Virginia,Appomattox,0,0,0
+2020-03-28,US,Texas,Aransas,0,0,0
+2020-03-28,US,Colorado,Arapahoe,155,1,0
+2020-03-28,US,Texas,Archer,0,0,0
+2020-03-28,US,Colorado,Archuleta,0,0,0
+2020-03-28,US,Michigan,Arenac,0,0,0
+2020-03-28,US,Arkansas,Arkansas,0,0,0
+2020-03-28,US,Virginia,Arlington,75,0,0
+2020-03-28,US,Pennsylvania,Armstrong,2,0,0
+2020-03-28,US,Texas,Armstrong,0,0,0
+2020-03-28,US,Maine,Aroostook,0,0,0
+2020-03-28,US,Nebraska,Arthur,0,0,0
+2020-03-28,US,Louisiana,Ascension,107,1,0
+2020-03-28,US,North Carolina,Ashe,0,0,0
+2020-03-28,US,Ohio,Ashland,3,0,0
+2020-03-28,US,Wisconsin,Ashland,0,0,0
+2020-03-28,US,Arkansas,Ashley,0,0,0
+2020-03-28,US,Ohio,Ashtabula,6,0,0
+2020-03-28,US,Washington,Asotin,0,0,0
+2020-03-28,US,Louisiana,Assumption,8,0,0
+2020-03-28,US,Texas,Atascosa,2,0,0
+2020-03-28,US,Kansas,Atchison,0,0,0
+2020-03-28,US,Missouri,Atchison,1,0,0
+2020-03-28,US,Ohio,Athens,2,0,0
+2020-03-28,US,Georgia,Atkinson,0,0,0
+2020-03-28,US,New Jersey,Atlantic,17,0,0
+2020-03-28,US,Oklahoma,Atoka,0,0,0
+2020-03-28,US,Mississippi,Attala,9,0,0
+2020-03-28,US,Missouri,Audrain,0,0,0
+2020-03-28,US,Iowa,Audubon,0,0,0
+2020-03-28,US,Ohio,Auglaize,1,0,0
+2020-03-28,US,Virginia,Augusta,0,0,0
+2020-03-28,US,South Dakota,Aurora,1,0,0
+2020-03-28,US,Texas,Austin,1,0,0
+2020-03-28,US,Alabama,Autauga,6,0,0
+2020-03-28,US,North Carolina,Avery,0,0,0
+2020-03-28,US,Louisiana,Avoyelles,12,0,0
+2020-03-28,US,Colorado,Baca,1,0,0
+2020-03-28,US,Georgia,Bacon,0,0,0
+2020-03-28,US,Texas,Bailey,0,0,0
+2020-03-28,US,Florida,Baker,7,0,0
+2020-03-28,US,Georgia,Baker,1,1,0
+2020-03-28,US,Oregon,Baker,0,0,0
+2020-03-28,US,Alabama,Baldwin,10,0,0
+2020-03-28,US,Georgia,Baldwin,2,0,0
+2020-03-28,US,Kentucky,Ballard,0,0,0
+2020-03-28,US,Maryland,Baltimore,141,1,0
+2020-03-28,US,Maryland,Baltimore City,112,0,0
+2020-03-28,US,South Carolina,Bamberg,0,0,0
+2020-03-28,US,Texas,Bandera,0,0,0
+2020-03-28,US,Georgia,Banks,0,0,0
+2020-03-28,US,Nebraska,Banner,0,0,0
+2020-03-28,US,Idaho,Bannock,3,0,0
+2020-03-28,US,Michigan,Baraga,0,0,0
+2020-03-28,US,Kansas,Barber,0,0,0
+2020-03-28,US,Alabama,Barbour,0,0,0
+2020-03-28,US,West Virginia,Barbour,0,0,0
+2020-03-28,US,North Dakota,Barnes,2,0,0
+2020-03-28,US,Massachusetts,Barnstable,133,2,0
+2020-03-28,US,South Carolina,Barnwell,0,0,0
+2020-03-28,US,Kentucky,Barren,0,0,0
+2020-03-28,US,Wisconsin,Barron,0,0,0
+2020-03-28,US,Georgia,Barrow,7,1,0
+2020-03-28,US,Michigan,Barry,1,0,0
+2020-03-28,US,Missouri,Barry,1,0,0
+2020-03-28,US,Indiana,Bartholomew,7,0,0
+2020-03-28,US,Kansas,Barton,0,0,0
+2020-03-28,US,Missouri,Barton,0,0,0
+2020-03-28,US,Georgia,Bartow,116,1,0
+2020-03-28,US,Texas,Bastrop,4,0,0
+2020-03-28,US,Missouri,Bates,1,0,0
+2020-03-28,US,Kentucky,Bath,0,0,0
+2020-03-28,US,Virginia,Bath,0,0,0
+2020-03-28,US,Arkansas,Baxter,1,0,0
+2020-03-28,US,Florida,Bay,5,0,0
+2020-03-28,US,Michigan,Bay,4,0,0
+2020-03-28,US,Wisconsin,Bayfield,2,0,0
+2020-03-28,US,Texas,Baylor,0,0,0
+2020-03-28,US,South Dakota,Beadle,16,0,0
+2020-03-28,US,Idaho,Bear Lake,0,0,0
+2020-03-28,US,North Carolina,Beaufort,3,0,0
+2020-03-28,US,South Carolina,Beaufort,39,0,0
+2020-03-28,US,Louisiana,Beauregard,4,0,0
+2020-03-28,US,Oklahoma,Beaver,0,0,0
+2020-03-28,US,Pennsylvania,Beaver,22,0,0
+2020-03-28,US,Utah,Beaver,0,0,0
+2020-03-28,US,Montana,Beaverhead,0,0,0
+2020-03-28,US,Minnesota,Becker,0,0,0
+2020-03-28,US,Oklahoma,Beckham,0,0,0
+2020-03-28,US,Pennsylvania,Bedford,0,0,0
+2020-03-28,US,Tennessee,Bedford,1,0,0
+2020-03-28,US,Virginia,Bedford,3,0,0
+2020-03-28,US,Texas,Bee,0,0,0
+2020-03-28,US,New Hampshire,Belknap,9,0,0
+2020-03-28,US,Kentucky,Bell,0,0,0
+2020-03-28,US,Texas,Bell,28,1,0
+2020-03-28,US,Ohio,Belmont,8,0,0
+2020-03-28,US,Minnesota,Beltrami,2,0,0
+2020-03-28,US,Georgia,Ben Hill,2,0,0
+2020-03-28,US,Idaho,Benewah,0,0,0
+2020-03-28,US,South Dakota,Bennett,0,0,0
+2020-03-28,US,Vermont,Bennington,15,0,0
+2020-03-28,US,North Dakota,Benson,0,0,0
+2020-03-28,US,Colorado,Bent,0,0,0
+2020-03-28,US,Arkansas,Benton,28,0,0
+2020-03-28,US,Indiana,Benton,0,0,0
+2020-03-28,US,Iowa,Benton,4,0,0
+2020-03-28,US,Minnesota,Benton,1,0,0
+2020-03-28,US,Mississippi,Benton,2,0,0
+2020-03-28,US,Missouri,Benton,1,0,0
+2020-03-28,US,Oregon,Benton,8,0,0
+2020-03-28,US,Tennessee,Benton,3,0,0
+2020-03-28,US,Washington,Benton,42,5,0
+2020-03-28,US,Michigan,Benzie,0,0,0
+2020-03-28,US,New Jersey,Bergen,1838,13,0
+2020-03-28,US,South Carolina,Berkeley,13,0,0
+2020-03-28,US,West Virginia,Berkeley,9,0,0
+2020-03-28,US,Pennsylvania,Berks,65,0,0
+2020-03-28,US,Massachusetts,Berkshire,119,2,0
+2020-03-28,US,New Mexico,Bernalillo,93,0,0
+2020-03-28,US,Georgia,Berrien,0,0,0
+2020-03-28,US,Michigan,Berrien,22,0,0
+2020-03-28,US,North Carolina,Bertie,3,0,0
+2020-03-28,US,Alaska,Bethel,0,0,0
+2020-03-28,US,Texas,Bexar,125,5,0
+2020-03-28,US,Alabama,Bibb,0,0,0
+2020-03-28,US,Georgia,Bibb,11,0,0
+2020-03-28,US,Louisiana,Bienville,3,1,0
+2020-03-28,US,Montana,Big Horn,0,0,0
+2020-03-28,US,Wyoming,Big Horn,0,0,0
+2020-03-28,US,Minnesota,Big Stone,1,0,0
+2020-03-28,US,North Dakota,Billings,0,0,0
+2020-03-28,US,Idaho,Bingham,1,0,0
+2020-03-28,US,Iowa,Black Hawk,6,0,0
+2020-03-28,US,Indiana,Blackford,0,0,0
+2020-03-28,US,North Carolina,Bladen,0,0,0
+2020-03-28,US,Idaho,Blaine,99,2,0
+2020-03-28,US,Montana,Blaine,0,0,0
+2020-03-28,US,Nebraska,Blaine,0,0,0
+2020-03-28,US,Oklahoma,Blaine,0,0,0
+2020-03-28,US,Pennsylvania,Blair,2,0,0
+2020-03-28,US,Texas,Blanco,1,0,0
+2020-03-28,US,Virginia,Bland,0,0,0
+2020-03-28,US,Georgia,Bleckley,0,0,0
+2020-03-28,US,Tennessee,Bledsoe,2,0,0
+2020-03-28,US,Alabama,Blount,5,0,0
+2020-03-28,US,Tennessee,Blount,9,0,0
+2020-03-28,US,Minnesota,Blue Earth,7,0,0
+2020-03-28,US,Idaho,Boise,0,0,0
+2020-03-28,US,Mississippi,Bolivar,11,0,0
+2020-03-28,US,Missouri,Bollinger,1,0,0
+2020-03-28,US,South Dakota,Bon Homme,1,0,0
+2020-03-28,US,Illinois,Bond,0,0,0
+2020-03-28,US,Idaho,Bonner,0,0,0
+2020-03-28,US,Idaho,Bonneville,1,0,0
+2020-03-28,US,Arkansas,Boone,1,0,0
+2020-03-28,US,Illinois,Boone,0,0,0
+2020-03-28,US,Indiana,Boone,8,0,0
+2020-03-28,US,Iowa,Boone,1,0,0
+2020-03-28,US,Kentucky,Boone,5,0,0
+2020-03-28,US,Missouri,Boone,49,1,0
+2020-03-28,US,Nebraska,Boone,0,0,0
+2020-03-28,US,West Virginia,Boone,0,0,0
+2020-03-28,US,Texas,Borden,0,0,0
+2020-03-28,US,Texas,Bosque,0,0,0
+2020-03-28,US,Louisiana,Bossier,45,0,0
+2020-03-28,US,Virginia,Botetourt,1,0,0
+2020-03-28,US,North Dakota,Bottineau,0,0,0
+2020-03-28,US,Colorado,Boulder,76,1,0
+2020-03-28,US,Idaho,Boundary,0,0,0
+2020-03-28,US,Kansas,Bourbon,3,0,0
+2020-03-28,US,Kentucky,Bourbon,2,1,0
+2020-03-28,US,Texas,Bowie,3,0,0
+2020-03-28,US,North Dakota,Bowman,0,0,0
+2020-03-28,US,Nebraska,Box Butte,0,0,0
+2020-03-28,US,Utah,Box Elder,4,0,0
+2020-03-28,US,Kentucky,Boyd,0,0,0
+2020-03-28,US,Nebraska,Boyd,0,0,0
+2020-03-28,US,Kentucky,Boyle,0,0,0
+2020-03-28,US,Kentucky,Bracken,0,0,0
+2020-03-28,US,Florida,Bradford,1,0,0
+2020-03-28,US,Pennsylvania,Bradford,3,0,0
+2020-03-28,US,Arkansas,Bradley,4,0,0
+2020-03-28,US,Tennessee,Bradley,5,0,0
+2020-03-28,US,Michigan,Branch,0,0,0
+2020-03-28,US,Georgia,Brantley,0,0,0
+2020-03-28,US,West Virginia,Braxton,0,0,0
+2020-03-28,US,Texas,Brazoria,61,0,0
+2020-03-28,US,Texas,Brazos,40,1,0
+2020-03-28,US,Kentucky,Breathitt,2,0,0
+2020-03-28,US,Kentucky,Breckinridge,0,0,0
+2020-03-28,US,Iowa,Bremer,0,0,0
+2020-03-28,US,Florida,Brevard,26,0,0
+2020-03-28,US,Texas,Brewster,0,0,0
+2020-03-28,US,Texas,Briscoe,0,0,0
+2020-03-28,US,Massachusetts,Bristol,179,1,0
+2020-03-28,US,Rhode Island,Bristol,6,0,0
+2020-03-28,US,Virginia,Bristol,1,0,0
+2020-03-28,US,Alaska,Bristol Bay,0,0,0
+2020-03-28,US,Montana,Broadwater,2,0,0
+2020-03-28,US,New York,Bronx,0,0,0
+2020-03-28,US,West Virginia,Brooke,0,0,0
+2020-03-28,US,South Dakota,Brookings,1,0,0
+2020-03-28,US,Georgia,Brooks,0,0,0
+2020-03-28,US,Texas,Brooks,0,0,0
+2020-03-28,US,New York,Broome,23,3,0
+2020-03-28,US,Colorado,Broomfield,13,0,0
+2020-03-28,US,Florida,Broward,814,10,0
+2020-03-28,US,Illinois,Brown,0,0,0
+2020-03-28,US,Indiana,Brown,2,0,0
+2020-03-28,US,Kansas,Brown,0,0,0
+2020-03-28,US,Minnesota,Brown,0,0,0
+2020-03-28,US,Nebraska,Brown,0,0,0
+2020-03-28,US,Ohio,Brown,0,0,0
+2020-03-28,US,South Dakota,Brown,2,0,0
+2020-03-28,US,Texas,Brown,3,0,0
+2020-03-28,US,Wisconsin,Brown,6,0,0
+2020-03-28,US,South Dakota,Brule,0,0,0
+2020-03-28,US,North Carolina,Brunswick,12,0,0
+2020-03-28,US,Virginia,Brunswick,0,0,0
+2020-03-28,US,Georgia,Bryan,6,0,0
+2020-03-28,US,Oklahoma,Bryan,1,0,0
+2020-03-28,US,Iowa,Buchanan,2,0,0
+2020-03-28,US,Missouri,Buchanan,3,0,0
+2020-03-28,US,Virginia,Buchanan,0,0,0
+2020-03-28,US,Virginia,Buckingham,0,0,0
+2020-03-28,US,Pennsylvania,Bucks,152,0,0
+2020-03-28,US,Iowa,Buena Vista,0,0,0
+2020-03-28,US,Virginia,Buena Vista,0,0,0
+2020-03-28,US,Nebraska,Buffalo,4,0,0
+2020-03-28,US,South Dakota,Buffalo,0,0,0
+2020-03-28,US,Wisconsin,Buffalo,0,0,0
+2020-03-28,US,Kentucky,Bullitt,0,0,0
+2020-03-28,US,Georgia,Bulloch,0,0,0
+2020-03-28,US,Alabama,Bullock,3,0,0
+2020-03-28,US,North Carolina,Buncombe,17,0,0
+2020-03-28,US,Illinois,Bureau,1,0,0
+2020-03-28,US,Georgia,Burke,3,0,0
+2020-03-28,US,North Carolina,Burke,4,0,0
+2020-03-28,US,North Dakota,Burke,0,0,0
+2020-03-28,US,North Dakota,Burleigh,28,0,0
+2020-03-28,US,Texas,Burleson,1,0,0
+2020-03-28,US,New Jersey,Burlington,115,0,0
+2020-03-28,US,Texas,Burnet,1,0,0
+2020-03-28,US,Wisconsin,Burnett,0,0,0
+2020-03-28,US,Nebraska,Burt,0,0,0
+2020-03-28,US,Alabama,Butler,1,0,0
+2020-03-28,US,Iowa,Butler,1,0,0
+2020-03-28,US,Kansas,Butler,3,0,0
+2020-03-28,US,Kentucky,Butler,0,0,0
+2020-03-28,US,Missouri,Butler,0,0,0
+2020-03-28,US,Nebraska,Butler,0,0,0
+2020-03-28,US,Ohio,Butler,25,0,0
+2020-03-28,US,Pennsylvania,Butler,41,2,0
+2020-03-28,US,California,Butte,5,0,0
+2020-03-28,US,Idaho,Butte,0,0,0
+2020-03-28,US,South Dakota,Butte,0,0,0
+2020-03-28,US,Georgia,Butts,5,0,0
+2020-03-28,US,North Carolina,Cabarrus,31,2,0
+2020-03-28,US,West Virginia,Cabell,0,0,0
+2020-03-28,US,Utah,Cache,5,0,0
+2020-03-28,US,Louisiana,Caddo,189,2,0
+2020-03-28,US,Oklahoma,Caddo,1,0,0
+2020-03-28,US,California,Calaveras,3,0,0
+2020-03-28,US,Louisiana,Calcasieu,28,1,0
+2020-03-28,US,Kentucky,Caldwell,0,0,0
+2020-03-28,US,Louisiana,Caldwell,0,0,0
+2020-03-28,US,Missouri,Caldwell,0,0,0
+2020-03-28,US,North Carolina,Caldwell,3,0,0
+2020-03-28,US,Texas,Caldwell,1,0,0
+2020-03-28,US,Vermont,Caledonia,2,0,0
+2020-03-28,US,Alabama,Calhoun,3,0,0
+2020-03-28,US,Arkansas,Calhoun,0,0,0
+2020-03-28,US,Florida,Calhoun,0,0,0
+2020-03-28,US,Georgia,Calhoun,2,0,0
+2020-03-28,US,Illinois,Calhoun,0,0,0
+2020-03-28,US,Iowa,Calhoun,0,0,0
+2020-03-28,US,Michigan,Calhoun,11,0,0
+2020-03-28,US,Mississippi,Calhoun,3,0,0
+2020-03-28,US,South Carolina,Calhoun,1,0,0
+2020-03-28,US,Texas,Calhoun,3,0,0
+2020-03-28,US,West Virginia,Calhoun,0,0,0
+2020-03-28,US,Texas,Callahan,0,0,0
+2020-03-28,US,Missouri,Callaway,6,0,0
+2020-03-28,US,Kentucky,Calloway,1,0,0
+2020-03-28,US,Wisconsin,Calumet,1,0,0
+2020-03-28,US,Maryland,Calvert,8,0,0
+2020-03-28,US,Idaho,Camas,0,0,0
+2020-03-28,US,Pennsylvania,Cambria,1,0,0
+2020-03-28,US,Georgia,Camden,2,0,0
+2020-03-28,US,Missouri,Camden,4,0,0
+2020-03-28,US,New Jersey,Camden,123,1,0
+2020-03-28,US,North Carolina,Camden,0,0,0
+2020-03-28,US,Louisiana,Cameron,0,0,0
+2020-03-28,US,Pennsylvania,Cameron,1,0,0
+2020-03-28,US,Texas,Cameron,13,0,0
+2020-03-28,US,Texas,Camp,0,0,0
+2020-03-28,US,Kentucky,Campbell,3,0,0
+2020-03-28,US,South Dakota,Campbell,0,0,0
+2020-03-28,US,Tennessee,Campbell,4,0,0
+2020-03-28,US,Virginia,Campbell,0,0,0
+2020-03-28,US,Wyoming,Campbell,1,0,0
+2020-03-28,US,Oklahoma,Canadian,11,0,0
+2020-03-28,US,Georgia,Candler,0,0,0
+2020-03-28,US,Tennessee,Cannon,3,0,0
+2020-03-28,US,Idaho,Canyon,23,1,0
+2020-03-28,US,Missouri,Cape Girardeau,5,0,0
+2020-03-28,US,New Jersey,Cape May,7,0,0
+2020-03-28,US,Montana,Carbon,0,0,0
+2020-03-28,US,Pennsylvania,Carbon,3,0,0
+2020-03-28,US,Utah,Carbon,0,0,0
+2020-03-28,US,Wyoming,Carbon,3,0,0
+2020-03-28,US,Idaho,Caribou,0,0,0
+2020-03-28,US,Kentucky,Carlisle,0,0,0
+2020-03-28,US,Minnesota,Carlton,0,0,0
+2020-03-28,US,Maryland,Caroline,1,0,0
+2020-03-28,US,Virginia,Caroline,0,0,0
+2020-03-28,US,Arkansas,Carroll,0,0,0
+2020-03-28,US,Georgia,Carroll,64,0,0
+2020-03-28,US,Illinois,Carroll,1,0,0
+2020-03-28,US,Indiana,Carroll,1,0,0
+2020-03-28,US,Iowa,Carroll,1,0,0
+2020-03-28,US,Kentucky,Carroll,0,0,0
+2020-03-28,US,Maryland,Carroll,10,0,0
+2020-03-28,US,Mississippi,Carroll,0,0,0
+2020-03-28,US,Missouri,Carroll,0,0,0
+2020-03-28,US,New Hampshire,Carroll,8,0,0
+2020-03-28,US,Ohio,Carroll,3,0,0
+2020-03-28,US,Tennessee,Carroll,4,0,0
+2020-03-28,US,Virginia,Carroll,0,0,0
+2020-03-28,US,Texas,Carson,0,0,0
+2020-03-28,US,Nevada,Carson City,5,0,0
+2020-03-28,US,Kentucky,Carter,0,0,0
+2020-03-28,US,Missouri,Carter,2,0,0
+2020-03-28,US,Montana,Carter,0,0,0
+2020-03-28,US,Oklahoma,Carter,1,0,0
+2020-03-28,US,Tennessee,Carter,1,0,0
+2020-03-28,US,North Carolina,Carteret,7,0,0
+2020-03-28,US,Minnesota,Carver,9,0,0
+2020-03-28,US,Montana,Cascade,7,0,0
+2020-03-28,US,Kentucky,Casey,0,0,0
+2020-03-28,US,Illinois,Cass,0,0,0
+2020-03-28,US,Indiana,Cass,0,0,0
+2020-03-28,US,Iowa,Cass,0,0,0
+2020-03-28,US,Michigan,Cass,2,0,0
+2020-03-28,US,Minnesota,Cass,1,0,0
+2020-03-28,US,Missouri,Cass,8,0,0
+2020-03-28,US,Nebraska,Cass,2,0,0
+2020-03-28,US,North Dakota,Cass,18,1,0
+2020-03-28,US,Texas,Cass,2,0,0
+2020-03-28,US,Idaho,Cassia,1,0,0
+2020-03-28,US,Texas,Castro,8,0,0
+2020-03-28,US,North Carolina,Caswell,1,0,0
+2020-03-28,US,Louisiana,Catahoula,1,1,0
+2020-03-28,US,North Carolina,Catawba,10,0,0
+2020-03-28,US,Georgia,Catoosa,1,0,0
+2020-03-28,US,New Mexico,Catron,0,0,0
+2020-03-28,US,New York,Cattaraugus,1,0,0
+2020-03-28,US,North Dakota,Cavalier,0,0,0
+2020-03-28,US,New York,Cayuga,2,0,0
+2020-03-28,US,Maryland,Cecil,13,0,0
+2020-03-28,US,Iowa,Cedar,6,0,0
+2020-03-28,US,Missouri,Cedar,0,0,0
+2020-03-28,US,Nebraska,Cedar,0,0,0
+2020-03-28,US,Pennsylvania,Centre,15,0,0
+2020-03-28,US,Iowa,Cerro Gordo,4,0,0
+2020-03-28,US,Colorado,Chaffee,5,1,0
+2020-03-28,US,Alabama,Chambers,17,0,0
+2020-03-28,US,Texas,Chambers,3,0,0
+2020-03-28,US,Illinois,Champaign,11,0,0
+2020-03-28,US,Ohio,Champaign,2,0,0
+2020-03-28,US,Missouri,Chariton,1,0,0
+2020-03-28,US,Maryland,Charles,21,0,0
+2020-03-28,US,Virginia,Charles City,1,0,0
+2020-03-28,US,South Dakota,Charles Mix,1,0,0
+2020-03-28,US,South Carolina,Charleston,108,1,0
+2020-03-28,US,Michigan,Charlevoix,4,0,0
+2020-03-28,US,Florida,Charlotte,12,0,0
+2020-03-28,US,Virginia,Charlotte,0,0,0
+2020-03-28,US,Virginia,Charlottesville,12,0,0
+2020-03-28,US,Georgia,Charlton,1,0,0
+2020-03-28,US,Kansas,Chase,0,0,0
+2020-03-28,US,Nebraska,Chase,0,0,0
+2020-03-28,US,Georgia,Chatham,15,0,0
+2020-03-28,US,North Carolina,Chatham,12,0,0
+2020-03-28,US,Georgia,Chattahoochee,1,0,0
+2020-03-28,US,Georgia,Chattooga,1,0,0
+2020-03-28,US,Kansas,Chautauqua,0,0,0
+2020-03-28,US,New York,Chautauqua,5,0,0
+2020-03-28,US,New Mexico,Chaves,7,0,0
+2020-03-28,US,Tennessee,Cheatham,7,0,0
+2020-03-28,US,Michigan,Cheboygan,0,0,0
+2020-03-28,US,Washington,Chelan,13,1,0
+2020-03-28,US,New York,Chemung,12,0,0
+2020-03-28,US,New York,Chenango,8,0,0
+2020-03-28,US,Alabama,Cherokee,1,0,0
+2020-03-28,US,Georgia,Cherokee,52,1,0
+2020-03-28,US,Iowa,Cherokee,0,0,0
+2020-03-28,US,Kansas,Cherokee,2,0,0
+2020-03-28,US,North Carolina,Cherokee,4,0,0
+2020-03-28,US,Oklahoma,Cherokee,1,0,0
+2020-03-28,US,South Carolina,Cherokee,0,0,0
+2020-03-28,US,Texas,Cherokee,1,0,0
+2020-03-28,US,Nebraska,Cherry,0,0,0
+2020-03-28,US,Virginia,Chesapeake,7,0,0
+2020-03-28,US,New Hampshire,Cheshire,2,0,0
+2020-03-28,US,Pennsylvania,Chester,116,0,0
+2020-03-28,US,South Carolina,Chester,2,0,0
+2020-03-28,US,Tennessee,Chester,2,0,0
+2020-03-28,US,South Carolina,Chesterfield,4,0,0
+2020-03-28,US,Virginia,Chesterfield,12,0,0
+2020-03-28,US,Colorado,Cheyenne,0,0,0
+2020-03-28,US,Kansas,Cheyenne,0,0,0
+2020-03-28,US,Nebraska,Cheyenne,0,0,0
+2020-03-28,US,Iowa,Chickasaw,0,0,0
+2020-03-28,US,Mississippi,Chickasaw,10,0,0
+2020-03-28,US,Arkansas,Chicot,1,0,0
+2020-03-28,US,Texas,Childress,0,0,0
+2020-03-28,US,Alabama,Chilton,7,0,0
+2020-03-28,US,Michigan,Chippewa,0,0,0
+2020-03-28,US,Minnesota,Chippewa,0,0,0
+2020-03-28,US,Wisconsin,Chippewa,4,0,0
+2020-03-28,US,Minnesota,Chisago,1,0,0
+2020-03-28,US,Vermont,Chittenden,105,4,0
+2020-03-28,US,Alabama,Choctaw,1,0,0
+2020-03-28,US,Mississippi,Choctaw,4,0,0
+2020-03-28,US,Oklahoma,Choctaw,1,0,0
+2020-03-28,US,Montana,Chouteau,0,0,0
+2020-03-28,US,North Carolina,Chowan,0,0,0
+2020-03-28,US,Illinois,Christian,1,0,0
+2020-03-28,US,Kentucky,Christian,2,0,0
+2020-03-28,US,Missouri,Christian,7,0,0
+2020-03-28,US,Nevada,Churchill,0,0,0
+2020-03-28,US,New Mexico,Cibola,2,0,0
+2020-03-28,US,Oklahoma,Cimarron,0,0,0
+2020-03-28,US,Florida,Citrus,14,1,0
+2020-03-28,US,Oregon,Clackamas,36,2,0
+2020-03-28,US,Louisiana,Claiborne,4,0,0
+2020-03-28,US,Mississippi,Claiborne,0,0,0
+2020-03-28,US,Tennessee,Claiborne,2,0,0
+2020-03-28,US,Washington,Clallam,5,0,0
+2020-03-28,US,Michigan,Clare,1,0,0
+2020-03-28,US,South Carolina,Clarendon,7,1,0
+2020-03-28,US,Pennsylvania,Clarion,1,0,0
+2020-03-28,US,Arkansas,Clark,18,0,0
+2020-03-28,US,Idaho,Clark,0,0,0
+2020-03-28,US,Illinois,Clark,0,0,0
+2020-03-28,US,Indiana,Clark,18,0,0
+2020-03-28,US,Kansas,Clark,0,0,0
+2020-03-28,US,Kentucky,Clark,2,0,0
+2020-03-28,US,Missouri,Clark,0,0,0
+2020-03-28,US,Nevada,Clark,443,10,0
+2020-03-28,US,Ohio,Clark,2,0,0
+2020-03-28,US,South Dakota,Clark,0,0,0
+2020-03-28,US,Washington,Clark,82,6,0
+2020-03-28,US,Wisconsin,Clark,3,0,0
+2020-03-28,US,Alabama,Clarke,0,0,0
+2020-03-28,US,Georgia,Clarke,35,2,0
+2020-03-28,US,Iowa,Clarke,0,0,0
+2020-03-28,US,Mississippi,Clarke,1,0,0
+2020-03-28,US,Virginia,Clarke,0,0,0
+2020-03-28,US,Oregon,Clatsop,3,0,0
+2020-03-28,US,Alabama,Clay,2,0,0
+2020-03-28,US,Arkansas,Clay,0,0,0
+2020-03-28,US,Florida,Clay,24,4,0
+2020-03-28,US,Georgia,Clay,0,0,0
+2020-03-28,US,Illinois,Clay,0,0,0
+2020-03-28,US,Indiana,Clay,0,0,0
+2020-03-28,US,Iowa,Clay,0,0,0
+2020-03-28,US,Kansas,Clay,1,0,0
+2020-03-28,US,Kentucky,Clay,0,0,0
+2020-03-28,US,Minnesota,Clay,4,0,0
+2020-03-28,US,Mississippi,Clay,2,0,0
+2020-03-28,US,Missouri,Clay,10,0,0
+2020-03-28,US,Nebraska,Clay,0,0,0
+2020-03-28,US,North Carolina,Clay,0,0,0
+2020-03-28,US,South Dakota,Clay,0,0,0
+2020-03-28,US,Tennessee,Clay,0,0,0
+2020-03-28,US,Texas,Clay,0,0,0
+2020-03-28,US,West Virginia,Clay,0,0,0
+2020-03-28,US,Georgia,Clayton,57,1,0
+2020-03-28,US,Iowa,Clayton,1,0,0
+2020-03-28,US,Colorado,Clear Creek,3,0,0
+2020-03-28,US,Pennsylvania,Clearfield,2,0,0
+2020-03-28,US,Idaho,Clearwater,0,0,0
+2020-03-28,US,Minnesota,Clearwater,1,0,0
+2020-03-28,US,Alabama,Cleburne,4,0,0
+2020-03-28,US,Arkansas,Cleburne,50,1,0
+2020-03-28,US,Ohio,Clermont,8,0,0
+2020-03-28,US,Arkansas,Cleveland,5,0,0
+2020-03-28,US,North Carolina,Cleveland,3,0,0
+2020-03-28,US,Oklahoma,Cleveland,46,5,0
+2020-03-28,US,Georgia,Clinch,1,0,0
+2020-03-28,US,Illinois,Clinton,5,0,0
+2020-03-28,US,Indiana,Clinton,1,0,0
+2020-03-28,US,Iowa,Clinton,1,0,0
+2020-03-28,US,Kentucky,Clinton,0,0,0
+2020-03-28,US,Michigan,Clinton,13,0,0
+2020-03-28,US,Missouri,Clinton,1,0,0
+2020-03-28,US,New York,Clinton,12,0,0
+2020-03-28,US,Ohio,Clinton,3,0,0
+2020-03-28,US,Pennsylvania,Clinton,0,0,0
+2020-03-28,US,Kansas,Cloud,0,0,0
+2020-03-28,US,Mississippi,Coahoma,18,0,0
+2020-03-28,US,Oklahoma,Coal,0,0,0
+2020-03-28,US,Georgia,Cobb,181,8,0
+2020-03-28,US,Arizona,Cochise,3,0,0
+2020-03-28,US,Texas,Cochran,0,0,0
+2020-03-28,US,Tennessee,Cocke,1,0,0
+2020-03-28,US,Arizona,Coconino,56,2,0
+2020-03-28,US,South Dakota,Codington,2,0,0
+2020-03-28,US,Alabama,Coffee,0,0,0
+2020-03-28,US,Georgia,Coffee,3,0,0
+2020-03-28,US,Tennessee,Coffee,0,0,0
+2020-03-28,US,Kansas,Coffey,5,0,0
+2020-03-28,US,Texas,Coke,0,0,0
+2020-03-28,US,Alabama,Colbert,1,0,0
+2020-03-28,US,Missouri,Cole,17,0,0
+2020-03-28,US,Texas,Coleman,0,0,0
+2020-03-28,US,Illinois,Coles,0,0,0
+2020-03-28,US,Nebraska,Colfax,0,0,0
+2020-03-28,US,New Mexico,Colfax,0,0,0
+2020-03-28,US,South Carolina,Colleton,4,0,0
+2020-03-28,US,Florida,Collier,92,0,0
+2020-03-28,US,Texas,Collin,118,1,0
+2020-03-28,US,Texas,Collingsworth,0,0,0
+2020-03-28,US,Virginia,Colonial Heights,0,0,0
+2020-03-28,US,Texas,Colorado,0,0,0
+2020-03-28,US,Georgia,Colquitt,5,0,0
+2020-03-28,US,Arkansas,Columbia,1,0,0
+2020-03-28,US,Florida,Columbia,3,0,0
+2020-03-28,US,Georgia,Columbia,12,0,0
+2020-03-28,US,New York,Columbia,30,1,0
+2020-03-28,US,Oregon,Columbia,1,0,0
+2020-03-28,US,Pennsylvania,Columbia,4,0,0
+2020-03-28,US,Washington,Columbia,1,0,0
+2020-03-28,US,Wisconsin,Columbia,7,0,0
+2020-03-28,US,Ohio,Columbiana,9,1,0
+2020-03-28,US,North Carolina,Columbus,2,0,0
+2020-03-28,US,California,Colusa,1,0,0
+2020-03-28,US,Texas,Comal,9,1,0
+2020-03-28,US,Kansas,Comanche,0,0,0
+2020-03-28,US,Oklahoma,Comanche,6,0,0
+2020-03-28,US,Texas,Comanche,1,0,0
+2020-03-28,US,Texas,Concho,0,0,0
+2020-03-28,US,Louisiana,Concordia,0,0,0
+2020-03-28,US,Alabama,Conecuh,0,0,0
+2020-03-28,US,Colorado,Conejos,0,0,0
+2020-03-28,US,California,Contra Costa,168,2,0
+2020-03-28,US,Wyoming,Converse,1,0,0
+2020-03-28,US,Arkansas,Conway,1,0,0
+2020-03-28,US,Georgia,Cook,0,0,0
+2020-03-28,US,Illinois,Cook,2613,28,0
+2020-03-28,US,Minnesota,Cook,0,0,0
+2020-03-28,US,Texas,Cooke,0,0,0
+2020-03-28,US,Missouri,Cooper,1,0,0
+2020-03-28,US,New Hampshire,Coos,0,0,0
+2020-03-28,US,Oregon,Coos,0,0,0
+2020-03-28,US,Alabama,Coosa,2,0,0
+2020-03-28,US,Mississippi,Copiah,8,0,0
+2020-03-28,US,South Dakota,Corson,0,0,0
+2020-03-28,US,New York,Cortland,7,0,0
+2020-03-28,US,Texas,Coryell,1,0,0
+2020-03-28,US,Ohio,Coshocton,4,0,0
+2020-03-28,US,Colorado,Costilla,1,0,0
+2020-03-28,US,Texas,Cottle,0,0,0
+2020-03-28,US,Oklahoma,Cotton,0,0,0
+2020-03-28,US,Minnesota,Cottonwood,0,0,0
+2020-03-28,US,Alabama,Covington,2,0,0
+2020-03-28,US,Mississippi,Covington,1,0,0
+2020-03-28,US,Virginia,Covington,0,0,0
+2020-03-28,US,Georgia,Coweta,19,2,0
+2020-03-28,US,Kansas,Cowley,0,0,0
+2020-03-28,US,Washington,Cowlitz,10,0,0
+2020-03-28,US,Oklahoma,Craig,1,0,0
+2020-03-28,US,Virginia,Craig,0,0,0
+2020-03-28,US,Arkansas,Craighead,4,0,0
+2020-03-28,US,Texas,Crane,1,0,0
+2020-03-28,US,North Carolina,Craven,4,0,0
+2020-03-28,US,Arkansas,Crawford,1,0,0
+2020-03-28,US,Georgia,Crawford,0,0,0
+2020-03-28,US,Illinois,Crawford,0,0,0
+2020-03-28,US,Indiana,Crawford,1,0,0
+2020-03-28,US,Iowa,Crawford,0,0,0
+2020-03-28,US,Kansas,Crawford,3,0,0
+2020-03-28,US,Michigan,Crawford,1,0,0
+2020-03-28,US,Missouri,Crawford,0,0,0
+2020-03-28,US,Ohio,Crawford,2,0,0
+2020-03-28,US,Pennsylvania,Crawford,2,0,0
+2020-03-28,US,Wisconsin,Crawford,0,0,0
+2020-03-28,US,Oklahoma,Creek,16,1,0
+2020-03-28,US,Alabama,Crenshaw,1,0,0
+2020-03-28,US,Georgia,Crisp,5,0,0
+2020-03-28,US,Arkansas,Crittenden,14,0,0
+2020-03-28,US,Kentucky,Crittenden,0,0,0
+2020-03-28,US,Tennessee,Crockett,0,0,0
+2020-03-28,US,Texas,Crockett,0,0,0
+2020-03-28,US,Oregon,Crook,0,0,0
+2020-03-28,US,Wyoming,Crook,0,0,0
+2020-03-28,US,Texas,Crosby,0,0,0
+2020-03-28,US,Arkansas,Cross,1,0,0
+2020-03-28,US,Minnesota,Crow Wing,0,0,0
+2020-03-28,US,Colorado,Crowley,1,1,0
+2020-03-28,US,Texas,Culberson,0,0,0
+2020-03-28,US,Alabama,Cullman,7,0,0
+2020-03-28,US,Virginia,Culpeper,2,0,0
+2020-03-28,US,Illinois,Cumberland,1,0,0
+2020-03-28,US,Kentucky,Cumberland,0,0,0
+2020-03-28,US,Maine,Cumberland,120,1,0
+2020-03-28,US,New Jersey,Cumberland,11,0,0
+2020-03-28,US,North Carolina,Cumberland,8,0,0
+2020-03-28,US,Pennsylvania,Cumberland,22,1,0
+2020-03-28,US,Tennessee,Cumberland,6,0,0
+2020-03-28,US,Virginia,Cumberland,0,0,0
+2020-03-28,US,Nebraska,Cuming,0,0,0
+2020-03-28,US,North Carolina,Currituck,0,0,0
+2020-03-28,US,New Mexico,Curry,1,0,0
+2020-03-28,US,Oregon,Curry,0,0,0
+2020-03-28,US,Colorado,Custer,0,0,0
+2020-03-28,US,Idaho,Custer,1,0,0
+2020-03-28,US,Montana,Custer,0,0,0
+2020-03-28,US,Nebraska,Custer,0,0,0
+2020-03-28,US,Oklahoma,Custer,3,0,0
+2020-03-28,US,South Dakota,Custer,0,0,0
+2020-03-28,US,Ohio,Cuyahoga,370,3,0
+2020-03-28,US,Georgia,Dade,0,0,0
+2020-03-28,US,Missouri,Dade,0,0,0
+2020-03-28,US,Utah,Daggett,0,0,0
+2020-03-28,US,Minnesota,Dakota,33,0,0
+2020-03-28,US,Nebraska,Dakota,0,0,0
+2020-03-28,US,Alabama,Dale,0,0,0
+2020-03-28,US,Texas,Dallam,0,0,0
+2020-03-28,US,Alabama,Dallas,2,0,0
+2020-03-28,US,Arkansas,Dallas,0,0,0
+2020-03-28,US,Iowa,Dallas,15,0,0
+2020-03-28,US,Missouri,Dallas,0,0,0
+2020-03-28,US,Texas,Dallas,439,9,0
+2020-03-28,US,Wisconsin,Dane,172,1,0
+2020-03-28,US,Montana,Daniels,0,0,0
+2020-03-28,US,Virginia,Danville,4,0,0
+2020-03-28,US,North Carolina,Dare,2,0,0
+2020-03-28,US,Ohio,Darke,1,0,0
+2020-03-28,US,South Carolina,Darlington,8,0,0
+2020-03-28,US,Pennsylvania,Dauphin,23,0,0
+2020-03-28,US,North Carolina,Davidson,14,0,0
+2020-03-28,US,Tennessee,Davidson,376,2,0
+2020-03-28,US,North Carolina,Davie,6,0,0
+2020-03-28,US,Indiana,Daviess,0,0,0
+2020-03-28,US,Kentucky,Daviess,33,0,0
+2020-03-28,US,Missouri,Daviess,0,0,0
+2020-03-28,US,Iowa,Davis,0,0,0
+2020-03-28,US,Utah,Davis,59,1,0
+2020-03-28,US,South Dakota,Davison,2,0,0
+2020-03-28,US,Nebraska,Dawes,0,0,0
+2020-03-28,US,Georgia,Dawson,2,0,0
+2020-03-28,US,Montana,Dawson,0,0,0
+2020-03-28,US,Nebraska,Dawson,1,0,0
+2020-03-28,US,Texas,Dawson,3,0,0
+2020-03-28,US,South Dakota,Day,0,0,0
+2020-03-28,US,New Mexico,De Baca,0,0,0
+2020-03-28,US,Louisiana,De Soto,21,1,0
+2020-03-28,US,Illinois,De Witt,0,0,0
+2020-03-28,US,Alabama,DeKalb,4,0,0
+2020-03-28,US,Georgia,DeKalb,240,2,0
+2020-03-28,US,Illinois,DeKalb,4,0,0
+2020-03-28,US,Indiana,DeKalb,1,0,0
+2020-03-28,US,Missouri,DeKalb,0,0,0
+2020-03-28,US,Tennessee,DeKalb,3,0,0
+2020-03-28,US,Florida,DeSoto,7,0,0
+2020-03-28,US,Mississippi,DeSoto,65,1,0
+2020-03-28,US,Texas,DeWitt,3,0,0
+2020-03-28,US,Texas,Deaf Smith,2,0,0
+2020-03-28,US,Indiana,Dearborn,8,1,0
+2020-03-28,US,Georgia,Decatur,3,0,0
+2020-03-28,US,Indiana,Decatur,30,0,0
+2020-03-28,US,Iowa,Decatur,0,0,0
+2020-03-28,US,Kansas,Decatur,0,0,0
+2020-03-28,US,Tennessee,Decatur,1,0,0
+2020-03-28,US,Montana,Deer Lodge,0,0,0
+2020-03-28,US,Ohio,Defiance,5,0,0
+2020-03-28,US,California,Del Norte,0,0,0
+2020-03-28,US,Indiana,Delaware,8,1,0
+2020-03-28,US,Iowa,Delaware,0,0,0
+2020-03-28,US,New York,Delaware,8,0,0
+2020-03-28,US,Ohio,Delaware,26,0,0
+2020-03-28,US,Oklahoma,Delaware,4,0,0
+2020-03-28,US,Pennsylvania,Delaware,226,4,0
+2020-03-28,US,Colorado,Delta,2,0,0
+2020-03-28,US,Michigan,Delta,0,0,0
+2020-03-28,US,Texas,Delta,0,0,0
+2020-03-28,US,Alaska,Denali,0,0,0
+2020-03-28,US,Missouri,Dent,0,0,0
+2020-03-28,US,Texas,Denton,148,2,0
+2020-03-28,US,Colorado,Denver,312,3,0
+2020-03-28,US,Iowa,Des Moines,1,0,0
+2020-03-28,US,Oregon,Deschutes,20,0,0
+2020-03-28,US,Arkansas,Desha,2,0,0
+2020-03-28,US,Nebraska,Deuel,0,0,0
+2020-03-28,US,South Dakota,Deuel,1,0,0
+2020-03-28,US,Oklahoma,Dewey,0,0,0
+2020-03-28,US,South Dakota,Dewey,0,0,0
+2020-03-28,US,Texas,Dickens,0,0,0
+2020-03-28,US,Virginia,Dickenson,0,0,0
+2020-03-28,US,North Dakota,Dickey,0,0,0
+2020-03-28,US,Iowa,Dickinson,1,0,0
+2020-03-28,US,Kansas,Dickinson,0,0,0
+2020-03-28,US,Michigan,Dickinson,0,0,0
+2020-03-28,US,Tennessee,Dickson,11,0,0
+2020-03-28,US,Alaska,Dillingham,0,0,0
+2020-03-28,US,South Carolina,Dillon,1,0,0
+2020-03-28,US,Texas,Dimmit,0,0,0
+2020-03-28,US,Virginia,Dinwiddie,0,0,0
+2020-03-28,US,District of Columbia,District of Columbia,304,4,0
+2020-03-28,US,North Dakota,Divide,1,0,0
+2020-03-28,US,Florida,Dixie,0,0,0
+2020-03-28,US,Nebraska,Dixon,0,0,0
+2020-03-28,US,West Virginia,Doddridge,0,0,0
+2020-03-28,US,Georgia,Dodge,1,0,0
+2020-03-28,US,Minnesota,Dodge,6,0,0
+2020-03-28,US,Nebraska,Dodge,2,0,0
+2020-03-28,US,Wisconsin,Dodge,6,0,0
+2020-03-28,US,Colorado,Dolores,0,0,0
+2020-03-28,US,New Mexico,Dona Ana,17,0,0
+2020-03-28,US,Kansas,Doniphan,1,0,0
+2020-03-28,US,Texas,Donley,0,0,0
+2020-03-28,US,Georgia,Dooly,0,0,0
+2020-03-28,US,Wisconsin,Door,0,0,0
+2020-03-28,US,Maryland,Dorchester,0,0,0
+2020-03-28,US,South Carolina,Dorchester,10,0,0
+2020-03-28,US,Georgia,Dougherty,205,13,0
+2020-03-28,US,Colorado,Douglas,79,0,0
+2020-03-28,US,Georgia,Douglas,35,1,0
+2020-03-28,US,Illinois,Douglas,1,0,0
+2020-03-28,US,Kansas,Douglas,23,0,0
+2020-03-28,US,Minnesota,Douglas,0,0,0
+2020-03-28,US,Missouri,Douglas,0,0,0
+2020-03-28,US,Nebraska,Douglas,51,1,0
+2020-03-28,US,Nevada,Douglas,5,0,0
+2020-03-28,US,Oregon,Douglas,4,0,0
+2020-03-28,US,South Dakota,Douglas,0,0,0
+2020-03-28,US,Washington,Douglas,5,0,0
+2020-03-28,US,Wisconsin,Douglas,6,0,0
+2020-03-28,US,New Mexico,Doña Ana,0,0,0
+2020-03-28,US,Arkansas,Drew,1,0,0
+2020-03-28,US,Illinois,DuPage,202,6,0
+2020-03-28,US,Indiana,Dubois,1,0,0
+2020-03-28,US,Iowa,Dubuque,12,1,0
+2020-03-28,US,Utah,Duchesne,0,0,0
+2020-03-28,US,Massachusetts,Dukes,0,0,0
+2020-03-28,US,Massachusetts,Dukes and Nantucket,8,0,0
+2020-03-28,US,Nebraska,Dundy,0,0,0
+2020-03-28,US,Missouri,Dunklin,3,0,0
+2020-03-28,US,North Dakota,Dunn,1,0,0
+2020-03-28,US,Wisconsin,Dunn,2,0,0
+2020-03-28,US,North Carolina,Duplin,1,0,0
+2020-03-28,US,North Carolina,Durham,113,0,0
+2020-03-28,US,New York,Dutchess,262,2,0
+2020-03-28,US,Florida,Duval,115,3,0
+2020-03-28,US,Texas,Duval,0,0,0
+2020-03-28,US,Tennessee,Dyer,3,0,0
+2020-03-28,US,Colorado,Eagle,170,1,0
+2020-03-28,US,Georgia,Early,15,1,0
+2020-03-28,US,Louisiana,East Baton Rouge,153,4,0
+2020-03-28,US,Louisiana,East Carroll,1,0,0
+2020-03-28,US,Louisiana,East Feliciana,6,0,0
+2020-03-28,US,Texas,Eastland,4,0,0
+2020-03-28,US,Michigan,Eaton,8,0,0
+2020-03-28,US,Wisconsin,Eau Claire,7,0,0
+2020-03-28,US,Georgia,Echols,0,0,0
+2020-03-28,US,Texas,Ector,1,0,0
+2020-03-28,US,New Mexico,Eddy,3,1,0
+2020-03-28,US,North Dakota,Eddy,0,0,0
+2020-03-28,US,Illinois,Edgar,0,0,0
+2020-03-28,US,North Carolina,Edgecombe,1,0,0
+2020-03-28,US,South Carolina,Edgefield,1,0,0
+2020-03-28,US,Kentucky,Edmonson,0,0,0
+2020-03-28,US,South Dakota,Edmunds,0,0,0
+2020-03-28,US,Illinois,Edwards,0,0,0
+2020-03-28,US,Kansas,Edwards,0,0,0
+2020-03-28,US,Texas,Edwards,0,0,0
+2020-03-28,US,Georgia,Effingham,4,0,0
+2020-03-28,US,Illinois,Effingham,0,0,0
+2020-03-28,US,California,El Dorado,12,0,0
+2020-03-28,US,Colorado,El Paso,160,7,0
+2020-03-28,US,Texas,El Paso,38,0,0
+2020-03-28,US,Colorado,Elbert,3,0,0
+2020-03-28,US,Georgia,Elbert,0,0,0
+2020-03-28,US,Kansas,Elk,0,0,0
+2020-03-28,US,Pennsylvania,Elk,0,0,0
+2020-03-28,US,Indiana,Elkhart,11,0,0
+2020-03-28,US,Nevada,Elko,2,0,0
+2020-03-28,US,Kentucky,Elliott,0,0,0
+2020-03-28,US,Kansas,Ellis,0,0,0
+2020-03-28,US,Oklahoma,Ellis,0,0,0
+2020-03-28,US,Texas,Ellis,13,0,0
+2020-03-28,US,Kansas,Ellsworth,0,0,0
+2020-03-28,US,Alabama,Elmore,12,0,0
+2020-03-28,US,Idaho,Elmore,0,0,0
+2020-03-28,US,Georgia,Emanuel,0,0,0
+2020-03-28,US,Utah,Emery,0,0,0
+2020-03-28,US,Iowa,Emmet,0,0,0
+2020-03-28,US,Michigan,Emmet,4,0,0
+2020-03-28,US,North Dakota,Emmons,0,0,0
+2020-03-28,US,Virginia,Emporia,0,0,0
+2020-03-28,US,Texas,Erath,1,0,0
+2020-03-28,US,New York,Erie,318,6,0
+2020-03-28,US,Ohio,Erie,5,1,0
+2020-03-28,US,Pennsylvania,Erie,7,0,0
+2020-03-28,US,Alabama,Escambia,1,0,0
+2020-03-28,US,Florida,Escambia,28,0,0
+2020-03-28,US,Nevada,Esmeralda,0,0,0
+2020-03-28,US,Massachusetts,Essex,472,3,0
+2020-03-28,US,New Jersey,Essex,1086,7,0
+2020-03-28,US,New York,Essex,5,0,0
+2020-03-28,US,Vermont,Essex,0,0,0
+2020-03-28,US,Virginia,Essex,0,0,0
+2020-03-28,US,Kentucky,Estill,0,0,0
+2020-03-28,US,Alabama,Etowah,6,0,0
+2020-03-28,US,Nevada,Eureka,0,0,0
+2020-03-28,US,Louisiana,Evangeline,4,0,0
+2020-03-28,US,Georgia,Evans,0,0,0
+2020-03-28,US,Alaska,Fairbanks North Star,19,0,0
+2020-03-28,US,Virginia,Fairfax,156,2,0
+2020-03-28,US,Virginia,Fairfax City,0,0,0
+2020-03-28,US,Connecticut,Fairfield,908,20,0
+2020-03-28,US,Ohio,Fairfield,14,0,0
+2020-03-28,US,South Carolina,Fairfield,4,0,0
+2020-03-28,US,South Dakota,Fall River,0,0,0
+2020-03-28,US,Montana,Fallon,0,0,0
+2020-03-28,US,Texas,Falls,1,0,0
+2020-03-28,US,Virginia,Falls Church,0,0,0
+2020-03-28,US,Georgia,Fannin,3,0,0
+2020-03-28,US,Texas,Fannin,1,0,0
+2020-03-28,US,Minnesota,Faribault,1,0,0
+2020-03-28,US,South Dakota,Faulk,1,0,0
+2020-03-28,US,Arkansas,Faulkner,29,0,0
+2020-03-28,US,Virginia,Fauquier,6,0,0
+2020-03-28,US,Alabama,Fayette,0,0,0
+2020-03-28,US,Georgia,Fayette,25,2,0
+2020-03-28,US,Illinois,Fayette,1,0,0
+2020-03-28,US,Indiana,Fayette,4,1,0
+2020-03-28,US,Iowa,Fayette,2,0,0
+2020-03-28,US,Kentucky,Fayette,28,2,0
+2020-03-28,US,Ohio,Fayette,1,0,0
+2020-03-28,US,Pennsylvania,Fayette,10,0,0
+2020-03-28,US,Tennessee,Fayette,4,0,0
+2020-03-28,US,Texas,Fayette,1,0,0
+2020-03-28,US,West Virginia,Fayette,0,0,0
+2020-03-28,US,Tennessee,Fentress,0,0,0
+2020-03-28,US,Montana,Fergus,0,0,0
+2020-03-28,US,Washington,Ferry,1,0,0
+2020-03-28,US,Minnesota,Fillmore,5,0,0
+2020-03-28,US,Nebraska,Fillmore,0,0,0
+2020-03-28,US,Kansas,Finney,0,0,0
+2020-03-28,US,Texas,Fisher,0,0,0
+2020-03-28,US,Florida,Flagler,13,0,0
+2020-03-28,US,Montana,Flathead,6,0,0
+2020-03-28,US,Kentucky,Fleming,0,0,0
+2020-03-28,US,South Carolina,Florence,12,3,0
+2020-03-28,US,Wisconsin,Florence,0,0,0
+2020-03-28,US,Georgia,Floyd,27,1,0
+2020-03-28,US,Indiana,Floyd,13,0,0
+2020-03-28,US,Iowa,Floyd,0,0,0
+2020-03-28,US,Kentucky,Floyd,0,0,0
+2020-03-28,US,Texas,Floyd,0,0,0
+2020-03-28,US,Virginia,Floyd,0,0,0
+2020-03-28,US,Virginia,Fluvanna,3,0,0
+2020-03-28,US,Texas,Foard,0,0,0
+2020-03-28,US,Wisconsin,Fond du Lac,20,1,0
+2020-03-28,US,Illinois,Ford,0,0,0
+2020-03-28,US,Kansas,Ford,1,0,0
+2020-03-28,US,Pennsylvania,Forest,0,0,0
+2020-03-28,US,Wisconsin,Forest,0,0,0
+2020-03-28,US,Mississippi,Forrest,18,0,0
+2020-03-28,US,Georgia,Forsyth,21,1,0
+2020-03-28,US,North Carolina,Forsyth,33,0,0
+2020-03-28,US,Texas,Fort Bend,101,1,0
+2020-03-28,US,North Dakota,Foster,1,0,0
+2020-03-28,US,Indiana,Fountain,1,0,0
+2020-03-28,US,Alabama,Franklin,3,0,0
+2020-03-28,US,Arkansas,Franklin,0,0,0
+2020-03-28,US,Florida,Franklin,0,0,0
+2020-03-28,US,Georgia,Franklin,2,0,0
+2020-03-28,US,Idaho,Franklin,0,0,0
+2020-03-28,US,Illinois,Franklin,1,0,0
+2020-03-28,US,Indiana,Franklin,23,2,0
+2020-03-28,US,Iowa,Franklin,0,0,0
+2020-03-28,US,Kansas,Franklin,6,0,0
+2020-03-28,US,Kentucky,Franklin,2,0,0
+2020-03-28,US,Louisiana,Franklin,4,0,0
+2020-03-28,US,Maine,Franklin,2,0,0
+2020-03-28,US,Massachusetts,Franklin,39,2,0
+2020-03-28,US,Mississippi,Franklin,3,0,0
+2020-03-28,US,Missouri,Franklin,6,0,0
+2020-03-28,US,Nebraska,Franklin,0,0,0
+2020-03-28,US,New York,Franklin,5,0,0
+2020-03-28,US,North Carolina,Franklin,5,0,0
+2020-03-28,US,Ohio,Franklin,222,2,0
+2020-03-28,US,Pennsylvania,Franklin,7,0,0
+2020-03-28,US,Tennessee,Franklin,3,0,0
+2020-03-28,US,Texas,Franklin,0,0,0
+2020-03-28,US,Vermont,Franklin,7,0,0
+2020-03-28,US,Virginia,Franklin,1,0,0
+2020-03-28,US,Washington,Franklin,12,0,0
+2020-03-28,US,Virginia,Franklin City,0,0,0
+2020-03-28,US,Maryland,Frederick,22,0,0
+2020-03-28,US,Virginia,Frederick,4,0,0
+2020-03-28,US,Virginia,Fredericksburg,1,0,0
+2020-03-28,US,Minnesota,Freeborn,0,0,0
+2020-03-28,US,Texas,Freestone,0,0,0
+2020-03-28,US,Colorado,Fremont,1,0,0
+2020-03-28,US,Idaho,Fremont,1,0,0
+2020-03-28,US,Iowa,Fremont,0,0,0
+2020-03-28,US,Wyoming,Fremont,20,0,0
+2020-03-28,US,California,Fresno,31,0,0
+2020-03-28,US,Texas,Frio,0,0,0
+2020-03-28,US,Nebraska,Frontier,0,0,0
+2020-03-28,US,Arkansas,Fulton,0,0,0
+2020-03-28,US,Georgia,Fulton,373,12,0
+2020-03-28,US,Illinois,Fulton,0,0,0
+2020-03-28,US,Indiana,Fulton,1,0,0
+2020-03-28,US,Kentucky,Fulton,0,0,0
+2020-03-28,US,New York,Fulton,1,0,0
+2020-03-28,US,Ohio,Fulton,2,0,0
+2020-03-28,US,Pennsylvania,Fulton,0,0,0
+2020-03-28,US,Nebraska,Furnas,0,0,0
+2020-03-28,US,Florida,Gadsden,1,0,0
+2020-03-28,US,Nebraska,Gage,1,0,0
+2020-03-28,US,Texas,Gaines,1,0,0
+2020-03-28,US,Virginia,Galax,1,0,0
+2020-03-28,US,Illinois,Gallatin,0,0,0
+2020-03-28,US,Kentucky,Gallatin,0,0,0
+2020-03-28,US,Montana,Gallatin,46,0,0
+2020-03-28,US,Ohio,Gallia,1,1,0
+2020-03-28,US,Texas,Galveston,49,0,0
+2020-03-28,US,Nebraska,Garden,0,0,0
+2020-03-28,US,Colorado,Garfield,16,0,0
+2020-03-28,US,Montana,Garfield,0,0,0
+2020-03-28,US,Nebraska,Garfield,0,0,0
+2020-03-28,US,Oklahoma,Garfield,0,0,0
+2020-03-28,US,Utah,Garfield,0,0,0
+2020-03-28,US,Washington,Garfield,0,0,0
+2020-03-28,US,Arkansas,Garland,20,0,0
+2020-03-28,US,Kentucky,Garrard,0,0,0
+2020-03-28,US,Maryland,Garrett,3,0,0
+2020-03-28,US,Oklahoma,Garvin,2,0,0
+2020-03-28,US,Texas,Garza,0,0,0
+2020-03-28,US,Missouri,Gasconade,0,0,0
+2020-03-28,US,North Carolina,Gaston,17,0,0
+2020-03-28,US,North Carolina,Gates,0,0,0
+2020-03-28,US,Kansas,Geary,0,0,0
+2020-03-28,US,Ohio,Geauga,14,0,0
+2020-03-28,US,Idaho,Gem,1,0,0
+2020-03-28,US,Michigan,Genesee,110,5,0
+2020-03-28,US,New York,Genesee,7,0,0
+2020-03-28,US,Alabama,Geneva,0,0,0
+2020-03-28,US,Missouri,Gentry,0,0,0
+2020-03-28,US,Mississippi,George,1,0,0
+2020-03-28,US,South Carolina,Georgetown,6,0,0
+2020-03-28,US,Indiana,Gibson,4,0,0
+2020-03-28,US,Tennessee,Gibson,2,0,0
+2020-03-28,US,Arizona,Gila,1,0,0
+2020-03-28,US,Florida,Gilchrist,0,0,0
+2020-03-28,US,Tennessee,Giles,0,0,0
+2020-03-28,US,Virginia,Giles,0,0,0
+2020-03-28,US,Texas,Gillespie,0,0,0
+2020-03-28,US,Oregon,Gilliam,0,0,0
+2020-03-28,US,Georgia,Gilmer,0,0,0
+2020-03-28,US,West Virginia,Gilmer,0,0,0
+2020-03-28,US,Colorado,Gilpin,0,0,0
+2020-03-28,US,Montana,Glacier,0,0,0
+2020-03-28,US,Florida,Glades,0,0,0
+2020-03-28,US,Michigan,Gladwin,2,0,0
+2020-03-28,US,Georgia,Glascock,0,0,0
+2020-03-28,US,Texas,Glasscock,0,0,0
+2020-03-28,US,California,Glenn,0,0,0
+2020-03-28,US,New Jersey,Gloucester,51,1,0
+2020-03-28,US,Virginia,Gloucester,6,0,0
+2020-03-28,US,Georgia,Glynn,7,0,0
+2020-03-28,US,Michigan,Gogebic,1,1,0
+2020-03-28,US,Montana,Golden Valley,0,0,0
+2020-03-28,US,North Dakota,Golden Valley,0,0,0
+2020-03-28,US,Texas,Goliad,0,0,0
+2020-03-28,US,Texas,Gonzales,0,0,0
+2020-03-28,US,Virginia,Goochland,5,0,0
+2020-03-28,US,Minnesota,Goodhue,2,0,0
+2020-03-28,US,Idaho,Gooding,0,0,0
+2020-03-28,US,Georgia,Gordon,14,1,0
+2020-03-28,US,Wyoming,Goshen,1,0,0
+2020-03-28,US,Nebraska,Gosper,0,0,0
+2020-03-28,US,Kansas,Gove,1,0,0
+2020-03-28,US,Georgia,Grady,0,0,0
+2020-03-28,US,Oklahoma,Grady,2,0,0
+2020-03-28,US,New Hampshire,Grafton,26,0,0
+2020-03-28,US,Arizona,Graham,2,0,0
+2020-03-28,US,Kansas,Graham,0,0,0
+2020-03-28,US,North Carolina,Graham,0,0,0
+2020-03-28,US,Tennessee,Grainger,0,0,0
+2020-03-28,US,Colorado,Grand,2,0,0
+2020-03-28,US,Utah,Grand,0,0,0
+2020-03-28,US,North Dakota,Grand Forks,0,0,0
+2020-03-28,US,Vermont,Grand Isle,0,0,0
+2020-03-28,US,Michigan,Grand Traverse,5,0,0
+2020-03-28,US,Montana,Granite,0,0,0
+2020-03-28,US,Arkansas,Grant,3,0,0
+2020-03-28,US,Indiana,Grant,5,0,0
+2020-03-28,US,Kansas,Grant,0,0,0
+2020-03-28,US,Kentucky,Grant,0,0,0
+2020-03-28,US,Louisiana,Grant,1,0,0
+2020-03-28,US,Minnesota,Grant,0,0,0
+2020-03-28,US,Nebraska,Grant,0,0,0
+2020-03-28,US,New Mexico,Grant,0,0,0
+2020-03-28,US,North Dakota,Grant,0,0,0
+2020-03-28,US,Oklahoma,Grant,0,0,0
+2020-03-28,US,Oregon,Grant,1,0,0
+2020-03-28,US,South Dakota,Grant,0,0,0
+2020-03-28,US,Washington,Grant,44,1,0
+2020-03-28,US,West Virginia,Grant,0,0,0
+2020-03-28,US,Wisconsin,Grant,1,0,0
+2020-03-28,US,North Carolina,Granville,3,0,0
+2020-03-28,US,Michigan,Gratiot,2,0,0
+2020-03-28,US,Kentucky,Graves,0,0,0
+2020-03-28,US,Kansas,Gray,0,0,0
+2020-03-28,US,Texas,Gray,0,0,0
+2020-03-28,US,Washington,Grays Harbor,1,0,0
+2020-03-28,US,Kentucky,Grayson,0,0,0
+2020-03-28,US,Texas,Grayson,2,0,0
+2020-03-28,US,Virginia,Grayson,0,0,0
+2020-03-28,US,Kansas,Greeley,0,0,0
+2020-03-28,US,Nebraska,Greeley,0,0,0
+2020-03-28,US,Kentucky,Green,0,0,0
+2020-03-28,US,Wisconsin,Green,4,0,0
+2020-03-28,US,Wisconsin,Green Lake,0,0,0
+2020-03-28,US,West Virginia,Greenbrier,1,0,0
+2020-03-28,US,Alabama,Greene,3,0,0
+2020-03-28,US,Arkansas,Greene,1,0,0
+2020-03-28,US,Georgia,Greene,1,0,0
+2020-03-28,US,Illinois,Greene,0,0,0
+2020-03-28,US,Indiana,Greene,0,0,0
+2020-03-28,US,Iowa,Greene,0,0,0
+2020-03-28,US,Mississippi,Greene,0,0,0
+2020-03-28,US,Missouri,Greene,41,4,0
+2020-03-28,US,New York,Greene,7,0,0
+2020-03-28,US,North Carolina,Greene,3,0,0
+2020-03-28,US,Ohio,Greene,3,0,0
+2020-03-28,US,Pennsylvania,Greene,6,0,0
+2020-03-28,US,Tennessee,Greene,8,0,0
+2020-03-28,US,Virginia,Greene,1,0,0
+2020-03-28,US,Arizona,Greenlee,0,0,0
+2020-03-28,US,Virginia,Greensville,0,0,0
+2020-03-28,US,Kentucky,Greenup,0,0,0
+2020-03-28,US,South Carolina,Greenville,57,1,0
+2020-03-28,US,Kansas,Greenwood,0,0,0
+2020-03-28,US,South Carolina,Greenwood,3,0,0
+2020-03-28,US,Oklahoma,Greer,0,0,0
+2020-03-28,US,Texas,Gregg,4,0,0
+2020-03-28,US,South Dakota,Gregory,0,0,0
+2020-03-28,US,Mississippi,Grenada,2,0,0
+2020-03-28,US,North Dakota,Griggs,0,0,0
+2020-03-28,US,Texas,Grimes,2,0,0
+2020-03-28,US,Illinois,Grundy,2,0,0
+2020-03-28,US,Iowa,Grundy,0,0,0
+2020-03-28,US,Missouri,Grundy,0,0,0
+2020-03-28,US,Tennessee,Grundy,2,0,0
+2020-03-28,US,New Mexico,Guadalupe,0,0,0
+2020-03-28,US,Texas,Guadalupe,8,0,0
+2020-03-28,US,Ohio,Guernsey,0,0,0
+2020-03-28,US,North Carolina,Guilford,34,0,0
+2020-03-28,US,Florida,Gulf,0,0,0
+2020-03-28,US,Colorado,Gunnison,66,1,0
+2020-03-28,US,Iowa,Guthrie,0,0,0
+2020-03-28,US,Georgia,Gwinnett,129,1,0
+2020-03-28,US,South Dakota,Haakon,0,0,0
+2020-03-28,US,Georgia,Habersham,0,0,0
+2020-03-28,US,Alaska,Haines,0,0,0
+2020-03-28,US,Alabama,Hale,0,0,0
+2020-03-28,US,Texas,Hale,1,0,0
+2020-03-28,US,North Carolina,Halifax,1,0,0
+2020-03-28,US,Virginia,Halifax,1,0,0
+2020-03-28,US,Georgia,Hall,31,0,0
+2020-03-28,US,Nebraska,Hall,3,1,0
+2020-03-28,US,Texas,Hall,0,0,0
+2020-03-28,US,Tennessee,Hamblen,2,0,0
+2020-03-28,US,Florida,Hamilton,0,0,0
+2020-03-28,US,Illinois,Hamilton,0,0,0
+2020-03-28,US,Indiana,Hamilton,64,0,0
+2020-03-28,US,Iowa,Hamilton,0,0,0
+2020-03-28,US,Kansas,Hamilton,0,0,0
+2020-03-28,US,Nebraska,Hamilton,0,0,0
+2020-03-28,US,New York,Hamilton,2,0,0
+2020-03-28,US,Ohio,Hamilton,71,0,0
+2020-03-28,US,Tennessee,Hamilton,35,1,0
+2020-03-28,US,Texas,Hamilton,0,0,0
+2020-03-28,US,South Dakota,Hamlin,1,0,0
+2020-03-28,US,Massachusetts,Hampden,183,4,0
+2020-03-28,US,Massachusetts,Hampshire,30,0,0
+2020-03-28,US,West Virginia,Hampshire,0,0,0
+2020-03-28,US,South Carolina,Hampton,0,0,0
+2020-03-28,US,Virginia,Hampton,7,1,0
+2020-03-28,US,Georgia,Hancock,0,0,0
+2020-03-28,US,Illinois,Hancock,0,0,0
+2020-03-28,US,Indiana,Hancock,19,1,0
+2020-03-28,US,Iowa,Hancock,3,0,0
+2020-03-28,US,Kentucky,Hancock,1,0,0
+2020-03-28,US,Maine,Hancock,0,0,0
+2020-03-28,US,Mississippi,Hancock,9,1,0
+2020-03-28,US,Ohio,Hancock,3,0,0
+2020-03-28,US,Tennessee,Hancock,0,0,0
+2020-03-28,US,West Virginia,Hancock,1,0,0
+2020-03-28,US,South Dakota,Hand,0,0,0
+2020-03-28,US,Virginia,Hanover,3,0,0
+2020-03-28,US,Texas,Hansford,0,0,0
+2020-03-28,US,South Dakota,Hanson,0,0,0
+2020-03-28,US,Georgia,Haralson,1,0,0
+2020-03-28,US,Florida,Hardee,0,0,0
+2020-03-28,US,Tennessee,Hardeman,1,0,0
+2020-03-28,US,Texas,Hardeman,0,0,0
+2020-03-28,US,Illinois,Hardin,0,0,0
+2020-03-28,US,Iowa,Hardin,1,0,0
+2020-03-28,US,Kentucky,Hardin,2,0,0
+2020-03-28,US,Ohio,Hardin,0,0,0
+2020-03-28,US,Tennessee,Hardin,1,0,0
+2020-03-28,US,Texas,Hardin,6,0,0
+2020-03-28,US,New Mexico,Harding,0,0,0
+2020-03-28,US,South Dakota,Harding,0,0,0
+2020-03-28,US,West Virginia,Hardy,0,0,0
+2020-03-28,US,Maryland,Harford,21,0,0
+2020-03-28,US,Kentucky,Harlan,0,0,0
+2020-03-28,US,Nebraska,Harlan,0,0,0
+2020-03-28,US,Oklahoma,Harmon,0,0,0
+2020-03-28,US,North Carolina,Harnett,11,1,0
+2020-03-28,US,Oregon,Harney,0,0,0
+2020-03-28,US,Kansas,Harper,0,0,0
+2020-03-28,US,Oklahoma,Harper,0,0,0
+2020-03-28,US,Georgia,Harris,1,0,0
+2020-03-28,US,Texas,Harris,445,2,0
+2020-03-28,US,Indiana,Harrison,7,0,0
+2020-03-28,US,Iowa,Harrison,8,0,0
+2020-03-28,US,Kentucky,Harrison,10,0,0
+2020-03-28,US,Mississippi,Harrison,38,1,0
+2020-03-28,US,Missouri,Harrison,0,0,0
+2020-03-28,US,Ohio,Harrison,0,0,0
+2020-03-28,US,Texas,Harrison,1,0,0
+2020-03-28,US,West Virginia,Harrison,4,0,0
+2020-03-28,US,Virginia,Harrisonburg,5,0,0
+2020-03-28,US,Georgia,Hart,1,0,0
+2020-03-28,US,Kentucky,Hart,0,0,0
+2020-03-28,US,Connecticut,Hartford,228,2,0
+2020-03-28,US,Texas,Hartley,0,0,0
+2020-03-28,US,Kansas,Harvey,1,0,0
+2020-03-28,US,Kansas,Haskell,0,0,0
+2020-03-28,US,Oklahoma,Haskell,0,0,0
+2020-03-28,US,Texas,Haskell,0,0,0
+2020-03-28,US,Hawaii,Hawaii,10,0,0
+2020-03-28,US,Tennessee,Hawkins,2,0,0
+2020-03-28,US,Nebraska,Hayes,0,0,0
+2020-03-28,US,Texas,Hays,13,0,0
+2020-03-28,US,North Carolina,Haywood,0,0,0
+2020-03-28,US,Tennessee,Haywood,0,0,0
+2020-03-28,US,Georgia,Heard,1,1,0
+2020-03-28,US,Texas,Hemphill,0,0,0
+2020-03-28,US,Arkansas,Hempstead,0,0,0
+2020-03-28,US,Illinois,Henderson,0,0,0
+2020-03-28,US,Kentucky,Henderson,3,0,0
+2020-03-28,US,North Carolina,Henderson,9,0,0
+2020-03-28,US,Tennessee,Henderson,0,0,0
+2020-03-28,US,Texas,Henderson,0,0,0
+2020-03-28,US,Indiana,Hendricks,36,2,0
+2020-03-28,US,Florida,Hendry,0,0,0
+2020-03-28,US,Minnesota,Hennepin,152,2,0
+2020-03-28,US,Virginia,Henrico,31,2,0
+2020-03-28,US,Alabama,Henry,0,0,0
+2020-03-28,US,Georgia,Henry,50,1,0
+2020-03-28,US,Illinois,Henry,2,0,0
+2020-03-28,US,Indiana,Henry,1,0,0
+2020-03-28,US,Iowa,Henry,2,0,0
+2020-03-28,US,Kentucky,Henry,0,0,0
+2020-03-28,US,Missouri,Henry,1,0,0
+2020-03-28,US,Ohio,Henry,0,0,0
+2020-03-28,US,Tennessee,Henry,0,0,0
+2020-03-28,US,Virginia,Henry,0,0,0
+2020-03-28,US,New York,Herkimer,9,1,0
+2020-03-28,US,Florida,Hernando,13,0,0
+2020-03-28,US,North Carolina,Hertford,3,0,0
+2020-03-28,US,North Dakota,Hettinger,0,0,0
+2020-03-28,US,Kentucky,Hickman,0,0,0
+2020-03-28,US,Tennessee,Hickman,0,0,0
+2020-03-28,US,Missouri,Hickory,0,0,0
+2020-03-28,US,New Mexico,Hidalgo,0,0,0
+2020-03-28,US,Texas,Hidalgo,18,0,0
+2020-03-28,US,Ohio,Highland,1,0,0
+2020-03-28,US,Virginia,Highland,0,0,0
+2020-03-28,US,Florida,Highlands,10,1,0
+2020-03-28,US,Montana,Hill,1,0,0
+2020-03-28,US,Texas,Hill,0,0,0
+2020-03-28,US,Florida,Hillsborough,195,2,0
+2020-03-28,US,New Hampshire,Hillsborough,43,2,0
+2020-03-28,US,Michigan,Hillsdale,7,0,0
+2020-03-28,US,Mississippi,Hinds,58,0,0
+2020-03-28,US,Colorado,Hinsdale,1,0,0
+2020-03-28,US,Nebraska,Hitchcock,0,0,0
+2020-03-28,US,Ohio,Hocking,0,0,0
+2020-03-28,US,Texas,Hockley,7,0,0
+2020-03-28,US,Kansas,Hodgeman,0,0,0
+2020-03-28,US,North Carolina,Hoke,2,0,0
+2020-03-28,US,Florida,Holmes,0,0,0
+2020-03-28,US,Mississippi,Holmes,13,1,0
+2020-03-28,US,Ohio,Holmes,0,0,0
+2020-03-28,US,Missouri,Holt,0,0,0
+2020-03-28,US,Nebraska,Holt,0,0,0
+2020-03-28,US,Hawaii,Honolulu,108,0,0
+2020-03-28,US,Texas,Hood,3,0,0
+2020-03-28,US,Oregon,Hood River,1,0,0
+2020-03-28,US,Nebraska,Hooker,0,0,0
+2020-03-28,US,Alaska,Hoonah-Angoon,0,0,0
+2020-03-28,US,Virginia,Hopewell,1,0,0
+2020-03-28,US,Kentucky,Hopkins,0,1,0
+2020-03-28,US,Texas,Hopkins,1,0,0
+2020-03-28,US,South Carolina,Horry,28,2,0
+2020-03-28,US,Arkansas,Hot Spring,1,0,0
+2020-03-28,US,Wyoming,Hot Springs,0,0,0
+2020-03-28,US,Michigan,Houghton,0,0,0
+2020-03-28,US,Alabama,Houston,4,0,0
+2020-03-28,US,Georgia,Houston,12,1,0
+2020-03-28,US,Minnesota,Houston,0,0,0
+2020-03-28,US,Tennessee,Houston,2,0,0
+2020-03-28,US,Texas,Houston,0,0,0
+2020-03-28,US,Arkansas,Howard,1,0,0
+2020-03-28,US,Indiana,Howard,9,1,0
+2020-03-28,US,Iowa,Howard,0,0,0
+2020-03-28,US,Maryland,Howard,73,0,0
+2020-03-28,US,Missouri,Howard,0,0,0
+2020-03-28,US,Nebraska,Howard,0,0,0
+2020-03-28,US,Texas,Howard,0,0,0
+2020-03-28,US,Missouri,Howell,0,0,0
+2020-03-28,US,Minnesota,Hubbard,0,0,0
+2020-03-28,US,New Jersey,Hudson,771,4,0
+2020-03-28,US,Texas,Hudspeth,0,0,0
+2020-03-28,US,Colorado,Huerfano,1,0,0
+2020-03-28,US,Oklahoma,Hughes,0,0,0
+2020-03-28,US,South Dakota,Hughes,1,0,0
+2020-03-28,US,California,Humboldt,14,0,0
+2020-03-28,US,Iowa,Humboldt,0,0,0
+2020-03-28,US,Nevada,Humboldt,1,0,0
+2020-03-28,US,Mississippi,Humphreys,2,0,0
+2020-03-28,US,Tennessee,Humphreys,0,0,0
+2020-03-28,US,Texas,Hunt,1,0,0
+2020-03-28,US,New Jersey,Hunterdon,61,0,0
+2020-03-28,US,Pennsylvania,Huntingdon,1,0,0
+2020-03-28,US,Indiana,Huntington,1,0,0
+2020-03-28,US,Michigan,Huron,1,0,0
+2020-03-28,US,Ohio,Huron,3,0,0
+2020-03-28,US,South Dakota,Hutchinson,2,0,0
+2020-03-28,US,Texas,Hutchinson,0,0,0
+2020-03-28,US,North Carolina,Hyde,1,0,0
+2020-03-28,US,South Dakota,Hyde,0,0,0
+2020-03-28,US,Louisiana,Iberia,9,0,0
+2020-03-28,US,Louisiana,Iberville,21,1,0
+2020-03-28,US,Iowa,Ida,0,0,0
+2020-03-28,US,Idaho,Idaho,1,0,0
+2020-03-28,US,California,Imperial,21,0,0
+2020-03-28,US,Arkansas,Independence,3,0,0
+2020-03-28,US,Florida,Indian River,16,0,0
+2020-03-28,US,Pennsylvania,Indiana,2,0,0
+2020-03-28,US,Michigan,Ingham,32,0,0
+2020-03-28,US,California,Inyo,5,0,0
+2020-03-28,US,Michigan,Ionia,2,0,0
+2020-03-28,US,Michigan,Iosco,1,0,0
+2020-03-28,US,Iowa,Iowa,1,0,0
+2020-03-28,US,Wisconsin,Iowa,3,0,0
+2020-03-28,US,North Carolina,Iredell,18,0,0
+2020-03-28,US,Texas,Irion,0,0,0
+2020-03-28,US,Michigan,Iron,0,0,0
+2020-03-28,US,Missouri,Iron,0,0,0
+2020-03-28,US,Utah,Iron,0,0,0
+2020-03-28,US,Wisconsin,Iron,1,1,0
+2020-03-28,US,Illinois,Iroquois,1,0,0
+2020-03-28,US,Georgia,Irwin,3,0,0
+2020-03-28,US,Michigan,Isabella,4,0,0
+2020-03-28,US,Minnesota,Isanti,0,0,0
+2020-03-28,US,Washington,Island,80,1,0
+2020-03-28,US,Virginia,Isle of Wight,3,0,0
+2020-03-28,US,Mississippi,Issaquena,0,0,0
+2020-03-28,US,Minnesota,Itasca,0,0,0
+2020-03-28,US,Mississippi,Itawamba,3,0,0
+2020-03-28,US,Arkansas,Izard,0,0,0
+2020-03-28,US,Texas,Jack,0,0,0
+2020-03-28,US,Alabama,Jackson,5,1,0
+2020-03-28,US,Arkansas,Jackson,0,0,0
+2020-03-28,US,Colorado,Jackson,0,0,0
+2020-03-28,US,Florida,Jackson,1,0,0
+2020-03-28,US,Georgia,Jackson,2,0,0
+2020-03-28,US,Illinois,Jackson,2,0,0
+2020-03-28,US,Indiana,Jackson,7,0,0
+2020-03-28,US,Iowa,Jackson,0,0,0
+2020-03-28,US,Kansas,Jackson,1,0,0
+2020-03-28,US,Kentucky,Jackson,0,0,0
+2020-03-28,US,Louisiana,Jackson,2,0,0
+2020-03-28,US,Michigan,Jackson,20,0,0
+2020-03-28,US,Minnesota,Jackson,1,0,0
+2020-03-28,US,Mississippi,Jackson,33,0,0
+2020-03-28,US,Missouri,Jackson,43,1,0
+2020-03-28,US,North Carolina,Jackson,1,0,0
+2020-03-28,US,Ohio,Jackson,0,0,0
+2020-03-28,US,Oklahoma,Jackson,1,0,0
+2020-03-28,US,Oregon,Jackson,8,0,0
+2020-03-28,US,South Dakota,Jackson,0,0,0
+2020-03-28,US,Tennessee,Jackson,0,0,0
+2020-03-28,US,Texas,Jackson,1,0,0
+2020-03-28,US,West Virginia,Jackson,6,0,0
+2020-03-28,US,Wisconsin,Jackson,0,0,0
+2020-03-28,US,Virginia,James City,65,2,0
+2020-03-28,US,Georgia,Jasper,2,0,0
+2020-03-28,US,Illinois,Jasper,0,0,0
+2020-03-28,US,Indiana,Jasper,5,1,0
+2020-03-28,US,Iowa,Jasper,3,0,0
+2020-03-28,US,Mississippi,Jasper,0,0,0
+2020-03-28,US,Missouri,Jasper,4,0,0
+2020-03-28,US,South Carolina,Jasper,3,0,0
+2020-03-28,US,Texas,Jasper,0,0,0
+2020-03-28,US,Indiana,Jay,0,0,0
+2020-03-28,US,Georgia,Jeff Davis,0,0,0
+2020-03-28,US,Texas,Jeff Davis,0,0,0
+2020-03-28,US,Alabama,Jefferson,195,0,0
+2020-03-28,US,Arkansas,Jefferson,25,0,0
+2020-03-28,US,Colorado,Jefferson,158,5,0
+2020-03-28,US,Florida,Jefferson,0,0,0
+2020-03-28,US,Georgia,Jefferson,0,0,0
+2020-03-28,US,Idaho,Jefferson,2,0,0
+2020-03-28,US,Illinois,Jefferson,0,0,0
+2020-03-28,US,Indiana,Jefferson,0,0,0
+2020-03-28,US,Iowa,Jefferson,0,0,0
+2020-03-28,US,Kansas,Jefferson,1,0,0
+2020-03-28,US,Kentucky,Jefferson,103,3,0
+2020-03-28,US,Louisiana,Jefferson,744,26,0
+2020-03-28,US,Mississippi,Jefferson,1,0,0
+2020-03-28,US,Missouri,Jefferson,17,0,0
+2020-03-28,US,Montana,Jefferson,2,0,0
+2020-03-28,US,Nebraska,Jefferson,0,0,0
+2020-03-28,US,New York,Jefferson,6,0,0
+2020-03-28,US,Ohio,Jefferson,5,0,0
+2020-03-28,US,Oklahoma,Jefferson,0,0,0
+2020-03-28,US,Oregon,Jefferson,0,0,0
+2020-03-28,US,Pennsylvania,Jefferson,0,0,0
+2020-03-28,US,Tennessee,Jefferson,5,0,0
+2020-03-28,US,Texas,Jefferson,12,1,0
+2020-03-28,US,Washington,Jefferson,11,0,0
+2020-03-28,US,West Virginia,Jefferson,4,0,0
+2020-03-28,US,Wisconsin,Jefferson,8,0,0
+2020-03-28,US,Louisiana,Jefferson Davis,1,0,0
+2020-03-28,US,Mississippi,Jefferson Davis,0,0,0
+2020-03-28,US,Georgia,Jenkins,1,0,0
+2020-03-28,US,Indiana,Jennings,10,0,0
+2020-03-28,US,South Dakota,Jerauld,0,0,0
+2020-03-28,US,Idaho,Jerome,0,0,0
+2020-03-28,US,Illinois,Jersey,0,0,0
+2020-03-28,US,Kentucky,Jessamine,1,0,0
+2020-03-28,US,Kansas,Jewell,0,0,0
+2020-03-28,US,Texas,Jim Hogg,0,0,0
+2020-03-28,US,Texas,Jim Wells,0,0,0
+2020-03-28,US,Illinois,Jo Daviess,1,0,0
+2020-03-28,US,Arkansas,Johnson,1,0,0
+2020-03-28,US,Georgia,Johnson,0,0,0
+2020-03-28,US,Illinois,Johnson,0,0,0
+2020-03-28,US,Indiana,Johnson,52,3,0
+2020-03-28,US,Iowa,Johnson,61,0,0
+2020-03-28,US,Kansas,Johnson,80,1,0
+2020-03-28,US,Kentucky,Johnson,0,0,0
+2020-03-28,US,Missouri,Johnson,9,0,0
+2020-03-28,US,Nebraska,Johnson,0,0,0
+2020-03-28,US,Tennessee,Johnson,0,0,0
+2020-03-28,US,Texas,Johnson,8,0,0
+2020-03-28,US,Wyoming,Johnson,5,0,0
+2020-03-28,US,North Carolina,Johnston,9,1,0
+2020-03-28,US,Oklahoma,Johnston,0,0,0
+2020-03-28,US,Georgia,Jones,2,0,0
+2020-03-28,US,Iowa,Jones,0,0,0
+2020-03-28,US,Mississippi,Jones,3,0,0
+2020-03-28,US,North Carolina,Jones,0,0,0
+2020-03-28,US,South Dakota,Jones,0,0,0
+2020-03-28,US,Texas,Jones,0,0,0
+2020-03-28,US,Oregon,Josephine,5,0,0
+2020-03-28,US,Utah,Juab,0,0,0
+2020-03-28,US,Montana,Judith Basin,0,0,0
+2020-03-28,US,Alaska,Juneau,4,0,0
+2020-03-28,US,Wisconsin,Juneau,2,0,0
+2020-03-28,US,Pennsylvania,Juniata,1,0,0
+2020-03-28,US,Michigan,Kalamazoo,15,0,0
+2020-03-28,US,Hawaii,Kalawao,0,0,0
+2020-03-28,US,Michigan,Kalkaska,4,0,0
+2020-03-28,US,Minnesota,Kanabec,0,0,0
+2020-03-28,US,West Virginia,Kanawha,17,0,0
+2020-03-28,US,Minnesota,Kandiyohi,1,0,0
+2020-03-28,US,Illinois,Kane,90,4,0
+2020-03-28,US,Utah,Kane,0,0,0
+2020-03-28,US,Illinois,Kankakee,27,0,0
+2020-03-28,US,Missouri,Kansas City,94,0,0
+2020-03-28,US,Texas,Karnes,1,0,0
+2020-03-28,US,Hawaii,Kauai,11,0,0
+2020-03-28,US,Texas,Kaufman,2,0,0
+2020-03-28,US,Oklahoma,Kay,18,0,0
+2020-03-28,US,Nebraska,Kearney,1,0,0
+2020-03-28,US,Kansas,Kearny,0,0,0
+2020-03-28,US,Nebraska,Keith,0,0,0
+2020-03-28,US,Mississippi,Kemper,1,0,0
+2020-03-28,US,Alaska,Kenai Peninsula,5,0,0
+2020-03-28,US,Illinois,Kendall,11,0,0
+2020-03-28,US,Texas,Kendall,6,0,0
+2020-03-28,US,Texas,Kenedy,0,0,0
+2020-03-28,US,Maine,Kennebec,9,0,0
+2020-03-28,US,Wisconsin,Kenosha,24,0,0
+2020-03-28,US,Delaware,Kent,25,2,0
+2020-03-28,US,Maryland,Kent,2,0,0
+2020-03-28,US,Michigan,Kent,53,1,0
+2020-03-28,US,Rhode Island,Kent,9,0,0
+2020-03-28,US,Texas,Kent,0,0,0
+2020-03-28,US,Kentucky,Kenton,12,1,0
+2020-03-28,US,Iowa,Keokuk,1,0,0
+2020-03-28,US,California,Kern,47,1,0
+2020-03-28,US,Texas,Kerr,0,0,0
+2020-03-28,US,South Carolina,Kershaw,77,2,0
+2020-03-28,US,Alaska,Ketchikan Gateway,12,0,0
+2020-03-28,US,Wisconsin,Kewaunee,0,0,0
+2020-03-28,US,Michigan,Keweenaw,0,0,0
+2020-03-28,US,Nebraska,Keya Paha,0,0,0
+2020-03-28,US,North Dakota,Kidder,0,0,0
+2020-03-28,US,Nebraska,Kimball,0,0,0
+2020-03-28,US,Texas,Kimble,0,0,0
+2020-03-28,US,Texas,King,0,0,0
+2020-03-28,US,Washington,King,2077,136,0
+2020-03-28,US,Virginia,King George,2,0,0
+2020-03-28,US,Virginia,King William,0,0,0
+2020-03-28,US,Virginia,King and Queen,0,0,0
+2020-03-28,US,Oklahoma,Kingfisher,0,0,0
+2020-03-28,US,Kansas,Kingman,0,0,0
+2020-03-28,US,California,Kings,2,0,0
+2020-03-28,US,New York,Kings,0,0,0
+2020-03-28,US,South Dakota,Kingsbury,0,0,0
+2020-03-28,US,Texas,Kinney,0,0,0
+2020-03-28,US,Colorado,Kiowa,0,0,0
+2020-03-28,US,Kansas,Kiowa,0,0,0
+2020-03-28,US,Oklahoma,Kiowa,0,0,0
+2020-03-28,US,Colorado,Kit Carson,2,0,0
+2020-03-28,US,Washington,Kitsap,42,1,0
+2020-03-28,US,Washington,Kittitas,8,0,0
+2020-03-28,US,Minnesota,Kittson,0,0,0
+2020-03-28,US,Oregon,Klamath,2,0,0
+2020-03-28,US,Texas,Kleberg,1,0,0
+2020-03-28,US,Washington,Klickitat,7,0,0
+2020-03-28,US,Kentucky,Knott,0,0,0
+2020-03-28,US,Illinois,Knox,0,0,0
+2020-03-28,US,Indiana,Knox,0,0,0
+2020-03-28,US,Kentucky,Knox,0,0,0
+2020-03-28,US,Maine,Knox,2,0,0
+2020-03-28,US,Missouri,Knox,0,0,0
+2020-03-28,US,Nebraska,Knox,2,0,0
+2020-03-28,US,Ohio,Knox,2,0,0
+2020-03-28,US,Tennessee,Knox,33,0,0
+2020-03-28,US,Texas,Knox,0,0,0
+2020-03-28,US,Alaska,Kodiak Island,0,0,0
+2020-03-28,US,Minnesota,Koochiching,0,0,0
+2020-03-28,US,Idaho,Kootenai,11,0,0
+2020-03-28,US,Indiana,Kosciusko,2,0,0
+2020-03-28,US,Iowa,Kossuth,1,0,0
+2020-03-28,US,Alaska,Kusilvak,0,0,0
+2020-03-28,US,Wisconsin,La Crosse,15,0,0
+2020-03-28,US,Arizona,La Paz,2,0,0
+2020-03-28,US,Colorado,La Plata,13,0,0
+2020-03-28,US,Texas,La Salle,0,0,0
+2020-03-28,US,Indiana,LaGrange,2,0,0
+2020-03-28,US,North Dakota,LaMoure,0,0,0
+2020-03-28,US,Indiana,LaPorte,4,0,0
+2020-03-28,US,Illinois,LaSalle,3,0,0
+2020-03-28,US,Louisiana,LaSalle,2,0,0
+2020-03-28,US,Kansas,Labette,0,0,0
+2020-03-28,US,Minnesota,Lac qui Parle,1,0,0
+2020-03-28,US,Pennsylvania,Lackawanna,51,2,0
+2020-03-28,US,Missouri,Laclede,0,0,0
+2020-03-28,US,Arkansas,Lafayette,0,0,0
+2020-03-28,US,Florida,Lafayette,0,0,0
+2020-03-28,US,Louisiana,Lafayette,48,1,0
+2020-03-28,US,Mississippi,Lafayette,11,0,0
+2020-03-28,US,Missouri,Lafayette,4,0,0
+2020-03-28,US,Wisconsin,Lafayette,0,0,0
+2020-03-28,US,Louisiana,Lafourche,34,2,0
+2020-03-28,US,California,Lake,0,0,0
+2020-03-28,US,Colorado,Lake,0,0,0
+2020-03-28,US,Florida,Lake,35,0,0
+2020-03-28,US,Illinois,Lake,241,1,0
+2020-03-28,US,Indiana,Lake,68,1,0
+2020-03-28,US,Michigan,Lake,0,0,0
+2020-03-28,US,Minnesota,Lake,0,0,0
+2020-03-28,US,Montana,Lake,1,0,0
+2020-03-28,US,Ohio,Lake,30,1,0
+2020-03-28,US,Oregon,Lake,0,0,0
+2020-03-28,US,South Dakota,Lake,0,0,0
+2020-03-28,US,Tennessee,Lake,0,0,0
+2020-03-28,US,Alaska,Lake and Peninsula,0,0,0
+2020-03-28,US,Minnesota,Lake of the Woods,0,0,0
+2020-03-28,US,Alabama,Lamar,1,0,0
+2020-03-28,US,Georgia,Lamar,2,0,0
+2020-03-28,US,Mississippi,Lamar,4,0,0
+2020-03-28,US,Texas,Lamar,1,0,0
+2020-03-28,US,Texas,Lamb,1,0,0
+2020-03-28,US,Vermont,Lamoille,9,0,0
+2020-03-28,US,Texas,Lampasas,0,0,0
+2020-03-28,US,Nebraska,Lancaster,4,0,0
+2020-03-28,US,Pennsylvania,Lancaster,45,1,0
+2020-03-28,US,South Carolina,Lancaster,9,0,0
+2020-03-28,US,Virginia,Lancaster,1,0,0
+2020-03-28,US,Nevada,Lander,0,0,0
+2020-03-28,US,Kansas,Lane,0,0,0
+2020-03-28,US,Oregon,Lane,9,1,0
+2020-03-28,US,Wisconsin,Langlade,0,0,0
+2020-03-28,US,Georgia,Lanier,0,0,0
+2020-03-28,US,Michigan,Lapeer,4,0,0
+2020-03-28,US,Wyoming,Laramie,19,0,0
+2020-03-28,US,Colorado,Larimer,67,1,0
+2020-03-28,US,Kentucky,Larue,0,0,0
+2020-03-28,US,Colorado,Las Animas,0,0,0
+2020-03-28,US,California,Lassen,0,0,0
+2020-03-28,US,Idaho,Latah,0,0,0
+2020-03-28,US,Oklahoma,Latimer,1,0,0
+2020-03-28,US,Alabama,Lauderdale,12,1,0
+2020-03-28,US,Mississippi,Lauderdale,12,0,0
+2020-03-28,US,Tennessee,Lauderdale,0,0,0
+2020-03-28,US,Kentucky,Laurel,1,0,0
+2020-03-28,US,Georgia,Laurens,7,0,0
+2020-03-28,US,South Carolina,Laurens,2,0,0
+2020-03-28,US,Texas,Lavaca,3,0,0
+2020-03-28,US,Alabama,Lawrence,3,0,0
+2020-03-28,US,Arkansas,Lawrence,1,0,0
+2020-03-28,US,Illinois,Lawrence,0,0,0
+2020-03-28,US,Indiana,Lawrence,5,0,0
+2020-03-28,US,Kentucky,Lawrence,0,0,0
+2020-03-28,US,Mississippi,Lawrence,5,0,0
+2020-03-28,US,Missouri,Lawrence,0,0,0
+2020-03-28,US,Ohio,Lawrence,1,0,0
+2020-03-28,US,Pennsylvania,Lawrence,8,0,0
+2020-03-28,US,South Dakota,Lawrence,2,0,0
+2020-03-28,US,Tennessee,Lawrence,0,0,0
+2020-03-28,US,Oklahoma,Le Flore,1,0,0
+2020-03-28,US,Minnesota,Le Sueur,11,0,0
+2020-03-28,US,New Mexico,Lea,2,0,0
+2020-03-28,US,Mississippi,Leake,4,0,0
+2020-03-28,US,Kansas,Leavenworth,15,0,0
+2020-03-28,US,Pennsylvania,Lebanon,15,0,0
+2020-03-28,US,Alabama,Lee,56,0,0
+2020-03-28,US,Arkansas,Lee,0,0,0
+2020-03-28,US,Florida,Lee,101,5,0
+2020-03-28,US,Georgia,Lee,37,5,0
+2020-03-28,US,Illinois,Lee,0,0,0
+2020-03-28,US,Iowa,Lee,0,0,0
+2020-03-28,US,Kentucky,Lee,0,0,0
+2020-03-28,US,Mississippi,Lee,17,1,0
+2020-03-28,US,North Carolina,Lee,2,0,0
+2020-03-28,US,South Carolina,Lee,5,0,0
+2020-03-28,US,Texas,Lee,0,0,0
+2020-03-28,US,Virginia,Lee,2,0,0
+2020-03-28,US,Michigan,Leelanau,1,0,0
+2020-03-28,US,Mississippi,Leflore,15,0,0
+2020-03-28,US,Pennsylvania,Lehigh,109,3,0
+2020-03-28,US,Idaho,Lemhi,0,0,0
+2020-03-28,US,Michigan,Lenawee,11,0,0
+2020-03-28,US,North Carolina,Lenoir,3,0,0
+2020-03-28,US,Florida,Leon,16,0,0
+2020-03-28,US,Texas,Leon,0,0,0
+2020-03-28,US,Kentucky,Leslie,0,0,0
+2020-03-28,US,Kentucky,Letcher,0,0,0
+2020-03-28,US,Florida,Levy,1,0,0
+2020-03-28,US,Idaho,Lewis,0,0,0
+2020-03-28,US,Kentucky,Lewis,0,0,0
+2020-03-28,US,Missouri,Lewis,0,0,0
+2020-03-28,US,New York,Lewis,0,0,0
+2020-03-28,US,Tennessee,Lewis,2,0,0
+2020-03-28,US,Washington,Lewis,7,0,0
+2020-03-28,US,West Virginia,Lewis,0,0,0
+2020-03-28,US,Montana,Lewis and Clark,9,0,0
+2020-03-28,US,South Carolina,Lexington,30,1,0
+2020-03-28,US,Virginia,Lexington,0,0,0
+2020-03-28,US,Florida,Liberty,0,0,0
+2020-03-28,US,Georgia,Liberty,2,0,0
+2020-03-28,US,Montana,Liberty,0,0,0
+2020-03-28,US,Texas,Liberty,2,0,0
+2020-03-28,US,Ohio,Licking,14,0,0
+2020-03-28,US,Alabama,Limestone,16,0,0
+2020-03-28,US,Texas,Limestone,1,0,0
+2020-03-28,US,Arkansas,Lincoln,6,0,0
+2020-03-28,US,Colorado,Lincoln,1,0,0
+2020-03-28,US,Georgia,Lincoln,3,0,0
+2020-03-28,US,Idaho,Lincoln,1,0,0
+2020-03-28,US,Kansas,Lincoln,0,0,0
+2020-03-28,US,Kentucky,Lincoln,0,0,0
+2020-03-28,US,Louisiana,Lincoln,6,0,0
+2020-03-28,US,Maine,Lincoln,5,0,0
+2020-03-28,US,Minnesota,Lincoln,1,0,0
+2020-03-28,US,Mississippi,Lincoln,8,0,0
+2020-03-28,US,Missouri,Lincoln,2,0,0
+2020-03-28,US,Montana,Lincoln,3,1,0
+2020-03-28,US,Nebraska,Lincoln,3,0,0
+2020-03-28,US,Nevada,Lincoln,0,0,0
+2020-03-28,US,New Mexico,Lincoln,0,0,0
+2020-03-28,US,North Carolina,Lincoln,1,0,0
+2020-03-28,US,Oklahoma,Lincoln,3,0,0
+2020-03-28,US,Oregon,Lincoln,1,0,0
+2020-03-28,US,South Dakota,Lincoln,3,0,0
+2020-03-28,US,Tennessee,Lincoln,1,0,0
+2020-03-28,US,Washington,Lincoln,1,0,0
+2020-03-28,US,West Virginia,Lincoln,0,0,0
+2020-03-28,US,Wisconsin,Lincoln,0,0,0
+2020-03-28,US,Wyoming,Lincoln,0,0,0
+2020-03-28,US,Iowa,Linn,36,0,0
+2020-03-28,US,Kansas,Linn,4,0,0
+2020-03-28,US,Missouri,Linn,0,0,0
+2020-03-28,US,Oregon,Linn,32,1,0
+2020-03-28,US,Texas,Lipscomb,0,0,0
+2020-03-28,US,Connecticut,Litchfield,65,0,0
+2020-03-28,US,Arkansas,Little River,0,0,0
+2020-03-28,US,Texas,Live Oak,0,0,0
+2020-03-28,US,Illinois,Livingston,2,0,0
+2020-03-28,US,Kentucky,Livingston,0,0,0
+2020-03-28,US,Louisiana,Livingston,12,0,0
+2020-03-28,US,Michigan,Livingston,41,2,0
+2020-03-28,US,Missouri,Livingston,0,0,0
+2020-03-28,US,New York,Livingston,10,0,0
+2020-03-28,US,Texas,Llano,2,0,0
+2020-03-28,US,Arkansas,Logan,0,0,0
+2020-03-28,US,Colorado,Logan,3,0,0
+2020-03-28,US,Illinois,Logan,0,0,0
+2020-03-28,US,Kansas,Logan,0,0,0
+2020-03-28,US,Kentucky,Logan,1,0,0
+2020-03-28,US,Nebraska,Logan,0,0,0
+2020-03-28,US,North Dakota,Logan,0,0,0
+2020-03-28,US,Ohio,Logan,3,0,0
+2020-03-28,US,Oklahoma,Logan,3,0,0
+2020-03-28,US,West Virginia,Logan,1,0,0
+2020-03-28,US,Georgia,Long,1,0,0
+2020-03-28,US,Arkansas,Lonoke,1,0,0
+2020-03-28,US,Ohio,Lorain,65,0,0
+2020-03-28,US,New Mexico,Los Alamos,0,0,0
+2020-03-28,US,California,Los Angeles,1465,26,0
+2020-03-28,US,Tennessee,Loudon,6,0,0
+2020-03-28,US,Virginia,Loudoun,54,1,0
+2020-03-28,US,Iowa,Louisa,0,0,0
+2020-03-28,US,Virginia,Louisa,6,0,0
+2020-03-28,US,Nebraska,Loup,0,0,0
+2020-03-28,US,Oklahoma,Love,0,0,0
+2020-03-28,US,Texas,Loving,0,0,0
+2020-03-28,US,Alabama,Lowndes,1,0,0
+2020-03-28,US,Georgia,Lowndes,20,1,0
+2020-03-28,US,Mississippi,Lowndes,10,0,0
+2020-03-28,US,Texas,Lubbock,31,0,0
+2020-03-28,US,Iowa,Lucas,0,0,0
+2020-03-28,US,Ohio,Lucas,67,2,0
+2020-03-28,US,Michigan,Luce,0,0,0
+2020-03-28,US,Georgia,Lumpkin,4,0,0
+2020-03-28,US,New Mexico,Luna,0,0,0
+2020-03-28,US,Virginia,Lunenburg,0,0,0
+2020-03-28,US,Pennsylvania,Luzerne,65,2,0
+2020-03-28,US,Pennsylvania,Lycoming,2,0,0
+2020-03-28,US,South Dakota,Lyman,1,0,0
+2020-03-28,US,Virginia,Lynchburg,2,0,0
+2020-03-28,US,Texas,Lynn,1,0,0
+2020-03-28,US,Iowa,Lyon,0,0,0
+2020-03-28,US,Kansas,Lyon,4,0,0
+2020-03-28,US,Kentucky,Lyon,1,0,0
+2020-03-28,US,Minnesota,Lyon,0,0,0
+2020-03-28,US,Nevada,Lyon,1,0,0
+2020-03-28,US,Michigan,Mackinac,0,0,0
+2020-03-28,US,Michigan,Macomb,534,17,0
+2020-03-28,US,Alabama,Macon,0,0,0
+2020-03-28,US,Georgia,Macon,1,0,0
+2020-03-28,US,Illinois,Macon,1,0,0
+2020-03-28,US,Missouri,Macon,0,0,0
+2020-03-28,US,North Carolina,Macon,0,0,0
+2020-03-28,US,Tennessee,Macon,2,0,0
+2020-03-28,US,Illinois,Macoupin,0,0,0
+2020-03-28,US,California,Madera,11,1,0
+2020-03-28,US,Alabama,Madison,62,1,0
+2020-03-28,US,Arkansas,Madison,0,0,0
+2020-03-28,US,Florida,Madison,0,0,0
+2020-03-28,US,Georgia,Madison,3,0,0
+2020-03-28,US,Idaho,Madison,2,0,0
+2020-03-28,US,Illinois,Madison,10,0,0
+2020-03-28,US,Indiana,Madison,12,1,0
+2020-03-28,US,Iowa,Madison,0,0,0
+2020-03-28,US,Kentucky,Madison,2,0,0
+2020-03-28,US,Louisiana,Madison,1,0,0
+2020-03-28,US,Mississippi,Madison,29,0,0
+2020-03-28,US,Missouri,Madison,0,0,0
+2020-03-28,US,Montana,Madison,3,0,0
+2020-03-28,US,Nebraska,Madison,1,0,0
+2020-03-28,US,New York,Madison,28,1,0
+2020-03-28,US,North Carolina,Madison,0,0,0
+2020-03-28,US,Ohio,Madison,4,0,0
+2020-03-28,US,Tennessee,Madison,3,0,0
+2020-03-28,US,Texas,Madison,0,0,0
+2020-03-28,US,Virginia,Madison,3,0,0
+2020-03-28,US,Kentucky,Magoffin,0,0,0
+2020-03-28,US,Iowa,Mahaska,2,0,0
+2020-03-28,US,Minnesota,Mahnomen,1,0,0
+2020-03-28,US,Ohio,Mahoning,80,2,0
+2020-03-28,US,Oklahoma,Major,0,0,0
+2020-03-28,US,Oregon,Malheur,0,0,0
+2020-03-28,US,Virginia,Manassas,4,0,0
+2020-03-28,US,Virginia,Manassas Park,0,0,0
+2020-03-28,US,Florida,Manatee,30,1,0
+2020-03-28,US,Michigan,Manistee,1,0,0
+2020-03-28,US,Wisconsin,Manitowoc,0,0,0
+2020-03-28,US,Wisconsin,Marathon,1,0,0
+2020-03-28,US,Alabama,Marengo,3,0,0
+2020-03-28,US,Arizona,Maricopa,454,5,0
+2020-03-28,US,Missouri,Maries,0,0,0
+2020-03-28,US,California,Marin,68,1,0
+2020-03-28,US,Wisconsin,Marinette,1,0,0
+2020-03-28,US,Alabama,Marion,9,0,0
+2020-03-28,US,Arkansas,Marion,0,0,0
+2020-03-28,US,Florida,Marion,17,0,0
+2020-03-28,US,Georgia,Marion,0,0,0
+2020-03-28,US,Illinois,Marion,0,0,0
+2020-03-28,US,Indiana,Marion,584,10,0
+2020-03-28,US,Iowa,Marion,0,0,0
+2020-03-28,US,Kansas,Marion,0,0,0
+2020-03-28,US,Kentucky,Marion,0,0,0
+2020-03-28,US,Mississippi,Marion,3,0,0
+2020-03-28,US,Missouri,Marion,0,0,0
+2020-03-28,US,Ohio,Marion,5,0,0
+2020-03-28,US,Oregon,Marion,94,3,0
+2020-03-28,US,South Carolina,Marion,1,0,0
+2020-03-28,US,Tennessee,Marion,4,0,0
+2020-03-28,US,Texas,Marion,0,0,0
+2020-03-28,US,West Virginia,Marion,3,0,0
+2020-03-28,US,California,Mariposa,0,0,0
+2020-03-28,US,South Carolina,Marlboro,1,0,0
+2020-03-28,US,Michigan,Marquette,1,0,0
+2020-03-28,US,Wisconsin,Marquette,0,0,0
+2020-03-28,US,Alabama,Marshall,4,0,0
+2020-03-28,US,Illinois,Marshall,1,0,0
+2020-03-28,US,Indiana,Marshall,3,0,0
+2020-03-28,US,Iowa,Marshall,5,0,0
+2020-03-28,US,Kansas,Marshall,0,0,0
+2020-03-28,US,Kentucky,Marshall,0,0,0
+2020-03-28,US,Minnesota,Marshall,0,0,0
+2020-03-28,US,Mississippi,Marshall,11,0,0
+2020-03-28,US,Oklahoma,Marshall,0,0,0
+2020-03-28,US,South Dakota,Marshall,0,0,0
+2020-03-28,US,Tennessee,Marshall,0,0,0
+2020-03-28,US,West Virginia,Marshall,3,0,0
+2020-03-28,US,Florida,Martin,25,0,0
+2020-03-28,US,Indiana,Martin,0,0,0
+2020-03-28,US,Kentucky,Martin,1,0,0
+2020-03-28,US,Minnesota,Martin,19,1,0
+2020-03-28,US,North Carolina,Martin,0,0,0
+2020-03-28,US,Texas,Martin,1,0,0
+2020-03-28,US,Virginia,Martinsville,0,0,0
+2020-03-28,US,Illinois,Mason,0,0,0
+2020-03-28,US,Kentucky,Mason,0,0,0
+2020-03-28,US,Michigan,Mason,0,0,0
+2020-03-28,US,Texas,Mason,0,0,0
+2020-03-28,US,Washington,Mason,2,0,0
+2020-03-28,US,West Virginia,Mason,3,0,0
+2020-03-28,US,Illinois,Massac,0,0,0
+2020-03-28,US,Texas,Matagorda,11,1,0
+2020-03-28,US,Alaska,Matanuska-Susitna,2,0,0
+2020-03-28,US,Virginia,Mathews,2,0,0
+2020-03-28,US,Hawaii,Maui,16,0,0
+2020-03-28,US,Tennessee,Maury,8,0,0
+2020-03-28,US,Texas,Maverick,1,0,0
+2020-03-28,US,Oklahoma,Mayes,3,0,0
+2020-03-28,US,Oklahoma,McClain,2,0,0
+2020-03-28,US,Montana,McCone,0,0,0
+2020-03-28,US,South Dakota,McCook,2,0,0
+2020-03-28,US,South Carolina,McCormick,0,0,0
+2020-03-28,US,Kentucky,McCracken,2,0,0
+2020-03-28,US,Kentucky,McCreary,0,0,0
+2020-03-28,US,Texas,McCulloch,0,0,0
+2020-03-28,US,Oklahoma,McCurtain,0,0,0
+2020-03-28,US,Missouri,McDonald,1,0,0
+2020-03-28,US,Illinois,McDonough,0,0,0
+2020-03-28,US,North Carolina,McDowell,5,0,0
+2020-03-28,US,West Virginia,McDowell,0,0,0
+2020-03-28,US,Georgia,McDuffie,1,0,0
+2020-03-28,US,Illinois,McHenry,47,2,0
+2020-03-28,US,North Dakota,McHenry,1,0,0
+2020-03-28,US,Georgia,McIntosh,0,0,0
+2020-03-28,US,North Dakota,McIntosh,1,0,0
+2020-03-28,US,Oklahoma,McIntosh,0,0,0
+2020-03-28,US,Pennsylvania,McKean,1,0,0
+2020-03-28,US,North Dakota,McKenzie,0,0,0
+2020-03-28,US,New Mexico,McKinley,5,0,0
+2020-03-28,US,Illinois,McLean,10,1,0
+2020-03-28,US,Kentucky,McLean,1,0,0
+2020-03-28,US,North Dakota,McLean,2,0,0
+2020-03-28,US,Texas,McLennan,34,0,0
+2020-03-28,US,Minnesota,McLeod,0,0,0
+2020-03-28,US,Tennessee,McMinn,3,0,0
+2020-03-28,US,Texas,McMullen,0,0,0
+2020-03-28,US,Tennessee,McNairy,0,0,0
+2020-03-28,US,Kansas,McPherson,1,0,0
+2020-03-28,US,Nebraska,McPherson,0,0,0
+2020-03-28,US,South Dakota,McPherson,0,0,0
+2020-03-28,US,Kansas,Meade,0,0,0
+2020-03-28,US,Kentucky,Meade,0,0,0
+2020-03-28,US,South Dakota,Meade,1,0,0
+2020-03-28,US,Montana,Meagher,1,0,0
+2020-03-28,US,North Carolina,Mecklenburg,299,0,0
+2020-03-28,US,Virginia,Mecklenburg,4,0,0
+2020-03-28,US,Michigan,Mecosta,1,1,0
+2020-03-28,US,Ohio,Medina,37,0,0
+2020-03-28,US,Texas,Medina,3,0,0
+2020-03-28,US,Minnesota,Meeker,0,0,0
+2020-03-28,US,Ohio,Meigs,0,0,0
+2020-03-28,US,Tennessee,Meigs,1,0,0
+2020-03-28,US,South Dakota,Mellette,0,0,0
+2020-03-28,US,Illinois,Menard,0,0,0
+2020-03-28,US,Texas,Menard,0,0,0
+2020-03-28,US,California,Mendocino,2,0,0
+2020-03-28,US,Kentucky,Menifee,1,0,0
+2020-03-28,US,Michigan,Menominee,0,0,0
+2020-03-28,US,Wisconsin,Menominee,0,0,0
+2020-03-28,US,California,Merced,7,0,0
+2020-03-28,US,Illinois,Mercer,0,0,0
+2020-03-28,US,Kentucky,Mercer,0,0,0
+2020-03-28,US,Missouri,Mercer,0,0,0
+2020-03-28,US,New Jersey,Mercer,168,0,0
+2020-03-28,US,North Dakota,Mercer,1,0,0
+2020-03-28,US,Ohio,Mercer,2,0,0
+2020-03-28,US,Pennsylvania,Mercer,6,0,0
+2020-03-28,US,West Virginia,Mercer,2,0,0
+2020-03-28,US,Georgia,Meriwether,3,0,0
+2020-03-28,US,Nebraska,Merrick,0,0,0
+2020-03-28,US,New Hampshire,Merrimack,11,0,0
+2020-03-28,US,Colorado,Mesa,9,0,0
+2020-03-28,US,Kentucky,Metcalfe,0,0,0
+2020-03-28,US,Indiana,Miami,1,0,0
+2020-03-28,US,Kansas,Miami,0,0,0
+2020-03-28,US,Ohio,Miami,38,4,0
+2020-03-28,US,Florida,Miami-Dade,1003,2,0
+2020-03-28,US,Connecticut,Middlesex,28,1,0
+2020-03-28,US,Massachusetts,Middlesex,842,5,0
+2020-03-28,US,New Jersey,Middlesex,808,4,0
+2020-03-28,US,Virginia,Middlesex,0,0,0
+2020-03-28,US,Michigan,Midland,8,0,0
+2020-03-28,US,Texas,Midland,11,1,0
+2020-03-28,US,Pennsylvania,Mifflin,0,0,0
+2020-03-28,US,Texas,Milam,2,0,0
+2020-03-28,US,Utah,Millard,0,0,0
+2020-03-28,US,Minnesota,Mille Lacs,0,0,0
+2020-03-28,US,Arkansas,Miller,0,0,0
+2020-03-28,US,Georgia,Miller,4,0,0
+2020-03-28,US,Missouri,Miller,0,0,0
+2020-03-28,US,Iowa,Mills,0,0,0
+2020-03-28,US,Texas,Mills,0,0,0
+2020-03-28,US,Wisconsin,Milwaukee,541,9,0
+2020-03-28,US,South Dakota,Miner,0,0,0
+2020-03-28,US,Colorado,Mineral,0,0,0
+2020-03-28,US,Montana,Mineral,0,0,0
+2020-03-28,US,Nevada,Mineral,0,0,0
+2020-03-28,US,West Virginia,Mineral,0,0,0
+2020-03-28,US,West Virginia,Mingo,0,0,0
+2020-03-28,US,Idaho,Minidoka,0,0,0
+2020-03-28,US,South Dakota,Minnehaha,21,0,0
+2020-03-28,US,Michigan,Missaukee,1,1,0
+2020-03-28,US,Arkansas,Mississippi,0,0,0
+2020-03-28,US,Missouri,Mississippi,0,0,0
+2020-03-28,US,Montana,Missoula,9,0,0
+2020-03-28,US,Georgia,Mitchell,14,0,0
+2020-03-28,US,Iowa,Mitchell,0,0,0
+2020-03-28,US,Kansas,Mitchell,2,0,0
+2020-03-28,US,North Carolina,Mitchell,1,0,0
+2020-03-28,US,Texas,Mitchell,0,0,0
+2020-03-28,US,Alabama,Mobile,29,1,0
+2020-03-28,US,California,Modoc,0,0,0
+2020-03-28,US,Colorado,Moffat,0,0,0
+2020-03-28,US,Arizona,Mohave,5,0,0
+2020-03-28,US,Missouri,Moniteau,3,0,0
+2020-03-28,US,New Jersey,Monmouth,781,6,0
+2020-03-28,US,California,Mono,8,0,0
+2020-03-28,US,Iowa,Monona,2,0,0
+2020-03-28,US,West Virginia,Monongalia,23,0,0
+2020-03-28,US,Alabama,Monroe,1,0,0
+2020-03-28,US,Arkansas,Monroe,0,0,0
+2020-03-28,US,Florida,Monroe,20,0,0
+2020-03-28,US,Georgia,Monroe,3,0,0
+2020-03-28,US,Illinois,Monroe,3,0,0
+2020-03-28,US,Indiana,Monroe,16,0,0
+2020-03-28,US,Iowa,Monroe,0,0,0
+2020-03-28,US,Kentucky,Monroe,0,0,0
+2020-03-28,US,Michigan,Monroe,34,0,0
+2020-03-28,US,Mississippi,Monroe,3,0,0
+2020-03-28,US,Missouri,Monroe,0,0,0
+2020-03-28,US,New York,Monroe,202,5,0
+2020-03-28,US,Ohio,Monroe,0,0,0
+2020-03-28,US,Pennsylvania,Monroe,106,2,0
+2020-03-28,US,Tennessee,Monroe,3,0,0
+2020-03-28,US,West Virginia,Monroe,0,0,0
+2020-03-28,US,Wisconsin,Monroe,1,0,0
+2020-03-28,US,Texas,Montague,1,0,0
+2020-03-28,US,Michigan,Montcalm,3,0,0
+2020-03-28,US,California,Monterey,32,1,0
+2020-03-28,US,Colorado,Montezuma,0,0,0
+2020-03-28,US,Alabama,Montgomery,18,0,0
+2020-03-28,US,Arkansas,Montgomery,0,0,0
+2020-03-28,US,Georgia,Montgomery,0,0,0
+2020-03-28,US,Illinois,Montgomery,0,0,0
+2020-03-28,US,Indiana,Montgomery,4,0,0
+2020-03-28,US,Iowa,Montgomery,1,0,0
+2020-03-28,US,Kansas,Montgomery,0,0,0
+2020-03-28,US,Kentucky,Montgomery,2,0,0
+2020-03-28,US,Maryland,Montgomery,255,1,0
+2020-03-28,US,Mississippi,Montgomery,5,0,0
+2020-03-28,US,Missouri,Montgomery,3,0,0
+2020-03-28,US,New York,Montgomery,6,0,0
+2020-03-28,US,North Carolina,Montgomery,3,0,0
+2020-03-28,US,Ohio,Montgomery,20,0,0
+2020-03-28,US,Pennsylvania,Montgomery,411,5,0
+2020-03-28,US,Tennessee,Montgomery,11,0,0
+2020-03-28,US,Texas,Montgomery,63,0,0
+2020-03-28,US,Virginia,Montgomery,1,0,0
+2020-03-28,US,Michigan,Montmorency,0,0,0
+2020-03-28,US,Pennsylvania,Montour,5,0,0
+2020-03-28,US,Colorado,Montrose,6,0,0
+2020-03-28,US,South Dakota,Moody,0,0,0
+2020-03-28,US,North Carolina,Moore,5,0,0
+2020-03-28,US,Tennessee,Moore,0,0,0
+2020-03-28,US,Texas,Moore,0,0,0
+2020-03-28,US,New Mexico,Mora,0,0,0
+2020-03-28,US,Louisiana,Morehouse,2,0,0
+2020-03-28,US,Alabama,Morgan,15,0,0
+2020-03-28,US,Colorado,Morgan,4,0,0
+2020-03-28,US,Georgia,Morgan,1,0,0
+2020-03-28,US,Illinois,Morgan,1,0,0
+2020-03-28,US,Indiana,Morgan,14,0,0
+2020-03-28,US,Kentucky,Morgan,0,0,0
+2020-03-28,US,Missouri,Morgan,0,0,0
+2020-03-28,US,Ohio,Morgan,0,0,0
+2020-03-28,US,Tennessee,Morgan,1,0,0
+2020-03-28,US,Utah,Morgan,0,0,0
+2020-03-28,US,West Virginia,Morgan,0,0,0
+2020-03-28,US,Nebraska,Morrill,0,0,0
+2020-03-28,US,Kansas,Morris,2,0,0
+2020-03-28,US,New Jersey,Morris,442,3,0
+2020-03-28,US,Texas,Morris,1,0,0
+2020-03-28,US,Minnesota,Morrison,0,0,0
+2020-03-28,US,Ohio,Morrow,0,0,0
+2020-03-28,US,Oregon,Morrow,1,0,0
+2020-03-28,US,Kansas,Morton,0,0,0
+2020-03-28,US,North Dakota,Morton,13,0,0
+2020-03-28,US,Texas,Motley,0,0,0
+2020-03-28,US,Illinois,Moultrie,0,0,0
+2020-03-28,US,North Dakota,Mountrail,2,0,0
+2020-03-28,US,Minnesota,Mower,11,0,0
+2020-03-28,US,Kentucky,Muhlenberg,2,0,0
+2020-03-28,US,Oregon,Multnomah,81,2,0
+2020-03-28,US,Georgia,Murray,2,0,0
+2020-03-28,US,Minnesota,Murray,0,0,0
+2020-03-28,US,Oklahoma,Murray,0,0,0
+2020-03-28,US,Iowa,Muscatine,10,0,0
+2020-03-28,US,Georgia,Muscogee,8,0,0
+2020-03-28,US,Michigan,Muskegon,7,2,0
+2020-03-28,US,Ohio,Muskingum,2,0,0
+2020-03-28,US,Oklahoma,Muskogee,7,0,0
+2020-03-28,US,Montana,Musselshell,0,0,0
+2020-03-28,US,Texas,Nacogdoches,1,0,0
+2020-03-28,US,Nebraska,Nance,0,0,0
+2020-03-28,US,Massachusetts,Nantucket,0,0,0
+2020-03-28,US,California,Napa,9,0,0
+2020-03-28,US,North Carolina,Nash,4,0,0
+2020-03-28,US,Florida,Nassau,6,0,0
+2020-03-28,US,New York,Nassau,5537,27,0
+2020-03-28,US,Louisiana,Natchitoches,2,0,0
+2020-03-28,US,Wyoming,Natrona,8,0,0
+2020-03-28,US,Arizona,Navajo,57,0,0
+2020-03-28,US,Texas,Navarro,1,0,0
+2020-03-28,US,Kentucky,Nelson,1,0,0
+2020-03-28,US,North Dakota,Nelson,0,0,0
+2020-03-28,US,Virginia,Nelson,2,0,0
+2020-03-28,US,Kansas,Nemaha,0,0,0
+2020-03-28,US,Nebraska,Nemaha,1,0,0
+2020-03-28,US,Kansas,Neosho,1,0,0
+2020-03-28,US,Mississippi,Neshoba,3,0,0
+2020-03-28,US,Kansas,Ness,0,0,0
+2020-03-28,US,Arkansas,Nevada,0,0,0
+2020-03-28,US,California,Nevada,12,0,0
+2020-03-28,US,Delaware,New Castle,130,2,0
+2020-03-28,US,North Carolina,New Hanover,25,0,0
+2020-03-28,US,Connecticut,New Haven,236,6,0
+2020-03-28,US,Virginia,New Kent,1,0,0
+2020-03-28,US,Connecticut,New London,19,0,0
+2020-03-28,US,Missouri,New Madrid,0,0,0
+2020-03-28,US,New York,New York City,29776,517,0
+2020-03-28,US,Michigan,Newaygo,1,0,0
+2020-03-28,US,South Carolina,Newberry,2,0,0
+2020-03-28,US,Rhode Island,Newport,12,0,0
+2020-03-28,US,Virginia,Newport News,13,1,0
+2020-03-28,US,Arkansas,Newton,0,0,0
+2020-03-28,US,Georgia,Newton,15,0,0
+2020-03-28,US,Indiana,Newton,1,0,0
+2020-03-28,US,Mississippi,Newton,1,0,0
+2020-03-28,US,Missouri,Newton,4,0,0
+2020-03-28,US,Texas,Newton,0,0,0
+2020-03-28,US,Idaho,Nez Perce,4,1,0
+2020-03-28,US,New York,Niagara,33,0,0
+2020-03-28,US,Kentucky,Nicholas,0,0,0
+2020-03-28,US,West Virginia,Nicholas,0,0,0
+2020-03-28,US,Minnesota,Nicollet,3,0,0
+2020-03-28,US,Wyoming,Niobrara,0,0,0
+2020-03-28,US,Indiana,Noble,2,0,0
+2020-03-28,US,Ohio,Noble,0,0,0
+2020-03-28,US,Oklahoma,Noble,3,0,0
+2020-03-28,US,Minnesota,Nobles,0,0,0
+2020-03-28,US,Missouri,Nodaway,0,0,0
+2020-03-28,US,Texas,Nolan,0,0,0
+2020-03-28,US,Alaska,Nome,0,0,0
+2020-03-28,US,Massachusetts,Norfolk,490,8,0
+2020-03-28,US,Virginia,Norfolk,10,0,0
+2020-03-28,US,Minnesota,Norman,0,0,0
+2020-03-28,US,Alaska,North Slope,0,0,0
+2020-03-28,US,North Carolina,Northampton,3,0,0
+2020-03-28,US,Pennsylvania,Northampton,94,4,0
+2020-03-28,US,Virginia,Northampton,1,0,0
+2020-03-28,US,Pennsylvania,Northumberland,1,0,0
+2020-03-28,US,Virginia,Northumberland,2,0,0
+2020-03-28,US,Alaska,Northwest Arctic,0,0,0
+2020-03-28,US,Kansas,Norton,0,0,0
+2020-03-28,US,Virginia,Norton,0,0,0
+2020-03-28,US,Virginia,Nottoway,1,0,0
+2020-03-28,US,Oklahoma,Nowata,1,0,0
+2020-03-28,US,Mississippi,Noxubee,2,0,0
+2020-03-28,US,Nebraska,Nuckolls,0,0,0
+2020-03-28,US,Texas,Nueces,21,0,0
+2020-03-28,US,Nevada,Nye,1,0,0
+2020-03-28,US,Iowa,O'Brien,0,0,0
+2020-03-28,US,Michigan,Oakland,1018,31,0
+2020-03-28,US,Tennessee,Obion,0,0,0
+2020-03-28,US,New Jersey,Ocean,624,4,0
+2020-03-28,US,Michigan,Oceana,1,0,0
+2020-03-28,US,Texas,Ochiltree,0,0,0
+2020-03-28,US,Georgia,Oconee,10,0,0
+2020-03-28,US,South Carolina,Oconee,3,0,0
+2020-03-28,US,Wisconsin,Oconto,0,0,0
+2020-03-28,US,Michigan,Ogemaw,1,0,0
+2020-03-28,US,South Dakota,Oglala Lakota,0,0,0
+2020-03-28,US,Illinois,Ogle,0,0,0
+2020-03-28,US,Georgia,Oglethorpe,0,0,0
+2020-03-28,US,Indiana,Ohio,1,0,0
+2020-03-28,US,Kentucky,Ohio,0,0,0
+2020-03-28,US,West Virginia,Ohio,6,0,0
+2020-03-28,US,Florida,Okaloosa,27,0,0
+2020-03-28,US,Washington,Okanogan,3,0,0
+2020-03-28,US,Florida,Okeechobee,0,0,0
+2020-03-28,US,Oklahoma,Okfuskee,0,0,0
+2020-03-28,US,Oklahoma,Oklahoma,107,3,0
+2020-03-28,US,Oklahoma,Okmulgee,2,0,0
+2020-03-28,US,Mississippi,Oktibbeha,14,0,0
+2020-03-28,US,Kentucky,Oldham,1,0,0
+2020-03-28,US,Texas,Oldham,2,1,0
+2020-03-28,US,North Dakota,Oliver,0,0,0
+2020-03-28,US,Minnesota,Olmsted,37,0,0
+2020-03-28,US,Idaho,Oneida,0,0,0
+2020-03-28,US,New York,Oneida,23,0,0
+2020-03-28,US,Wisconsin,Oneida,1,0,0
+2020-03-28,US,New York,Onondaga,146,1,0
+2020-03-28,US,North Carolina,Onslow,4,0,0
+2020-03-28,US,New York,Ontario,16,0,0
+2020-03-28,US,Michigan,Ontonagon,0,0,0
+2020-03-28,US,California,Orange,403,4,0
+2020-03-28,US,Florida,Orange,206,4,0
+2020-03-28,US,Indiana,Orange,1,0,0
+2020-03-28,US,New York,Orange,1101,4,0
+2020-03-28,US,North Carolina,Orange,24,0,0
+2020-03-28,US,Texas,Orange,1,0,0
+2020-03-28,US,Vermont,Orange,3,0,0
+2020-03-28,US,Virginia,Orange,1,0,0
+2020-03-28,US,South Carolina,Orangeburg,14,0,0
+2020-03-28,US,Missouri,Oregon,0,0,0
+2020-03-28,US,Louisiana,Orleans,1298,70,0
+2020-03-28,US,New York,Orleans,3,0,0
+2020-03-28,US,Vermont,Orleans,5,0,0
+2020-03-28,US,Kansas,Osage,1,0,0
+2020-03-28,US,Missouri,Osage,0,0,0
+2020-03-28,US,Oklahoma,Osage,6,0,0
+2020-03-28,US,Kansas,Osborne,0,0,0
+2020-03-28,US,Florida,Osceola,66,0,0
+2020-03-28,US,Iowa,Osceola,0,0,0
+2020-03-28,US,Michigan,Osceola,1,0,0
+2020-03-28,US,Michigan,Oscoda,0,0,0
+2020-03-28,US,New York,Oswego,9,0,0
+2020-03-28,US,Colorado,Otero,2,0,0
+2020-03-28,US,New Mexico,Otero,0,0,0
+2020-03-28,US,Nebraska,Otoe,0,0,0
+2020-03-28,US,Michigan,Otsego,14,0,0
+2020-03-28,US,New York,Otsego,7,1,0
+2020-03-28,US,Kansas,Ottawa,1,0,0
+2020-03-28,US,Michigan,Ottawa,23,0,0
+2020-03-28,US,Ohio,Ottawa,1,0,0
+2020-03-28,US,Oklahoma,Ottawa,4,0,0
+2020-03-28,US,Minnesota,Otter Tail,0,0,0
+2020-03-28,US,Arkansas,Ouachita,0,0,0
+2020-03-28,US,Louisiana,Ouachita,34,1,0
+2020-03-28,US,Colorado,Ouray,0,0,0
+2020-03-28,US,Michigan,Out of MI,15,0,0
+2020-03-28,US,Tennessee,Out of TN,148,0,0
+2020-03-28,US,Utah,Out of UT,14,0,0
+2020-03-28,US,Wisconsin,Outagamie,4,0,0
+2020-03-28,US,Tennessee,Overton,2,0,0
+2020-03-28,US,Indiana,Owen,7,0,0
+2020-03-28,US,Kentucky,Owen,0,0,0
+2020-03-28,US,Kentucky,Owsley,0,0,0
+2020-03-28,US,Idaho,Owyhee,0,0,0
+2020-03-28,US,Maine,Oxford,8,0,0
+2020-03-28,US,Missouri,Ozark,0,0,0
+2020-03-28,US,Wisconsin,Ozaukee,33,3,0
+2020-03-28,US,Washington,Pacific,0,0,0
+2020-03-28,US,Iowa,Page,2,0,0
+2020-03-28,US,Virginia,Page,0,0,0
+2020-03-28,US,Florida,Palm Beach,292,5,0
+2020-03-28,US,Iowa,Palo Alto,0,0,0
+2020-03-28,US,Texas,Palo Pinto,0,0,0
+2020-03-28,US,North Carolina,Pamlico,0,0,0
+2020-03-28,US,Mississippi,Panola,4,0,0
+2020-03-28,US,Texas,Panola,0,0,0
+2020-03-28,US,Colorado,Park,1,0,0
+2020-03-28,US,Montana,Park,1,0,0
+2020-03-28,US,Wyoming,Park,1,0,0
+2020-03-28,US,Indiana,Parke,0,0,0
+2020-03-28,US,Texas,Parker,4,0,0
+2020-03-28,US,Texas,Parmer,0,0,0
+2020-03-28,US,Florida,Pasco,28,1,0
+2020-03-28,US,North Carolina,Pasquotank,1,0,0
+2020-03-28,US,New Jersey,Passaic,608,7,0
+2020-03-28,US,Virginia,Patrick,0,0,0
+2020-03-28,US,Georgia,Paulding,19,0,0
+2020-03-28,US,Ohio,Paulding,0,0,0
+2020-03-28,US,Kansas,Pawnee,0,0,0
+2020-03-28,US,Nebraska,Pawnee,0,0,0
+2020-03-28,US,Oklahoma,Pawnee,14,1,0
+2020-03-28,US,Idaho,Payette,1,0,0
+2020-03-28,US,Oklahoma,Payne,12,0,0
+2020-03-28,US,Georgia,Peach,6,0,0
+2020-03-28,US,Mississippi,Pearl River,23,0,0
+2020-03-28,US,Texas,Pecos,0,0,0
+2020-03-28,US,North Dakota,Pembina,0,0,0
+2020-03-28,US,Missouri,Pemiscot,1,0,0
+2020-03-28,US,Washington,Pend Oreille,0,0,0
+2020-03-28,US,North Carolina,Pender,0,0,0
+2020-03-28,US,Kentucky,Pendleton,0,0,0
+2020-03-28,US,West Virginia,Pendleton,0,0,0
+2020-03-28,US,Minnesota,Pennington,0,0,0
+2020-03-28,US,South Dakota,Pennington,3,1,0
+2020-03-28,US,Maine,Penobscot,10,0,0
+2020-03-28,US,Illinois,Peoria,7,0,0
+2020-03-28,US,Wisconsin,Pepin,0,0,0
+2020-03-28,US,Nebraska,Perkins,0,0,0
+2020-03-28,US,South Dakota,Perkins,0,0,0
+2020-03-28,US,North Carolina,Perquimans,1,0,0
+2020-03-28,US,Alabama,Perry,0,0,0
+2020-03-28,US,Arkansas,Perry,0,0,0
+2020-03-28,US,Illinois,Perry,0,0,0
+2020-03-28,US,Indiana,Perry,0,0,0
+2020-03-28,US,Kentucky,Perry,0,0,0
+2020-03-28,US,Mississippi,Perry,2,1,0
+2020-03-28,US,Missouri,Perry,7,0,0
+2020-03-28,US,Ohio,Perry,0,0,0
+2020-03-28,US,Pennsylvania,Perry,1,0,0
+2020-03-28,US,Tennessee,Perry,2,0,0
+2020-03-28,US,Nevada,Pershing,0,0,0
+2020-03-28,US,North Carolina,Person,1,0,0
+2020-03-28,US,Alaska,Petersburg,0,0,0
+2020-03-28,US,Virginia,Petersburg,0,0,0
+2020-03-28,US,Montana,Petroleum,0,0,0
+2020-03-28,US,Missouri,Pettis,1,0,0
+2020-03-28,US,Missouri,Phelps,0,0,0
+2020-03-28,US,Nebraska,Phelps,0,0,0
+2020-03-28,US,Pennsylvania,Philadelphia,803,5,0
+2020-03-28,US,Arkansas,Phillips,0,0,0
+2020-03-28,US,Colorado,Phillips,0,0,0
+2020-03-28,US,Kansas,Phillips,0,0,0
+2020-03-28,US,Montana,Phillips,0,0,0
+2020-03-28,US,Illinois,Piatt,0,0,0
+2020-03-28,US,Ohio,Pickaway,4,0,0
+2020-03-28,US,Alabama,Pickens,1,0,0
+2020-03-28,US,Georgia,Pickens,5,1,0
+2020-03-28,US,South Carolina,Pickens,10,0,0
+2020-03-28,US,Tennessee,Pickett,0,0,0
+2020-03-28,US,Georgia,Pierce,1,0,0
+2020-03-28,US,Nebraska,Pierce,0,0,0
+2020-03-28,US,North Dakota,Pierce,2,0,0
+2020-03-28,US,Washington,Pierce,231,5,0
+2020-03-28,US,Wisconsin,Pierce,4,0,0
+2020-03-28,US,Alabama,Pike,4,0,0
+2020-03-28,US,Arkansas,Pike,1,0,0
+2020-03-28,US,Georgia,Pike,1,0,0
+2020-03-28,US,Illinois,Pike,0,0,0
+2020-03-28,US,Indiana,Pike,0,0,0
+2020-03-28,US,Kentucky,Pike,0,0,0
+2020-03-28,US,Mississippi,Pike,12,0,0
+2020-03-28,US,Missouri,Pike,0,0,0
+2020-03-28,US,Ohio,Pike,1,0,0
+2020-03-28,US,Pennsylvania,Pike,27,1,0
+2020-03-28,US,Arizona,Pima,120,4,0
+2020-03-28,US,Arizona,Pinal,41,0,0
+2020-03-28,US,Minnesota,Pine,0,0,0
+2020-03-28,US,Florida,Pinellas,94,1,0
+2020-03-28,US,Minnesota,Pipestone,0,0,0
+2020-03-28,US,Maine,Piscataquis,0,0,0
+2020-03-28,US,Colorado,Pitkin,25,0,0
+2020-03-28,US,North Carolina,Pitt,10,0,0
+2020-03-28,US,Oklahoma,Pittsburg,2,0,0
+2020-03-28,US,Virginia,Pittsylvania,1,0,0
+2020-03-28,US,Utah,Piute,0,0,0
+2020-03-28,US,California,Placer,41,1,0
+2020-03-28,US,Louisiana,Plaquemines,19,2,0
+2020-03-28,US,Missouri,Platte,6,0,0
+2020-03-28,US,Nebraska,Platte,0,0,0
+2020-03-28,US,Wyoming,Platte,0,0,0
+2020-03-28,US,West Virginia,Pleasants,1,0,0
+2020-03-28,US,California,Plumas,0,0,0
+2020-03-28,US,Iowa,Plymouth,0,0,0
+2020-03-28,US,Massachusetts,Plymouth,272,0,0
+2020-03-28,US,Iowa,Pocahontas,0,0,0
+2020-03-28,US,West Virginia,Pocahontas,0,0,0
+2020-03-28,US,Arkansas,Poinsett,3,0,0
+2020-03-28,US,Louisiana,Pointe Coupee,2,0,0
+2020-03-28,US,Arkansas,Polk,1,0,0
+2020-03-28,US,Florida,Polk,34,0,0
+2020-03-28,US,Georgia,Polk,10,0,0
+2020-03-28,US,Iowa,Polk,40,0,0
+2020-03-28,US,Minnesota,Polk,0,0,0
+2020-03-28,US,Missouri,Polk,0,0,0
+2020-03-28,US,Nebraska,Polk,0,0,0
+2020-03-28,US,North Carolina,Polk,2,0,0
+2020-03-28,US,Oregon,Polk,11,0,0
+2020-03-28,US,Tennessee,Polk,0,0,0
+2020-03-28,US,Texas,Polk,1,0,0
+2020-03-28,US,Wisconsin,Polk,0,0,0
+2020-03-28,US,Montana,Pondera,0,0,0
+2020-03-28,US,Mississippi,Pontotoc,4,0,0
+2020-03-28,US,Oklahoma,Pontotoc,3,0,0
+2020-03-28,US,Arkansas,Pope,1,0,0
+2020-03-28,US,Illinois,Pope,0,0,0
+2020-03-28,US,Minnesota,Pope,0,0,0
+2020-03-28,US,Virginia,Poquoson,2,0,0
+2020-03-28,US,Ohio,Portage,19,0,0
+2020-03-28,US,Wisconsin,Portage,1,0,0
+2020-03-28,US,Indiana,Porter,9,0,0
+2020-03-28,US,Virginia,Portsmouth,4,0,0
+2020-03-28,US,Indiana,Posey,2,0,0
+2020-03-28,US,Kansas,Pottawatomie,1,0,0
+2020-03-28,US,Oklahoma,Pottawatomie,2,0,0
+2020-03-28,US,Iowa,Pottawattamie,3,0,0
+2020-03-28,US,Pennsylvania,Potter,2,0,0
+2020-03-28,US,South Dakota,Potter,0,0,0
+2020-03-28,US,Texas,Potter,3,0,0
+2020-03-28,US,Montana,Powder River,0,0,0
+2020-03-28,US,Kentucky,Powell,0,0,0
+2020-03-28,US,Montana,Powell,0,0,0
+2020-03-28,US,Idaho,Power,0,0,0
+2020-03-28,US,Iowa,Poweshiek,5,1,0
+2020-03-28,US,Virginia,Powhatan,1,0,0
+2020-03-28,US,Arkansas,Prairie,0,0,0
+2020-03-28,US,Montana,Prairie,0,0,0
+2020-03-28,US,Kansas,Pratt,0,0,0
+2020-03-28,US,Ohio,Preble,0,0,0
+2020-03-28,US,Mississippi,Prentiss,2,0,0
+2020-03-28,US,Texas,Presidio,0,0,0
+2020-03-28,US,Michigan,Presque Isle,0,0,0
+2020-03-28,US,West Virginia,Preston,1,0,0
+2020-03-28,US,Wisconsin,Price,0,0,0
+2020-03-28,US,Virginia,Prince Edward,2,0,0
+2020-03-28,US,Virginia,Prince George,2,0,0
+2020-03-28,US,Maryland,Prince George's,196,2,0
+2020-03-28,US,Virginia,Prince William,56,1,0
+2020-03-28,US,Alaska,Prince of Wales-Hyder,0,0,0
+2020-03-28,US,Rhode Island,Providence,91,0,0
+2020-03-28,US,Colorado,Prowers,0,0,0
+2020-03-28,US,Colorado,Pueblo,6,1,0
+2020-03-28,US,Arkansas,Pulaski,92,0,0
+2020-03-28,US,Georgia,Pulaski,2,0,0
+2020-03-28,US,Illinois,Pulaski,0,0,0
+2020-03-28,US,Indiana,Pulaski,0,0,0
+2020-03-28,US,Kentucky,Pulaski,3,0,0
+2020-03-28,US,Missouri,Pulaski,5,0,0
+2020-03-28,US,Virginia,Pulaski,0,0,0
+2020-03-28,US,Oklahoma,Pushmataha,0,0,0
+2020-03-28,US,Florida,Putnam,12,0,0
+2020-03-28,US,Georgia,Putnam,0,0,0
+2020-03-28,US,Illinois,Putnam,0,0,0
+2020-03-28,US,Indiana,Putnam,5,1,0
+2020-03-28,US,Missouri,Putnam,0,0,0
+2020-03-28,US,New York,Putnam,131,0,0
+2020-03-28,US,Ohio,Putnam,0,0,0
+2020-03-28,US,Tennessee,Putnam,17,0,0
+2020-03-28,US,West Virginia,Putnam,3,0,0
+2020-03-28,US,New Mexico,Quay,0,0,0
+2020-03-28,US,Maryland,Queen Anne's,4,0,0
+2020-03-28,US,New York,Queens,0,0,0
+2020-03-28,US,Georgia,Quitman,0,0,0
+2020-03-28,US,Mississippi,Quitman,4,0,0
+2020-03-28,US,Georgia,Rabun,0,0,0
+2020-03-28,US,Wisconsin,Racine,16,0,0
+2020-03-28,US,Virginia,Radford,1,0,0
+2020-03-28,US,Texas,Rains,0,0,0
+2020-03-28,US,West Virginia,Raleigh,3,0,0
+2020-03-28,US,Missouri,Ralls,1,0,0
+2020-03-28,US,Minnesota,Ramsey,42,2,0
+2020-03-28,US,North Dakota,Ramsey,3,0,0
+2020-03-28,US,Texas,Randall,3,0,0
+2020-03-28,US,Alabama,Randolph,2,0,0
+2020-03-28,US,Arkansas,Randolph,1,0,0
+2020-03-28,US,Georgia,Randolph,3,0,0
+2020-03-28,US,Illinois,Randolph,0,0,0
+2020-03-28,US,Indiana,Randolph,1,0,0
+2020-03-28,US,Missouri,Randolph,1,0,0
+2020-03-28,US,North Carolina,Randolph,9,0,0
+2020-03-28,US,West Virginia,Randolph,0,0,0
+2020-03-28,US,Mississippi,Rankin,31,1,0
+2020-03-28,US,North Dakota,Ransom,0,0,0
+2020-03-28,US,Louisiana,Rapides,37,1,0
+2020-03-28,US,Virginia,Rappahannock,0,0,0
+2020-03-28,US,Montana,Ravalli,1,0,0
+2020-03-28,US,Kansas,Rawlins,0,0,0
+2020-03-28,US,Missouri,Ray,1,0,0
+2020-03-28,US,Texas,Reagan,0,0,0
+2020-03-28,US,Texas,Real,0,0,0
+2020-03-28,US,Minnesota,Red Lake,0,0,0
+2020-03-28,US,Louisiana,Red River,0,0,0
+2020-03-28,US,Texas,Red River,0,0,0
+2020-03-28,US,Nebraska,Red Willow,0,0,0
+2020-03-28,US,Minnesota,Redwood,0,0,0
+2020-03-28,US,Texas,Reeves,0,0,0
+2020-03-28,US,Texas,Refugio,0,0,0
+2020-03-28,US,Kansas,Reno,5,0,0
+2020-03-28,US,New York,Rensselaer,51,0,0
+2020-03-28,US,Minnesota,Renville,1,0,0
+2020-03-28,US,North Dakota,Renville,0,0,0
+2020-03-28,US,Kansas,Republic,0,0,0
+2020-03-28,US,Missouri,Reynolds,0,0,0
+2020-03-28,US,Tennessee,Rhea,0,0,0
+2020-03-28,US,Kansas,Rice,0,0,0
+2020-03-28,US,Minnesota,Rice,3,0,0
+2020-03-28,US,Utah,Rich,0,0,0
+2020-03-28,US,Nebraska,Richardson,0,0,0
+2020-03-28,US,Illinois,Richland,0,0,0
+2020-03-28,US,Louisiana,Richland,2,0,0
+2020-03-28,US,Montana,Richland,0,0,0
+2020-03-28,US,North Dakota,Richland,0,0,0
+2020-03-28,US,Ohio,Richland,5,0,0
+2020-03-28,US,South Carolina,Richland,81,2,0
+2020-03-28,US,Wisconsin,Richland,2,0,0
+2020-03-28,US,Georgia,Richmond,12,0,0
+2020-03-28,US,New York,Richmond,0,0,0
+2020-03-28,US,North Carolina,Richmond,0,0,0
+2020-03-28,US,Virginia,Richmond,0,0,0
+2020-03-28,US,Virginia,Richmond City,20,0,0
+2020-03-28,US,Kansas,Riley,2,0,0
+2020-03-28,US,Iowa,Ringgold,0,0,0
+2020-03-28,US,New Mexico,Rio Arriba,3,0,0
+2020-03-28,US,Colorado,Rio Blanco,0,0,0
+2020-03-28,US,Colorado,Rio Grande,2,0,0
+2020-03-28,US,Indiana,Ripley,15,0,0
+2020-03-28,US,Missouri,Ripley,0,0,0
+2020-03-28,US,West Virginia,Ritchie,0,0,0
+2020-03-28,US,California,Riverside,183,8,0
+2020-03-28,US,Tennessee,Roane,1,0,0
+2020-03-28,US,West Virginia,Roane,0,0,0
+2020-03-28,US,Virginia,Roanoke,2,0,0
+2020-03-28,US,Virginia,Roanoke City,0,0,0
+2020-03-28,US,South Dakota,Roberts,0,0,0
+2020-03-28,US,Texas,Roberts,0,0,0
+2020-03-28,US,Kentucky,Robertson,0,0,0
+2020-03-28,US,Tennessee,Robertson,23,0,0
+2020-03-28,US,Texas,Robertson,2,0,0
+2020-03-28,US,North Carolina,Robeson,2,0,0
+2020-03-28,US,Minnesota,Rock,0,0,0
+2020-03-28,US,Nebraska,Rock,0,0,0
+2020-03-28,US,Wisconsin,Rock,12,0,0
+2020-03-28,US,Illinois,Rock Island,4,0,0
+2020-03-28,US,Virginia,Rockbridge,2,0,0
+2020-03-28,US,Kentucky,Rockcastle,0,0,0
+2020-03-28,US,Georgia,Rockdale,17,1,0
+2020-03-28,US,New Hampshire,Rockingham,75,0,0
+2020-03-28,US,North Carolina,Rockingham,0,0,0
+2020-03-28,US,Virginia,Rockingham,4,0,0
+2020-03-28,US,New York,Rockland,1896,8,0
+2020-03-28,US,Texas,Rockwall,3,0,0
+2020-03-28,US,Oklahoma,Roger Mills,0,0,0
+2020-03-28,US,Oklahoma,Rogers,0,0,0
+2020-03-28,US,North Dakota,Rolette,0,0,0
+2020-03-28,US,Kansas,Rooks,0,0,0
+2020-03-28,US,Montana,Roosevelt,1,0,0
+2020-03-28,US,New Mexico,Roosevelt,1,0,0
+2020-03-28,US,Michigan,Roscommon,1,0,0
+2020-03-28,US,Minnesota,Roseau,0,0,0
+2020-03-28,US,Montana,Rosebud,0,0,0
+2020-03-28,US,Ohio,Ross,0,0,0
+2020-03-28,US,Colorado,Routt,12,0,0
+2020-03-28,US,Kentucky,Rowan,0,0,0
+2020-03-28,US,North Carolina,Rowan,12,1,0
+2020-03-28,US,Texas,Runnels,0,0,0
+2020-03-28,US,Indiana,Rush,3,0,0
+2020-03-28,US,Kansas,Rush,0,0,0
+2020-03-28,US,Texas,Rusk,2,0,0
+2020-03-28,US,Wisconsin,Rusk,0,0,0
+2020-03-28,US,Alabama,Russell,1,0,0
+2020-03-28,US,Kansas,Russell,0,0,0
+2020-03-28,US,Kentucky,Russell,0,0,0
+2020-03-28,US,Virginia,Russell,0,0,0
+2020-03-28,US,North Carolina,Rutherford,0,0,0
+2020-03-28,US,Tennessee,Rutherford,46,0,0
+2020-03-28,US,Vermont,Rutland,6,0,0
+2020-03-28,US,Louisiana,Sabine,0,0,0
+2020-03-28,US,Texas,Sabine,0,0,0
+2020-03-28,US,Iowa,Sac,0,0,0
+2020-03-28,US,California,Sacramento,164,6,0
+2020-03-28,US,Maine,Sagadahoc,5,0,0
+2020-03-28,US,Michigan,Saginaw,19,0,0
+2020-03-28,US,Colorado,Saguache,0,0,0
+2020-03-28,US,New Jersey,Salem,3,0,0
+2020-03-28,US,Virginia,Salem,0,0,0
+2020-03-28,US,Arkansas,Saline,4,0,0
+2020-03-28,US,Illinois,Saline,0,0,0
+2020-03-28,US,Kansas,Saline,0,0,0
+2020-03-28,US,Missouri,Saline,0,0,0
+2020-03-28,US,Nebraska,Saline,0,0,0
+2020-03-28,US,Utah,Salt Lake,276,0,0
+2020-03-28,US,South Carolina,Saluda,1,0,0
+2020-03-28,US,North Carolina,Sampson,1,0,0
+2020-03-28,US,Texas,San Augustine,0,0,0
+2020-03-28,US,California,San Benito,14,1,0
+2020-03-28,US,California,San Bernardino,76,3,0
+2020-03-28,US,California,San Diego,413,6,0
+2020-03-28,US,California,San Francisco,308,4,0
+2020-03-28,US,Texas,San Jacinto,1,0,0
+2020-03-28,US,California,San Joaquin,93,4,0
+2020-03-28,US,Colorado,San Juan,0,0,0
+2020-03-28,US,New Mexico,San Juan,18,0,0
+2020-03-28,US,Utah,San Juan,1,0,0
+2020-03-28,US,Washington,San Juan,3,0,0
+2020-03-28,US,California,San Luis Obispo,67,0,0
+2020-03-28,US,California,San Mateo,274,6,0
+2020-03-28,US,Colorado,San Miguel,1,0,0
+2020-03-28,US,New Mexico,San Miguel,1,0,0
+2020-03-28,US,Texas,San Patricio,2,0,0
+2020-03-28,US,Texas,San Saba,0,0,0
+2020-03-28,US,South Dakota,Sanborn,0,0,0
+2020-03-28,US,Montana,Sanders,0,0,0
+2020-03-28,US,New Mexico,Sandoval,15,0,0
+2020-03-28,US,Ohio,Sandusky,2,0,0
+2020-03-28,US,Illinois,Sangamon,8,1,0
+2020-03-28,US,Michigan,Sanilac,2,0,0
+2020-03-28,US,Utah,Sanpete,0,0,0
+2020-03-28,US,California,Santa Barbara,47,0,0
+2020-03-28,US,California,Santa Clara,591,25,0
+2020-03-28,US,Arizona,Santa Cruz,2,0,0
+2020-03-28,US,California,Santa Cruz,34,0,0
+2020-03-28,US,New Mexico,Santa Fe,29,0,0
+2020-03-28,US,Florida,Santa Rosa,14,1,0
+2020-03-28,US,Florida,Sarasota,48,2,0
+2020-03-28,US,New York,Saratoga,96,0,0
+2020-03-28,US,North Dakota,Sargent,0,0,0
+2020-03-28,US,Nebraska,Sarpy,11,0,0
+2020-03-28,US,Wisconsin,Sauk,11,1,0
+2020-03-28,US,Nebraska,Saunders,2,0,0
+2020-03-28,US,Wisconsin,Sawyer,0,0,0
+2020-03-28,US,New York,Schenectady,72,1,0
+2020-03-28,US,Texas,Schleicher,0,0,0
+2020-03-28,US,Georgia,Schley,0,0,0
+2020-03-28,US,New York,Schoharie,5,0,0
+2020-03-28,US,Michigan,Schoolcraft,0,0,0
+2020-03-28,US,Illinois,Schuyler,0,0,0
+2020-03-28,US,Missouri,Schuyler,0,0,0
+2020-03-28,US,New York,Schuyler,1,0,0
+2020-03-28,US,Pennsylvania,Schuylkill,16,0,0
+2020-03-28,US,Ohio,Scioto,0,0,0
+2020-03-28,US,Missouri,Scotland,0,0,0
+2020-03-28,US,North Carolina,Scotland,1,0,0
+2020-03-28,US,Arkansas,Scott,0,0,0
+2020-03-28,US,Illinois,Scott,0,0,0
+2020-03-28,US,Indiana,Scott,1,1,0
+2020-03-28,US,Iowa,Scott,10,0,0
+2020-03-28,US,Kansas,Scott,0,0,0
+2020-03-28,US,Kentucky,Scott,1,0,0
+2020-03-28,US,Minnesota,Scott,8,0,0
+2020-03-28,US,Mississippi,Scott,7,0,0
+2020-03-28,US,Missouri,Scott,3,0,0
+2020-03-28,US,Tennessee,Scott,2,0,0
+2020-03-28,US,Virginia,Scott,0,0,0
+2020-03-28,US,Nebraska,Scotts Bluff,0,0,0
+2020-03-28,US,Georgia,Screven,0,0,0
+2020-03-28,US,Texas,Scurry,0,0,0
+2020-03-28,US,Arkansas,Searcy,2,0,0
+2020-03-28,US,Arkansas,Sebastian,2,0,0
+2020-03-28,US,Colorado,Sedgwick,0,0,0
+2020-03-28,US,Kansas,Sedgwick,33,0,0
+2020-03-28,US,Florida,Seminole,61,0,0
+2020-03-28,US,Georgia,Seminole,3,0,0
+2020-03-28,US,Oklahoma,Seminole,0,0,0
+2020-03-28,US,New York,Seneca,0,0,0
+2020-03-28,US,Ohio,Seneca,1,0,0
+2020-03-28,US,Tennessee,Sequatchie,0,0,0
+2020-03-28,US,Oklahoma,Sequoyah,2,1,0
+2020-03-28,US,Arkansas,Sevier,1,0,0
+2020-03-28,US,Tennessee,Sevier,6,0,0
+2020-03-28,US,Utah,Sevier,0,0,0
+2020-03-28,US,Kansas,Seward,0,0,0
+2020-03-28,US,Nebraska,Seward,0,0,0
+2020-03-28,US,Texas,Shackelford,0,0,0
+2020-03-28,US,Missouri,Shannon,0,0,0
+2020-03-28,US,Mississippi,Sharkey,1,0,0
+2020-03-28,US,Arkansas,Sharp,0,0,0
+2020-03-28,US,California,Shasta,3,1,0
+2020-03-28,US,Wisconsin,Shawano,0,0,0
+2020-03-28,US,Kansas,Shawnee,7,0,0
+2020-03-28,US,Wisconsin,Sheboygan,8,0,0
+2020-03-28,US,Alabama,Shelby,72,0,0
+2020-03-28,US,Illinois,Shelby,0,0,0
+2020-03-28,US,Indiana,Shelby,10,0,0
+2020-03-28,US,Iowa,Shelby,1,0,0
+2020-03-28,US,Kentucky,Shelby,0,0,0
+2020-03-28,US,Missouri,Shelby,1,0,0
+2020-03-28,US,Ohio,Shelby,3,0,0
+2020-03-28,US,Tennessee,Shelby,275,0,0
+2020-03-28,US,Texas,Shelby,1,0,0
+2020-03-28,US,Virginia,Shenandoah,3,0,0
+2020-03-28,US,Minnesota,Sherburne,5,0,0
+2020-03-28,US,Kansas,Sheridan,0,0,0
+2020-03-28,US,Montana,Sheridan,0,0,0
+2020-03-28,US,Nebraska,Sheridan,0,0,0
+2020-03-28,US,North Dakota,Sheridan,0,0,0
+2020-03-28,US,Wyoming,Sheridan,6,0,0
+2020-03-28,US,Kansas,Sherman,0,0,0
+2020-03-28,US,Nebraska,Sherman,0,0,0
+2020-03-28,US,Oregon,Sherman,0,0,0
+2020-03-28,US,Texas,Sherman,0,0,0
+2020-03-28,US,Michigan,Shiawassee,2,0,0
+2020-03-28,US,Idaho,Shoshone,0,0,0
+2020-03-28,US,Minnesota,Sibley,1,0,0
+2020-03-28,US,California,Sierra,0,0,0
+2020-03-28,US,New Mexico,Sierra,0,0,0
+2020-03-28,US,Montana,Silver Bow,8,0,0
+2020-03-28,US,Kentucky,Simpson,1,0,0
+2020-03-28,US,Mississippi,Simpson,2,0,0
+2020-03-28,US,Iowa,Sioux,2,0,0
+2020-03-28,US,Nebraska,Sioux,0,0,0
+2020-03-28,US,North Dakota,Sioux,1,0,0
+2020-03-28,US,California,Siskiyou,3,0,0
+2020-03-28,US,Alaska,Sitka,0,0,0
+2020-03-28,US,Washington,Skagit,91,1,0
+2020-03-28,US,Alaska,Skagway,0,0,0
+2020-03-28,US,Washington,Skamania,1,0,0
+2020-03-28,US,North Dakota,Slope,0,0,0
+2020-03-28,US,Kansas,Smith,0,0,0
+2020-03-28,US,Mississippi,Smith,1,0,0
+2020-03-28,US,Tennessee,Smith,1,0,0
+2020-03-28,US,Texas,Smith,27,1,0
+2020-03-28,US,Virginia,Smyth,0,0,0
+2020-03-28,US,Washington,Snohomish,913,23,0
+2020-03-28,US,Pennsylvania,Snyder,1,0,0
+2020-03-28,US,New Mexico,Socorro,2,0,0
+2020-03-28,US,California,Solano,34,0,0
+2020-03-28,US,Maine,Somerset,0,0,0
+2020-03-28,US,Maryland,Somerset,1,0,0
+2020-03-28,US,New Jersey,Somerset,258,4,0
+2020-03-28,US,Pennsylvania,Somerset,2,0,0
+2020-03-28,US,Texas,Somervell,0,0,0
+2020-03-28,US,California,Sonoma,50,1,0
+2020-03-28,US,Virginia,Southampton,1,0,0
+2020-03-28,US,Alaska,Southeast Fairbanks,0,0,0
+2020-03-28,US,Georgia,Spalding,11,0,0
+2020-03-28,US,South Carolina,Spartanburg,21,0,0
+2020-03-28,US,Indiana,Spencer,0,0,0
+2020-03-28,US,Kentucky,Spencer,1,0,0
+2020-03-28,US,South Dakota,Spink,0,0,0
+2020-03-28,US,Washington,Spokane,108,2,0
+2020-03-28,US,Virginia,Spotsylvania,3,0,0
+2020-03-28,US,Louisiana,St. Bernard,43,2,0
+2020-03-28,US,Louisiana,St. Charles,30,2,0
+2020-03-28,US,Missouri,St. Charles,37,1,0
+2020-03-28,US,Alabama,St. Clair,11,0,0
+2020-03-28,US,Illinois,St. Clair,18,0,0
+2020-03-28,US,Michigan,St. Clair,16,0,0
+2020-03-28,US,Missouri,St. Clair,0,0,0
+2020-03-28,US,Wisconsin,St. Croix,4,0,0
+2020-03-28,US,Arkansas,St. Francis,0,0,0
+2020-03-28,US,Missouri,St. Francois,4,0,0
+2020-03-28,US,Louisiana,St. Helena,0,0,0
+2020-03-28,US,Louisiana,St. James,48,3,0
+2020-03-28,US,Louisiana,St. John the Baptist,54,3,0
+2020-03-28,US,Florida,St. Johns,48,2,0
+2020-03-28,US,Indiana,St. Joseph,31,1,0
+2020-03-28,US,Michigan,St. Joseph,0,0,0
+2020-03-28,US,Louisiana,St. Landry,10,0,0
+2020-03-28,US,New York,St. Lawrence,8,0,0
+2020-03-28,US,Minnesota,St. Louis,5,0,0
+2020-03-28,US,Missouri,St. Louis,313,2,0
+2020-03-28,US,Missouri,St. Louis City,95,1,0
+2020-03-28,US,Florida,St. Lucie,21,1,0
+2020-03-28,US,Louisiana,St. Martin,13,3,0
+2020-03-28,US,Louisiana,St. Mary,7,0,0
+2020-03-28,US,Maryland,St. Mary's,8,0,0
+2020-03-28,US,Louisiana,St. Tammany,134,2,0
+2020-03-28,US,Kansas,Stafford,0,0,0
+2020-03-28,US,Virginia,Stafford,11,0,0
+2020-03-28,US,California,Stanislaus,23,0,0
+2020-03-28,US,South Dakota,Stanley,0,0,0
+2020-03-28,US,North Carolina,Stanly,3,0,0
+2020-03-28,US,Kansas,Stanton,0,0,0
+2020-03-28,US,Nebraska,Stanton,0,0,0
+2020-03-28,US,Illinois,Stark,0,0,0
+2020-03-28,US,North Dakota,Stark,9,0,0
+2020-03-28,US,Ohio,Stark,25,2,0
+2020-03-28,US,Indiana,Starke,1,0,0
+2020-03-28,US,Texas,Starr,2,0,0
+2020-03-28,US,Virginia,Staunton,0,0,0
+2020-03-28,US,Missouri,Ste. Genevieve,0,0,0
+2020-03-28,US,Minnesota,Stearns,5,0,0
+2020-03-28,US,Minnesota,Steele,5,0,0
+2020-03-28,US,North Dakota,Steele,0,0,0
+2020-03-28,US,Georgia,Stephens,2,0,0
+2020-03-28,US,Oklahoma,Stephens,2,0,0
+2020-03-28,US,Texas,Stephens,0,0,0
+2020-03-28,US,Illinois,Stephenson,2,0,0
+2020-03-28,US,Texas,Sterling,0,0,0
+2020-03-28,US,Indiana,Steuben,0,0,0
+2020-03-28,US,New York,Steuben,13,0,0
+2020-03-28,US,Kansas,Stevens,0,0,0
+2020-03-28,US,Minnesota,Stevens,0,0,0
+2020-03-28,US,Washington,Stevens,3,0,0
+2020-03-28,US,Georgia,Stewart,0,0,0
+2020-03-28,US,Tennessee,Stewart,0,0,0
+2020-03-28,US,Montana,Stillwater,0,0,0
+2020-03-28,US,Missouri,Stoddard,1,0,0
+2020-03-28,US,North Carolina,Stokes,0,0,0
+2020-03-28,US,Arkansas,Stone,1,0,0
+2020-03-28,US,Mississippi,Stone,0,0,0
+2020-03-28,US,Missouri,Stone,0,0,0
+2020-03-28,US,Texas,Stonewall,0,0,0
+2020-03-28,US,Nevada,Storey,0,0,0
+2020-03-28,US,Iowa,Story,2,0,0
+2020-03-28,US,New Hampshire,Strafford,11,0,0
+2020-03-28,US,North Dakota,Stutsman,0,0,0
+2020-03-28,US,Wyoming,Sublette,1,0,0
+2020-03-28,US,Massachusetts,Suffolk,843,3,0
+2020-03-28,US,New York,Suffolk,4138,30,0
+2020-03-28,US,Virginia,Suffolk,1,0,0
+2020-03-28,US,Indiana,Sullivan,1,0,0
+2020-03-28,US,Missouri,Sullivan,0,0,0
+2020-03-28,US,New Hampshire,Sullivan,2,0,0
+2020-03-28,US,New York,Sullivan,72,0,0
+2020-03-28,US,Pennsylvania,Sullivan,0,0,0
+2020-03-28,US,Tennessee,Sullivan,6,0,0
+2020-03-28,US,South Dakota,Sully,0,0,0
+2020-03-28,US,West Virginia,Summers,0,0,0
+2020-03-28,US,Colorado,Summit,13,0,0
+2020-03-28,US,Ohio,Summit,79,4,0
+2020-03-28,US,Utah,Summit,127,0,0
+2020-03-28,US,Kansas,Sumner,1,0,0
+2020-03-28,US,Tennessee,Sumner,82,0,0
+2020-03-28,US,Alabama,Sumter,0,0,0
+2020-03-28,US,Florida,Sumter,33,0,0
+2020-03-28,US,Georgia,Sumter,11,0,0
+2020-03-28,US,South Carolina,Sumter,24,2,0
+2020-03-28,US,Mississippi,Sunflower,7,1,0
+2020-03-28,US,North Carolina,Surry,1,0,0
+2020-03-28,US,Virginia,Surry,0,0,0
+2020-03-28,US,Pennsylvania,Susquehanna,1,0,0
+2020-03-28,US,Delaware,Sussex,59,1,0
+2020-03-28,US,New Jersey,Sussex,81,0,0
+2020-03-28,US,Virginia,Sussex,0,0,0
+2020-03-28,US,California,Sutter,3,0,0
+2020-03-28,US,Texas,Sutton,0,0,0
+2020-03-28,US,Florida,Suwannee,1,0,0
+2020-03-28,US,North Carolina,Swain,1,0,0
+2020-03-28,US,Montana,Sweet Grass,0,0,0
+2020-03-28,US,Wyoming,Sweetwater,1,0,0
+2020-03-28,US,Minnesota,Swift,0,0,0
+2020-03-28,US,Texas,Swisher,1,0,0
+2020-03-28,US,Indiana,Switzerland,1,0,0
+2020-03-28,US,Georgia,Talbot,0,0,0
+2020-03-28,US,Maryland,Talbot,2,0,0
+2020-03-28,US,Georgia,Taliaferro,0,0,0
+2020-03-28,US,Alabama,Talladega,4,0,0
+2020-03-28,US,Mississippi,Tallahatchie,2,0,0
+2020-03-28,US,Alabama,Tallapoosa,5,0,0
+2020-03-28,US,Iowa,Tama,8,0,0
+2020-03-28,US,Missouri,Taney,2,0,0
+2020-03-28,US,Louisiana,Tangipahoa,10,0,0
+2020-03-28,US,New Mexico,Taos,8,0,0
+2020-03-28,US,Texas,Tarrant,128,1,0
+2020-03-28,US,Mississippi,Tate,8,0,0
+2020-03-28,US,Georgia,Tattnall,2,0,0
+2020-03-28,US,Florida,Taylor,0,0,0
+2020-03-28,US,Georgia,Taylor,1,0,0
+2020-03-28,US,Iowa,Taylor,1,0,0
+2020-03-28,US,Kentucky,Taylor,0,0,0
+2020-03-28,US,Texas,Taylor,3,0,0
+2020-03-28,US,West Virginia,Taylor,0,0,0
+2020-03-28,US,Wisconsin,Taylor,0,0,0
+2020-03-28,US,Illinois,Tazewell,3,0,0
+2020-03-28,US,Virginia,Tazewell,0,0,0
+2020-03-28,US,California,Tehama,0,0,0
+2020-03-28,US,Georgia,Telfair,0,0,0
+2020-03-28,US,Colorado,Teller,7,1,0
+2020-03-28,US,Louisiana,Tensas,0,0,0
+2020-03-28,US,Louisiana,Terrebonne,26,1,0
+2020-03-28,US,Georgia,Terrell,6,2,0
+2020-03-28,US,Texas,Terrell,0,0,0
+2020-03-28,US,Texas,Terry,4,0,0
+2020-03-28,US,Idaho,Teton,2,0,0
+2020-03-28,US,Montana,Teton,0,0,0
+2020-03-28,US,Wyoming,Teton,13,0,0
+2020-03-28,US,Missouri,Texas,1,0,0
+2020-03-28,US,Oklahoma,Texas,0,0,0
+2020-03-28,US,Nebraska,Thayer,0,0,0
+2020-03-28,US,Georgia,Thomas,6,0,0
+2020-03-28,US,Kansas,Thomas,0,0,0
+2020-03-28,US,Nebraska,Thomas,0,0,0
+2020-03-28,US,Texas,Throckmorton,0,0,0
+2020-03-28,US,Nebraska,Thurston,0,0,0
+2020-03-28,US,Washington,Thurston,27,0,0
+2020-03-28,US,Georgia,Tift,13,0,0
+2020-03-28,US,Oregon,Tillamook,1,0,0
+2020-03-28,US,Oklahoma,Tillman,0,0,0
+2020-03-28,US,New York,Tioga,6,0,0
+2020-03-28,US,Pennsylvania,Tioga,1,0,0
+2020-03-28,US,Mississippi,Tippah,18,2,0
+2020-03-28,US,Indiana,Tippecanoe,11,1,0
+2020-03-28,US,Indiana,Tipton,2,0,0
+2020-03-28,US,Tennessee,Tipton,11,0,0
+2020-03-28,US,Mississippi,Tishomingo,0,0,0
+2020-03-28,US,Texas,Titus,0,0,0
+2020-03-28,US,Kentucky,Todd,0,0,0
+2020-03-28,US,Minnesota,Todd,0,0,0
+2020-03-28,US,South Dakota,Todd,1,0,0
+2020-03-28,US,Connecticut,Tolland,37,4,0
+2020-03-28,US,Texas,Tom Green,3,0,0
+2020-03-28,US,New York,Tompkins,48,0,0
+2020-03-28,US,Utah,Tooele,8,0,0
+2020-03-28,US,Montana,Toole,5,0,0
+2020-03-28,US,Georgia,Toombs,1,0,0
+2020-03-28,US,New Mexico,Torrance,0,0,0
+2020-03-28,US,North Dakota,Towner,0,0,0
+2020-03-28,US,Georgia,Towns,0,0,0
+2020-03-28,US,North Dakota,Traill,0,0,0
+2020-03-28,US,North Carolina,Transylvania,3,0,0
+2020-03-28,US,Minnesota,Traverse,0,0,0
+2020-03-28,US,Texas,Travis,179,1,0
+2020-03-28,US,Montana,Treasure,0,0,0
+2020-03-28,US,Kansas,Trego,0,0,0
+2020-03-28,US,Wisconsin,Trempealeau,0,0,0
+2020-03-28,US,Georgia,Treutlen,0,0,0
+2020-03-28,US,Kentucky,Trigg,0,0,0
+2020-03-28,US,Kentucky,Trimble,0,0,0
+2020-03-28,US,California,Trinity,0,0,0
+2020-03-28,US,Texas,Trinity,0,0,0
+2020-03-28,US,South Dakota,Tripp,0,0,0
+2020-03-28,US,Georgia,Troup,9,1,0
+2020-03-28,US,Tennessee,Trousdale,1,0,0
+2020-03-28,US,Ohio,Trumbull,27,2,0
+2020-03-28,US,West Virginia,Tucker,2,0,0
+2020-03-28,US,California,Tulare,24,0,0
+2020-03-28,US,Oklahoma,Tulsa,57,3,0
+2020-03-28,US,Mississippi,Tunica,6,1,0
+2020-03-28,US,California,Tuolumne,0,0,0
+2020-03-28,US,Georgia,Turner,2,0,0
+2020-03-28,US,South Dakota,Turner,0,0,0
+2020-03-28,US,Alabama,Tuscaloosa,22,0,0
+2020-03-28,US,Ohio,Tuscarawas,5,0,0
+2020-03-28,US,Michigan,Tuscola,4,1,0
+2020-03-28,US,Georgia,Twiggs,2,0,0
+2020-03-28,US,Idaho,Twin Falls,2,0,0
+2020-03-28,US,Texas,Tyler,0,0,0
+2020-03-28,US,West Virginia,Tyler,0,0,0
+2020-03-28,US,North Carolina,Tyrrell,0,0,0
+2020-03-28,US,Wyoming,Uinta,0,0,0
+2020-03-28,US,Utah,Uintah,0,0,0
+2020-03-28,US,New York,Ulster,133,0,0
+2020-03-28,US,Oregon,Umatilla,4,0,0
+2020-03-28,US,Alaska,Unassigned,0,1,0
+2020-03-28,US,Arizona,Unassigned,0,4,0
+2020-03-28,US,Arkansas,Unassigned,32,4,0
+2020-03-28,US,Colorado,Unassigned,136,1,0
+2020-03-28,US,Florida,Unassigned,0,8,0
+2020-03-28,US,Georgia,Unassigned,230,2,0
+2020-03-28,US,Hawaii,Unassigned,4,0,0
+2020-03-28,US,Illinois,Unassigned,8,0,0
+2020-03-28,US,Kentucky,Unassigned,150,0,0
+2020-03-28,US,Louisiana,Unassigned,9,1,0
+2020-03-28,US,Maine,Unassigned,3,0,0
+2020-03-28,US,Maryland,Unassigned,0,1,0
+2020-03-28,US,Massachusetts,Unassigned,356,9,0
+2020-03-28,US,Michigan,Unassigned,47,0,0
+2020-03-28,US,Nevada,Unassigned,93,0,0
+2020-03-28,US,New Jersey,Unassigned,2478,86,0
+2020-03-28,US,New York,Unassigned,0,109,0
+2020-03-28,US,Rhode Island,Unassigned,107,2,0
+2020-03-28,US,Tennessee,Unassigned,161,4,0
+2020-03-28,US,Vermont,Unassigned,7,7,0
+2020-03-28,US,Washington,Unassigned,0,0,0
+2020-03-28,US,Wisconsin,Unassigned,0,0,0
+2020-03-28,US,Tennessee,Unicoi,1,0,0
+2020-03-28,US,Arkansas,Union,5,0,0
+2020-03-28,US,Florida,Union,0,0,0
+2020-03-28,US,Georgia,Union,0,0,0
+2020-03-28,US,Illinois,Union,0,0,0
+2020-03-28,US,Indiana,Union,0,0,0
+2020-03-28,US,Iowa,Union,0,0,0
+2020-03-28,US,Kentucky,Union,0,0,0
+2020-03-28,US,Louisiana,Union,7,0,0
+2020-03-28,US,Mississippi,Union,3,0,0
+2020-03-28,US,New Jersey,Union,742,0,0
+2020-03-28,US,New Mexico,Union,0,0,0
+2020-03-28,US,North Carolina,Union,34,0,0
+2020-03-28,US,Ohio,Union,3,0,0
+2020-03-28,US,Oregon,Union,1,0,0
+2020-03-28,US,Pennsylvania,Union,0,0,0
+2020-03-28,US,South Carolina,Union,1,0,0
+2020-03-28,US,South Dakota,Union,1,0,0
+2020-03-28,US,Tennessee,Union,1,0,0
+2020-03-28,US,Texas,Upshur,0,0,0
+2020-03-28,US,West Virginia,Upshur,1,0,0
+2020-03-28,US,Georgia,Upson,4,0,0
+2020-03-28,US,Texas,Upton,0,0,0
+2020-03-28,US,Utah,Utah,30,0,0
+2020-03-28,US,Texas,Uvalde,1,0,0
+2020-03-28,US,Texas,Val Verde,5,0,0
+2020-03-28,US,Alaska,Valdez-Cordova,0,0,0
+2020-03-28,US,New Mexico,Valencia,1,0,0
+2020-03-28,US,Idaho,Valley,1,0,0
+2020-03-28,US,Montana,Valley,0,0,0
+2020-03-28,US,Nebraska,Valley,0,0,0
+2020-03-28,US,Arkansas,Van Buren,17,0,0
+2020-03-28,US,Iowa,Van Buren,0,0,0
+2020-03-28,US,Michigan,Van Buren,4,0,0
+2020-03-28,US,Tennessee,Van Buren,0,0,0
+2020-03-28,US,Ohio,Van Wert,1,0,0
+2020-03-28,US,Texas,Van Zandt,1,0,0
+2020-03-28,US,North Carolina,Vance,2,0,0
+2020-03-28,US,Indiana,Vanderburgh,10,0,0
+2020-03-28,US,Pennsylvania,Venango,0,0,0
+2020-03-28,US,California,Ventura,83,3,0
+2020-03-28,US,Illinois,Vermilion,0,0,0
+2020-03-28,US,Louisiana,Vermilion,3,1,0
+2020-03-28,US,Indiana,Vermillion,0,0,0
+2020-03-28,US,Louisiana,Vernon,2,0,0
+2020-03-28,US,Missouri,Vernon,0,0,0
+2020-03-28,US,Wisconsin,Vernon,0,0,0
+2020-03-28,US,Texas,Victoria,3,0,0
+2020-03-28,US,Indiana,Vigo,4,1,0
+2020-03-28,US,Wisconsin,Vilas,2,0,0
+2020-03-28,US,Ohio,Vinton,0,0,0
+2020-03-28,US,Virginia,Virginia Beach,35,1,0
+2020-03-28,US,Florida,Volusia,44,0,0
+2020-03-28,US,Illinois,Wabash,0,0,0
+2020-03-28,US,Indiana,Wabash,1,0,0
+2020-03-28,US,Minnesota,Wabasha,4,0,0
+2020-03-28,US,Kansas,Wabaunsee,0,0,0
+2020-03-28,US,Minnesota,Wadena,0,0,0
+2020-03-28,US,Oklahoma,Wagoner,8,1,0
+2020-03-28,US,Washington,Wahkiakum,0,0,0
+2020-03-28,US,North Carolina,Wake,123,0,0
+2020-03-28,US,Florida,Wakulla,0,0,0
+2020-03-28,US,Maine,Waldo,2,0,0
+2020-03-28,US,Alabama,Walker,28,0,0
+2020-03-28,US,Georgia,Walker,0,0,0
+2020-03-28,US,Texas,Walker,3,0,0
+2020-03-28,US,Washington,Walla Walla,4,0,0
+2020-03-28,US,Kansas,Wallace,0,0,0
+2020-03-28,US,Texas,Waller,0,0,0
+2020-03-28,US,Oregon,Wallowa,0,0,0
+2020-03-28,US,North Dakota,Walsh,1,0,0
+2020-03-28,US,Mississippi,Walthall,5,0,0
+2020-03-28,US,Florida,Walton,15,0,0
+2020-03-28,US,Georgia,Walton,2,0,0
+2020-03-28,US,South Dakota,Walworth,0,0,0
+2020-03-28,US,Wisconsin,Walworth,6,0,0
+2020-03-28,US,Iowa,Wapello,1,0,0
+2020-03-28,US,North Dakota,Ward,7,0,0
+2020-03-28,US,Texas,Ward,0,0,0
+2020-03-28,US,Georgia,Ware,2,0,0
+2020-03-28,US,Georgia,Warren,0,0,0
+2020-03-28,US,Illinois,Warren,0,0,0
+2020-03-28,US,Indiana,Warren,1,0,0
+2020-03-28,US,Iowa,Warren,1,0,0
+2020-03-28,US,Kentucky,Warren,5,0,0
+2020-03-28,US,Mississippi,Warren,0,0,0
+2020-03-28,US,Missouri,Warren,0,0,0
+2020-03-28,US,New Jersey,Warren,51,0,0
+2020-03-28,US,New York,Warren,13,0,0
+2020-03-28,US,North Carolina,Warren,0,0,0
+2020-03-28,US,Ohio,Warren,16,0,0
+2020-03-28,US,Pennsylvania,Warren,1,0,0
+2020-03-28,US,Tennessee,Warren,0,0,0
+2020-03-28,US,Virginia,Warren,2,0,0
+2020-03-28,US,Indiana,Warrick,6,0,0
+2020-03-28,US,Utah,Wasatch,36,0,0
+2020-03-28,US,Oregon,Wasco,2,0,0
+2020-03-28,US,Minnesota,Waseca,3,0,0
+2020-03-28,US,Wyoming,Washakie,1,0,0
+2020-03-28,US,Wisconsin,Washburn,0,0,0
+2020-03-28,US,Alabama,Washington,2,0,0
+2020-03-28,US,Arkansas,Washington,14,0,0
+2020-03-28,US,Colorado,Washington,1,0,0
+2020-03-28,US,Florida,Washington,1,0,0
+2020-03-28,US,Georgia,Washington,2,0,0
+2020-03-28,US,Idaho,Washington,0,0,0
+2020-03-28,US,Illinois,Washington,1,0,0
+2020-03-28,US,Indiana,Washington,4,0,0
+2020-03-28,US,Iowa,Washington,11,0,0
+2020-03-28,US,Kansas,Washington,0,0,0
+2020-03-28,US,Kentucky,Washington,0,0,0
+2020-03-28,US,Louisiana,Washington,10,1,0
+2020-03-28,US,Maine,Washington,0,0,0
+2020-03-28,US,Maryland,Washington,6,0,0
+2020-03-28,US,Minnesota,Washington,25,0,0
+2020-03-28,US,Mississippi,Washington,13,0,0
+2020-03-28,US,Missouri,Washington,0,0,0
+2020-03-28,US,Nebraska,Washington,5,0,0
+2020-03-28,US,New York,Washington,9,0,0
+2020-03-28,US,North Carolina,Washington,0,0,0
+2020-03-28,US,Ohio,Washington,2,0,0
+2020-03-28,US,Oklahoma,Washington,14,0,0
+2020-03-28,US,Oregon,Washington,140,3,0
+2020-03-28,US,Pennsylvania,Washington,23,0,0
+2020-03-28,US,Rhode Island,Washington,14,0,0
+2020-03-28,US,Tennessee,Washington,14,0,0
+2020-03-28,US,Texas,Washington,6,0,0
+2020-03-28,US,Utah,Washington,13,0,0
+2020-03-28,US,Vermont,Washington,10,0,0
+2020-03-28,US,Virginia,Washington,1,0,0
+2020-03-28,US,Wisconsin,Washington,31,0,0
+2020-03-28,US,Oklahoma,Washita,0,0,0
+2020-03-28,US,Nevada,Washoe,75,0,0
+2020-03-28,US,Michigan,Washtenaw,185,3,0
+2020-03-28,US,North Carolina,Watauga,5,0,0
+2020-03-28,US,Minnesota,Watonwan,0,0,0
+2020-03-28,US,Wisconsin,Waukesha,72,0,0
+2020-03-28,US,Wisconsin,Waupaca,1,1,0
+2020-03-28,US,Wisconsin,Waushara,0,0,0
+2020-03-28,US,Georgia,Wayne,0,0,0
+2020-03-28,US,Illinois,Wayne,0,0,0
+2020-03-28,US,Indiana,Wayne,1,0,0
+2020-03-28,US,Iowa,Wayne,0,0,0
+2020-03-28,US,Kentucky,Wayne,0,0,0
+2020-03-28,US,Michigan,Wayne,2316,46,0
+2020-03-28,US,Mississippi,Wayne,0,0,0
+2020-03-28,US,Missouri,Wayne,0,0,0
+2020-03-28,US,Nebraska,Wayne,0,0,0
+2020-03-28,US,New York,Wayne,12,0,0
+2020-03-28,US,North Carolina,Wayne,3,0,0
+2020-03-28,US,Ohio,Wayne,4,0,0
+2020-03-28,US,Pennsylvania,Wayne,6,0,0
+2020-03-28,US,Tennessee,Wayne,0,0,0
+2020-03-28,US,Utah,Wayne,0,0,0
+2020-03-28,US,West Virginia,Wayne,0,0,0
+2020-03-28,US,Virginia,Waynesboro,0,0,0
+2020-03-28,US,Tennessee,Weakley,1,0,0
+2020-03-28,US,Texas,Webb,25,0,0
+2020-03-28,US,Utah,Weber,29,0,0
+2020-03-28,US,Georgia,Webster,0,0,0
+2020-03-28,US,Iowa,Webster,1,0,0
+2020-03-28,US,Kentucky,Webster,1,0,0
+2020-03-28,US,Louisiana,Webster,9,1,0
+2020-03-28,US,Mississippi,Webster,3,1,0
+2020-03-28,US,Missouri,Webster,0,0,0
+2020-03-28,US,Nebraska,Webster,0,0,0
+2020-03-28,US,West Virginia,Webster,0,0,0
+2020-03-28,US,Colorado,Weld,129,6,0
+2020-03-28,US,Indiana,Wells,1,0,0
+2020-03-28,US,North Dakota,Wells,0,0,0
+2020-03-28,US,Louisiana,West Baton Rouge,12,1,0
+2020-03-28,US,Louisiana,West Carroll,0,0,0
+2020-03-28,US,Louisiana,West Feliciana,4,0,0
+2020-03-28,US,New York,Westchester,7875,10,0
+2020-03-28,US,Pennsylvania,Westmoreland,41,0,0
+2020-03-28,US,Virginia,Westmoreland,0,0,0
+2020-03-28,US,Wyoming,Weston,0,0,0
+2020-03-28,US,West Virginia,Wetzel,0,0,0
+2020-03-28,US,Michigan,Wexford,1,0,0
+2020-03-28,US,Texas,Wharton,3,0,0
+2020-03-28,US,Washington,Whatcom,102,4,0
+2020-03-28,US,Montana,Wheatland,0,0,0
+2020-03-28,US,Georgia,Wheeler,0,0,0
+2020-03-28,US,Nebraska,Wheeler,0,0,0
+2020-03-28,US,Oregon,Wheeler,0,0,0
+2020-03-28,US,Texas,Wheeler,0,0,0
+2020-03-28,US,Arkansas,White,6,0,0
+2020-03-28,US,Georgia,White,1,0,0
+2020-03-28,US,Illinois,White,0,0,0
+2020-03-28,US,Indiana,White,1,0,0
+2020-03-28,US,Tennessee,White,1,0,0
+2020-03-28,US,Nevada,White Pine,0,0,0
+2020-03-28,US,Illinois,Whiteside,2,0,0
+2020-03-28,US,Georgia,Whitfield,6,0,0
+2020-03-28,US,Indiana,Whitley,1,0,0
+2020-03-28,US,Kentucky,Whitley,0,0,0
+2020-03-28,US,Washington,Whitman,6,0,0
+2020-03-28,US,Montana,Wibaux,0,0,0
+2020-03-28,US,Kansas,Wichita,0,0,0
+2020-03-28,US,Texas,Wichita,23,0,0
+2020-03-28,US,Maryland,Wicomico,6,0,0
+2020-03-28,US,Texas,Wilbarger,0,0,0
+2020-03-28,US,Alabama,Wilcox,2,0,0
+2020-03-28,US,Georgia,Wilcox,0,0,0
+2020-03-28,US,Georgia,Wilkes,1,0,0
+2020-03-28,US,North Carolina,Wilkes,0,0,0
+2020-03-28,US,Minnesota,Wilkin,1,0,0
+2020-03-28,US,Georgia,Wilkinson,0,0,0
+2020-03-28,US,Mississippi,Wilkinson,11,1,0
+2020-03-28,US,Illinois,Will,127,4,0
+2020-03-28,US,Texas,Willacy,1,0,0
+2020-03-28,US,North Dakota,Williams,0,0,0
+2020-03-28,US,Ohio,Williams,0,0,0
+2020-03-28,US,South Carolina,Williamsburg,2,0,0
+2020-03-28,US,Virginia,Williamsburg,6,1,0
+2020-03-28,US,Illinois,Williamson,1,0,0
+2020-03-28,US,Tennessee,Williamson,95,0,0
+2020-03-28,US,Texas,Williamson,34,0,0
+2020-03-28,US,Kansas,Wilson,0,0,0
+2020-03-28,US,North Carolina,Wilson,7,0,0
+2020-03-28,US,Tennessee,Wilson,20,0,0
+2020-03-28,US,Texas,Wilson,2,0,0
+2020-03-28,US,Virginia,Winchester,0,0,0
+2020-03-28,US,Connecticut,Windham,3,0,0
+2020-03-28,US,Vermont,Windham,9,0,0
+2020-03-28,US,Vermont,Windsor,18,1,0
+2020-03-28,US,Texas,Winkler,0,0,0
+2020-03-28,US,Louisiana,Winn,1,0,0
+2020-03-28,US,Illinois,Winnebago,9,0,0
+2020-03-28,US,Iowa,Winnebago,0,0,0
+2020-03-28,US,Wisconsin,Winnebago,7,0,0
+2020-03-28,US,Iowa,Winneshiek,2,0,0
+2020-03-28,US,Minnesota,Winona,4,0,0
+2020-03-28,US,Alabama,Winston,2,0,0
+2020-03-28,US,Mississippi,Winston,4,0,0
+2020-03-28,US,West Virginia,Wirt,0,0,0
+2020-03-28,US,Texas,Wise,0,0,0
+2020-03-28,US,Virginia,Wise,0,0,0
+2020-03-28,US,Kentucky,Wolfe,0,0,0
+2020-03-28,US,Ohio,Wood,10,0,0
+2020-03-28,US,Texas,Wood,0,0,0
+2020-03-28,US,West Virginia,Wood,2,0,0
+2020-03-28,US,Wisconsin,Wood,2,0,0
+2020-03-28,US,Iowa,Woodbury,3,0,0
+2020-03-28,US,Illinois,Woodford,3,0,0
+2020-03-28,US,Kentucky,Woodford,0,0,0
+2020-03-28,US,Arkansas,Woodruff,1,0,0
+2020-03-28,US,Oklahoma,Woods,0,0,0
+2020-03-28,US,Kansas,Woodson,1,0,0
+2020-03-28,US,Oklahoma,Woodward,0,0,0
+2020-03-28,US,Maryland,Worcester,2,0,0
+2020-03-28,US,Massachusetts,Worcester,291,5,0
+2020-03-28,US,Georgia,Worth,8,1,0
+2020-03-28,US,Iowa,Worth,0,0,0
+2020-03-28,US,Missouri,Worth,0,0,0
+2020-03-28,US,Alaska,Wrangell,0,0,0
+2020-03-28,US,Iowa,Wright,1,0,0
+2020-03-28,US,Minnesota,Wright,5,0,0
+2020-03-28,US,Missouri,Wright,1,0,0
+2020-03-28,US,Ohio,Wyandot,1,0,0
+2020-03-28,US,Kansas,Wyandotte,53,3,0
+2020-03-28,US,New York,Wyoming,7,1,0
+2020-03-28,US,Pennsylvania,Wyoming,0,0,0
+2020-03-28,US,West Virginia,Wyoming,0,0,0
+2020-03-28,US,Virginia,Wythe,0,0,0
+2020-03-28,US,North Carolina,Yadkin,1,0,0
+2020-03-28,US,Washington,Yakima,82,2,0
+2020-03-28,US,Alaska,Yakutat,0,0,0
+2020-03-28,US,Mississippi,Yalobusha,3,0,0
+2020-03-28,US,Oregon,Yamhill,13,1,0
+2020-03-28,US,North Carolina,Yancey,0,0,0
+2020-03-28,US,South Dakota,Yankton,1,0,0
+2020-03-28,US,New York,Yates,0,0,0
+2020-03-28,US,Arizona,Yavapai,13,0,0
+2020-03-28,US,Mississippi,Yazoo,4,0,0
+2020-03-28,US,Arkansas,Yell,0,0,0
+2020-03-28,US,Minnesota,Yellow Medicine,0,0,0
+2020-03-28,US,Montana,Yellowstone,23,0,0
+2020-03-28,US,Texas,Yoakum,0,0,0
+2020-03-28,US,California,Yolo,16,1,0
+2020-03-28,US,Maine,York,38,0,0
+2020-03-28,US,Nebraska,York,0,0,0
+2020-03-28,US,Pennsylvania,York,37,0,0
+2020-03-28,US,South Carolina,York,31,0,0
+2020-03-28,US,Virginia,York,9,1,0
+2020-03-28,US,Texas,Young,1,0,0
+2020-03-28,US,California,Yuba,3,0,0
+2020-03-28,US,Alaska,Yukon-Koyukuk,0,0,0
+2020-03-28,US,Arizona,Yuma,4,0,0
+2020-03-28,US,Colorado,Yuma,2,0,0
+2020-03-28,US,Texas,Zapata,0,0,0
+2020-03-28,US,Texas,Zavala,0,0,0
+2020-03-28,US,South Dakota,Ziebach,0,0,0
+2020-03-28,Canada,Alberta,,542,2,0
+2020-03-28,US,American Samoa,,0,0,0
+2020-03-28,United Kingdom,Anguilla,,2,0,0
+2020-03-28,China,Anhui,,990,6,984
+2020-03-28,Netherlands,Aruba,,46,0,1
+2020-03-28,Australia,Australian Capital Territory,,71,0,2
+2020-03-28,China,Beijing,,573,8,410
+2020-03-28,United Kingdom,Bermuda,,17,0,2
+2020-03-28,Canada,British Columbia,,884,17,0
+2020-03-28,United Kingdom,British Virgin Islands,,2,0,0
+2020-03-28,United Kingdom,Cayman Islands,,8,1,0
+2020-03-28,United Kingdom,Channel Islands,,97,1,0
+2020-03-28,China,Chongqing,,578,6,570
+2020-03-28,Netherlands,Curacao,,8,1,2
+2020-03-28,Canada,Diamond Princess,,0,1,0
+2020-03-28,US,Diamond Princess,,49,0,0
+2020-03-28,Denmark,Faroe Islands,,155,0,54
+2020-03-28,France,French Guiana,,28,0,6
+2020-03-28,France,French Polynesia,,30,0,0
+2020-03-28,China,Fujian,,337,1,295
+2020-03-28,China,Gansu,,136,2,125
+2020-03-28,United Kingdom,Gibraltar,,56,0,14
+2020-03-28,Canada,Grand Princess,,13,0,0
+2020-03-28,US,Grand Princess,,103,3,0
+2020-03-28,Denmark,Greenland,,10,0,2
+2020-03-28,France,Guadeloupe,,102,2,17
+2020-03-28,US,Guam,,55,1,0
+2020-03-28,China,Guangdong,,1467,8,1341
+2020-03-28,China,Guangxi,,254,2,250
+2020-03-28,China,Guizhou,,146,2,144
+2020-03-28,China,Hainan,,168,6,168
+2020-03-28,China,Hebei,,319,6,310
+2020-03-28,China,Heilongjiang,,484,13,469
+2020-03-28,China,Henan,,1275,22,1251
+2020-03-28,China,Hong Kong,,561,4,112
+2020-03-28,China,Hubei,,67801,3177,62098
+2020-03-28,China,Hunan,,1018,4,1014
+2020-03-28,China,Inner Mongolia,,94,1,74
+2020-03-28,United Kingdom,Isle of Man,,32,0,0
+2020-03-28,China,Jiangsu,,641,0,631
+2020-03-28,China,Jiangxi,,936,1,934
+2020-03-28,China,Jilin,,97,1,92
+2020-03-28,China,Liaoning,,132,2,124
+2020-03-28,China,Macau,,37,0,10
+2020-03-28,Canada,Manitoba,,64,1,0
+2020-03-28,France,Martinique,,93,1,0
+2020-03-28,France,Mayotte,,63,0,0
+2020-03-28,United Kingdom,Montserrat,,5,0,0
+2020-03-28,Canada,New Brunswick,,51,0,0
+2020-03-28,France,New Caledonia,,15,0,0
+2020-03-28,Australia,New South Wales,,1617,8,4
+2020-03-28,Canada,Newfoundland and Labrador,,120,0,0
+2020-03-28,China,Ningxia,,75,0,75
+2020-03-28,US,Northern Mariana Islands,,0,0,0
+2020-03-28,Australia,Northern Territory,,15,0,0
+2020-03-28,Canada,Northwest Territories,,1,0,0
+2020-03-28,Canada,Nova Scotia,,110,0,0
+2020-03-28,Canada,Ontario,,1144,18,0
+2020-03-28,Canada,Prince Edward Island,,11,0,0
+2020-03-28,US,Puerto Rico,,100,3,0
+2020-03-28,China,Qinghai,,18,0,18
+2020-03-28,Canada,Quebec,,2498,22,0
+2020-03-28,Australia,Queensland,,625,1,8
+2020-03-28,Canada,Recovered,,0,0,466
+2020-03-28,US,Recovered,,0,0,1072
+2020-03-28,France,Reunion,,183,0,1
+2020-03-28,France,Saint Barthelemy,,5,0,0
+2020-03-28,Canada,Saskatchewan,,134,0,0
+2020-03-28,China,Shaanxi,,253,3,242
+2020-03-28,China,Shandong,,772,7,752
+2020-03-28,China,Shanghai,,485,5,334
+2020-03-28,China,Shanxi,,135,0,133
+2020-03-28,China,Sichuan,,548,3,536
+2020-03-28,Netherlands,Sint Maarten,,3,0,0
+2020-03-28,Australia,South Australia,,287,0,6
+2020-03-28,France,St Martin,,11,0,0
+2020-03-28,Australia,Tasmania,,62,0,5
+2020-03-28,China,Tianjin,,161,3,133
+2020-03-28,China,Tibet,,1,0,1
+2020-03-28,United Kingdom,Turks and Caicos Islands,,4,0,0
+2020-03-28,Australia,Victoria,,685,3,191
+2020-03-28,US,Virgin Islands,,22,0,0
+2020-03-28,Australia,Western Australia,,278,2,28
+2020-03-28,China,Xinjiang,,76,3,73
+2020-03-28,Canada,Yukon,,4,0,0
+2020-03-28,China,Yunnan,,180,2,172
+2020-03-28,China,Zhejiang,,1251,1,1225
+2020-03-28,Afghanistan,,,110,4,2
+2020-03-28,Albania,,,197,10,31
+2020-03-28,Algeria,,,454,29,31
+2020-03-28,Andorra,,,308,3,1
+2020-03-28,Angola,,,5,0,0
+2020-03-28,Antigua and Barbuda,,,7,0,0
+2020-03-28,Argentina,,,690,18,72
+2020-03-28,Armenia,,,407,1,30
+2020-03-28,Austria,,,8271,68,225
+2020-03-28,Azerbaijan,,,182,4,15
+2020-03-28,Bahamas,,,10,0,1
+2020-03-28,Bahrain,,,476,4,265
+2020-03-28,Bangladesh,,,48,5,15
+2020-03-28,Barbados,,,26,0,0
+2020-03-28,Belarus,,,94,0,32
+2020-03-28,Belgium,,,9134,353,1063
+2020-03-28,Belize,,,2,0,0
+2020-03-28,Benin,,,6,0,0
+2020-03-28,Bhutan,,,3,0,0
+2020-03-28,Bolivia,,,74,0,0
+2020-03-28,Bosnia and Herzegovina,,,258,5,5
+2020-03-28,Brazil,,,3904,111,6
+2020-03-28,Brunei,,,120,1,25
+2020-03-28,Bulgaria,,,331,7,11
+2020-03-28,Burkina Faso,,,207,11,21
+2020-03-28,Burma,,,8,0,0
+2020-03-28,Cabo Verde,,,5,1,0
+2020-03-28,Cambodia,,,99,0,13
+2020-03-28,Cameroon,,,91,2,2
+2020-03-28,Central African Republic,,,3,0,0
+2020-03-28,Chad,,,3,0,0
+2020-03-28,Chile,,,1909,6,61
+2020-03-28,Colombia,,,608,6,10
+2020-03-28,Congo (Brazzaville),,,4,0,0
+2020-03-28,Congo (Kinshasa),,,65,6,2
+2020-03-28,Costa Rica,,,295,2,3
+2020-03-28,Cote d'Ivoire,,,101,0,3
+2020-03-28,Croatia,,,657,5,45
+2020-03-28,Cuba,,,119,3,4
+2020-03-28,Cyprus,,,179,5,15
+2020-03-28,Czechia,,,2631,11,11
+2020-03-28,Denmark,,,2201,65,1
+2020-03-28,Diamond Princess,,,712,10,597
+2020-03-28,Djibouti,,,14,0,0
+2020-03-28,Dominica,,,11,0,0
+2020-03-28,Dominican Republic,,,719,28,3
+2020-03-28,Ecuador,,,1823,48,3
+2020-03-28,Egypt,,,576,36,121
+2020-03-28,El Salvador,,,19,0,0
+2020-03-28,Equatorial Guinea,,,12,0,0
+2020-03-28,Eritrea,,,6,0,0
+2020-03-28,Estonia,,,645,1,20
+2020-03-28,Eswatini,,,9,0,0
+2020-03-28,Ethiopia,,,16,0,1
+2020-03-28,Fiji,,,5,0,0
+2020-03-28,Finland,,,1167,9,10
+2020-03-28,France,,,37575,2314,5700
+2020-03-28,Gabon,,,7,1,0
+2020-03-28,Gambia,,,3,1,0
+2020-03-28,Georgia,,,90,0,14
+2020-03-28,Germany,,,57695,433,8481
+2020-03-28,Ghana,,,141,5,2
+2020-03-28,Greece,,,1061,32,52
+2020-03-28,Grenada,,,7,0,0
+2020-03-28,Guatemala,,,34,1,10
+2020-03-28,Guinea,,,8,0,0
+2020-03-28,Guinea-Bissau,,,2,0,0
+2020-03-28,Guyana,,,8,1,0
+2020-03-28,Haiti,,,8,0,0
+2020-03-28,Holy See,,,6,0,0
+2020-03-28,Honduras,,,95,1,3
+2020-03-28,Hungary,,,343,11,34
+2020-03-28,Iceland,,,963,2,114
+2020-03-28,India,,,987,24,84
+2020-03-28,Indonesia,,,1155,102,59
+2020-03-28,Iran,,,35408,2517,11679
+2020-03-28,Iraq,,,506,42,131
+2020-03-28,Ireland,,,2415,36,5
+2020-03-28,Israel,,,3619,12,89
+2020-03-28,Italy,,,92472,10023,12384
+2020-03-28,Jamaica,,,30,1,2
+2020-03-28,Japan,,,1693,52,404
+2020-03-28,Jordan,,,246,1,18
+2020-03-28,Kazakhstan,,,228,1,16
+2020-03-28,Kenya,,,38,1,1
+2020-03-28,"Korea, South",,,9478,144,4811
+2020-03-28,Kosovo,,,91,1,1
+2020-03-28,Kuwait,,,235,0,64
+2020-03-28,Kyrgyzstan,,,58,0,0
+2020-03-28,Laos,,,8,0,0
+2020-03-28,Latvia,,,305,0,1
+2020-03-28,Lebanon,,,412,8,30
+2020-03-28,Liberia,,,3,0,0
+2020-03-28,Libya,,,3,0,0
+2020-03-28,Liechtenstein,,,56,0,0
+2020-03-28,Lithuania,,,394,7,1
+2020-03-28,Luxembourg,,,1831,18,40
+2020-03-28,MS Zaandam,,,2,0,0
+2020-03-28,Madagascar,,,26,0,0
+2020-03-28,Malaysia,,,2320,27,320
+2020-03-28,Maldives,,,16,0,9
+2020-03-28,Mali,,,18,0,0
+2020-03-28,Malta,,,149,0,2
+2020-03-28,Mauritania,,,5,0,0
+2020-03-28,Mauritius,,,102,2,0
+2020-03-28,Mexico,,,717,12,4
+2020-03-28,Moldova,,,231,2,2
+2020-03-28,Monaco,,,42,0,1
+2020-03-28,Mongolia,,,12,0,0
+2020-03-28,Montenegro,,,84,1,0
+2020-03-28,Morocco,,,402,25,11
+2020-03-28,Mozambique,,,8,0,0
+2020-03-28,Namibia,,,8,0,2
+2020-03-28,Nepal,,,5,0,1
+2020-03-28,Netherlands,,,9762,639,3
+2020-03-28,New Zealand,,,451,0,50
+2020-03-28,Nicaragua,,,4,1,0
+2020-03-28,Niger,,,10,1,0
+2020-03-28,Nigeria,,,89,1,3
+2020-03-28,North Macedonia,,,241,4,3
+2020-03-28,Norway,,,4015,23,7
+2020-03-28,Oman,,,152,0,23
+2020-03-28,Pakistan,,,1495,12,29
+2020-03-28,Panama,,,786,14,2
+2020-03-28,Papua New Guinea,,,1,0,0
+2020-03-28,Paraguay,,,56,3,1
+2020-03-28,Peru,,,671,16,16
+2020-03-28,Philippines,,,1075,68,35
+2020-03-28,Poland,,,1638,18,7
+2020-03-28,Portugal,,,5170,100,43
+2020-03-28,Qatar,,,590,1,45
+2020-03-28,Romania,,,1452,37,139
+2020-03-28,Russia,,,1264,4,49
+2020-03-28,Rwanda,,,60,0,0
+2020-03-28,Saint Kitts and Nevis,,,2,0,0
+2020-03-28,Saint Lucia,,,3,0,1
+2020-03-28,Saint Vincent and the Grenadines,,,1,0,1
+2020-03-28,San Marino,,,224,22,6
+2020-03-28,Saudi Arabia,,,1203,4,37
+2020-03-28,Senegal,,,130,0,18
+2020-03-28,Serbia,,,659,10,0
+2020-03-28,Seychelles,,,8,0,0
+2020-03-28,Singapore,,,802,2,198
+2020-03-28,Slovakia,,,292,0,2
+2020-03-28,Slovenia,,,684,9,10
+2020-03-28,Somalia,,,3,0,0
+2020-03-28,South Africa,,,1187,1,31
+2020-03-28,Spain,,,73235,5982,12285
+2020-03-28,Sri Lanka,,,113,1,9
+2020-03-28,Sudan,,,5,1,0
+2020-03-28,Suriname,,,8,0,0
+2020-03-28,Sweden,,,3447,105,16
+2020-03-28,Switzerland,,,14076,264,1530
+2020-03-28,Syria,,,5,0,0
+2020-03-28,Taiwan*,,,283,2,30
+2020-03-28,Tanzania,,,14,0,1
+2020-03-28,Thailand,,,1245,6,97
+2020-03-28,Timor-Leste,,,1,0,0
+2020-03-28,Togo,,,25,1,1
+2020-03-28,Trinidad and Tobago,,,74,3,1
+2020-03-28,Tunisia,,,278,8,2
+2020-03-28,Turkey,,,7402,108,70
+2020-03-28,Uganda,,,30,0,0
+2020-03-28,Ukraine,,,356,9,5
+2020-03-28,United Arab Emirates,,,468,2,52
+2020-03-28,United Kingdom,,,17089,1019,135
+2020-03-28,Uruguay,,,274,0,0
+2020-03-28,Uzbekistan,,,104,2,5
+2020-03-28,Venezuela,,,119,2,39
+2020-03-28,Vietnam,,,174,0,21
+2020-03-28,West Bank and Gaza,,,98,1,18
+2020-03-28,Zambia,,,28,0,0
+2020-03-28,Zimbabwe,,,7,1,0
