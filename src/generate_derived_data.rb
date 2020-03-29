@@ -17,6 +17,7 @@ class GenerateDerivedData
   def initialize
     @location_types_location_keys_dates_data = {}
     @location_types_location_keys_locations = {}
+    @today = Date.today
 
     LOCATION_TYPES.each do |location_type|
       @location_types_location_keys_dates_data[location_type] = {}
@@ -174,8 +175,16 @@ class GenerateDerivedData
           when :place
             row = [location[:name], location[:region][:name], location[:country][:name]]
           end
+          last_value = nil
           row += dates.map do |date|
-            dates_data[date]&.dig(:cumulative)&.dig(count_key) || 0
+            value = dates_data[date]&.dig(:cumulative)&.dig(count_key)
+            # If we're missing data from the last day, use the previous day's data
+            if value.nil? && date >= @today - 1
+              value = last_value
+            end
+            value ||= 0
+            last_value = value
+            value
           end
           row
         end
