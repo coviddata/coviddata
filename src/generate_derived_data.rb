@@ -129,7 +129,9 @@ class GenerateDerivedData
     custom_country_source_key = COUNTRY_KEYS_SOURCE_KEYS[country_key]
     if custom_country_source_key
       return true if custom_country_source_key == source.key
-      return true if COUNTRY_KEYS_LATEST_REGION_SOURCE_KEYS[country_key] == source.key && location_type == :region && date >= @today
+      # The NY Times data doesn't have the latest date's data, so we'll use JHU data in this case. If NY Times data does exist, it will
+      # overwrite the JHU data.
+      return true if COUNTRY_KEYS_LATEST_REGION_SOURCE_KEYS[country_key] == source.key && location_type == :region && date >= @today - 1
       return false
     end
     true
