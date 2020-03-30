@@ -4,7 +4,8 @@ module Sources
       Sources.add(self)
       self.key = 'jhu_csse'
       self.config = {
-        calculate_sum_of_location_rows: true
+        calculate_sum_of_location_rows: true,
+        priority: 2
       }
 
       INPUT_DIRECTORY = "data/sources/#{self.key}/daily_reports/"

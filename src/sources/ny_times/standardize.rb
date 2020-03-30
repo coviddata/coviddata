@@ -4,7 +4,8 @@ module Sources
       Sources.add(self)
       self.key = 'ny_times'
       self.config = {
-        calculate_sum_of_location_rows: false
+        calculate_sum_of_location_rows: false,
+        priority: 1
       }
 
       INPUT_DIRECTORY = "data/sources/#{self.key}/"

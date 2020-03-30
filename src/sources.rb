@@ -10,12 +10,16 @@ end
 
 module Sources
   def self.all
-    @all ||= []
-    @all
+    unsorted.sort_by { |source| source.config[:priority] }.reverse
+  end
+
+  def self.unsorted
+    @unsorted ||= []
+    @unsorted
   end
 
   def self.add(source)
-    all << source
+    unsorted << source
   end
 
   def self.keys

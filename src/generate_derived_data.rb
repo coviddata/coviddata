@@ -13,6 +13,9 @@ class GenerateDerivedData
   COUNTRY_KEYS_SOURCE_KEYS = {
     'united-states' => 'ny_times'
   }
+  COUNTRY_KEYS_LATEST_REGION_SOURCE_KEYS = {
+    'united-states' => 'jhu_csse'
+  }
 
   def initialize
     @location_types_location_keys_dates_data = {}
@@ -70,11 +73,11 @@ class GenerateDerivedData
     location_names = row_to_location_names(row)
     return if location_names[location_type].nil?
     location = generate_location(location_type, location_names[:country], location_names[:region], location_names[:place])
+    date = Date.parse(row['date'])
     return unless is_valid_location?(location)
-    return unless is_valid_source?(source, location_type, location) && is_relevant_row?(source, location_type, location_names)
+    return unless is_valid_source?(source, location_type, location, date) && is_relevant_row?(source, location_type, location_names)
 
     location_key = location[:key]
-    date = Date.parse(row['date'])
     @location_types_location_keys_dates_data[location_type][location_key] ||= {}
 
     cumulative_data = {
@@ -120,12 +123,16 @@ class GenerateDerivedData
     true
   end
 
-  def is_valid_source?(source, location_type, location)
+  def is_valid_source?(source, location_type, location, date)
     return true if location_type == :country
     country_key = location[:country]&.dig(:key) || location[:key]
     custom_country_source_key = COUNTRY_KEYS_SOURCE_KEYS[country_key]
-    return true unless custom_country_source_key
-    custom_country_source_key == source.key
+    if custom_country_source_key
+      return true if custom_country_source_key == source.key
+      return true if COUNTRY_KEYS_LATEST_REGION_SOURCE_KEYS[country_key] == source.key && location_type == :region && date >= @today
+      return false
+    end
+    true
   end
 
   def row_to_location_names(row)
