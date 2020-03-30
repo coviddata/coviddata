@@ -1,0 +1,34 @@
+[
+  {
+    "country": {
+      "key": "united-states",
+      "name": "United States"
+    },
+    "dates": {
+      "2020-03-28": {
+        "new": {
+          "cases": 19821,
+          "deaths": 445,
+          "recoveries": 203
+        },
+        "cumulative": {
+          "cases": 121478,
+          "deaths": 2026,
+          "recoveries": 1072
+        }
+      },
+      "2020-03-29": {
+        "new": {
+          "cases": 19408,
+          "deaths": 441,
+          "recoveries": 1593
+        },
+        "cumulative": {
+          "cases": 140886,
+          "deaths": 2467,
+          "recoveries": 2665
+        }
+      }
+    }
+  }
+]

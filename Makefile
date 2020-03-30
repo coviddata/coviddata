@@ -8,5 +8,8 @@ fetch_source_data:
 generate_derived_data:
 	ruby bin/generate_derived_data.rb
 
+generate_samples:
+	ruby bin/generate_samples.rb
+
 update_index_html:
 	ruby bin/update_index_html.rb

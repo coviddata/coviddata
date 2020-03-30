@@ -1,0 +1,51 @@
+[
+  {
+    "place": {
+      "key": "new-york-city-new-york-united-states",
+      "name": "New York City",
+      "full_name": "New York City, New York, United States",
+      "country": {
+        "location_type": "country",
+        "key": "united-states",
+        "name": "United States"
+      },
+      "region": {
+        "location_type": "region",
+        "key": "new-york-united-states",
+        "name": "New York",
+        "full_name": "New York, United States",
+        "country": {
+          "location_type": "country",
+          "key": "united-states",
+          "name": "United States"
+        }
+      }
+    },
+    "dates": {
+      "2020-03-27": {
+        "new": {
+          "cases": 2287,
+          "deaths": 85,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 25399,
+          "deaths": 450,
+          "recoveries": 0
+        }
+      },
+      "2020-03-28": {
+        "new": {
+          "cases": 5367,
+          "deaths": 222,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 30766,
+          "deaths": 672,
+          "recoveries": 0
+        }
+      }
+    }
+  }
+]

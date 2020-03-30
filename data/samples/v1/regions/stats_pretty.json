@@ -1,0 +1,40 @@
+[
+  {
+    "region": {
+      "key": "hubei-china",
+      "name": "Hubei",
+      "full_name": "Hubei, China",
+      "country": {
+        "location_type": "country",
+        "key": "china",
+        "name": "China"
+      }
+    },
+    "dates": {
+      "2020-03-28": {
+        "new": {
+          "cases": 0,
+          "deaths": 3,
+          "recoveries": 366
+        },
+        "cumulative": {
+          "cases": 67801,
+          "deaths": 3177,
+          "recoveries": 62098
+        }
+      },
+      "2020-03-29": {
+        "new": {
+          "cases": 0,
+          "deaths": 5,
+          "recoveries": 472
+        },
+        "cumulative": {
+          "cases": 67801,
+          "deaths": 3182,
+          "recoveries": 62570
+        }
+      }
+    }
+  }
+]
