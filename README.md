@@ -61,12 +61,12 @@ The data is updated from the [data sources](#data-sources) multiple times per da
 | [countries/cases.csv](https://coviddata.github.io/coviddata/v1/countries/cases.csv) | Cumulative cases by country and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/countries/cases.csv) |
 | [countries/deaths.csv](https://coviddata.github.io/coviddata/v1/countries/deaths.csv) | Cumulative deaths by country and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/countries/deaths.csv) |
 | [countries/recoveries.csv](https://coviddata.github.io/coviddata/v1/countries/recoveries.csv) | Cumulative recoveries by country and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/countries/recoveries.csv) |
-| [regions/cases.csv](https://coviddata.github.io/coviddata/v1/regions/cases.csv) | Cumulative cases by country and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/regions/cases.csv) |
-| [regions/deaths.csv](https://coviddata.github.io/coviddata/v1/regions/deaths.csv) | Cumulative deaths by country and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/regions/deaths.csv) |
-| [regions/recoveries.csv](https://coviddata.github.io/coviddata/v1/regions/recoveries.csv) | Cumulative recoveries by country and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/regions/recoveries.csv) |
-| [places/cases.csv](https://coviddata.github.io/coviddata/v1/places/cases.csv) | Cumulative cases by country and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/places/cases.csv) |
-| [places/deaths.csv](https://coviddata.github.io/coviddata/v1/places/deaths.csv) | Cumulative deaths by country and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/places/deaths.csv) |
-| [places/recoveries.csv](https://coviddata.github.io/coviddata/v1/places/recoveries.csv) | Cumulative recoveries by country and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/places/recoveries.csv) |
+| [regions/cases.csv](https://coviddata.github.io/coviddata/v1/regions/cases.csv) | Cumulative cases by region and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/regions/cases.csv) |
+| [regions/deaths.csv](https://coviddata.github.io/coviddata/v1/regions/deaths.csv) | Cumulative deaths by region and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/regions/deaths.csv) |
+| [regions/recoveries.csv](https://coviddata.github.io/coviddata/v1/regions/recoveries.csv) | Cumulative recoveries by region and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/regions/recoveries.csv) |
+| [places/cases.csv](https://coviddata.github.io/coviddata/v1/places/cases.csv) | Cumulative cases by place and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/places/cases.csv) |
+| [places/deaths.csv](https://coviddata.github.io/coviddata/v1/places/deaths.csv) | Cumulative deaths by place and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/places/deaths.csv) |
+| [places/recoveries.csv](https://coviddata.github.io/coviddata/v1/places/recoveries.csv) | Cumulative recoveries by place and date. | [Sample](https://github.com/coviddata/coviddata/blob/master/data/samples/v1/places/recoveries.csv) |
 
 ## API
 
