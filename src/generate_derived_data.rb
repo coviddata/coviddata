@@ -86,11 +86,13 @@ class GenerateDerivedData
       recoveries: row['recoveries'].to_i
     }
 
-    existing_date_data = @location_types_location_keys_dates_data[location_type][location_key][date]
-    if existing_date_data
-      existing_cumulative_data = existing_date_data[:cumulative]
-      COUNT_KEYS.each do |count_key|
-        cumulative_data[count_key] += existing_cumulative_data[count_key] || 0
+    if source.config[:calculate_sum_of_location_rows]
+      existing_date_data = @location_types_location_keys_dates_data[location_type][location_key][date]
+      if existing_date_data
+        existing_cumulative_data = existing_date_data[:cumulative]
+        COUNT_KEYS.each do |count_key|
+          cumulative_data[count_key] += existing_cumulative_data[count_key] || 0
+        end
       end
     end
 
