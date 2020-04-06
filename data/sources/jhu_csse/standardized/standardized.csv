@@ -51230,3 +51230,2767 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-04,Zambia,,,39,1,2
 2020-04-04,Zimbabwe,,,9,1,0
 2020-04-04,US,Wyoming,unassigned,0,0,0
+2020-04-05,US,South Carolina,Abbeville,6,0,0
+2020-04-05,US,Louisiana,Acadia,75,2,0
+2020-04-05,US,Virginia,Accomack,11,0,0
+2020-04-05,US,Idaho,Ada,385,3,0
+2020-04-05,US,Iowa,Adair,1,0,0
+2020-04-05,US,Kentucky,Adair,3,0,0
+2020-04-05,US,Missouri,Adair,10,0,0
+2020-04-05,US,Oklahoma,Adair,18,0,0
+2020-04-05,US,Colorado,Adams,354,10,0
+2020-04-05,US,Idaho,Adams,1,0,0
+2020-04-05,US,Illinois,Adams,3,0,0
+2020-04-05,US,Indiana,Adams,2,0,0
+2020-04-05,US,Mississippi,Adams,19,0,0
+2020-04-05,US,Nebraska,Adams,11,0,0
+2020-04-05,US,Ohio,Adams,2,0,0
+2020-04-05,US,Pennsylvania,Adams,22,0,0
+2020-04-05,US,Washington,Adams,23,0,0
+2020-04-05,US,Wisconsin,Adams,1,0,0
+2020-04-05,US,Vermont,Addison,40,0,0
+2020-04-05,US,South Carolina,Aiken,27,1,0
+2020-04-05,US,Florida,Alachua,123,0,0
+2020-04-05,US,North Carolina,Alamance,19,0,0
+2020-04-05,US,California,Alameda,566,12,0
+2020-04-05,US,Colorado,Alamosa,4,0,0
+2020-04-05,US,New York,Albany,305,8,0
+2020-04-05,US,Wyoming,Albany,4,0,0
+2020-04-05,US,Virginia,Albemarle,32,0,0
+2020-04-05,US,Mississippi,Alcorn,6,0,0
+2020-04-05,US,North Carolina,Alexander,2,0,0
+2020-04-05,US,Virginia,Alexandria,74,0,0
+2020-04-05,US,Iowa,Allamakee,17,1,0
+2020-04-05,US,Michigan,Allegan,14,0,0
+2020-04-05,US,Maryland,Allegany,6,0,0
+2020-04-05,US,New York,Allegany,16,1,0
+2020-04-05,US,North Carolina,Alleghany,2,0,0
+2020-04-05,US,Virginia,Alleghany,2,0,0
+2020-04-05,US,Pennsylvania,Allegheny,605,4,0
+2020-04-05,US,Indiana,Allen,63,2,0
+2020-04-05,US,Kentucky,Allen,2,0,0
+2020-04-05,US,Louisiana,Allen,40,5,0
+2020-04-05,US,Ohio,Allen,18,0,0
+2020-04-05,US,South Carolina,Allendale,2,0,0
+2020-04-05,US,California,Alpine,1,0,0
+2020-04-05,US,California,Amador,0,0,0
+2020-04-05,US,Virginia,Amelia,6,0,0
+2020-04-05,US,Virginia,Amherst,6,0,0
+2020-04-05,US,Mississippi,Amite,6,1,0
+2020-04-05,US,Alaska,Anchorage,85,1,0
+2020-04-05,US,Kansas,Anderson,0,0,0
+2020-04-05,US,Kentucky,Anderson,3,1,0
+2020-04-05,US,South Carolina,Anderson,69,3,0
+2020-04-05,US,Tennessee,Anderson,10,0,0
+2020-04-05,US,Texas,Anderson,1,0,0
+2020-04-05,US,Texas,Andrews,6,0,0
+2020-04-05,US,Maine,Androscoggin,20,0,0
+2020-04-05,US,Texas,Angelina,10,0,0
+2020-04-05,US,Maryland,Anne Arundel,319,6,0
+2020-04-05,US,Minnesota,Anoka,36,0,0
+2020-04-05,US,North Carolina,Anson,5,0,0
+2020-04-05,US,Nebraska,Antelope,1,0,0
+2020-04-05,US,Michigan,Antrim,4,0,0
+2020-04-05,US,Arizona,Apache,45,0,0
+2020-04-05,US,Iowa,Appanoose,1,1,0
+2020-04-05,US,Georgia,Appling,5,0,0
+2020-04-05,US,Virginia,Appomattox,0,0,0
+2020-04-05,US,Texas,Aransas,1,0,0
+2020-04-05,US,Colorado,Arapahoe,608,13,0
+2020-04-05,US,Colorado,Archuleta,1,0,0
+2020-04-05,US,Michigan,Arenac,3,0,0
+2020-04-05,US,Arkansas,Arkansas,1,0,0
+2020-04-05,US,Virginia,Arlington,181,2,0
+2020-04-05,US,Pennsylvania,Armstrong,12,0,0
+2020-04-05,US,Maine,Aroostook,1,0,0
+2020-04-05,US,Louisiana,Ascension,286,11,0
+2020-04-05,US,North Carolina,Ashe,1,0,0
+2020-04-05,US,Ohio,Ashland,3,0,0
+2020-04-05,US,Wisconsin,Ashland,1,0,0
+2020-04-05,US,Arkansas,Ashley,1,0,0
+2020-04-05,US,Ohio,Ashtabula,12,0,0
+2020-04-05,US,Washington,Asotin,2,0,0
+2020-04-05,US,Louisiana,Assumption,59,0,0
+2020-04-05,US,Texas,Atascosa,2,0,0
+2020-04-05,US,Kansas,Atchison,2,0,0
+2020-04-05,US,Missouri,Atchison,1,0,0
+2020-04-05,US,Ohio,Athens,3,1,0
+2020-04-05,US,New Jersey,Atlantic,121,1,0
+2020-04-05,US,Oklahoma,Atoka,1,0,0
+2020-04-05,US,Mississippi,Attala,15,0,0
+2020-04-05,US,Iowa,Audubon,1,0,0
+2020-04-05,US,Ohio,Auglaize,6,0,0
+2020-04-05,US,Virginia,Augusta,8,0,0
+2020-04-05,US,South Dakota,Aurora,1,0,0
+2020-04-05,US,Texas,Austin,5,0,0
+2020-04-05,US,Alabama,Autauga,12,0,0
+2020-04-05,US,Louisiana,Avoyelles,37,1,0
+2020-04-05,US,Colorado,Baca,9,0,0
+2020-04-05,US,Georgia,Bacon,6,0,0
+2020-04-05,US,Florida,Baker,12,0,0
+2020-04-05,US,Georgia,Baker,5,1,0
+2020-04-05,US,Alabama,Baldwin,29,1,0
+2020-04-05,US,Georgia,Baldwin,14,1,0
+2020-04-05,US,Maryland,Baltimore,590,6,0
+2020-04-05,US,Maryland,Baltimore City,394,7,0
+2020-04-05,US,South Carolina,Bamberg,5,0,0
+2020-04-05,US,Georgia,Banks,3,0,0
+2020-04-05,US,Idaho,Bannock,5,0,0
+2020-04-05,US,Alabama,Barbour,2,0,0
+2020-04-05,US,West Virginia,Barbour,2,0,0
+2020-04-05,US,North Dakota,Barnes,2,0,0
+2020-04-05,US,Massachusetts,Barnstable,347,6,0
+2020-04-05,US,South Carolina,Barnwell,3,0,0
+2020-04-05,US,Kentucky,Barren,0,0,0
+2020-04-05,US,Wisconsin,Barron,4,0,0
+2020-04-05,US,Georgia,Barrow,25,2,0
+2020-04-05,US,Michigan,Barry,6,0,0
+2020-04-05,US,Missouri,Barry,1,0,0
+2020-04-05,US,Indiana,Bartholomew,54,0,0
+2020-04-05,US,Kansas,Barton,3,0,0
+2020-04-05,US,Georgia,Bartow,160,7,0
+2020-04-05,US,Texas,Bastrop,10,0,0
+2020-04-05,US,Missouri,Bates,3,0,0
+2020-04-05,US,Kentucky,Bath,1,0,0
+2020-04-05,US,Virginia,Bath,0,0,0
+2020-04-05,US,Arkansas,Baxter,1,0,0
+2020-04-05,US,Florida,Bay,24,1,0
+2020-04-05,US,Michigan,Bay,30,0,0
+2020-04-05,US,Wisconsin,Bayfield,3,0,0
+2020-04-05,US,South Dakota,Beadle,21,1,0
+2020-04-05,US,North Carolina,Beaufort,9,0,0
+2020-04-05,US,South Carolina,Beaufort,156,4,0
+2020-04-05,US,Louisiana,Beauregard,19,0,0
+2020-04-05,US,Pennsylvania,Beaver,84,6,0
+2020-04-05,US,Montana,Beaverhead,1,0,0
+2020-04-05,US,Oklahoma,Beckham,1,0,0
+2020-04-05,US,Pennsylvania,Bedford,4,0,0
+2020-04-05,US,Tennessee,Bedford,8,0,0
+2020-04-05,US,Virginia,Bedford,4,0,0
+2020-04-05,US,New Hampshire,Belknap,17,0,0
+2020-04-05,US,Texas,Bell,58,1,0
+2020-04-05,US,Ohio,Belmont,20,0,0
+2020-04-05,US,Minnesota,Beltrami,6,0,0
+2020-04-05,US,Georgia,Ben Hill,4,0,0
+2020-04-05,US,Vermont,Bennington,24,0,0
+2020-04-05,US,Arkansas,Benton,43,0,0
+2020-04-05,US,Indiana,Benton,0,0,0
+2020-04-05,US,Iowa,Benton,9,0,0
+2020-04-05,US,Minnesota,Benton,1,0,0
+2020-04-05,US,Mississippi,Benton,5,0,0
+2020-04-05,US,Missouri,Benton,3,0,0
+2020-04-05,US,Oregon,Benton,19,1,0
+2020-04-05,US,Tennessee,Benton,4,0,0
+2020-04-05,US,Washington,Benton,164,13,0
+2020-04-05,US,Michigan,Benzie,1,0,0
+2020-04-05,US,New Jersey,Bergen,6187,189,0
+2020-04-05,US,South Carolina,Berkeley,46,0,0
+2020-04-05,US,West Virginia,Berkeley,54,0,0
+2020-04-05,US,Pennsylvania,Berks,276,3,0
+2020-04-05,US,Massachusetts,Berkshire,258,11,0
+2020-04-05,US,New Mexico,Bernalillo,246,7,0
+2020-04-05,US,Georgia,Berrien,3,0,0
+2020-04-05,US,Michigan,Berrien,58,1,0
+2020-04-05,US,North Carolina,Bertie,7,1,0
+2020-04-05,US,Texas,Bexar,384,11,0
+2020-04-05,US,Alabama,Bibb,5,0,0
+2020-04-05,US,Georgia,Bibb,40,1,0
+2020-04-05,US,Louisiana,Bienville,12,1,0
+2020-04-05,US,Minnesota,Big Stone,1,0,0
+2020-04-05,US,Idaho,Bingham,2,0,0
+2020-04-05,US,Iowa,Black Hawk,12,0,0
+2020-04-05,US,Indiana,Blackford,3,0,0
+2020-04-05,US,North Carolina,Bladen,1,0,0
+2020-04-05,US,Idaho,Blaine,410,2,0
+2020-04-05,US,Pennsylvania,Blair,5,0,0
+2020-04-05,US,Texas,Blanco,2,0,0
+2020-04-05,US,Virginia,Bland,0,0,0
+2020-04-05,US,Georgia,Bleckley,1,0,0
+2020-04-05,US,Tennessee,Bledsoe,3,0,0
+2020-04-05,US,Alabama,Blount,10,0,0
+2020-04-05,US,Tennessee,Blount,36,0,0
+2020-04-05,US,Minnesota,Blue Earth,15,0,0
+2020-04-05,US,Mississippi,Bolivar,45,2,0
+2020-04-05,US,Missouri,Bollinger,1,0,0
+2020-04-05,US,South Dakota,Bon Homme,1,0,0
+2020-04-05,US,Illinois,Bond,3,0,0
+2020-04-05,US,Idaho,Bonner,2,0,0
+2020-04-05,US,Idaho,Bonneville,6,0,0
+2020-04-05,US,Arkansas,Boone,1,0,0
+2020-04-05,US,Illinois,Boone,3,0,0
+2020-04-05,US,Indiana,Boone,57,1,0
+2020-04-05,US,Iowa,Boone,3,0,0
+2020-04-05,US,Kentucky,Boone,12,1,0
+2020-04-05,US,Missouri,Boone,75,1,0
+2020-04-05,US,Louisiana,Bossier,133,3,0
+2020-04-05,US,Virginia,Botetourt,15,0,0
+2020-04-05,US,Colorado,Boulder,177,3,0
+2020-04-05,US,Kansas,Bourbon,4,0,0
+2020-04-05,US,Kentucky,Bourbon,4,1,0
+2020-04-05,US,Texas,Bowie,17,1,0
+2020-04-05,US,Utah,Box Elder,10,0,0
+2020-04-05,US,Kentucky,Boyd,13,1,0
+2020-04-05,US,Kentucky,Boyle,7,0,0
+2020-04-05,US,Kentucky,Bracken,1,0,0
+2020-04-05,US,Florida,Bradford,7,0,0
+2020-04-05,US,Pennsylvania,Bradford,10,0,0
+2020-04-05,US,Arkansas,Bradley,4,0,0
+2020-04-05,US,Tennessee,Bradley,21,0,0
+2020-04-05,US,Michigan,Branch,13,1,0
+2020-04-05,US,Texas,Brazoria,144,1,0
+2020-04-05,US,Texas,Brazos,94,6,0
+2020-04-05,US,Kentucky,Breathitt,1,0,0
+2020-04-05,US,Kentucky,Breckinridge,2,0,0
+2020-04-05,US,Iowa,Bremer,2,0,0
+2020-04-05,US,Florida,Brevard,79,0,0
+2020-04-05,US,Massachusetts,Bristol,659,8,0
+2020-04-05,US,Rhode Island,Bristol,24,0,0
+2020-04-05,US,Virginia,Bristol,1,0,0
+2020-04-05,US,Montana,Broadwater,4,0,0
+2020-04-05,US,South Dakota,Brookings,3,0,0
+2020-04-05,US,Georgia,Brooks,6,0,0
+2020-04-05,US,New York,Broome,71,5,0
+2020-04-05,US,Colorado,Broomfield,50,2,0
+2020-04-05,US,Florida,Broward,1886,40,0
+2020-04-05,US,Indiana,Brown,5,0,0
+2020-04-05,US,Minnesota,Brown,3,0,0
+2020-04-05,US,Ohio,Brown,3,1,0
+2020-04-05,US,South Dakota,Brown,9,0,0
+2020-04-05,US,Texas,Brown,6,0,0
+2020-04-05,US,Wisconsin,Brown,29,0,0
+2020-04-05,US,North Carolina,Brunswick,24,1,0
+2020-04-05,US,Virginia,Brunswick,1,0,0
+2020-04-05,US,Georgia,Bryan,16,1,0
+2020-04-05,US,Oklahoma,Bryan,3,0,0
+2020-04-05,US,Iowa,Buchanan,5,0,0
+2020-04-05,US,Missouri,Buchanan,8,0,0
+2020-04-05,US,Virginia,Buchanan,0,0,0
+2020-04-05,US,Virginia,Buckingham,4,0,0
+2020-04-05,US,Pennsylvania,Bucks,580,14,0
+2020-04-05,US,Virginia,Buena Vista,4,0,0
+2020-04-05,US,Nebraska,Buffalo,17,1,0
+2020-04-05,US,Wisconsin,Buffalo,2,1,0
+2020-04-05,US,Kentucky,Bullitt,11,2,0
+2020-04-05,US,Georgia,Bulloch,5,0,0
+2020-04-05,US,Alabama,Bullock,2,0,0
+2020-04-05,US,North Carolina,Buncombe,31,1,0
+2020-04-05,US,Illinois,Bureau,3,0,0
+2020-04-05,US,Georgia,Burke,9,0,0
+2020-04-05,US,North Carolina,Burke,18,1,0
+2020-04-05,US,North Dakota,Burke,2,0,0
+2020-04-05,US,North Dakota,Burleigh,37,0,0
+2020-04-05,US,Texas,Burleson,2,0,0
+2020-04-05,US,New Jersey,Burlington,547,11,0
+2020-04-05,US,Texas,Burnet,4,0,0
+2020-04-05,US,Alabama,Butler,1,0,0
+2020-04-05,US,Iowa,Butler,1,0,0
+2020-04-05,US,Kansas,Butler,8,0,0
+2020-04-05,US,Kentucky,Butler,1,0,0
+2020-04-05,US,Missouri,Butler,2,0,0
+2020-04-05,US,Ohio,Butler,68,2,0
+2020-04-05,US,Pennsylvania,Butler,87,2,0
+2020-04-05,US,California,Butte,11,0,0
+2020-04-05,US,South Dakota,Butte,0,0,0
+2020-04-05,US,Georgia,Butts,11,0,0
+2020-04-05,US,North Carolina,Cabarrus,69,1,0
+2020-04-05,US,West Virginia,Cabell,5,0,0
+2020-04-05,US,Utah,Cache,19,0,0
+2020-04-05,US,Louisiana,Caddo,647,19,0
+2020-04-05,US,Oklahoma,Caddo,4,0,0
+2020-04-05,US,California,Calaveras,4,0,0
+2020-04-05,US,Louisiana,Calcasieu,139,3,0
+2020-04-05,US,Kentucky,Caldwell,2,0,0
+2020-04-05,US,Louisiana,Caldwell,10,0,0
+2020-04-05,US,Missouri,Caldwell,1,0,0
+2020-04-05,US,North Carolina,Caldwell,11,0,0
+2020-04-05,US,Texas,Caldwell,3,0,0
+2020-04-05,US,Vermont,Caledonia,6,0,0
+2020-04-05,US,Alabama,Calhoun,23,0,0
+2020-04-05,US,Florida,Calhoun,3,0,0
+2020-04-05,US,Georgia,Calhoun,15,1,0
+2020-04-05,US,Illinois,Calhoun,1,0,0
+2020-04-05,US,Michigan,Calhoun,42,1,0
+2020-04-05,US,Mississippi,Calhoun,4,0,0
+2020-04-05,US,South Carolina,Calhoun,5,1,0
+2020-04-05,US,Texas,Calhoun,11,0,0
+2020-04-05,US,Missouri,Callaway,18,0,0
+2020-04-05,US,Kentucky,Calloway,5,0,0
+2020-04-05,US,Wisconsin,Calumet,4,0,0
+2020-04-05,US,Maryland,Calvert,39,1,0
+2020-04-05,US,Idaho,Camas,1,0,0
+2020-04-05,US,Pennsylvania,Cambria,7,0,0
+2020-04-05,US,Georgia,Camden,9,0,0
+2020-04-05,US,Missouri,Camden,21,1,0
+2020-04-05,US,New Jersey,Camden,556,8,0
+2020-04-05,US,Pennsylvania,Cameron,1,0,0
+2020-04-05,US,Texas,Cameron,77,0,0
+2020-04-05,US,Texas,Camp,1,0,0
+2020-04-05,US,Kentucky,Campbell,12,1,0
+2020-04-05,US,Tennessee,Campbell,5,0,0
+2020-04-05,US,Virginia,Campbell,2,0,0
+2020-04-05,US,Wyoming,Campbell,7,0,0
+2020-04-05,US,Oklahoma,Canadian,33,1,0
+2020-04-05,US,Georgia,Candler,2,0,0
+2020-04-05,US,Tennessee,Cannon,6,0,0
+2020-04-05,US,Idaho,Canyon,99,1,0
+2020-04-05,US,Missouri,Cape Girardeau,16,0,0
+2020-04-05,US,New Jersey,Cape May,77,2,0
+2020-04-05,US,Montana,Carbon,1,0,0
+2020-04-05,US,Pennsylvania,Carbon,50,1,0
+2020-04-05,US,Utah,Carbon,1,0,0
+2020-04-05,US,Wyoming,Carbon,4,0,0
+2020-04-05,US,Idaho,Caribou,1,0,0
+2020-04-05,US,Minnesota,Carlton,8,0,0
+2020-04-05,US,Maryland,Caroline,4,0,0
+2020-04-05,US,Virginia,Caroline,1,0,0
+2020-04-05,US,Arkansas,Carroll,1,0,0
+2020-04-05,US,Georgia,Carroll,158,2,0
+2020-04-05,US,Illinois,Carroll,4,1,0
+2020-04-05,US,Indiana,Carroll,3,0,0
+2020-04-05,US,Iowa,Carroll,1,0,0
+2020-04-05,US,Kentucky,Carroll,2,0,0
+2020-04-05,US,Maryland,Carroll,142,8,0
+2020-04-05,US,Mississippi,Carroll,5,0,0
+2020-04-05,US,New Hampshire,Carroll,17,0,0
+2020-04-05,US,Ohio,Carroll,8,0,0
+2020-04-05,US,Tennessee,Carroll,7,0,0
+2020-04-05,US,Virginia,Carroll,1,0,0
+2020-04-05,US,Nevada,Carson City,10,0,0
+2020-04-05,US,Kentucky,Carter,1,0,0
+2020-04-05,US,Missouri,Carter,4,0,0
+2020-04-05,US,Oklahoma,Carter,1,0,0
+2020-04-05,US,Tennessee,Carter,3,0,0
+2020-04-05,US,North Carolina,Carteret,16,0,0
+2020-04-05,US,Minnesota,Carver,10,0,0
+2020-04-05,US,Montana,Cascade,11,0,0
+2020-04-05,US,Indiana,Cass,4,0,0
+2020-04-05,US,Michigan,Cass,7,1,0
+2020-04-05,US,Minnesota,Cass,1,0,0
+2020-04-05,US,Missouri,Cass,22,1,0
+2020-04-05,US,Nebraska,Cass,2,0,0
+2020-04-05,US,North Dakota,Cass,54,1,0
+2020-04-05,US,Texas,Cass,4,0,0
+2020-04-05,US,Idaho,Cassia,4,1,0
+2020-04-05,US,Texas,Castro,11,1,0
+2020-04-05,US,North Carolina,Caswell,2,0,0
+2020-04-05,US,Louisiana,Catahoula,9,1,0
+2020-04-05,US,North Carolina,Catawba,24,1,0
+2020-04-05,US,Georgia,Catoosa,6,0,0
+2020-04-05,US,New Mexico,Catron,1,0,0
+2020-04-05,US,New York,Cattaraugus,10,0,0
+2020-04-05,US,New York,Cayuga,8,0,0
+2020-04-05,US,Maryland,Cecil,36,1,0
+2020-04-05,US,Iowa,Cedar,12,0,0
+2020-04-05,US,Missouri,Cedar,5,0,0
+2020-04-05,US,Pennsylvania,Centre,43,0,0
+2020-04-05,US,Iowa,Cerro Gordo,10,0,0
+2020-04-05,US,Colorado,Chaffee,22,2,0
+2020-04-05,US,Alabama,Chambers,89,6,0
+2020-04-05,US,Texas,Chambers,11,0,0
+2020-04-05,US,Illinois,Champaign,55,0,0
+2020-04-05,US,Ohio,Champaign,5,0,0
+2020-04-05,US,Missouri,Chariton,4,0,0
+2020-04-05,US,Maryland,Charles,111,2,0
+2020-04-05,US,Virginia,Charles City,4,0,0
+2020-04-05,US,South Dakota,Charles Mix,2,0,0
+2020-04-05,US,South Carolina,Charleston,274,2,0
+2020-04-05,US,Michigan,Charlevoix,7,0,0
+2020-04-05,US,Florida,Charlotte,47,1,0
+2020-04-05,US,Virginia,Charlotte,1,0,0
+2020-04-05,US,Virginia,Charlottesville,23,1,0
+2020-04-05,US,Georgia,Charlton,2,0,0
+2020-04-05,US,Georgia,Chatham,83,3,0
+2020-04-05,US,North Carolina,Chatham,21,0,0
+2020-04-05,US,Georgia,Chattahoochee,2,0,0
+2020-04-05,US,Georgia,Chattooga,3,0,0
+2020-04-05,US,Kansas,Chautauqua,3,0,0
+2020-04-05,US,New York,Chautauqua,18,1,0
+2020-04-05,US,New Mexico,Chaves,13,0,0
+2020-04-05,US,Tennessee,Cheatham,13,0,0
+2020-04-05,US,Michigan,Cheboygan,8,1,0
+2020-04-05,US,Washington,Chelan,29,3,0
+2020-04-05,US,New York,Chemung,38,0,0
+2020-04-05,US,New York,Chenango,43,0,0
+2020-04-05,US,Alabama,Cherokee,6,0,0
+2020-04-05,US,Georgia,Cherokee,122,5,0
+2020-04-05,US,Kansas,Cherokee,5,0,0
+2020-04-05,US,North Carolina,Cherokee,11,1,0
+2020-04-05,US,Oklahoma,Cherokee,12,0,0
+2020-04-05,US,South Carolina,Cherokee,2,0,0
+2020-04-05,US,Texas,Cherokee,6,0,0
+2020-04-05,US,Nebraska,Cherry,1,0,0
+2020-04-05,US,Virginia,Chesapeake,72,0,0
+2020-04-05,US,New Hampshire,Cheshire,10,0,0
+2020-04-05,US,Pennsylvania,Chester,269,2,0
+2020-04-05,US,South Carolina,Chester,12,0,0
+2020-04-05,US,Tennessee,Chester,6,0,0
+2020-04-05,US,South Carolina,Chesterfield,13,0,0
+2020-04-05,US,Virginia,Chesterfield,108,0,0
+2020-04-05,US,Mississippi,Chickasaw,15,2,0
+2020-04-05,US,Arkansas,Chicot,2,0,0
+2020-04-05,US,Alabama,Chilton,15,0,0
+2020-04-05,US,Michigan,Chippewa,2,0,0
+2020-04-05,US,Wisconsin,Chippewa,16,0,0
+2020-04-05,US,Minnesota,Chisago,4,1,0
+2020-04-05,US,Vermont,Chittenden,271,4,0
+2020-04-05,US,Alabama,Choctaw,5,0,0
+2020-04-05,US,Mississippi,Choctaw,8,1,0
+2020-04-05,US,Oklahoma,Choctaw,2,0,0
+2020-04-05,US,North Carolina,Chowan,1,0,0
+2020-04-05,US,Illinois,Christian,20,2,0
+2020-04-05,US,Kentucky,Christian,30,0,0
+2020-04-05,US,Missouri,Christian,16,0,0
+2020-04-05,US,New Mexico,Cibola,18,0,0
+2020-04-05,US,Florida,Citrus,43,2,0
+2020-04-05,US,Oregon,Clackamas,84,3,0
+2020-04-05,US,Louisiana,Claiborne,23,2,0
+2020-04-05,US,Mississippi,Claiborne,1,0,0
+2020-04-05,US,Tennessee,Claiborne,2,0,0
+2020-04-05,US,Washington,Clallam,8,0,0
+2020-04-05,US,Michigan,Clare,1,0,0
+2020-04-05,US,South Carolina,Clarendon,54,1,0
+2020-04-05,US,Pennsylvania,Clarion,5,0,0
+2020-04-05,US,Arkansas,Clark,27,0,0
+2020-04-05,US,Illinois,Clark,2,0,0
+2020-04-05,US,Indiana,Clark,66,4,0
+2020-04-05,US,Kentucky,Clark,11,0,0
+2020-04-05,US,Missouri,Clark,1,0,0
+2020-04-05,US,Nevada,Clark,1519,41,0
+2020-04-05,US,Ohio,Clark,8,0,0
+2020-04-05,US,South Dakota,Clark,1,0,0
+2020-04-05,US,Washington,Clark,137,8,0
+2020-04-05,US,Wisconsin,Clark,6,0,0
+2020-04-05,US,Alabama,Clarke,8,0,0
+2020-04-05,US,Georgia,Clarke,62,8,0
+2020-04-05,US,Iowa,Clarke,1,0,0
+2020-04-05,US,Mississippi,Clarke,5,0,0
+2020-04-05,US,Virginia,Clarke,2,0,0
+2020-04-05,US,Oregon,Clatsop,4,0,0
+2020-04-05,US,Alabama,Clay,9,0,0
+2020-04-05,US,Florida,Clay,79,6,0
+2020-04-05,US,Georgia,Clay,7,0,0
+2020-04-05,US,Indiana,Clay,4,0,0
+2020-04-05,US,Iowa,Clay,2,0,0
+2020-04-05,US,Kansas,Clay,1,0,0
+2020-04-05,US,Minnesota,Clay,13,0,0
+2020-04-05,US,Mississippi,Clay,7,0,0
+2020-04-05,US,Missouri,Clay,32,0,0
+2020-04-05,US,North Carolina,Clay,3,0,0
+2020-04-05,US,South Dakota,Clay,3,0,0
+2020-04-05,US,Tennessee,Clay,1,0,0
+2020-04-05,US,Texas,Clay,3,0,0
+2020-04-05,US,Georgia,Clayton,238,9,0
+2020-04-05,US,Iowa,Clayton,4,0,0
+2020-04-05,US,Colorado,Clear Creek,6,0,0
+2020-04-05,US,Pennsylvania,Clearfield,7,0,0
+2020-04-05,US,Minnesota,Clearwater,2,0,0
+2020-04-05,US,Alabama,Cleburne,7,0,0
+2020-04-05,US,Arkansas,Cleburne,64,2,0
+2020-04-05,US,Ohio,Clermont,21,1,0
+2020-04-05,US,Arkansas,Cleveland,5,0,0
+2020-04-05,US,North Carolina,Cleveland,16,0,0
+2020-04-05,US,Oklahoma,Cleveland,171,11,0
+2020-04-05,US,Georgia,Clinch,2,0,0
+2020-04-05,US,Illinois,Clinton,10,0,0
+2020-04-05,US,Indiana,Clinton,4,0,0
+2020-04-05,US,Iowa,Clinton,16,0,0
+2020-04-05,US,Kentucky,Clinton,1,0,0
+2020-04-05,US,Michigan,Clinton,55,1,0
+2020-04-05,US,Missouri,Clinton,7,0,0
+2020-04-05,US,New York,Clinton,33,0,0
+2020-04-05,US,Ohio,Clinton,8,0,0
+2020-04-05,US,Pennsylvania,Clinton,1,0,0
+2020-04-05,US,Kansas,Cloud,1,0,0
+2020-04-05,US,Mississippi,Coahoma,28,1,0
+2020-04-05,US,Georgia,Cobb,456,23,0
+2020-04-05,US,Arizona,Cochise,8,0,0
+2020-04-05,US,Tennessee,Cocke,1,0,0
+2020-04-05,US,Arizona,Coconino,238,10,0
+2020-04-05,US,South Dakota,Codington,10,0,0
+2020-04-05,US,Alabama,Coffee,7,0,0
+2020-04-05,US,Georgia,Coffee,15,0,0
+2020-04-05,US,Tennessee,Coffee,5,0,0
+2020-04-05,US,Kansas,Coffey,24,1,0
+2020-04-05,US,Alabama,Colbert,6,0,0
+2020-04-05,US,Missouri,Cole,28,1,0
+2020-04-05,US,Nebraska,Colfax,2,0,0
+2020-04-05,US,South Carolina,Colleton,8,0,0
+2020-04-05,US,Florida,Collier,231,2,0
+2020-04-05,US,Texas,Collin,287,3,0
+2020-04-05,US,Virginia,Colonial Heights,0,0,0
+2020-04-05,US,Texas,Colorado,2,0,0
+2020-04-05,US,Georgia,Colquitt,50,3,0
+2020-04-05,US,Arkansas,Columbia,1,0,0
+2020-04-05,US,Florida,Columbia,13,0,0
+2020-04-05,US,Georgia,Columbia,36,0,0
+2020-04-05,US,New York,Columbia,69,3,0
+2020-04-05,US,Oregon,Columbia,6,0,0
+2020-04-05,US,Pennsylvania,Columbia,22,0,0
+2020-04-05,US,Washington,Columbia,1,0,0
+2020-04-05,US,Wisconsin,Columbia,19,0,0
+2020-04-05,US,Ohio,Columbiana,42,5,0
+2020-04-05,US,North Carolina,Columbus,8,0,0
+2020-04-05,US,California,Colusa,2,0,0
+2020-04-05,US,Texas,Comal,21,2,0
+2020-04-05,US,Oklahoma,Comanche,39,0,0
+2020-04-05,US,Texas,Comanche,2,0,0
+2020-04-05,US,Louisiana,Concordia,5,1,0
+2020-04-05,US,Alabama,Conecuh,2,0,0
+2020-04-05,US,California,Contra Costa,386,6,0
+2020-04-05,US,Wyoming,Converse,3,0,0
+2020-04-05,US,Arkansas,Conway,1,1,0
+2020-04-05,US,Georgia,Cook,1,0,0
+2020-04-05,US,Illinois,Cook,8034,186,0
+2020-04-05,US,Missouri,Cooper,2,0,0
+2020-04-05,US,New Hampshire,Coos,1,0,0
+2020-04-05,US,Alabama,Coosa,7,0,0
+2020-04-05,US,Mississippi,Copiah,16,0,0
+2020-04-05,US,New York,Cortland,14,0,0
+2020-04-05,US,Texas,Coryell,5,0,0
+2020-04-05,US,Ohio,Coshocton,9,0,0
+2020-04-05,US,Colorado,Costilla,3,0,0
+2020-04-05,US,Oklahoma,Cotton,4,0,0
+2020-04-05,US,Minnesota,Cottonwood,5,0,0
+2020-04-05,US,Alabama,Covington,4,0,0
+2020-04-05,US,Mississippi,Covington,6,0,0
+2020-04-05,US,Virginia,Covington,1,0,0
+2020-04-05,US,Georgia,Coweta,67,2,0
+2020-04-05,US,Kansas,Cowley,1,0,0
+2020-04-05,US,Washington,Cowlitz,18,0,0
+2020-04-05,US,Oklahoma,Craig,3,0,0
+2020-04-05,US,Arkansas,Craighead,18,0,0
+2020-04-05,US,Texas,Crane,2,0,0
+2020-04-05,US,North Carolina,Craven,15,0,0
+2020-04-05,US,Arkansas,Crawford,1,0,0
+2020-04-05,US,Georgia,Crawford,1,0,0
+2020-04-05,US,Illinois,Crawford,3,0,0
+2020-04-05,US,Indiana,Crawford,5,0,0
+2020-04-05,US,Iowa,Crawford,4,0,0
+2020-04-05,US,Kansas,Crawford,6,1,0
+2020-04-05,US,Michigan,Crawford,1,0,0
+2020-04-05,US,Missouri,Crawford,2,0,0
+2020-04-05,US,Ohio,Crawford,9,0,0
+2020-04-05,US,Pennsylvania,Crawford,7,0,0
+2020-04-05,US,Wisconsin,Crawford,2,0,0
+2020-04-05,US,Oklahoma,Creek,44,1,0
+2020-04-05,US,Alabama,Crenshaw,2,0,0
+2020-04-05,US,Georgia,Crisp,28,0,0
+2020-04-05,US,Arkansas,Crittenden,50,0,0
+2020-04-05,US,Kentucky,Crittenden,1,0,0
+2020-04-05,US,Oregon,Crook,1,0,0
+2020-04-05,US,Arkansas,Cross,5,0,0
+2020-04-05,US,Minnesota,Crow Wing,6,0,0
+2020-04-05,US,Colorado,Crowley,1,1,0
+2020-04-05,US,Alabama,Cullman,15,1,0
+2020-04-05,US,Virginia,Culpeper,8,0,0
+2020-04-05,US,Illinois,Cumberland,1,0,0
+2020-04-05,US,Kentucky,Cumberland,1,0,0
+2020-04-05,US,Maine,Cumberland,238,5,0
+2020-04-05,US,New Jersey,Cumberland,54,2,0
+2020-04-05,US,North Carolina,Cumberland,45,0,0
+2020-04-05,US,Pennsylvania,Cumberland,58,2,0
+2020-04-05,US,Tennessee,Cumberland,26,0,0
+2020-04-05,US,Virginia,Cumberland,2,0,0
+2020-04-05,US,Nebraska,Cuming,2,0,0
+2020-04-05,US,North Carolina,Currituck,2,0,0
+2020-04-05,US,New Mexico,Curry,6,0,0
+2020-04-05,US,Colorado,Custer,2,0,0
+2020-04-05,US,Idaho,Custer,2,0,0
+2020-04-05,US,Oklahoma,Custer,5,0,0
+2020-04-05,US,Ohio,Cuyahoga,826,14,0
+2020-04-05,US,Georgia,Dade,1,1,0
+2020-04-05,US,Minnesota,Dakota,63,2,0
+2020-04-05,US,Alabama,Dale,2,0,0
+2020-04-05,US,Alabama,Dallas,7,0,0
+2020-04-05,US,Iowa,Dallas,35,0,0
+2020-04-05,US,Texas,Dallas,1112,18,0
+2020-04-05,US,Wisconsin,Dane,280,9,0
+2020-04-05,US,Virginia,Danville,12,0,0
+2020-04-05,US,North Carolina,Dare,6,0,0
+2020-04-05,US,Ohio,Darke,32,4,0
+2020-04-05,US,South Carolina,Darlington,19,0,0
+2020-04-05,US,Pennsylvania,Dauphin,118,1,0
+2020-04-05,US,North Carolina,Davidson,57,0,0
+2020-04-05,US,Tennessee,Davidson,801,6,0
+2020-04-05,US,North Carolina,Davie,16,2,0
+2020-04-05,US,Indiana,Daviess,2,0,0
+2020-04-05,US,Kentucky,Daviess,55,1,0
+2020-04-05,US,Utah,Davis,142,2,0
+2020-04-05,US,South Dakota,Davison,3,0,0
+2020-04-05,US,Georgia,Dawson,16,0,0
+2020-04-05,US,Nebraska,Dawson,1,0,0
+2020-04-05,US,Texas,Dawson,7,0,0
+2020-04-05,US,Louisiana,De Soto,80,3,0
+2020-04-05,US,Illinois,De Witt,2,0,0
+2020-04-05,US,Alabama,DeKalb,14,0,0
+2020-04-05,US,Georgia,DeKalb,543,9,0
+2020-04-05,US,Illinois,DeKalb,22,0,0
+2020-04-05,US,Indiana,DeKalb,4,0,0
+2020-04-05,US,Missouri,DeKalb,1,0,0
+2020-04-05,US,Tennessee,DeKalb,7,0,0
+2020-04-05,US,Florida,DeSoto,12,2,0
+2020-04-05,US,Mississippi,DeSoto,132,1,0
+2020-04-05,US,Texas,DeWitt,7,0,0
+2020-04-05,US,Texas,Deaf Smith,5,0,0
+2020-04-05,US,Indiana,Dearborn,33,1,0
+2020-04-05,US,Georgia,Decatur,17,0,0
+2020-04-05,US,Indiana,Decatur,80,4,0
+2020-04-05,US,Tennessee,Decatur,0,0,0
+2020-04-05,US,Montana,Deer Lodge,3,0,0
+2020-04-05,US,Ohio,Defiance,7,0,0
+2020-04-05,US,California,Del Norte,2,0,0
+2020-04-05,US,Indiana,Delaware,37,1,0
+2020-04-05,US,Iowa,Delaware,0,0,0
+2020-04-05,US,New York,Delaware,27,1,0
+2020-04-05,US,Ohio,Delaware,70,1,0
+2020-04-05,US,Oklahoma,Delaware,12,0,0
+2020-04-05,US,Pennsylvania,Delaware,708,14,0
+2020-04-05,US,Colorado,Delta,4,0,0
+2020-04-05,US,Michigan,Delta,7,0,0
+2020-04-05,US,Texas,Denton,304,7,0
+2020-04-05,US,Colorado,Denver,825,16,0
+2020-04-05,US,Iowa,Des Moines,1,0,0
+2020-04-05,US,Oregon,Deschutes,39,0,0
+2020-04-05,US,Arkansas,Desha,5,0,0
+2020-04-05,US,South Dakota,Deuel,1,0,0
+2020-04-05,US,Virginia,Dickenson,0,0,0
+2020-04-05,US,Iowa,Dickinson,1,0,0
+2020-04-05,US,Michigan,Dickinson,1,1,0
+2020-04-05,US,Tennessee,Dickson,23,0,0
+2020-04-05,US,South Carolina,Dillon,1,0,0
+2020-04-05,US,Virginia,Dinwiddie,0,0,0
+2020-04-05,US,District of Columbia,District of Columbia,1002,22,0
+2020-04-05,US,North Dakota,Divide,1,0,0
+2020-04-05,US,Florida,Dixie,1,0,0
+2020-04-05,US,Georgia,Dodge,5,0,0
+2020-04-05,US,Minnesota,Dodge,10,0,0
+2020-04-05,US,Nebraska,Dodge,7,0,0
+2020-04-05,US,Wisconsin,Dodge,14,0,0
+2020-04-05,US,New Mexico,Dona Ana,29,0,0
+2020-04-05,US,Kansas,Doniphan,1,0,0
+2020-04-05,US,Texas,Donley,7,0,0
+2020-04-05,US,Georgia,Dooly,15,1,0
+2020-04-05,US,Wisconsin,Door,4,0,0
+2020-04-05,US,Maryland,Dorchester,1,0,0
+2020-04-05,US,South Carolina,Dorchester,44,0,0
+2020-04-05,US,Georgia,Dougherty,686,30,0
+2020-04-05,US,Colorado,Douglas,223,3,0
+2020-04-05,US,Georgia,Douglas,86,5,0
+2020-04-05,US,Illinois,Douglas,9,0,0
+2020-04-05,US,Kansas,Douglas,33,0,0
+2020-04-05,US,Minnesota,Douglas,1,0,0
+2020-04-05,US,Nebraska,Douglas,144,3,0
+2020-04-05,US,Nevada,Douglas,7,0,0
+2020-04-05,US,Oregon,Douglas,11,0,0
+2020-04-05,US,Washington,Douglas,10,0,0
+2020-04-05,US,Wisconsin,Douglas,7,0,0
+2020-04-05,US,Arkansas,Drew,1,0,0
+2020-04-05,US,Illinois,DuPage,656,22,0
+2020-04-05,US,Indiana,Dubois,6,0,0
+2020-04-05,US,Iowa,Dubuque,24,1,0
+2020-04-05,US,Utah,Duchesne,1,0,0
+2020-04-05,US,Massachusetts,Dukes and Nantucket,17,0,0
+2020-04-05,US,Missouri,Dunklin,7,0,0
+2020-04-05,US,North Dakota,Dunn,1,0,0
+2020-04-05,US,Wisconsin,Dunn,5,0,0
+2020-04-05,US,North Carolina,Duplin,5,0,0
+2020-04-05,US,North Carolina,Durham,186,1,0
+2020-04-05,US,New York,Dutchess,1077,8,0
+2020-04-05,US,Florida,Duval,413,9,0
+2020-04-05,US,Tennessee,Dyer,9,0,0
+2020-04-05,US,Colorado,Eagle,339,5,0
+2020-04-05,US,Georgia,Early,64,1,0
+2020-04-05,US,Louisiana,East Baton Rouge,656,22,0
+2020-04-05,US,Louisiana,East Carroll,1,0,0
+2020-04-05,US,Louisiana,East Feliciana,27,0,0
+2020-04-05,US,Texas,Eastland,3,0,0
+2020-04-05,US,Michigan,Eaton,55,2,0
+2020-04-05,US,Wisconsin,Eau Claire,21,0,0
+2020-04-05,US,Texas,Ector,26,0,0
+2020-04-05,US,New Mexico,Eddy,4,1,0
+2020-04-05,US,North Dakota,Eddy,1,0,0
+2020-04-05,US,North Carolina,Edgecombe,5,0,0
+2020-04-05,US,South Carolina,Edgefield,6,0,0
+2020-04-05,US,Kentucky,Edmonson,5,0,0
+2020-04-05,US,Georgia,Effingham,9,0,0
+2020-04-05,US,Illinois,Effingham,1,0,0
+2020-04-05,US,California,El Dorado,22,0,0
+2020-04-05,US,Colorado,El Paso,435,25,0
+2020-04-05,US,Texas,El Paso,113,0,0
+2020-04-05,US,Colorado,Elbert,9,1,0
+2020-04-05,US,Georgia,Elbert,1,0,0
+2020-04-05,US,Indiana,Elkhart,35,3,0
+2020-04-05,US,Nevada,Elko,8,1,0
+2020-04-05,US,Texas,Ellis,32,2,0
+2020-04-05,US,Alabama,Elmore,19,0,0
+2020-04-05,US,Idaho,Elmore,11,0,0
+2020-04-05,US,Georgia,Emanuel,1,0,0
+2020-04-05,US,Utah,Emery,1,0,0
+2020-04-05,US,Michigan,Emmet,13,2,0
+2020-04-05,US,North Dakota,Emmons,1,0,0
+2020-04-05,US,Virginia,Emporia,2,0,0
+2020-04-05,US,Texas,Erath,9,1,0
+2020-04-05,US,New York,Erie,1059,27,0
+2020-04-05,US,Ohio,Erie,8,1,0
+2020-04-05,US,Pennsylvania,Erie,19,0,0
+2020-04-05,US,Alabama,Escambia,3,0,0
+2020-04-05,US,Florida,Escambia,125,1,0
+2020-04-05,US,Massachusetts,Essex,1506,27,0
+2020-04-05,US,New Jersey,Essex,4082,172,0
+2020-04-05,US,New York,Essex,9,0,0
+2020-04-05,US,Virginia,Essex,0,0,0
+2020-04-05,US,Alabama,Etowah,35,3,0
+2020-04-05,US,Louisiana,Evangeline,19,0,0
+2020-04-05,US,Alaska,Fairbanks North Star,53,0,0
+2020-04-05,US,Virginia,Fairfax,426,2,0
+2020-04-05,US,Virginia,Fairfax City,0,0,0
+2020-04-05,US,Connecticut,Fairfield,3050,96,0
+2020-04-05,US,Ohio,Fairfield,46,0,0
+2020-04-05,US,South Carolina,Fairfield,14,0,0
+2020-04-05,US,South Dakota,Fall River,1,0,0
+2020-04-05,US,Texas,Falls,1,0,0
+2020-04-05,US,Virginia,Falls Church,0,0,0
+2020-04-05,US,Georgia,Fannin,8,0,0
+2020-04-05,US,Texas,Fannin,2,0,0
+2020-04-05,US,Minnesota,Faribault,3,0,0
+2020-04-05,US,South Dakota,Faulk,1,0,0
+2020-04-05,US,Arkansas,Faulkner,46,1,0
+2020-04-05,US,Virginia,Fauquier,10,0,0
+2020-04-05,US,Alabama,Fayette,1,0,0
+2020-04-05,US,Georgia,Fayette,67,4,0
+2020-04-05,US,Illinois,Fayette,2,0,0
+2020-04-05,US,Indiana,Fayette,16,3,0
+2020-04-05,US,Iowa,Fayette,3,0,0
+2020-04-05,US,Kentucky,Fayette,122,7,0
+2020-04-05,US,Ohio,Fayette,2,0,0
+2020-04-05,US,Pennsylvania,Fayette,27,1,0
+2020-04-05,US,Tennessee,Fayette,20,0,0
+2020-04-05,US,Texas,Fayette,11,0,0
+2020-04-05,US,Tennessee,Fentress,2,0,0
+2020-04-05,US,Washington,Ferry,1,0,0
+2020-04-05,US,Minnesota,Fillmore,10,0,0
+2020-04-05,US,Kansas,Finney,10,0,0
+2020-04-05,US,Florida,Flagler,31,1,0
+2020-04-05,US,Montana,Flathead,24,0,0
+2020-04-05,US,South Carolina,Florence,36,5,0
+2020-04-05,US,Wisconsin,Florence,1,0,0
+2020-04-05,US,Georgia,Floyd,80,3,0
+2020-04-05,US,Indiana,Floyd,50,0,0
+2020-04-05,US,Virginia,Floyd,0,0,0
+2020-04-05,US,Virginia,Fluvanna,7,0,0
+2020-04-05,US,Wisconsin,Fond du Lac,43,2,0
+2020-04-05,US,Illinois,Ford,1,0,0
+2020-04-05,US,Kansas,Ford,1,0,0
+2020-04-05,US,Pennsylvania,Forest,3,0,0
+2020-04-05,US,Mississippi,Forrest,42,1,0
+2020-04-05,US,Georgia,Forsyth,72,1,0
+2020-04-05,US,North Carolina,Forsyth,89,2,0
+2020-04-05,US,Texas,Fort Bend,268,5,0
+2020-04-05,US,North Dakota,Foster,1,0,0
+2020-04-05,US,Indiana,Fountain,2,1,0
+2020-04-05,US,Alabama,Franklin,6,0,0
+2020-04-05,US,Florida,Franklin,2,0,0
+2020-04-05,US,Georgia,Franklin,5,0,0
+2020-04-05,US,Illinois,Franklin,1,0,0
+2020-04-05,US,Indiana,Franklin,53,6,0
+2020-04-05,US,Kansas,Franklin,9,0,0
+2020-04-05,US,Kentucky,Franklin,7,0,0
+2020-04-05,US,Louisiana,Franklin,25,0,0
+2020-04-05,US,Maine,Franklin,4,0,0
+2020-04-05,US,Massachusetts,Franklin,100,12,0
+2020-04-05,US,Mississippi,Franklin,5,0,0
+2020-04-05,US,Missouri,Franklin,24,0,0
+2020-04-05,US,New York,Franklin,10,0,0
+2020-04-05,US,North Carolina,Franklin,14,0,0
+2020-04-05,US,Ohio,Franklin,597,8,0
+2020-04-05,US,Pennsylvania,Franklin,30,0,0
+2020-04-05,US,Tennessee,Franklin,12,1,0
+2020-04-05,US,Texas,Franklin,1,0,0
+2020-04-05,US,Vermont,Franklin,27,0,0
+2020-04-05,US,Virginia,Franklin,10,0,0
+2020-04-05,US,Washington,Franklin,56,1,0
+2020-04-05,US,Virginia,Franklin City,4,0,0
+2020-04-05,US,Maryland,Frederick,120,3,0
+2020-04-05,US,Virginia,Frederick,27,0,0
+2020-04-05,US,Virginia,Fredericksburg,7,0,0
+2020-04-05,US,Minnesota,Freeborn,10,0,0
+2020-04-05,US,Colorado,Fremont,3,0,0
+2020-04-05,US,Idaho,Fremont,1,0,0
+2020-04-05,US,Wyoming,Fremont,37,0,0
+2020-04-05,US,California,Fresno,103,1,0
+2020-04-05,US,Georgia,Fulton,962,27,0
+2020-04-05,US,Indiana,Fulton,2,0,0
+2020-04-05,US,New York,Fulton,9,0,0
+2020-04-05,US,Ohio,Fulton,5,0,0
+2020-04-05,US,Pennsylvania,Fulton,1,0,0
+2020-04-05,US,Florida,Gadsden,4,0,0
+2020-04-05,US,Nebraska,Gage,9,1,0
+2020-04-05,US,Texas,Gaines,1,0,0
+2020-04-05,US,Virginia,Galax,1,0,0
+2020-04-05,US,Illinois,Gallatin,1,0,0
+2020-04-05,US,Montana,Gallatin,110,0,0
+2020-04-05,US,Ohio,Gallia,4,1,0
+2020-04-05,US,Texas,Galveston,240,1,0
+2020-04-05,US,Colorado,Garfield,46,1,0
+2020-04-05,US,Oklahoma,Garfield,5,0,0
+2020-04-05,US,Utah,Garfield,1,0,0
+2020-04-05,US,Arkansas,Garland,41,0,0
+2020-04-05,US,Maryland,Garrett,3,0,0
+2020-04-05,US,Oklahoma,Garvin,9,0,0
+2020-04-05,US,Missouri,Gasconade,2,0,0
+2020-04-05,US,North Carolina,Gaston,47,1,0
+2020-04-05,US,North Carolina,Gates,1,0,0
+2020-04-05,US,Kansas,Geary,2,0,0
+2020-04-05,US,Ohio,Geauga,38,0,0
+2020-04-05,US,Idaho,Gem,7,0,0
+2020-04-05,US,Michigan,Genesee,504,18,0
+2020-04-05,US,New York,Genesee,22,1,0
+2020-04-05,US,Missouri,Gentry,1,0,0
+2020-04-05,US,Mississippi,George,5,0,0
+2020-04-05,US,South Carolina,Georgetown,18,1,0
+2020-04-05,US,Indiana,Gibson,4,0,0
+2020-04-05,US,Tennessee,Gibson,11,0,0
+2020-04-05,US,Arizona,Gila,3,0,0
+2020-04-05,US,Tennessee,Giles,3,0,0
+2020-04-05,US,Virginia,Giles,0,0,0
+2020-04-05,US,Texas,Gillespie,2,0,0
+2020-04-05,US,Georgia,Gilmer,1,0,0
+2020-04-05,US,Montana,Glacier,1,0,0
+2020-04-05,US,Florida,Glades,4,1,0
+2020-04-05,US,Michigan,Gladwin,4,0,0
+2020-04-05,US,California,Glenn,2,0,0
+2020-04-05,US,New Jersey,Gloucester,248,3,0
+2020-04-05,US,Virginia,Gloucester,10,0,0
+2020-04-05,US,Georgia,Glynn,29,0,0
+2020-04-05,US,Michigan,Gogebic,3,1,0
+2020-04-05,US,Texas,Goliad,1,0,0
+2020-04-05,US,Texas,Gonzales,1,0,0
+2020-04-05,US,Virginia,Goochland,15,0,0
+2020-04-05,US,Minnesota,Goodhue,10,0,0
+2020-04-05,US,Idaho,Gooding,1,0,0
+2020-04-05,US,Georgia,Gordon,23,2,0
+2020-04-05,US,Wyoming,Goshen,2,0,0
+2020-04-05,US,Nebraska,Gosper,1,0,0
+2020-04-05,US,Kansas,Gove,1,0,0
+2020-04-05,US,Georgia,Grady,3,0,0
+2020-04-05,US,Oklahoma,Grady,7,0,0
+2020-04-05,US,New Hampshire,Grafton,41,0,0
+2020-04-05,US,Arizona,Graham,2,0,0
+2020-04-05,US,Tennessee,Grainger,3,0,0
+2020-04-05,US,Colorado,Grand,4,0,0
+2020-04-05,US,Utah,Grand,1,0,0
+2020-04-05,US,North Dakota,Grand Forks,11,0,0
+2020-04-05,US,Michigan,Grand Traverse,12,3,0
+2020-04-05,US,Arkansas,Grant,3,0,0
+2020-04-05,US,Indiana,Grant,18,2,0
+2020-04-05,US,Kentucky,Grant,2,1,0
+2020-04-05,US,Louisiana,Grant,8,0,0
+2020-04-05,US,New Mexico,Grant,1,0,0
+2020-04-05,US,North Dakota,Grant,1,0,0
+2020-04-05,US,Oklahoma,Grant,1,0,0
+2020-04-05,US,Oregon,Grant,1,0,0
+2020-04-05,US,Washington,Grant,80,2,0
+2020-04-05,US,Wisconsin,Grant,2,0,0
+2020-04-05,US,North Carolina,Granville,37,0,0
+2020-04-05,US,Michigan,Gratiot,4,0,0
+2020-04-05,US,Kentucky,Graves,2,0,0
+2020-04-05,US,Texas,Gray,5,0,0
+2020-04-05,US,Washington,Grays Harbor,6,0,0
+2020-04-05,US,Kentucky,Grayson,2,0,0
+2020-04-05,US,Texas,Grayson,12,0,0
+2020-04-05,US,Virginia,Grayson,0,0,0
+2020-04-05,US,Wisconsin,Green,9,0,0
+2020-04-05,US,West Virginia,Greenbrier,3,0,0
+2020-04-05,US,Alabama,Greene,6,0,0
+2020-04-05,US,Arkansas,Greene,1,0,0
+2020-04-05,US,Georgia,Greene,12,0,0
+2020-04-05,US,Indiana,Greene,10,0,0
+2020-04-05,US,Missouri,Greene,64,7,0
+2020-04-05,US,New York,Greene,24,0,0
+2020-04-05,US,North Carolina,Greene,6,0,0
+2020-04-05,US,Ohio,Greene,13,1,0
+2020-04-05,US,Pennsylvania,Greene,12,0,0
+2020-04-05,US,Tennessee,Greene,17,1,0
+2020-04-05,US,Virginia,Greene,3,0,0
+2020-04-05,US,Arizona,Greenlee,1,0,0
+2020-04-05,US,Virginia,Greensville,4,0,0
+2020-04-05,US,Kentucky,Greenup,1,0,0
+2020-04-05,US,South Carolina,Greenville,186,2,0
+2020-04-05,US,Kansas,Greenwood,1,0,0
+2020-04-05,US,South Carolina,Greenwood,10,0,0
+2020-04-05,US,Oklahoma,Greer,25,1,0
+2020-04-05,US,Texas,Gregg,16,0,0
+2020-04-05,US,Mississippi,Grenada,7,0,0
+2020-04-05,US,Texas,Grimes,3,0,0
+2020-04-05,US,Illinois,Grundy,9,0,0
+2020-04-05,US,Iowa,Grundy,1,0,0
+2020-04-05,US,Tennessee,Grundy,12,0,0
+2020-04-05,US,Texas,Guadalupe,28,0,0
+2020-04-05,US,Ohio,Guernsey,1,0,0
+2020-04-05,US,North Carolina,Guilford,96,5,0
+2020-04-05,US,Florida,Gulf,1,0,0
+2020-04-05,US,Colorado,Gunnison,93,1,0
+2020-04-05,US,Iowa,Guthrie,1,0,0
+2020-04-05,US,Georgia,Gwinnett,408,8,0
+2020-04-05,US,Georgia,Habersham,2,0,0
+2020-04-05,US,Alabama,Hale,3,0,0
+2020-04-05,US,Texas,Hale,7,0,0
+2020-04-05,US,North Carolina,Halifax,10,0,0
+2020-04-05,US,Virginia,Halifax,2,0,0
+2020-04-05,US,Georgia,Hall,117,0,0
+2020-04-05,US,Nebraska,Hall,44,1,0
+2020-04-05,US,Tennessee,Hamblen,4,0,0
+2020-04-05,US,Indiana,Hamilton,300,5,0
+2020-04-05,US,Iowa,Hamilton,1,0,0
+2020-04-05,US,Nebraska,Hamilton,6,0,0
+2020-04-05,US,New York,Hamilton,2,0,0
+2020-04-05,US,Ohio,Hamilton,319,3,0
+2020-04-05,US,Tennessee,Hamilton,74,8,0
+2020-04-05,US,South Dakota,Hamlin,1,0,0
+2020-04-05,US,Massachusetts,Hampden,768,34,0
+2020-04-05,US,Massachusetts,Hampshire,128,3,0
+2020-04-05,US,South Carolina,Hampton,2,0,0
+2020-04-05,US,Virginia,Hampton,40,1,0
+2020-04-05,US,Indiana,Hancock,61,2,0
+2020-04-05,US,Iowa,Hancock,3,0,0
+2020-04-05,US,Kentucky,Hancock,1,0,0
+2020-04-05,US,Maine,Hancock,2,0,0
+2020-04-05,US,Mississippi,Hancock,31,1,0
+2020-04-05,US,Ohio,Hancock,11,0,0
+2020-04-05,US,West Virginia,Hancock,6,0,0
+2020-04-05,US,Virginia,Hanover,12,0,0
+2020-04-05,US,Georgia,Haralson,10,0,0
+2020-04-05,US,Florida,Hardee,2,0,0
+2020-04-05,US,Tennessee,Hardeman,6,0,0
+2020-04-05,US,Iowa,Hardin,1,0,0
+2020-04-05,US,Kentucky,Hardin,9,0,0
+2020-04-05,US,Ohio,Hardin,1,0,0
+2020-04-05,US,Tennessee,Hardin,2,0,0
+2020-04-05,US,Texas,Hardin,26,1,0
+2020-04-05,US,West Virginia,Hardy,2,0,0
+2020-04-05,US,Maryland,Harford,52,0,0
+2020-04-05,US,North Carolina,Harnett,25,2,0
+2020-04-05,US,Georgia,Harris,7,0,0
+2020-04-05,US,Texas,Harris,1395,20,0
+2020-04-05,US,Indiana,Harrison,33,1,0
+2020-04-05,US,Iowa,Harrison,10,0,0
+2020-04-05,US,Kentucky,Harrison,12,0,0
+2020-04-05,US,Mississippi,Harrison,73,3,0
+2020-04-05,US,Missouri,Harrison,2,0,0
+2020-04-05,US,Texas,Harrison,6,1,0
+2020-04-05,US,West Virginia,Harrison,24,0,0
+2020-04-05,US,Virginia,Harrisonburg,25,0,0
+2020-04-05,US,Georgia,Hart,3,0,0
+2020-04-05,US,Connecticut,Hartford,751,29,0
+2020-04-05,US,Kansas,Harvey,2,0,0
+2020-04-05,US,Hawaii,Hawaii,22,0,0
+2020-04-05,US,Tennessee,Hawkins,10,1,0
+2020-04-05,US,Texas,Hays,54,0,0
+2020-04-05,US,North Carolina,Haywood,3,0,0
+2020-04-05,US,Tennessee,Haywood,3,0,0
+2020-04-05,US,Georgia,Heard,2,1,0
+2020-04-05,US,Texas,Hemphill,1,0,0
+2020-04-05,US,Arkansas,Hempstead,1,0,0
+2020-04-05,US,Kentucky,Henderson,6,0,0
+2020-04-05,US,North Carolina,Henderson,50,1,0
+2020-04-05,US,Tennessee,Henderson,1,0,0
+2020-04-05,US,Texas,Henderson,2,0,0
+2020-04-05,US,Indiana,Hendricks,177,4,0
+2020-04-05,US,Florida,Hendry,7,0,0
+2020-04-05,US,Minnesota,Hennepin,267,11,0
+2020-04-05,US,Virginia,Henrico,194,2,0
+2020-04-05,US,Alabama,Henry,3,0,0
+2020-04-05,US,Georgia,Henry,167,3,0
+2020-04-05,US,Illinois,Henry,8,0,0
+2020-04-05,US,Indiana,Henry,11,0,0
+2020-04-05,US,Iowa,Henry,8,1,0
+2020-04-05,US,Kentucky,Henry,2,0,0
+2020-04-05,US,Missouri,Henry,1,1,0
+2020-04-05,US,Tennessee,Henry,4,0,0
+2020-04-05,US,Virginia,Henry,3,0,0
+2020-04-05,US,New York,Herkimer,22,3,0
+2020-04-05,US,Florida,Hernando,43,0,0
+2020-04-05,US,North Carolina,Hertford,4,1,0
+2020-04-05,US,Tennessee,Hickman,2,0,0
+2020-04-05,US,Texas,Hidalgo,86,0,0
+2020-04-05,US,Ohio,Highland,4,0,0
+2020-04-05,US,Virginia,Highland,0,0,0
+2020-04-05,US,Florida,Highlands,35,2,0
+2020-04-05,US,Montana,Hill,1,0,0
+2020-04-05,US,Texas,Hill,5,0,0
+2020-04-05,US,Florida,Hillsborough,536,5,0
+2020-04-05,US,New Hampshire,Hillsborough,231,2,0
+2020-04-05,US,Michigan,Hillsdale,44,3,0
+2020-04-05,US,Mississippi,Hinds,154,0,0
+2020-04-05,US,Colorado,Hinsdale,1,0,0
+2020-04-05,US,Texas,Hockley,10,1,0
+2020-04-05,US,North Carolina,Hoke,10,0,0
+2020-04-05,US,Florida,Holmes,1,0,0
+2020-04-05,US,Mississippi,Holmes,21,1,0
+2020-04-05,US,Ohio,Holmes,1,0,0
+2020-04-05,US,Hawaii,Honolulu,281,4,0
+2020-04-05,US,Texas,Hood,9,1,0
+2020-04-05,US,Oregon,Hood River,2,0,0
+2020-04-05,US,Virginia,Hopewell,10,0,0
+2020-04-05,US,Kentucky,Hopkins,34,4,0
+2020-04-05,US,Texas,Hopkins,4,0,0
+2020-04-05,US,South Carolina,Horry,64,5,0
+2020-04-05,US,Arkansas,Hot Spring,7,0,0
+2020-04-05,US,Michigan,Houghton,1,0,0
+2020-04-05,US,Alabama,Houston,15,1,0
+2020-04-05,US,Georgia,Houston,62,6,0
+2020-04-05,US,Minnesota,Houston,1,0,0
+2020-04-05,US,Tennessee,Houston,2,0,0
+2020-04-05,US,Arkansas,Howard,5,0,0
+2020-04-05,US,Indiana,Howard,27,2,0
+2020-04-05,US,Iowa,Howard,1,0,0
+2020-04-05,US,Maryland,Howard,199,3,0
+2020-04-05,US,Missouri,Howell,1,0,0
+2020-04-05,US,New Jersey,Hudson,3924,87,0
+2020-04-05,US,Colorado,Huerfano,1,0,0
+2020-04-05,US,South Dakota,Hughes,3,0,0
+2020-04-05,US,California,Humboldt,44,0,0
+2020-04-05,US,Nevada,Humboldt,11,0,0
+2020-04-05,US,Mississippi,Humphreys,4,1,0
+2020-04-05,US,Tennessee,Humphreys,3,0,0
+2020-04-05,US,Texas,Hunt,8,0,0
+2020-04-05,US,New Jersey,Hunterdon,189,2,0
+2020-04-05,US,Pennsylvania,Huntingdon,4,0,0
+2020-04-05,US,Indiana,Huntington,4,1,0
+2020-04-05,US,Michigan,Huron,4,0,0
+2020-04-05,US,Ohio,Huron,6,1,0
+2020-04-05,US,South Dakota,Hutchinson,2,0,0
+2020-04-05,US,Texas,Hutchinson,2,0,0
+2020-04-05,US,Louisiana,Iberia,69,3,0
+2020-04-05,US,Louisiana,Iberville,122,5,0
+2020-04-05,US,Idaho,Idaho,3,0,0
+2020-04-05,US,California,Imperial,57,2,0
+2020-04-05,US,Arkansas,Independence,5,0,0
+2020-04-05,US,Florida,Indian River,55,0,0
+2020-04-05,US,Pennsylvania,Indiana,13,0,0
+2020-04-05,US,Michigan,Ingham,172,2,0
+2020-04-05,US,California,Inyo,11,0,0
+2020-04-05,US,Michigan,Ionia,8,0,0
+2020-04-05,US,Michigan,Iosco,3,1,0
+2020-04-05,US,Iowa,Iowa,6,0,0
+2020-04-05,US,Wisconsin,Iowa,3,0,0
+2020-04-05,US,North Carolina,Iredell,44,0,0
+2020-04-05,US,Utah,Iron,12,0,0
+2020-04-05,US,Wisconsin,Iron,1,1,0
+2020-04-05,US,Illinois,Iroquois,5,0,0
+2020-04-05,US,Georgia,Irwin,6,0,0
+2020-04-05,US,Michigan,Isabella,12,2,0
+2020-04-05,US,Minnesota,Isanti,4,0,0
+2020-04-05,US,Washington,Island,130,4,0
+2020-04-05,US,Virginia,Isle of Wight,18,0,0
+2020-04-05,US,Minnesota,Itasca,2,0,0
+2020-04-05,US,Mississippi,Itawamba,3,0,0
+2020-04-05,US,Alabama,Jackson,14,1,0
+2020-04-05,US,Florida,Jackson,4,0,0
+2020-04-05,US,Georgia,Jackson,15,0,0
+2020-04-05,US,Illinois,Jackson,12,1,0
+2020-04-05,US,Indiana,Jackson,36,0,0
+2020-04-05,US,Iowa,Jackson,3,0,0
+2020-04-05,US,Kansas,Jackson,1,0,0
+2020-04-05,US,Louisiana,Jackson,1,0,0
+2020-04-05,US,Michigan,Jackson,90,3,0
+2020-04-05,US,Minnesota,Jackson,1,0,0
+2020-04-05,US,Mississippi,Jackson,86,3,0
+2020-04-05,US,Missouri,Jackson,135,3,0
+2020-04-05,US,North Carolina,Jackson,2,0,0
+2020-04-05,US,Oklahoma,Jackson,4,0,0
+2020-04-05,US,Oregon,Jackson,33,0,0
+2020-04-05,US,Tennessee,Jackson,3,0,0
+2020-04-05,US,Texas,Jackson,3,0,0
+2020-04-05,US,West Virginia,Jackson,14,1,0
+2020-04-05,US,Wisconsin,Jackson,3,0,0
+2020-04-05,US,Virginia,James City,117,2,0
+2020-04-05,US,Georgia,Jasper,4,0,0
+2020-04-05,US,Illinois,Jasper,3,0,0
+2020-04-05,US,Indiana,Jasper,12,1,0
+2020-04-05,US,Iowa,Jasper,8,0,0
+2020-04-05,US,Mississippi,Jasper,3,0,0
+2020-04-05,US,Missouri,Jasper,11,0,0
+2020-04-05,US,South Carolina,Jasper,9,0,0
+2020-04-05,US,Texas,Jasper,3,0,0
+2020-04-05,US,Indiana,Jay,3,0,0
+2020-04-05,US,Georgia,Jeff Davis,0,0,0
+2020-04-05,US,Alabama,Jefferson,416,9,0
+2020-04-05,US,Arkansas,Jefferson,59,0,0
+2020-04-05,US,Colorado,Jefferson,519,17,0
+2020-04-05,US,Florida,Jefferson,1,0,0
+2020-04-05,US,Georgia,Jefferson,3,0,0
+2020-04-05,US,Idaho,Jefferson,3,0,0
+2020-04-05,US,Illinois,Jefferson,2,0,0
+2020-04-05,US,Indiana,Jefferson,5,0,0
+2020-04-05,US,Iowa,Jefferson,3,0,0
+2020-04-05,US,Kansas,Jefferson,2,0,0
+2020-04-05,US,Kentucky,Jefferson,304,17,0
+2020-04-05,US,Louisiana,Jefferson,3088,113,0
+2020-04-05,US,Mississippi,Jefferson,3,0,0
+2020-04-05,US,Missouri,Jefferson,69,0,0
+2020-04-05,US,Montana,Jefferson,2,0,0
+2020-04-05,US,New York,Jefferson,26,0,0
+2020-04-05,US,Ohio,Jefferson,14,0,0
+2020-04-05,US,Tennessee,Jefferson,6,0,0
+2020-04-05,US,Texas,Jefferson,58,2,0
+2020-04-05,US,Washington,Jefferson,20,0,0
+2020-04-05,US,West Virginia,Jefferson,21,0,0
+2020-04-05,US,Wisconsin,Jefferson,14,0,0
+2020-04-05,US,Louisiana,Jefferson Davis,13,0,0
+2020-04-05,US,Georgia,Jenkins,2,0,0
+2020-04-05,US,Indiana,Jennings,35,0,0
+2020-04-05,US,Idaho,Jerome,13,0,0
+2020-04-05,US,Illinois,Jersey,2,0,0
+2020-04-05,US,Kentucky,Jessamine,16,0,0
+2020-04-05,US,Kansas,Jewell,1,0,0
+2020-04-05,US,Texas,Jim Wells,2,0,0
+2020-04-05,US,Illinois,Jo Daviess,5,0,0
+2020-04-05,US,Arkansas,Johnson,7,0,0
+2020-04-05,US,Georgia,Johnson,3,0,0
+2020-04-05,US,Indiana,Johnson,167,6,0
+2020-04-05,US,Iowa,Johnson,106,1,0
+2020-04-05,US,Kansas,Johnson,192,7,0
+2020-04-05,US,Kentucky,Johnson,1,0,0
+2020-04-05,US,Missouri,Johnson,29,0,0
+2020-04-05,US,Nebraska,Johnson,1,0,0
+2020-04-05,US,Tennessee,Johnson,2,0,0
+2020-04-05,US,Texas,Johnson,23,1,0
+2020-04-05,US,Wyoming,Johnson,8,0,0
+2020-04-05,US,North Carolina,Johnston,33,3,0
+2020-04-05,US,Georgia,Jones,6,0,0
+2020-04-05,US,Iowa,Jones,6,0,0
+2020-04-05,US,Mississippi,Jones,11,0,0
+2020-04-05,US,Oregon,Josephine,13,0,0
+2020-04-05,US,Alaska,Juneau,14,0,0
+2020-04-05,US,Wisconsin,Juneau,5,0,0
+2020-04-05,US,Pennsylvania,Juniata,7,0,0
+2020-04-05,US,Michigan,Kalamazoo,53,3,0
+2020-04-05,US,Michigan,Kalkaska,8,2,0
+2020-04-05,US,West Virginia,Kanawha,51,0,0
+2020-04-05,US,Minnesota,Kandiyohi,2,0,0
+2020-04-05,US,Illinois,Kane,220,15,0
+2020-04-05,US,Utah,Kane,1,0,0
+2020-04-05,US,Illinois,Kankakee,76,4,0
+2020-04-05,US,Missouri,Kansas City,172,2,0
+2020-04-05,US,Texas,Karnes,2,0,0
+2020-04-05,US,Hawaii,Kauai,16,0,0
+2020-04-05,US,Texas,Kaufman,10,0,0
+2020-04-05,US,Oklahoma,Kay,30,1,0
+2020-04-05,US,Nebraska,Kearney,2,0,0
+2020-04-05,US,Mississippi,Kemper,5,0,0
+2020-04-05,US,Alaska,Kenai Peninsula,12,0,0
+2020-04-05,US,Illinois,Kendall,49,2,0
+2020-04-05,US,Texas,Kendall,10,0,0
+2020-04-05,US,Maine,Kennebec,22,1,0
+2020-04-05,US,Wisconsin,Kenosha,98,1,0
+2020-04-05,US,Delaware,Kent,86,2,0
+2020-04-05,US,Maryland,Kent,5,0,0
+2020-04-05,US,Michigan,Kent,165,3,0
+2020-04-05,US,Rhode Island,Kent,82,0,0
+2020-04-05,US,Kentucky,Kenton,33,3,0
+2020-04-05,US,Iowa,Keokuk,2,0,0
+2020-04-05,US,California,Kern,230,2,0
+2020-04-05,US,Texas,Kerr,2,0,0
+2020-04-05,US,South Carolina,Kershaw,148,2,0
+2020-04-05,US,Alaska,Ketchikan Gateway,14,0,0
+2020-04-05,US,Nebraska,Kimball,5,0,0
+2020-04-05,US,Washington,King,3167,208,0
+2020-04-05,US,Virginia,King George,8,0,0
+2020-04-05,US,Virginia,King William,2,0,0
+2020-04-05,US,Virginia,King and Queen,1,0,0
+2020-04-05,US,Oklahoma,Kingfisher,3,0,0
+2020-04-05,US,California,Kings,5,0,0
+2020-04-05,US,South Dakota,Kingsbury,0,0,0
+2020-04-05,US,Oklahoma,Kiowa,1,0,0
+2020-04-05,US,Colorado,Kit Carson,5,0,0
+2020-04-05,US,Washington,Kitsap,104,0,0
+2020-04-05,US,Washington,Kittitas,10,0,0
+2020-04-05,US,Oregon,Klamath,15,0,0
+2020-04-05,US,Texas,Kleberg,2,0,0
+2020-04-05,US,Washington,Klickitat,11,1,0
+2020-04-05,US,Illinois,Knox,1,0,0
+2020-04-05,US,Indiana,Knox,7,0,0
+2020-04-05,US,Maine,Knox,9,0,0
+2020-04-05,US,Nebraska,Knox,2,0,0
+2020-04-05,US,Ohio,Knox,7,1,0
+2020-04-05,US,Tennessee,Knox,115,1,0
+2020-04-05,US,Minnesota,Koochiching,1,0,0
+2020-04-05,US,Idaho,Kootenai,40,0,0
+2020-04-05,US,Indiana,Kosciusko,12,0,0
+2020-04-05,US,Iowa,Kossuth,1,0,0
+2020-04-05,US,Wisconsin,La Crosse,21,0,0
+2020-04-05,US,Arizona,La Paz,3,0,0
+2020-04-05,US,Colorado,La Plata,29,0,0
+2020-04-05,US,Indiana,LaGrange,4,0,0
+2020-04-05,US,Indiana,LaPorte,21,2,0
+2020-04-05,US,Illinois,LaSalle,8,1,0
+2020-04-05,US,Louisiana,LaSalle,4,0,0
+2020-04-05,US,Kansas,Labette,4,0,0
+2020-04-05,US,Minnesota,Lac qui Parle,1,0,0
+2020-04-05,US,Pennsylvania,Lackawanna,172,6,0
+2020-04-05,US,Arkansas,Lafayette,1,0,0
+2020-04-05,US,Louisiana,Lafayette,247,5,0
+2020-04-05,US,Mississippi,Lafayette,22,1,0
+2020-04-05,US,Missouri,Lafayette,26,1,0
+2020-04-05,US,Louisiana,Lafourche,228,4,0
+2020-04-05,US,Colorado,Lake,3,0,0
+2020-04-05,US,Florida,Lake,101,2,0
+2020-04-05,US,Illinois,Lake,742,13,0
+2020-04-05,US,Indiana,Lake,335,8,0
+2020-04-05,US,Montana,Lake,4,0,0
+2020-04-05,US,Ohio,Lake,79,3,0
+2020-04-05,US,South Dakota,Lake,1,0,0
+2020-04-05,US,Alabama,Lamar,3,0,0
+2020-04-05,US,Georgia,Lamar,7,0,0
+2020-04-05,US,Mississippi,Lamar,13,0,0
+2020-04-05,US,Texas,Lamar,5,0,0
+2020-04-05,US,Texas,Lamb,1,0,0
+2020-04-05,US,Vermont,Lamoille,17,0,0
+2020-04-05,US,Texas,Lampasas,1,0,0
+2020-04-05,US,Nebraska,Lancaster,18,0,0
+2020-04-05,US,Pennsylvania,Lancaster,371,8,0
+2020-04-05,US,South Carolina,Lancaster,41,0,0
+2020-04-05,US,Virginia,Lancaster,1,0,0
+2020-04-05,US,Oregon,Lane,27,1,0
+2020-04-05,US,Georgia,Lanier,1,0,0
+2020-04-05,US,Michigan,Lapeer,45,0,0
+2020-04-05,US,Wyoming,Laramie,43,0,0
+2020-04-05,US,Colorado,Larimer,153,8,0
+2020-04-05,US,Kentucky,Larue,3,0,0
+2020-04-05,US,Colorado,Las Animas,1,0,0
+2020-04-05,US,Idaho,Latah,1,0,0
+2020-04-05,US,Oklahoma,Latimer,4,1,0
+2020-04-05,US,Alabama,Lauderdale,16,2,0
+2020-04-05,US,Mississippi,Lauderdale,65,2,0
+2020-04-05,US,Tennessee,Lauderdale,2,0,0
+2020-04-05,US,Kentucky,Laurel,2,0,0
+2020-04-05,US,Georgia,Laurens,15,0,0
+2020-04-05,US,South Carolina,Laurens,6,0,0
+2020-04-05,US,Texas,Lavaca,2,0,0
+2020-04-05,US,Alabama,Lawrence,6,0,0
+2020-04-05,US,Arkansas,Lawrence,1,0,0
+2020-04-05,US,Indiana,Lawrence,39,5,0
+2020-04-05,US,Kentucky,Lawrence,1,0,0
+2020-04-05,US,Mississippi,Lawrence,4,0,0
+2020-04-05,US,Ohio,Lawrence,8,0,0
+2020-04-05,US,Pennsylvania,Lawrence,23,2,0
+2020-04-05,US,South Dakota,Lawrence,9,0,0
+2020-04-05,US,Tennessee,Lawrence,3,0,0
+2020-04-05,US,Oklahoma,Le Flore,1,0,0
+2020-04-05,US,Minnesota,Le Sueur,20,0,0
+2020-04-05,US,New Mexico,Lea,2,0,0
+2020-04-05,US,Mississippi,Leake,10,0,0
+2020-04-05,US,Kansas,Leavenworth,36,0,0
+2020-04-05,US,Pennsylvania,Lebanon,106,0,0
+2020-04-05,US,Alabama,Lee,109,3,0
+2020-04-05,US,Arkansas,Lee,1,0,0
+2020-04-05,US,Florida,Lee,379,11,0
+2020-04-05,US,Georgia,Lee,136,8,0
+2020-04-05,US,Illinois,Lee,2,0,0
+2020-04-05,US,Iowa,Lee,1,0,0
+2020-04-05,US,Mississippi,Lee,30,1,0
+2020-04-05,US,North Carolina,Lee,3,0,0
+2020-04-05,US,South Carolina,Lee,17,2,0
+2020-04-05,US,Texas,Lee,2,0,0
+2020-04-05,US,Virginia,Lee,2,0,0
+2020-04-05,US,Michigan,Leelanau,1,0,0
+2020-04-05,US,Mississippi,Leflore,22,3,0
+2020-04-05,US,Pennsylvania,Lehigh,877,8,0
+2020-04-05,US,Michigan,Lenawee,31,0,0
+2020-04-05,US,North Carolina,Lenoir,7,0,0
+2020-04-05,US,Florida,Leon,42,0,0
+2020-04-05,US,Texas,Leon,2,0,0
+2020-04-05,US,Florida,Levy,4,0,0
+2020-04-05,US,Idaho,Lewis,1,0,0
+2020-04-05,US,Kentucky,Lewis,2,0,0
+2020-04-05,US,New York,Lewis,3,0,0
+2020-04-05,US,Tennessee,Lewis,2,0,0
+2020-04-05,US,Washington,Lewis,13,0,0
+2020-04-05,US,Montana,Lewis and Clark,14,0,0
+2020-04-05,US,South Carolina,Lexington,117,3,0
+2020-04-05,US,Virginia,Lexington,3,0,0
+2020-04-05,US,Georgia,Liberty,10,0,0
+2020-04-05,US,Montana,Liberty,1,0,0
+2020-04-05,US,Texas,Liberty,6,0,0
+2020-04-05,US,Ohio,Licking,55,2,0
+2020-04-05,US,Alabama,Limestone,31,0,0
+2020-04-05,US,Texas,Limestone,3,1,0
+2020-04-05,US,Arkansas,Lincoln,7,0,0
+2020-04-05,US,Colorado,Lincoln,1,0,0
+2020-04-05,US,Georgia,Lincoln,5,0,0
+2020-04-05,US,Idaho,Lincoln,9,0,0
+2020-04-05,US,Louisiana,Lincoln,18,0,0
+2020-04-05,US,Maine,Lincoln,8,0,0
+2020-04-05,US,Minnesota,Lincoln,1,0,0
+2020-04-05,US,Mississippi,Lincoln,16,0,0
+2020-04-05,US,Missouri,Lincoln,16,0,0
+2020-04-05,US,Montana,Lincoln,6,1,0
+2020-04-05,US,Nebraska,Lincoln,15,1,0
+2020-04-05,US,New Mexico,Lincoln,1,0,0
+2020-04-05,US,North Carolina,Lincoln,9,0,0
+2020-04-05,US,Oklahoma,Lincoln,7,0,0
+2020-04-05,US,Oregon,Lincoln,4,0,0
+2020-04-05,US,South Dakota,Lincoln,23,0,0
+2020-04-05,US,Tennessee,Lincoln,5,0,0
+2020-04-05,US,Washington,Lincoln,1,0,0
+2020-04-05,US,Wyoming,Lincoln,2,0,0
+2020-04-05,US,Iowa,Linn,161,5,0
+2020-04-05,US,Kansas,Linn,5,0,0
+2020-04-05,US,Oregon,Linn,43,2,0
+2020-04-05,US,Connecticut,Litchfield,197,6,0
+2020-04-05,US,Texas,Live Oak,3,0,0
+2020-04-05,US,Illinois,Livingston,7,0,0
+2020-04-05,US,Louisiana,Livingston,67,1,0
+2020-04-05,US,Michigan,Livingston,135,2,0
+2020-04-05,US,Missouri,Livingston,1,0,0
+2020-04-05,US,New York,Livingston,24,1,0
+2020-04-05,US,Texas,Llano,3,0,0
+2020-04-05,US,Colorado,Logan,9,0,0
+2020-04-05,US,Illinois,Logan,1,0,0
+2020-04-05,US,Kentucky,Logan,4,0,0
+2020-04-05,US,Ohio,Logan,5,0,0
+2020-04-05,US,Oklahoma,Logan,6,0,0
+2020-04-05,US,West Virginia,Logan,5,0,0
+2020-04-05,US,Georgia,Long,1,0,0
+2020-04-05,US,Arkansas,Lonoke,16,0,0
+2020-04-05,US,Ohio,Lorain,110,3,0
+2020-04-05,US,New Mexico,Los Alamos,2,0,0
+2020-04-05,US,California,Los Angeles,5955,132,0
+2020-04-05,US,Tennessee,Loudon,13,0,0
+2020-04-05,US,Virginia,Loudoun,167,1,0
+2020-04-05,US,Iowa,Louisa,6,0,0
+2020-04-05,US,Virginia,Louisa,14,0,0
+2020-04-05,US,Oklahoma,Love,2,0,0
+2020-04-05,US,Alabama,Lowndes,6,0,0
+2020-04-05,US,Georgia,Lowndes,37,1,0
+2020-04-05,US,Mississippi,Lowndes,15,0,0
+2020-04-05,US,Texas,Lubbock,154,4,0
+2020-04-05,US,Ohio,Lucas,302,8,0
+2020-04-05,US,Michigan,Luce,1,0,0
+2020-04-05,US,Georgia,Lumpkin,9,0,0
+2020-04-05,US,Virginia,Lunenburg,0,0,0
+2020-04-05,US,Pennsylvania,Luzerne,741,5,0
+2020-04-05,US,Pennsylvania,Lycoming,9,0,0
+2020-04-05,US,South Dakota,Lyman,1,0,0
+2020-04-05,US,Virginia,Lynchburg,10,0,0
+2020-04-05,US,Texas,Lynn,3,0,0
+2020-04-05,US,Iowa,Lyon,2,0,0
+2020-04-05,US,Kansas,Lyon,24,0,0
+2020-04-05,US,Kentucky,Lyon,4,0,0
+2020-04-05,US,Minnesota,Lyon,3,0,0
+2020-04-05,US,Nevada,Lyon,3,0,0
+2020-04-05,US,Michigan,Mackinac,2,0,0
+2020-04-05,US,Michigan,Macomb,2003,83,0
+2020-04-05,US,Alabama,Macon,5,0,0
+2020-04-05,US,Georgia,Macon,4,0,0
+2020-04-05,US,Illinois,Macon,6,0,0
+2020-04-05,US,Missouri,Macon,3,0,0
+2020-04-05,US,North Carolina,Macon,1,0,0
+2020-04-05,US,Tennessee,Macon,9,0,0
+2020-04-05,US,Illinois,Macoupin,5,0,0
+2020-04-05,US,California,Madera,28,2,0
+2020-04-05,US,Alabama,Madison,134,1,0
+2020-04-05,US,Florida,Madison,10,0,0
+2020-04-05,US,Georgia,Madison,7,1,0
+2020-04-05,US,Idaho,Madison,4,0,0
+2020-04-05,US,Illinois,Madison,48,0,0
+2020-04-05,US,Indiana,Madison,86,9,0
+2020-04-05,US,Iowa,Madison,1,0,0
+2020-04-05,US,Kentucky,Madison,11,1,0
+2020-04-05,US,Louisiana,Madison,1,0,0
+2020-04-05,US,Mississippi,Madison,72,0,0
+2020-04-05,US,Montana,Madison,9,1,0
+2020-04-05,US,Nebraska,Madison,5,0,0
+2020-04-05,US,New York,Madison,89,2,0
+2020-04-05,US,Ohio,Madison,17,2,0
+2020-04-05,US,Tennessee,Madison,19,0,0
+2020-04-05,US,Virginia,Madison,3,0,0
+2020-04-05,US,Iowa,Mahaska,3,0,0
+2020-04-05,US,Minnesota,Mahnomen,1,0,0
+2020-04-05,US,Ohio,Mahoning,261,15,0
+2020-04-05,US,Oklahoma,Major,1,0,0
+2020-04-05,US,Oregon,Malheur,2,0,0
+2020-04-05,US,Virginia,Manassas,14,0,0
+2020-04-05,US,Virginia,Manassas Park,2,0,0
+2020-04-05,US,Florida,Manatee,136,3,0
+2020-04-05,US,Michigan,Manistee,4,0,0
+2020-04-05,US,Wisconsin,Manitowoc,3,0,0
+2020-04-05,US,Wisconsin,Marathon,12,0,0
+2020-04-05,US,Alabama,Marengo,8,0,0
+2020-04-05,US,Arizona,Maricopa,1326,31,0
+2020-04-05,US,Missouri,Maries,2,0,0
+2020-04-05,US,California,Marin,137,7,0
+2020-04-05,US,Wisconsin,Marinette,2,0,0
+2020-04-05,US,Alabama,Marion,17,2,0
+2020-04-05,US,Florida,Marion,50,2,0
+2020-04-05,US,Georgia,Marion,2,0,0
+2020-04-05,US,Illinois,Marion,3,0,0
+2020-04-05,US,Indiana,Marion,1760,37,0
+2020-04-05,US,Iowa,Marion,1,0,0
+2020-04-05,US,Kansas,Marion,2,0,0
+2020-04-05,US,Kentucky,Marion,3,0,0
+2020-04-05,US,Mississippi,Marion,7,0,0
+2020-04-05,US,Ohio,Marion,19,0,0
+2020-04-05,US,Oregon,Marion,198,5,0
+2020-04-05,US,South Carolina,Marion,2,1,0
+2020-04-05,US,Tennessee,Marion,16,1,0
+2020-04-05,US,West Virginia,Marion,14,1,0
+2020-04-05,US,South Carolina,Marlboro,3,0,0
+2020-04-05,US,Michigan,Marquette,14,1,0
+2020-04-05,US,Wisconsin,Marquette,2,0,0
+2020-04-05,US,Alabama,Marshall,20,0,0
+2020-04-05,US,Illinois,Marshall,1,0,0
+2020-04-05,US,Indiana,Marshall,6,0,0
+2020-04-05,US,Iowa,Marshall,10,0,0
+2020-04-05,US,Kentucky,Marshall,3,0,0
+2020-04-05,US,Mississippi,Marshall,20,1,0
+2020-04-05,US,South Dakota,Marshall,1,0,0
+2020-04-05,US,Tennessee,Marshall,6,0,0
+2020-04-05,US,West Virginia,Marshall,5,0,0
+2020-04-05,US,Florida,Martin,60,0,0
+2020-04-05,US,Indiana,Martin,1,0,0
+2020-04-05,US,Kentucky,Martin,1,0,0
+2020-04-05,US,Minnesota,Martin,32,3,0
+2020-04-05,US,North Carolina,Martin,3,0,0
+2020-04-05,US,Texas,Martin,1,0,0
+2020-04-05,US,Virginia,Martinsville,0,0,0
+2020-04-05,US,Illinois,Mason,1,0,0
+2020-04-05,US,Kentucky,Mason,2,0,0
+2020-04-05,US,Texas,Mason,1,0,0
+2020-04-05,US,Washington,Mason,14,0,0
+2020-04-05,US,West Virginia,Mason,4,0,0
+2020-04-05,US,Illinois,Massac,2,0,0
+2020-04-05,US,Texas,Matagorda,41,2,0
+2020-04-05,US,Alaska,Matanuska-Susitna,4,0,0
+2020-04-05,US,Virginia,Mathews,2,0,0
+2020-04-05,US,Hawaii,Maui,43,0,0
+2020-04-05,US,Tennessee,Maury,21,0,0
+2020-04-05,US,Texas,Maverick,4,0,0
+2020-04-05,US,Oklahoma,Mayes,9,1,0
+2020-04-05,US,Oklahoma,McClain,12,0,0
+2020-04-05,US,South Dakota,McCook,2,0,0
+2020-04-05,US,South Carolina,McCormick,1,0,0
+2020-04-05,US,Kentucky,McCracken,13,0,0
+2020-04-05,US,Kentucky,McCreary,1,0,0
+2020-04-05,US,Oklahoma,McCurtain,1,0,0
+2020-04-05,US,Missouri,McDonald,2,0,0
+2020-04-05,US,North Carolina,McDowell,9,0,0
+2020-04-05,US,Georgia,McDuffie,6,1,0
+2020-04-05,US,Illinois,McHenry,133,3,0
+2020-04-05,US,North Dakota,McHenry,1,1,0
+2020-04-05,US,Georgia,McIntosh,2,0,0
+2020-04-05,US,North Dakota,McIntosh,1,0,0
+2020-04-05,US,Oklahoma,McIntosh,1,0,0
+2020-04-05,US,Pennsylvania,McKean,1,0,0
+2020-04-05,US,North Dakota,McKenzie,3,0,0
+2020-04-05,US,New Mexico,McKinley,55,2,0
+2020-04-05,US,Illinois,McLean,46,2,0
+2020-04-05,US,Kentucky,McLean,1,1,0
+2020-04-05,US,North Dakota,McLean,2,0,0
+2020-04-05,US,Texas,McLennan,51,1,0
+2020-04-05,US,Minnesota,McLeod,1,0,0
+2020-04-05,US,Tennessee,McMinn,3,0,0
+2020-04-05,US,Tennessee,McNairy,3,0,0
+2020-04-05,US,Kansas,McPherson,8,0,0
+2020-04-05,US,Kentucky,Meade,2,0,0
+2020-04-05,US,South Dakota,Meade,1,0,0
+2020-04-05,US,Montana,Meagher,1,0,0
+2020-04-05,US,North Carolina,Mecklenburg,664,4,0
+2020-04-05,US,Virginia,Mecklenburg,12,0,0
+2020-04-05,US,Michigan,Mecosta,6,1,0
+2020-04-05,US,Ohio,Medina,78,2,0
+2020-04-05,US,Texas,Medina,4,0,0
+2020-04-05,US,Minnesota,Meeker,1,0,0
+2020-04-05,US,Tennessee,Meigs,2,0,0
+2020-04-05,US,Illinois,Menard,1,0,0
+2020-04-05,US,California,Mendocino,4,0,0
+2020-04-05,US,Kentucky,Menifee,3,0,0
+2020-04-05,US,Wisconsin,Menominee,1,0,0
+2020-04-05,US,California,Merced,27,0,0
+2020-04-05,US,Illinois,Mercer,2,0,0
+2020-04-05,US,Kentucky,Mercer,4,0,0
+2020-04-05,US,New Jersey,Mercer,654,16,0
+2020-04-05,US,North Dakota,Mercer,0,0,0
+2020-04-05,US,Ohio,Mercer,7,1,0
+2020-04-05,US,Pennsylvania,Mercer,18,0,0
+2020-04-05,US,West Virginia,Mercer,3,0,0
+2020-04-05,US,Georgia,Meriwether,11,0,0
+2020-04-05,US,Nebraska,Merrick,2,0,0
+2020-04-05,US,New Hampshire,Merrimack,39,0,0
+2020-04-05,US,Colorado,Mesa,20,0,0
+2020-04-05,US,Indiana,Miami,7,0,0
+2020-04-05,US,Kansas,Miami,2,0,0
+2020-04-05,US,Ohio,Miami,76,10,0
+2020-04-05,US,Florida,Miami-Dade,4146,31,0
+2020-04-05,US,Connecticut,Middlesex,110,5,0
+2020-04-05,US,Massachusetts,Middlesex,2632,41,0
+2020-04-05,US,New Jersey,Middlesex,2950,80,0
+2020-04-05,US,Virginia,Middlesex,0,0,0
+2020-04-05,US,Michigan,Midland,18,0,0
+2020-04-05,US,Texas,Midland,24,1,0
+2020-04-05,US,Pennsylvania,Mifflin,9,0,0
+2020-04-05,US,Texas,Milam,3,0,0
+2020-04-05,US,Arkansas,Miller,8,0,0
+2020-04-05,US,Georgia,Miller,10,0,0
+2020-04-05,US,Iowa,Mills,1,0,0
+2020-04-05,US,Wisconsin,Milwaukee,1190,39,0
+2020-04-05,US,Colorado,Mineral,2,0,0
+2020-04-05,US,West Virginia,Mineral,2,0,0
+2020-04-05,US,Idaho,Minidoka,1,0,0
+2020-04-05,US,South Dakota,Minnehaha,104,0,0
+2020-04-05,US,Michigan,Missaukee,1,1,0
+2020-04-05,US,Arkansas,Mississippi,1,0,0
+2020-04-05,US,Montana,Missoula,19,1,0
+2020-04-05,US,Georgia,Mitchell,53,1,0
+2020-04-05,US,Iowa,Mitchell,2,0,0
+2020-04-05,US,Kansas,Mitchell,2,0,0
+2020-04-05,US,North Carolina,Mitchell,2,0,0
+2020-04-05,US,Alabama,Mobile,125,6,0
+2020-04-05,US,Colorado,Moffat,3,0,0
+2020-04-05,US,Arizona,Mohave,16,0,0
+2020-04-05,US,Missouri,Moniteau,2,0,0
+2020-04-05,US,New Jersey,Monmouth,2354,58,0
+2020-04-05,US,California,Mono,19,1,0
+2020-04-05,US,Iowa,Monona,6,0,0
+2020-04-05,US,West Virginia,Monongalia,49,1,0
+2020-04-05,US,Alabama,Monroe,5,0,0
+2020-04-05,US,Arkansas,Monroe,1,0,0
+2020-04-05,US,Florida,Monroe,44,2,0
+2020-04-05,US,Georgia,Monroe,9,1,0
+2020-04-05,US,Illinois,Monroe,10,0,0
+2020-04-05,US,Indiana,Monroe,48,0,0
+2020-04-05,US,Michigan,Monroe,108,0,0
+2020-04-05,US,Mississippi,Monroe,13,1,0
+2020-04-05,US,New York,Monroe,548,19,0
+2020-04-05,US,Ohio,Monroe,2,0,0
+2020-04-05,US,Pennsylvania,Monroe,528,11,0
+2020-04-05,US,Tennessee,Monroe,6,0,0
+2020-04-05,US,Wisconsin,Monroe,6,0,0
+2020-04-05,US,Texas,Montague,1,0,0
+2020-04-05,US,Michigan,Montcalm,14,0,0
+2020-04-05,US,California,Monterey,62,2,0
+2020-04-05,US,Colorado,Montezuma,8,1,0
+2020-04-05,US,Alabama,Montgomery,67,1,0
+2020-04-05,US,Illinois,Montgomery,3,1,0
+2020-04-05,US,Indiana,Montgomery,14,0,0
+2020-04-05,US,Iowa,Montgomery,1,0,0
+2020-04-05,US,Kansas,Montgomery,6,0,0
+2020-04-05,US,Kentucky,Montgomery,5,0,0
+2020-04-05,US,Maryland,Montgomery,693,13,0
+2020-04-05,US,Mississippi,Montgomery,11,1,0
+2020-04-05,US,Missouri,Montgomery,4,0,0
+2020-04-05,US,New York,Montgomery,15,1,0
+2020-04-05,US,North Carolina,Montgomery,10,1,0
+2020-04-05,US,Ohio,Montgomery,84,2,0
+2020-04-05,US,Pennsylvania,Montgomery,1111,18,0
+2020-04-05,US,Tennessee,Montgomery,51,1,0
+2020-04-05,US,Texas,Montgomery,149,3,0
+2020-04-05,US,Virginia,Montgomery,6,0,0
+2020-04-05,US,Pennsylvania,Montour,37,0,0
+2020-04-05,US,Colorado,Montrose,32,1,0
+2020-04-05,US,North Carolina,Moore,14,1,0
+2020-04-05,US,Texas,Moore,6,0,0
+2020-04-05,US,Louisiana,Morehouse,10,0,0
+2020-04-05,US,Alabama,Morgan,27,0,0
+2020-04-05,US,Colorado,Morgan,17,0,0
+2020-04-05,US,Georgia,Morgan,2,0,0
+2020-04-05,US,Illinois,Morgan,6,1,0
+2020-04-05,US,Indiana,Morgan,65,1,0
+2020-04-05,US,Missouri,Morgan,1,0,0
+2020-04-05,US,Tennessee,Morgan,4,0,0
+2020-04-05,US,West Virginia,Morgan,3,0,0
+2020-04-05,US,Kansas,Morris,2,0,0
+2020-04-05,US,New Jersey,Morris,1800,55,0
+2020-04-05,US,Texas,Morris,1,0,0
+2020-04-05,US,Ohio,Morrow,5,0,0
+2020-04-05,US,Oregon,Morrow,2,0,0
+2020-04-05,US,North Dakota,Morton,16,1,0
+2020-04-05,US,Illinois,Moultrie,1,0,0
+2020-04-05,US,North Dakota,Mountrail,19,0,0
+2020-04-05,US,Minnesota,Mower,17,0,0
+2020-04-05,US,Kentucky,Muhlenberg,0,0,0
+2020-04-05,US,Oregon,Multnomah,233,7,0
+2020-04-05,US,Georgia,Murray,9,0,0
+2020-04-05,US,Iowa,Muscatine,33,1,0
+2020-04-05,US,Georgia,Muscogee,36,0,0
+2020-04-05,US,Michigan,Muskegon,31,4,0
+2020-04-05,US,Ohio,Muskingum,4,0,0
+2020-04-05,US,Oklahoma,Muskogee,20,2,0
+2020-04-05,US,Montana,Musselshell,1,0,0
+2020-04-05,US,Texas,Nacogdoches,16,2,0
+2020-04-05,US,California,Napa,20,2,0
+2020-04-05,US,North Carolina,Nash,21,0,0
+2020-04-05,US,Florida,Nassau,21,0,0
+2020-04-05,US,New York,Nassau,14398,162,0
+2020-04-05,US,Louisiana,Natchitoches,14,0,0
+2020-04-05,US,Wyoming,Natrona,23,0,0
+2020-04-05,US,Arizona,Navajo,307,1,0
+2020-04-05,US,Texas,Navarro,6,1,0
+2020-04-05,US,Kentucky,Nelson,4,0,0
+2020-04-05,US,Virginia,Nelson,2,0,0
+2020-04-05,US,Nebraska,Nemaha,1,0,0
+2020-04-05,US,Kansas,Neosho,1,0,0
+2020-04-05,US,Mississippi,Neshoba,9,0,0
+2020-04-05,US,Arkansas,Nevada,1,0,0
+2020-04-05,US,California,Nevada,31,1,0
+2020-04-05,US,Delaware,New Castle,436,7,0
+2020-04-05,US,North Carolina,New Hanover,47,0,0
+2020-04-05,US,Connecticut,New Haven,1162,36,0
+2020-04-05,US,Virginia,New Kent,9,0,0
+2020-04-05,US,Connecticut,New London,57,4,0
+2020-04-05,US,Missouri,New Madrid,1,0,0
+2020-04-05,US,New York,New York City,67551,2256,0
+2020-04-05,US,Michigan,Newaygo,2,0,0
+2020-04-05,US,South Carolina,Newberry,7,0,0
+2020-04-05,US,Rhode Island,Newport,39,0,0
+2020-04-05,US,Virginia,Newport News,51,1,0
+2020-04-05,US,Arkansas,Newton,1,0,0
+2020-04-05,US,Georgia,Newton,55,1,0
+2020-04-05,US,Indiana,Newton,4,0,0
+2020-04-05,US,Mississippi,Newton,7,0,0
+2020-04-05,US,Missouri,Newton,6,0,0
+2020-04-05,US,Texas,Newton,1,0,0
+2020-04-05,US,Idaho,Nez Perce,13,2,0
+2020-04-05,US,New York,Niagara,116,0,0
+2020-04-05,US,Kentucky,Nicholas,1,0,0
+2020-04-05,US,Minnesota,Nicollet,4,0,0
+2020-04-05,US,Indiana,Noble,11,1,0
+2020-04-05,US,Oklahoma,Noble,6,0,0
+2020-04-05,US,Missouri,Nodaway,2,0,0
+2020-04-05,US,Massachusetts,Norfolk,1271,26,0
+2020-04-05,US,Virginia,Norfolk,59,0,0
+2020-04-05,US,North Carolina,Northampton,42,1,0
+2020-04-05,US,Pennsylvania,Northampton,636,11,0
+2020-04-05,US,Virginia,Northampton,2,0,0
+2020-04-05,US,Pennsylvania,Northumberland,14,0,0
+2020-04-05,US,Virginia,Northumberland,3,0,0
+2020-04-05,US,Virginia,Norton,0,0,0
+2020-04-05,US,Virginia,Nottoway,1,0,0
+2020-04-05,US,Oklahoma,Nowata,9,0,0
+2020-04-05,US,Mississippi,Noxubee,5,0,0
+2020-04-05,US,Texas,Nueces,53,0,0
+2020-04-05,US,Nevada,Nye,7,0,0
+2020-04-05,US,Iowa,O'Brien,3,0,0
+2020-04-05,US,Michigan,Oakland,3035,163,0
+2020-04-05,US,Tennessee,Obion,2,1,0
+2020-04-05,US,New Jersey,Ocean,2177,62,0
+2020-04-05,US,Michigan,Oceana,3,0,0
+2020-04-05,US,Georgia,Oconee,24,0,0
+2020-04-05,US,South Carolina,Oconee,8,0,0
+2020-04-05,US,Wisconsin,Oconto,1,0,0
+2020-04-05,US,Michigan,Ogemaw,3,0,0
+2020-04-05,US,Illinois,Ogle,5,0,0
+2020-04-05,US,Georgia,Oglethorpe,1,1,0
+2020-04-05,US,Indiana,Ohio,1,0,0
+2020-04-05,US,Kentucky,Ohio,1,0,0
+2020-04-05,US,West Virginia,Ohio,18,0,0
+2020-04-05,US,Florida,Okaloosa,62,1,0
+2020-04-05,US,Washington,Okanogan,7,0,0
+2020-04-05,US,Florida,Okeechobee,3,0,0
+2020-04-05,US,Oklahoma,Oklahoma,265,10,0
+2020-04-05,US,Oklahoma,Okmulgee,11,0,0
+2020-04-05,US,Mississippi,Oktibbeha,27,0,0
+2020-04-05,US,Kentucky,Oldham,7,0,0
+2020-04-05,US,Texas,Oldham,2,1,0
+2020-04-05,US,North Dakota,Oliver,1,0,0
+2020-04-05,US,Minnesota,Olmsted,95,3,0
+2020-04-05,US,New York,Oneida,95,2,0
+2020-04-05,US,Wisconsin,Oneida,3,0,0
+2020-04-05,US,New York,Onondaga,364,5,0
+2020-04-05,US,North Carolina,Onslow,17,1,0
+2020-04-05,US,New York,Ontario,32,0,0
+2020-04-05,US,Michigan,Ontonagon,1,0,0
+2020-04-05,US,California,Orange,834,14,0
+2020-04-05,US,Florida,Orange,713,8,0
+2020-04-05,US,Indiana,Orange,7,2,0
+2020-04-05,US,New York,Orange,3187,53,0
+2020-04-05,US,North Carolina,Orange,52,0,0
+2020-04-05,US,Texas,Orange,22,0,0
+2020-04-05,US,Vermont,Orange,4,0,0
+2020-04-05,US,Virginia,Orange,5,0,0
+2020-04-05,US,South Carolina,Orangeburg,27,0,0
+2020-04-05,US,Louisiana,Orleans,4066,161,0
+2020-04-05,US,New York,Orleans,11,0,0
+2020-04-05,US,Vermont,Orleans,8,0,0
+2020-04-05,US,Kansas,Osage,3,0,0
+2020-04-05,US,Missouri,Osage,2,0,0
+2020-04-05,US,Oklahoma,Osage,27,2,0
+2020-04-05,US,Kansas,Osborne,2,0,0
+2020-04-05,US,Florida,Osceola,229,4,0
+2020-04-05,US,Michigan,Osceola,3,0,0
+2020-04-05,US,Michigan,Oscoda,2,0,0
+2020-04-05,US,New York,Oswego,32,0,0
+2020-04-05,US,Colorado,Otero,3,0,0
+2020-04-05,US,New Mexico,Otero,3,0,0
+2020-04-05,US,Nebraska,Otoe,1,0,0
+2020-04-05,US,Michigan,Otsego,24,1,0
+2020-04-05,US,New York,Otsego,29,1,0
+2020-04-05,US,Kansas,Ottawa,3,0,0
+2020-04-05,US,Michigan,Ottawa,44,0,0
+2020-04-05,US,Ohio,Ottawa,5,0,0
+2020-04-05,US,Oklahoma,Ottawa,11,0,0
+2020-04-05,US,Minnesota,Otter Tail,1,0,0
+2020-04-05,US,Arkansas,Ouachita,1,0,0
+2020-04-05,US,Louisiana,Ouachita,182,1,0
+2020-04-05,US,Colorado,Ouray,2,0,0
+2020-04-05,US,Colorado,Out of CO,0,1,0
+2020-04-05,US,Hawaii,Out of HI,2,0,0
+2020-04-05,US,Michigan,Out of MI,83,1,0
+2020-04-05,US,Oklahoma,Out of OK,2,0,0
+2020-04-05,US,Tennessee,Out of TN,265,1,0
+2020-04-05,US,Wisconsin,Outagamie,21,1,0
+2020-04-05,US,Tennessee,Overton,3,0,0
+2020-04-05,US,Indiana,Owen,15,0,0
+2020-04-05,US,Idaho,Owyhee,2,0,0
+2020-04-05,US,Maine,Oxford,11,0,0
+2020-04-05,US,Wisconsin,Ozaukee,56,6,0
+2020-04-05,US,Iowa,Page,2,0,0
+2020-04-05,US,Virginia,Page,2,0,0
+2020-04-05,US,Florida,Palm Beach,1000,49,0
+2020-04-05,US,Texas,Palo Pinto,1,0,0
+2020-04-05,US,North Carolina,Pamlico,3,0,0
+2020-04-05,US,Mississippi,Panola,17,1,0
+2020-04-05,US,Texas,Panola,4,1,0
+2020-04-05,US,Colorado,Park,5,0,0
+2020-04-05,US,Montana,Park,6,0,0
+2020-04-05,US,Wyoming,Park,1,0,0
+2020-04-05,US,Indiana,Parke,2,0,0
+2020-04-05,US,Texas,Parker,6,0,0
+2020-04-05,US,Florida,Pasco,102,2,0
+2020-04-05,US,North Carolina,Pasquotank,8,0,0
+2020-04-05,US,New Jersey,Passaic,3227,42,0
+2020-04-05,US,Virginia,Patrick,0,0,0
+2020-04-05,US,Georgia,Paulding,50,0,0
+2020-04-05,US,Oklahoma,Pawnee,22,1,0
+2020-04-05,US,Idaho,Payette,5,0,0
+2020-04-05,US,Oklahoma,Payne,20,0,0
+2020-04-05,US,Georgia,Peach,13,1,0
+2020-04-05,US,Mississippi,Pearl River,49,1,0
+2020-04-05,US,Missouri,Pemiscot,3,0,0
+2020-04-05,US,Washington,Pend Oreille,1,0,0
+2020-04-05,US,North Carolina,Pender,1,0,0
+2020-04-05,US,Kentucky,Pendleton,2,0,0
+2020-04-05,US,West Virginia,Pendleton,1,0,0
+2020-04-05,US,South Dakota,Pennington,6,1,0
+2020-04-05,US,Maine,Penobscot,22,0,0
+2020-04-05,US,Illinois,Peoria,14,1,0
+2020-04-05,US,Wisconsin,Pepin,0,0,0
+2020-04-05,US,North Carolina,Perquimans,2,0,0
+2020-04-05,US,Alabama,Perry,1,0,0
+2020-04-05,US,Arkansas,Perry,1,0,0
+2020-04-05,US,Kentucky,Perry,3,0,0
+2020-04-05,US,Mississippi,Perry,14,1,0
+2020-04-05,US,Missouri,Perry,22,0,0
+2020-04-05,US,Ohio,Perry,3,0,0
+2020-04-05,US,Pennsylvania,Perry,5,1,0
+2020-04-05,US,Tennessee,Perry,3,0,0
+2020-04-05,US,North Carolina,Person,4,0,0
+2020-04-05,US,Alaska,Petersburg,1,0,0
+2020-04-05,US,Virginia,Petersburg,10,0,0
+2020-04-05,US,Missouri,Pettis,2,0,0
+2020-04-05,US,Missouri,Phelps,1,0,0
+2020-04-05,US,Nebraska,Phelps,1,0,0
+2020-04-05,US,Pennsylvania,Philadelphia,3189,28,0
+2020-04-05,US,Arkansas,Phillips,1,0,0
+2020-04-05,US,Colorado,Phillips,3,0,0
+2020-04-05,US,Illinois,Piatt,1,0,0
+2020-04-05,US,Ohio,Pickaway,29,0,0
+2020-04-05,US,Alabama,Pickens,12,0,0
+2020-04-05,US,Georgia,Pickens,9,1,0
+2020-04-05,US,South Carolina,Pickens,18,0,0
+2020-04-05,US,Georgia,Pierce,16,0,0
+2020-04-05,US,North Dakota,Pierce,2,0,0
+2020-04-05,US,Washington,Pierce,688,10,0
+2020-04-05,US,Wisconsin,Pierce,7,0,0
+2020-04-05,US,Alabama,Pike,14,0,0
+2020-04-05,US,Arkansas,Pike,1,0,0
+2020-04-05,US,Georgia,Pike,5,0,0
+2020-04-05,US,Illinois,Pike,1,0,0
+2020-04-05,US,Kentucky,Pike,1,0,0
+2020-04-05,US,Mississippi,Pike,26,0,0
+2020-04-05,US,Missouri,Pike,2,0,0
+2020-04-05,US,Ohio,Pike,1,0,0
+2020-04-05,US,Pennsylvania,Pike,114,1,0
+2020-04-05,US,Arizona,Pima,372,12,0
+2020-04-05,US,Arizona,Pinal,103,0,0
+2020-04-05,US,Florida,Pinellas,359,8,0
+2020-04-05,US,Minnesota,Pipestone,1,0,0
+2020-04-05,US,Colorado,Pitkin,38,2,0
+2020-04-05,US,North Carolina,Pitt,36,0,0
+2020-04-05,US,Oklahoma,Pittsburg,6,0,0
+2020-04-05,US,Virginia,Pittsylvania,2,0,0
+2020-04-05,US,California,Placer,103,3,0
+2020-04-05,US,Louisiana,Plaquemines,92,6,0
+2020-04-05,US,Missouri,Platte,14,0,0
+2020-04-05,US,Nebraska,Platte,5,0,0
+2020-04-05,US,West Virginia,Pleasants,1,0,0
+2020-04-05,US,California,Plumas,3,0,0
+2020-04-05,US,Iowa,Plymouth,4,0,0
+2020-04-05,US,Massachusetts,Plymouth,963,10,0
+2020-04-05,US,Arkansas,Poinsett,5,0,0
+2020-04-05,US,Louisiana,Pointe Coupee,17,0,0
+2020-04-05,US,Arkansas,Polk,5,0,0
+2020-04-05,US,Florida,Polk,157,4,0
+2020-04-05,US,Georgia,Polk,18,0,0
+2020-04-05,US,Iowa,Polk,122,2,0
+2020-04-05,US,Minnesota,Polk,1,0,0
+2020-04-05,US,North Carolina,Polk,6,0,0
+2020-04-05,US,Oregon,Polk,24,1,0
+2020-04-05,US,Tennessee,Polk,3,0,0
+2020-04-05,US,Texas,Polk,7,0,0
+2020-04-05,US,Mississippi,Pontotoc,12,1,0
+2020-04-05,US,Oklahoma,Pontotoc,7,0,0
+2020-04-05,US,Arkansas,Pope,11,0,0
+2020-04-05,US,Virginia,Poquoson,3,0,0
+2020-04-05,US,Ohio,Portage,84,4,0
+2020-04-05,US,Wisconsin,Portage,3,0,0
+2020-04-05,US,Indiana,Porter,59,0,0
+2020-04-05,US,Virginia,Portsmouth,26,0,0
+2020-04-05,US,Indiana,Posey,5,0,0
+2020-04-05,US,Kansas,Pottawatomie,2,0,0
+2020-04-05,US,Oklahoma,Pottawatomie,12,0,0
+2020-04-05,US,Iowa,Pottawattamie,7,0,0
+2020-04-05,US,Pennsylvania,Potter,3,0,0
+2020-04-05,US,Texas,Potter,40,1,0
+2020-04-05,US,Kentucky,Powell,1,0,0
+2020-04-05,US,Iowa,Poweshiek,6,1,0
+2020-04-05,US,Virginia,Powhatan,4,0,0
+2020-04-05,US,Arkansas,Prairie,1,0,0
+2020-04-05,US,Kansas,Pratt,1,0,0
+2020-04-05,US,Ohio,Preble,5,0,0
+2020-04-05,US,Mississippi,Prentiss,9,0,0
+2020-04-05,US,Michigan,Presque Isle,0,0,0
+2020-04-05,US,West Virginia,Preston,5,0,0
+2020-04-05,US,Virginia,Prince Edward,3,0,0
+2020-04-05,US,Virginia,Prince George,18,0,0
+2020-04-05,US,Maryland,Prince George's,785,16,0
+2020-04-05,US,Virginia,Prince William,175,1,0
+2020-04-05,US,Rhode Island,Providence,491,3,0
+2020-04-05,US,Colorado,Pueblo,40,2,0
+2020-04-05,US,Arkansas,Pulaski,157,2,0
+2020-04-05,US,Georgia,Pulaski,6,0,0
+2020-04-05,US,Kentucky,Pulaski,13,1,0
+2020-04-05,US,Missouri,Pulaski,10,0,0
+2020-04-05,US,Virginia,Pulaski,1,0,0
+2020-04-05,US,Florida,Putnam,19,1,0
+2020-04-05,US,Georgia,Putnam,2,0,0
+2020-04-05,US,Indiana,Putnam,17,1,0
+2020-04-05,US,New York,Putnam,314,7,0
+2020-04-05,US,Tennessee,Putnam,52,0,0
+2020-04-05,US,West Virginia,Putnam,6,0,0
+2020-04-05,US,Maryland,Queen Anne's,13,0,0
+2020-04-05,US,Georgia,Quitman,1,0,0
+2020-04-05,US,Mississippi,Quitman,6,0,0
+2020-04-05,US,Georgia,Rabun,3,0,0
+2020-04-05,US,Wisconsin,Racine,54,1,0
+2020-04-05,US,Virginia,Radford,1,0,0
+2020-04-05,US,West Virginia,Raleigh,4,0,0
+2020-04-05,US,Missouri,Ralls,1,0,0
+2020-04-05,US,Minnesota,Ramsey,91,2,0
+2020-04-05,US,North Dakota,Ramsey,3,0,0
+2020-04-05,US,Texas,Randall,34,0,0
+2020-04-05,US,Alabama,Randolph,11,1,0
+2020-04-05,US,Arkansas,Randolph,1,0,0
+2020-04-05,US,Georgia,Randolph,18,0,0
+2020-04-05,US,Illinois,Randolph,24,0,0
+2020-04-05,US,Indiana,Randolph,5,1,0
+2020-04-05,US,Missouri,Randolph,7,0,0
+2020-04-05,US,North Carolina,Randolph,29,1,0
+2020-04-05,US,West Virginia,Randolph,3,0,0
+2020-04-05,US,Mississippi,Rankin,72,1,0
+2020-04-05,US,Louisiana,Rapides,100,4,0
+2020-04-05,US,Virginia,Rappahannock,0,0,0
+2020-04-05,US,Montana,Ravalli,2,0,0
+2020-04-05,US,Missouri,Ray,3,0,0
+2020-04-05,US,Louisiana,Red River,2,0,0
+2020-04-05,US,Texas,Reeves,1,0,0
+2020-04-05,US,Kansas,Reno,10,0,0
+2020-04-05,US,New York,Rensselaer,74,1,0
+2020-04-05,US,Minnesota,Renville,2,0,0
+2020-04-05,US,Missouri,Reynolds,2,0,0
+2020-04-05,US,Tennessee,Rhea,0,0,0
+2020-04-05,US,Minnesota,Rice,4,0,0
+2020-04-05,US,Louisiana,Richland,10,0,0
+2020-04-05,US,Ohio,Richland,17,0,0
+2020-04-05,US,South Carolina,Richland,298,6,0
+2020-04-05,US,Wisconsin,Richland,3,0,0
+2020-04-05,US,Georgia,Richmond,51,1,0
+2020-04-05,US,Virginia,Richmond,1,0,0
+2020-04-05,US,Virginia,Richmond City,99,0,0
+2020-04-05,US,Kansas,Riley,13,0,0
+2020-04-05,US,New Mexico,Rio Arriba,6,0,0
+2020-04-05,US,Colorado,Rio Blanco,1,0,0
+2020-04-05,US,Colorado,Rio Grande,5,0,0
+2020-04-05,US,Indiana,Ripley,60,2,0
+2020-04-05,US,Missouri,Ripley,2,0,0
+2020-04-05,US,California,Riverside,799,19,0
+2020-04-05,US,Tennessee,Roane,5,0,0
+2020-04-05,US,West Virginia,Roane,2,0,0
+2020-04-05,US,Virginia,Roanoke,5,0,0
+2020-04-05,US,Virginia,Roanoke City,10,0,0
+2020-04-05,US,South Dakota,Roberts,4,0,0
+2020-04-05,US,Tennessee,Robertson,59,0,0
+2020-04-05,US,Texas,Robertson,2,0,0
+2020-04-05,US,North Carolina,Robeson,5,0,0
+2020-04-05,US,Wisconsin,Rock,28,2,0
+2020-04-05,US,Illinois,Rock Island,40,0,0
+2020-04-05,US,Virginia,Rockbridge,3,0,0
+2020-04-05,US,Kentucky,Rockcastle,2,0,0
+2020-04-05,US,Georgia,Rockdale,76,2,0
+2020-04-05,US,New Hampshire,Rockingham,213,1,0
+2020-04-05,US,North Carolina,Rockingham,6,1,0
+2020-04-05,US,Virginia,Rockingham,16,0,0
+2020-04-05,US,New York,Rockland,5326,69,0
+2020-04-05,US,Texas,Rockwall,11,0,0
+2020-04-05,US,Oklahoma,Rogers,13,0,0
+2020-04-05,US,North Dakota,Rolette,0,0,0
+2020-04-05,US,Montana,Roosevelt,1,0,0
+2020-04-05,US,New Mexico,Roosevelt,1,0,0
+2020-04-05,US,Michigan,Roscommon,5,0,0
+2020-04-05,US,Ohio,Ross,4,0,0
+2020-04-05,US,Colorado,Routt,29,0,0
+2020-04-05,US,North Carolina,Rowan,46,1,0
+2020-04-05,US,Indiana,Rush,10,1,0
+2020-04-05,US,Texas,Rusk,12,0,0
+2020-04-05,US,Wisconsin,Rusk,3,0,0
+2020-04-05,US,Alabama,Russell,8,0,0
+2020-04-05,US,Kentucky,Russell,1,0,0
+2020-04-05,US,Virginia,Russell,0,0,0
+2020-04-05,US,North Carolina,Rutherford,15,0,0
+2020-04-05,US,Tennessee,Rutherford,147,3,0
+2020-04-05,US,Vermont,Rutland,27,0,0
+2020-04-05,US,Louisiana,Sabine,5,0,0
+2020-04-05,US,California,Sacramento,442,16,0
+2020-04-05,US,Maine,Sagadahoc,13,0,0
+2020-04-05,US,Michigan,Saginaw,118,0,0
+2020-04-05,US,Colorado,Saguache,3,0,0
+2020-04-05,US,New Jersey,Salem,26,2,0
+2020-04-05,US,Virginia,Salem,1,0,0
+2020-04-05,US,Arkansas,Saline,27,0,0
+2020-04-05,US,Illinois,Saline,1,0,0
+2020-04-05,US,Kansas,Saline,5,0,0
+2020-04-05,US,Missouri,Saline,2,0,0
+2020-04-05,US,Utah,Salt Lake,741,4,0
+2020-04-05,US,South Carolina,Saluda,4,0,0
+2020-04-05,US,North Carolina,Sampson,2,0,0
+2020-04-05,US,Texas,San Augustine,4,1,0
+2020-04-05,US,California,San Benito,23,2,0
+2020-04-05,US,California,San Bernardino,372,13,0
+2020-04-05,US,California,San Diego,1209,18,0
+2020-04-05,US,California,San Francisco,568,8,0
+2020-04-05,US,Texas,San Jacinto,1,0,0
+2020-04-05,US,California,San Joaquin,191,11,0
+2020-04-05,US,New Mexico,San Juan,84,0,0
+2020-04-05,US,Utah,San Juan,12,0,0
+2020-04-05,US,Washington,San Juan,7,0,0
+2020-04-05,US,California,San Luis Obispo,95,1,0
+2020-04-05,US,California,San Mateo,555,13,0
+2020-04-05,US,Colorado,San Miguel,10,0,0
+2020-04-05,US,New Mexico,San Miguel,1,0,0
+2020-04-05,US,Texas,San Patricio,5,0,0
+2020-04-05,US,New Mexico,Sandoval,103,2,0
+2020-04-05,US,Ohio,Sandusky,5,0,0
+2020-04-05,US,Illinois,Sangamon,29,2,0
+2020-04-05,US,Michigan,Sanilac,13,1,0
+2020-04-05,US,California,Santa Barbara,168,1,0
+2020-04-05,US,California,Santa Clara,1207,39,0
+2020-04-05,US,Arizona,Santa Cruz,4,0,0
+2020-04-05,US,California,Santa Cruz,69,1,0
+2020-04-05,US,New Mexico,Santa Fe,62,0,0
+2020-04-05,US,Florida,Santa Rosa,55,2,0
+2020-04-05,US,Florida,Sarasota,140,7,0
+2020-04-05,US,New York,Saratoga,150,1,0
+2020-04-05,US,Nebraska,Sarpy,28,0,0
+2020-04-05,US,Wisconsin,Sauk,18,2,0
+2020-04-05,US,Nebraska,Saunders,4,0,0
+2020-04-05,US,New York,Schenectady,128,7,0
+2020-04-05,US,Georgia,Schley,6,0,0
+2020-04-05,US,New York,Schoharie,11,0,0
+2020-04-05,US,Michigan,Schoolcraft,0,0,0
+2020-04-05,US,New York,Schuyler,4,0,0
+2020-04-05,US,Pennsylvania,Schuylkill,90,0,0
+2020-04-05,US,North Carolina,Scotland,2,0,0
+2020-04-05,US,Arkansas,Scott,1,0,0
+2020-04-05,US,Indiana,Scott,8,1,0
+2020-04-05,US,Iowa,Scott,41,1,0
+2020-04-05,US,Kentucky,Scott,14,0,0
+2020-04-05,US,Minnesota,Scott,13,1,0
+2020-04-05,US,Mississippi,Scott,23,0,0
+2020-04-05,US,Missouri,Scott,7,0,0
+2020-04-05,US,Tennessee,Scott,3,0,0
+2020-04-05,US,Virginia,Scott,0,0,0
+2020-04-05,US,Nebraska,Scotts Bluff,3,0,0
+2020-04-05,US,Georgia,Screven,2,0,0
+2020-04-05,US,Arkansas,Searcy,5,0,0
+2020-04-05,US,Arkansas,Sebastian,8,0,0
+2020-04-05,US,Kansas,Sedgwick,108,1,0
+2020-04-05,US,Florida,Seminole,191,1,0
+2020-04-05,US,Georgia,Seminole,8,0,0
+2020-04-05,US,Oklahoma,Seminole,2,1,0
+2020-04-05,US,New York,Seneca,9,0,0
+2020-04-05,US,Ohio,Seneca,6,1,0
+2020-04-05,US,Tennessee,Sequatchie,2,0,0
+2020-04-05,US,Oklahoma,Sequoyah,4,1,0
+2020-04-05,US,Arkansas,Sevier,6,0,0
+2020-04-05,US,Tennessee,Sevier,14,0,0
+2020-04-05,US,Nebraska,Seward,1,0,0
+2020-04-05,US,Mississippi,Sharkey,3,0,0
+2020-04-05,US,Arkansas,Sharp,1,0,0
+2020-04-05,US,California,Shasta,17,2,0
+2020-04-05,US,Wisconsin,Shawano,1,0,0
+2020-04-05,US,Kansas,Shawnee,32,2,0
+2020-04-05,US,Wisconsin,Sheboygan,21,1,0
+2020-04-05,US,Alabama,Shelby,139,5,0
+2020-04-05,US,Indiana,Shelby,37,0,0
+2020-04-05,US,Iowa,Shelby,6,0,0
+2020-04-05,US,Kentucky,Shelby,7,0,0
+2020-04-05,US,Missouri,Shelby,1,0,0
+2020-04-05,US,Ohio,Shelby,12,0,0
+2020-04-05,US,Tennessee,Shelby,736,11,0
+2020-04-05,US,Texas,Shelby,12,0,0
+2020-04-05,US,Virginia,Shenandoah,12,0,0
+2020-04-05,US,Minnesota,Sherburne,10,0,0
+2020-04-05,US,Wyoming,Sheridan,12,0,0
+2020-04-05,US,Oregon,Sherman,1,0,0
+2020-04-05,US,Michigan,Shiawassee,23,0,0
+2020-04-05,US,Minnesota,Sibley,1,0,0
+2020-04-05,US,Montana,Silver Bow,11,0,0
+2020-04-05,US,Kentucky,Simpson,13,1,0
+2020-04-05,US,Mississippi,Simpson,5,0,0
+2020-04-05,US,Iowa,Sioux,7,0,0
+2020-04-05,US,North Dakota,Sioux,1,0,0
+2020-04-05,US,California,Siskiyou,3,0,0
+2020-04-05,US,Washington,Skagit,161,4,0
+2020-04-05,US,Washington,Skamania,2,0,0
+2020-04-05,US,North Dakota,Slope,1,0,0
+2020-04-05,US,Mississippi,Smith,10,0,0
+2020-04-05,US,Tennessee,Smith,3,0,0
+2020-04-05,US,Texas,Smith,57,1,0
+2020-04-05,US,Virginia,Smyth,2,0,0
+2020-04-05,US,Washington,Snohomish,1559,48,0
+2020-04-05,US,Pennsylvania,Snyder,8,1,0
+2020-04-05,US,New Mexico,Socorro,6,0,0
+2020-04-05,US,California,Solano,73,1,0
+2020-04-05,US,Maine,Somerset,4,0,0
+2020-04-05,US,Maryland,Somerset,4,0,0
+2020-04-05,US,New Jersey,Somerset,833,26,0
+2020-04-05,US,Pennsylvania,Somerset,4,0,0
+2020-04-05,US,California,Sonoma,107,2,0
+2020-04-05,US,Virginia,Southampton,5,0,0
+2020-04-05,US,Alaska,Southeast Fairbanks,1,0,0
+2020-04-05,US,Georgia,Spalding,26,2,0
+2020-04-05,US,South Carolina,Spartanburg,75,0,0
+2020-04-05,US,Indiana,Spencer,1,0,0
+2020-04-05,US,Kentucky,Spencer,2,0,0
+2020-04-05,US,South Dakota,Spink,3,0,0
+2020-04-05,US,Washington,Spokane,219,11,0
+2020-04-05,US,Virginia,Spotsylvania,24,0,0
+2020-04-05,US,Louisiana,St. Bernard,242,8,0
+2020-04-05,US,Louisiana,St. Charles,260,13,0
+2020-04-05,US,Missouri,St. Charles,151,7,0
+2020-04-05,US,Alabama,St. Clair,26,0,0
+2020-04-05,US,Illinois,St. Clair,86,2,0
+2020-04-05,US,Michigan,St. Clair,94,2,0
+2020-04-05,US,Wisconsin,St. Croix,7,0,0
+2020-04-05,US,Arkansas,St. Francis,10,0,0
+2020-04-05,US,Missouri,St. Francois,15,1,0
+2020-04-05,US,Louisiana,St. Helena,5,0,0
+2020-04-05,US,Louisiana,St. James,155,6,0
+2020-04-05,US,Louisiana,St. John the Baptist,345,24,0
+2020-04-05,US,Florida,St. Johns,141,2,0
+2020-04-05,US,Indiana,St. Joseph,102,1,0
+2020-04-05,US,Michigan,St. Joseph,10,0,0
+2020-04-05,US,Louisiana,St. Landry,47,4,0
+2020-04-05,US,New York,St. Lawrence,61,0,0
+2020-04-05,US,Minnesota,St. Louis,15,0,0
+2020-04-05,US,Missouri,St. Louis,864,11,0
+2020-04-05,US,Missouri,St. Louis City,328,6,0
+2020-04-05,US,Florida,St. Lucie,82,3,0
+2020-04-05,US,Louisiana,St. Martin,77,4,0
+2020-04-05,US,Louisiana,St. Mary,67,0,0
+2020-04-05,US,Maryland,St. Mary's,40,0,0
+2020-04-05,US,Louisiana,St. Tammany,560,14,0
+2020-04-05,US,Kansas,Stafford,1,0,0
+2020-04-05,US,Virginia,Stafford,41,0,0
+2020-04-05,US,California,Stanislaus,65,0,0
+2020-04-05,US,North Carolina,Stanly,7,0,0
+2020-04-05,US,North Dakota,Stark,25,0,0
+2020-04-05,US,Ohio,Stark,95,5,0
+2020-04-05,US,Indiana,Starke,3,0,0
+2020-04-05,US,Texas,Starr,6,0,0
+2020-04-05,US,Virginia,Staunton,1,0,0
+2020-04-05,US,Missouri,Ste. Genevieve,6,0,0
+2020-04-05,US,Minnesota,Stearns,6,0,0
+2020-04-05,US,Minnesota,Steele,8,0,0
+2020-04-05,US,Georgia,Stephens,6,0,0
+2020-04-05,US,Oklahoma,Stephens,9,1,0
+2020-04-05,US,Illinois,Stephenson,3,0,0
+2020-04-05,US,Indiana,Steuben,6,0,0
+2020-04-05,US,New York,Steuben,73,1,0
+2020-04-05,US,Kansas,Stevens,1,0,0
+2020-04-05,US,Washington,Stevens,5,0,0
+2020-04-05,US,Georgia,Stewart,1,0,0
+2020-04-05,US,Tennessee,Stewart,2,0,0
+2020-04-05,US,Missouri,Stoddard,7,0,0
+2020-04-05,US,North Carolina,Stokes,6,0,0
+2020-04-05,US,Arkansas,Stone,5,0,0
+2020-04-05,US,Mississippi,Stone,1,0,0
+2020-04-05,US,Missouri,Stone,2,0,0
+2020-04-05,US,Iowa,Story,5,0,0
+2020-04-05,US,New Hampshire,Strafford,43,0,0
+2020-04-05,US,Wyoming,Sublette,1,0,0
+2020-04-05,US,Massachusetts,Suffolk,2658,27,0
+2020-04-05,US,New York,Suffolk,13129,175,0
+2020-04-05,US,Virginia,Suffolk,22,0,0
+2020-04-05,US,Indiana,Sullivan,3,0,0
+2020-04-05,US,New Hampshire,Sullivan,5,0,0
+2020-04-05,US,New York,Sullivan,193,5,0
+2020-04-05,US,Pennsylvania,Sullivan,1,0,0
+2020-04-05,US,Tennessee,Sullivan,21,1,0
+2020-04-05,US,Colorado,Summit,54,0,0
+2020-04-05,US,Ohio,Summit,184,9,0
+2020-04-05,US,Utah,Summit,256,0,0
+2020-04-05,US,Kansas,Sumner,2,0,0
+2020-04-05,US,Tennessee,Sumner,321,10,0
+2020-04-05,US,Alabama,Sumter,6,0,0
+2020-04-05,US,Florida,Sumter,75,3,0
+2020-04-05,US,Georgia,Sumter,83,4,0
+2020-04-05,US,South Carolina,Sumter,80,3,0
+2020-04-05,US,Mississippi,Sunflower,19,1,0
+2020-04-05,US,North Carolina,Surry,3,0,0
+2020-04-05,US,Virginia,Surry,3,0,0
+2020-04-05,US,Pennsylvania,Susquehanna,6,0,0
+2020-04-05,US,Delaware,Sussex,151,3,0
+2020-04-05,US,New Jersey,Sussex,267,9,0
+2020-04-05,US,Virginia,Sussex,4,0,0
+2020-04-05,US,California,Sutter,16,2,0
+2020-04-05,US,Florida,Suwannee,18,0,0
+2020-04-05,US,North Carolina,Swain,1,0,0
+2020-04-05,US,Wyoming,Sweetwater,5,0,0
+2020-04-05,US,Texas,Swisher,1,0,0
+2020-04-05,US,Indiana,Switzerland,9,0,0
+2020-04-05,US,Georgia,Talbot,4,0,0
+2020-04-05,US,Maryland,Talbot,7,0,0
+2020-04-05,US,Alabama,Talladega,17,0,0
+2020-04-05,US,Mississippi,Tallahatchie,3,0,0
+2020-04-05,US,Alabama,Tallapoosa,29,1,0
+2020-04-05,US,Iowa,Tama,30,0,0
+2020-04-05,US,Missouri,Taney,5,1,0
+2020-04-05,US,Louisiana,Tangipahoa,171,2,0
+2020-04-05,US,New Mexico,Taos,13,0,0
+2020-04-05,US,Texas,Tarrant,418,11,0
+2020-04-05,US,Mississippi,Tate,15,0,0
+2020-04-05,US,Georgia,Tattnall,3,0,0
+2020-04-05,US,Georgia,Taylor,2,0,0
+2020-04-05,US,Iowa,Taylor,1,0,0
+2020-04-05,US,Kentucky,Taylor,2,0,0
+2020-04-05,US,Texas,Taylor,31,1,0
+2020-04-05,US,Illinois,Tazewell,13,0,0
+2020-04-05,US,Virginia,Tazewell,2,0,0
+2020-04-05,US,California,Tehama,1,0,0
+2020-04-05,US,Georgia,Telfair,4,0,0
+2020-04-05,US,Colorado,Teller,11,1,0
+2020-04-05,US,Louisiana,Terrebonne,148,8,0
+2020-04-05,US,Georgia,Terrell,58,2,0
+2020-04-05,US,Texas,Terry,4,0,0
+2020-04-05,US,Idaho,Teton,4,0,0
+2020-04-05,US,Wyoming,Teton,39,0,0
+2020-04-05,US,Missouri,Texas,1,0,0
+2020-04-05,US,Oklahoma,Texas,2,0,0
+2020-04-05,US,Georgia,Thomas,26,0,0
+2020-04-05,US,Washington,Thurston,67,1,0
+2020-04-05,US,Georgia,Tift,34,0,0
+2020-04-05,US,Oregon,Tillamook,3,0,0
+2020-04-05,US,Oklahoma,Tillman,1,0,0
+2020-04-05,US,New York,Tioga,8,0,0
+2020-04-05,US,Pennsylvania,Tioga,3,0,0
+2020-04-05,US,Mississippi,Tippah,35,3,0
+2020-04-05,US,Indiana,Tippecanoe,29,1,0
+2020-04-05,US,Indiana,Tipton,6,0,0
+2020-04-05,US,Tennessee,Tipton,33,0,0
+2020-04-05,US,Mississippi,Tishomingo,1,0,0
+2020-04-05,US,Texas,Titus,1,0,0
+2020-04-05,US,South Dakota,Todd,1,0,0
+2020-04-05,US,Connecticut,Tolland,94,11,0
+2020-04-05,US,Texas,Tom Green,21,0,0
+2020-04-05,US,New York,Tompkins,95,0,0
+2020-04-05,US,Utah,Tooele,19,0,0
+2020-04-05,US,Montana,Toole,15,3,0
+2020-04-05,US,Georgia,Toombs,5,1,0
+2020-04-05,US,New Mexico,Torrance,6,0,0
+2020-04-05,US,Georgia,Towns,1,0,0
+2020-04-05,US,North Carolina,Transylvania,5,0,0
+2020-04-05,US,Minnesota,Traverse,2,0,0
+2020-04-05,US,Texas,Travis,484,6,0
+2020-04-05,US,Wisconsin,Trempealeau,1,0,0
+2020-04-05,US,Texas,Trinity,2,0,0
+2020-04-05,US,Georgia,Troup,34,1,0
+2020-04-05,US,Tennessee,Trousdale,8,1,0
+2020-04-05,US,Ohio,Trumbull,89,7,0
+2020-04-05,US,West Virginia,Tucker,3,0,0
+2020-04-05,US,California,Tulare,116,5,0
+2020-04-05,US,Oklahoma,Tulsa,240,8,0
+2020-04-05,US,Mississippi,Tunica,17,1,0
+2020-04-05,US,California,Tuolumne,2,0,0
+2020-04-05,US,Georgia,Turner,12,0,0
+2020-04-05,US,South Dakota,Turner,4,0,0
+2020-04-05,US,Alabama,Tuscaloosa,44,0,0
+2020-04-05,US,Ohio,Tuscarawas,20,0,0
+2020-04-05,US,Michigan,Tuscola,22,2,0
+2020-04-05,US,Georgia,Twiggs,2,0,0
+2020-04-05,US,Idaho,Twin Falls,37,1,0
+2020-04-05,US,Texas,Tyler,2,0,0
+2020-04-05,US,Wyoming,Uinta,2,0,0
+2020-04-05,US,Utah,Uintah,1,0,0
+2020-04-05,US,New York,Ulster,358,4,0
+2020-04-05,US,Oregon,Umatilla,7,0,0
+2020-04-05,US,Alaska,Unassigned,0,5,0
+2020-04-05,US,Arizona,Unassigned,0,10,0
+2020-04-05,US,Arkansas,Unassigned,57,10,0
+2020-04-05,US,California,Unassigned,0,0,0
+2020-04-05,US,Colorado,Unassigned,251,0,0
+2020-04-05,US,Connecticut,Unassigned,222,1,0
+2020-04-05,US,Delaware,Unassigned,0,2,0
+2020-04-05,US,Florida,Unassigned,4,0,0
+2020-04-05,US,Georgia,Unassigned,278,5,0
+2020-04-05,US,Hawaii,Unassigned,7,0,0
+2020-04-05,US,Idaho,Unassigned,0,0,0
+2020-04-05,US,Illinois,Unassigned,62,0,0
+2020-04-05,US,Iowa,Unassigned,0,0,0
+2020-04-05,US,Kansas,Unassigned,0,4,0
+2020-04-05,US,Kentucky,Unassigned,34,0,0
+2020-04-05,US,Louisiana,Unassigned,31,4,0
+2020-04-05,US,Maine,Unassigned,11,3,0
+2020-04-05,US,Maryland,Unassigned,0,0,0
+2020-04-05,US,Massachusetts,Unassigned,215,9,0
+2020-04-05,US,Michigan,Unassigned,349,1,0
+2020-04-05,US,Minnesota,Unassigned,7,3,0
+2020-04-05,US,Missouri,Unassigned,3,0,0
+2020-04-05,US,Montana,Unassigned,0,0,0
+2020-04-05,US,Nebraska,Unassigned,1,1,0
+2020-04-05,US,Nevada,Unassigned,25,0,0
+2020-04-05,US,New Hampshire,Unassigned,4,6,0
+2020-04-05,US,New Jersey,Unassigned,3821,13,0
+2020-04-05,US,New Mexico,Unassigned,0,0,0
+2020-04-05,US,New York,Unassigned,0,1260,0
+2020-04-05,US,North Dakota,Unassigned,0,0,0
+2020-04-05,US,Northern Mariana Islands,Unassigned,2,0,0
+2020-04-05,US,Ohio,Unassigned,0,0,0
+2020-04-05,US,Oklahoma,Unassigned,0,0,0
+2020-04-05,US,Rhode Island,Unassigned,238,22,0
+2020-04-05,US,South Dakota,Unassigned,0,0,0
+2020-04-05,US,Tennessee,Unassigned,86,0,0
+2020-04-05,US,Utah,Unassigned,2,0,0
+2020-04-05,US,Vermont,Unassigned,13,17,0
+2020-04-05,US,Virginia,Unassigned,3,36,0
+2020-04-05,US,Washington,Unassigned,533,0,0
+2020-04-05,US,Wisconsin,Unassigned,0,0,0
+2020-04-05,US,Tennessee,Unicoi,1,0,0
+2020-04-05,US,Arkansas,Union,12,0,0
+2020-04-05,US,Florida,Union,2,0,0
+2020-04-05,US,Georgia,Union,1,0,0
+2020-04-05,US,Indiana,Union,3,0,0
+2020-04-05,US,Kentucky,Union,2,0,0
+2020-04-05,US,Louisiana,Union,19,0,0
+2020-04-05,US,Mississippi,Union,6,0,0
+2020-04-05,US,New Jersey,Union,3216,71,0
+2020-04-05,US,North Carolina,Union,67,0,0
+2020-04-05,US,Ohio,Union,8,0,0
+2020-04-05,US,Oregon,Union,3,0,0
+2020-04-05,US,Pennsylvania,Union,6,0,0
+2020-04-05,US,South Carolina,Union,11,0,0
+2020-04-05,US,South Dakota,Union,3,0,0
+2020-04-05,US,Tennessee,Union,1,0,0
+2020-04-05,US,Texas,Upshur,3,0,0
+2020-04-05,US,West Virginia,Upshur,1,0,0
+2020-04-05,US,Georgia,Upson,13,0,0
+2020-04-05,US,Utah,Utah,216,0,0
+2020-04-05,US,Texas,Uvalde,4,0,0
+2020-04-05,US,Texas,Val Verde,5,0,0
+2020-04-05,US,New Mexico,Valencia,7,0,0
+2020-04-05,US,Idaho,Valley,3,0,0
+2020-04-05,US,Arkansas,Van Buren,21,0,0
+2020-04-05,US,Iowa,Van Buren,6,0,0
+2020-04-05,US,Michigan,Van Buren,14,1,0
+2020-04-05,US,Ohio,Van Wert,2,0,0
+2020-04-05,US,Texas,Van Zandt,4,1,0
+2020-04-05,US,North Carolina,Vance,12,0,0
+2020-04-05,US,Indiana,Vanderburgh,37,0,0
+2020-04-05,US,Pennsylvania,Venango,3,0,0
+2020-04-05,US,California,Ventura,221,6,0
+2020-04-05,US,Illinois,Vermilion,5,0,0
+2020-04-05,US,Louisiana,Vermilion,16,1,0
+2020-04-05,US,Indiana,Vermillion,2,0,0
+2020-04-05,US,Louisiana,Vernon,10,0,0
+2020-04-05,US,Texas,Victoria,32,0,0
+2020-04-05,US,Indiana,Vigo,18,2,0
+2020-04-05,US,Wisconsin,Vilas,4,0,0
+2020-04-05,US,Virginia,Virginia Beach,170,1,0
+2020-04-05,US,Florida,Volusia,151,2,0
+2020-04-05,US,Indiana,Wabash,1,0,0
+2020-04-05,US,Minnesota,Wabasha,6,0,0
+2020-04-05,US,Kansas,Wabaunsee,1,0,0
+2020-04-05,US,Oklahoma,Wagoner,47,2,0
+2020-04-05,US,Washington,Wahkiakum,1,0,0
+2020-04-05,US,North Carolina,Wake,304,0,0
+2020-04-05,US,Florida,Wakulla,6,0,0
+2020-04-05,US,Maine,Waldo,3,0,0
+2020-04-05,US,Alabama,Walker,49,0,0
+2020-04-05,US,Georgia,Walker,3,0,0
+2020-04-05,US,Texas,Walker,10,0,0
+2020-04-05,US,Washington,Walla Walla,9,0,0
+2020-04-05,US,Texas,Waller,8,0,0
+2020-04-05,US,Oregon,Wallowa,1,0,0
+2020-04-05,US,North Dakota,Walsh,1,0,0
+2020-04-05,US,Mississippi,Walthall,12,0,0
+2020-04-05,US,Florida,Walton,23,0,0
+2020-04-05,US,Georgia,Walton,19,0,0
+2020-04-05,US,Wisconsin,Walworth,20,0,0
+2020-04-05,US,Iowa,Wapello,1,0,0
+2020-04-05,US,North Dakota,Ward,14,0,0
+2020-04-05,US,Georgia,Ware,18,3,0
+2020-04-05,US,Georgia,Warren,5,0,0
+2020-04-05,US,Indiana,Warren,2,1,0
+2020-04-05,US,Iowa,Warren,10,0,0
+2020-04-05,US,Kentucky,Warren,21,0,0
+2020-04-05,US,Mississippi,Warren,5,0,0
+2020-04-05,US,Missouri,Warren,7,0,0
+2020-04-05,US,New Jersey,Warren,195,6,0
+2020-04-05,US,New York,Warren,25,0,0
+2020-04-05,US,North Carolina,Warren,2,0,0
+2020-04-05,US,Ohio,Warren,36,0,0
+2020-04-05,US,Pennsylvania,Warren,1,0,0
+2020-04-05,US,Tennessee,Warren,1,0,0
+2020-04-05,US,Virginia,Warren,4,0,0
+2020-04-05,US,Indiana,Warrick,13,0,0
+2020-04-05,US,Utah,Wasatch,78,0,0
+2020-04-05,US,Oregon,Wasco,7,0,0
+2020-04-05,US,Minnesota,Waseca,3,0,0
+2020-04-05,US,Wyoming,Washakie,4,0,0
+2020-04-05,US,Alabama,Washington,5,1,0
+2020-04-05,US,Arkansas,Washington,28,0,0
+2020-04-05,US,Colorado,Washington,1,0,0
+2020-04-05,US,Florida,Washington,1,0,0
+2020-04-05,US,Georgia,Washington,6,0,0
+2020-04-05,US,Idaho,Washington,1,0,0
+2020-04-05,US,Illinois,Washington,1,0,0
+2020-04-05,US,Indiana,Washington,18,0,0
+2020-04-05,US,Iowa,Washington,49,3,0
+2020-04-05,US,Kentucky,Washington,2,0,0
+2020-04-05,US,Louisiana,Washington,81,2,0
+2020-04-05,US,Maine,Washington,1,0,0
+2020-04-05,US,Maryland,Washington,34,0,0
+2020-04-05,US,Minnesota,Washington,62,1,0
+2020-04-05,US,Mississippi,Washington,36,0,0
+2020-04-05,US,Nebraska,Washington,20,0,0
+2020-04-05,US,New York,Washington,18,1,0
+2020-04-05,US,North Carolina,Washington,3,0,0
+2020-04-05,US,Ohio,Washington,8,0,0
+2020-04-05,US,Oklahoma,Washington,35,1,0
+2020-04-05,US,Oregon,Washington,259,4,0
+2020-04-05,US,Pennsylvania,Washington,50,0,0
+2020-04-05,US,Rhode Island,Washington,48,0,0
+2020-04-05,US,Tennessee,Washington,23,2,0
+2020-04-05,US,Texas,Washington,17,1,0
+2020-04-05,US,Utah,Washington,22,1,0
+2020-04-05,US,Vermont,Washington,22,0,0
+2020-04-05,US,Virginia,Washington,5,0,0
+2020-04-05,US,Wisconsin,Washington,57,3,0
+2020-04-05,US,Utah,Washington County,5,0,0
+2020-04-05,US,Oklahoma,Washita,0,0,0
+2020-04-05,US,Nevada,Washoe,264,4,0
+2020-04-05,US,Michigan,Washtenaw,518,8,0
+2020-04-05,US,North Carolina,Watauga,8,0,0
+2020-04-05,US,Minnesota,Watonwan,4,0,0
+2020-04-05,US,Wisconsin,Waukesha,154,4,0
+2020-04-05,US,Wisconsin,Waupaca,2,1,0
+2020-04-05,US,Georgia,Wayne,1,0,0
+2020-04-05,US,Indiana,Wayne,8,0,0
+2020-04-05,US,Kentucky,Wayne,4,0,0
+2020-04-05,US,Michigan,Wayne,7518,293,0
+2020-04-05,US,Mississippi,Wayne,5,0,0
+2020-04-05,US,New York,Wayne,32,0,0
+2020-04-05,US,North Carolina,Wayne,15,0,0
+2020-04-05,US,Ohio,Wayne,26,0,0
+2020-04-05,US,Pennsylvania,Wayne,33,0,0
+2020-04-05,US,Tennessee,Wayne,2,0,0
+2020-04-05,US,Virginia,Waynesboro,2,0,0
+2020-04-05,US,Tennessee,Weakley,5,0,0
+2020-04-05,US,Texas,Webb,98,6,0
+2020-04-05,US,Utah,Weber,67,1,0
+2020-04-05,US,Georgia,Webster,2,0,0
+2020-04-05,US,Iowa,Webster,1,0,0
+2020-04-05,US,Kentucky,Webster,3,0,0
+2020-04-05,US,Louisiana,Webster,49,2,0
+2020-04-05,US,Mississippi,Webster,11,1,0
+2020-04-05,US,Missouri,Webster,3,0,0
+2020-04-05,US,Colorado,Weld,470,24,0
+2020-04-05,US,Indiana,Wells,2,0,0
+2020-04-05,US,Louisiana,West Baton Rouge,40,7,0
+2020-04-05,US,Louisiana,West Feliciana,19,0,0
+2020-04-05,US,New York,Westchester,13723,67,0
+2020-04-05,US,Pennsylvania,Westmoreland,147,0,0
+2020-04-05,US,Virginia,Westmoreland,2,0,0
+2020-04-05,US,West Virginia,Wetzel,2,0,0
+2020-04-05,US,Michigan,Wexford,5,0,0
+2020-04-05,US,Texas,Wharton,9,0,0
+2020-04-05,US,Washington,Whatcom,224,13,0
+2020-04-05,US,Georgia,Wheeler,1,0,0
+2020-04-05,US,Arkansas,White,25,0,0
+2020-04-05,US,Georgia,White,4,0,0
+2020-04-05,US,Indiana,White,3,0,0
+2020-04-05,US,Tennessee,White,2,0,0
+2020-04-05,US,Nevada,White Pine,1,0,0
+2020-04-05,US,Illinois,Whiteside,18,1,0
+2020-04-05,US,Georgia,Whitfield,16,1,0
+2020-04-05,US,Indiana,Whitley,6,1,0
+2020-04-05,US,Washington,Whitman,11,0,0
+2020-04-05,US,Texas,Wichita,46,0,0
+2020-04-05,US,Maryland,Wicomico,11,1,0
+2020-04-05,US,Alabama,Wilcox,12,0,0
+2020-04-05,US,Georgia,Wilcox,1,0,0
+2020-04-05,US,Georgia,Wilkes,3,0,0
+2020-04-05,US,North Carolina,Wilkes,4,1,0
+2020-04-05,US,Minnesota,Wilkin,2,0,0
+2020-04-05,US,Georgia,Wilkinson,2,0,0
+2020-04-05,US,Mississippi,Wilkinson,30,3,0
+2020-04-05,US,Illinois,Will,648,13,0
+2020-04-05,US,Texas,Willacy,5,1,0
+2020-04-05,US,North Dakota,Williams,5,0,0
+2020-04-05,US,Ohio,Williams,1,0,0
+2020-04-05,US,South Carolina,Williamsburg,10,0,0
+2020-04-05,US,Virginia,Williamsburg,12,1,0
+2020-04-05,US,Illinois,Williamson,3,0,0
+2020-04-05,US,Tennessee,Williamson,258,3,0
+2020-04-05,US,Texas,Williamson,77,2,0
+2020-04-05,US,North Carolina,Wilson,28,1,0
+2020-04-05,US,Tennessee,Wilson,93,0,0
+2020-04-05,US,Texas,Wilson,6,0,0
+2020-04-05,US,Virginia,Winchester,11,0,0
+2020-04-05,US,Connecticut,Windham,32,1,0
+2020-04-05,US,Vermont,Windham,31,0,0
+2020-04-05,US,Vermont,Windsor,22,1,0
+2020-04-05,US,Louisiana,Winn,2,1,0
+2020-04-05,US,Illinois,Winnebago,42,1,0
+2020-04-05,US,Wisconsin,Winnebago,20,0,0
+2020-04-05,US,Iowa,Winneshiek,4,0,0
+2020-04-05,US,Minnesota,Winona,14,2,0
+2020-04-05,US,Alabama,Winston,3,0,0
+2020-04-05,US,Mississippi,Winston,12,0,0
+2020-04-05,US,West Virginia,Wirt,1,0,0
+2020-04-05,US,Texas,Wise,3,0,0
+2020-04-05,US,Virginia,Wise,1,0,0
+2020-04-05,US,Ohio,Wood,29,0,0
+2020-04-05,US,Texas,Wood,2,0,0
+2020-04-05,US,West Virginia,Wood,10,0,0
+2020-04-05,US,Wisconsin,Wood,2,0,0
+2020-04-05,US,Iowa,Woodbury,8,0,0
+2020-04-05,US,Illinois,Woodford,6,0,0
+2020-04-05,US,Kentucky,Woodford,9,1,0
+2020-04-05,US,Arkansas,Woodruff,1,0,0
+2020-04-05,US,Kansas,Woodson,3,0,0
+2020-04-05,US,Oklahoma,Woodward,1,0,0
+2020-04-05,US,Maryland,Worcester,9,0,0
+2020-04-05,US,Massachusetts,Worcester,978,17,0
+2020-04-05,US,Georgia,Worth,36,1,0
+2020-04-05,US,Missouri,Worth,0,0,0
+2020-04-05,US,Iowa,Wright,1,0,0
+2020-04-05,US,Minnesota,Wright,9,0,0
+2020-04-05,US,Missouri,Wright,6,0,0
+2020-04-05,US,Ohio,Wyandot,5,0,0
+2020-04-05,US,Kansas,Wyandotte,158,6,0
+2020-04-05,US,New York,Wyoming,22,1,0
+2020-04-05,US,Pennsylvania,Wyoming,5,0,0
+2020-04-05,US,Virginia,Wythe,2,0,0
+2020-04-05,US,North Carolina,Yadkin,9,0,0
+2020-04-05,US,Washington,Yakima,326,9,0
+2020-04-05,US,Mississippi,Yalobusha,9,0,0
+2020-04-05,US,Oregon,Yamhill,26,3,0
+2020-04-05,US,South Dakota,Yankton,14,0,0
+2020-04-05,US,New York,Yates,1,0,0
+2020-04-05,US,Arizona,Yavapai,45,0,0
+2020-04-05,US,Mississippi,Yazoo,31,1,0
+2020-04-05,US,Arkansas,Yell,1,0,0
+2020-04-05,US,Minnesota,Yellow Medicine,1,0,0
+2020-04-05,US,Montana,Yellowstone,38,0,0
+2020-04-05,US,California,Yolo,37,1,0
+2020-04-05,US,Maine,York,101,1,0
+2020-04-05,US,Nebraska,York,1,0,0
+2020-04-05,US,Pennsylvania,York,171,1,0
+2020-04-05,US,South Carolina,York,85,2,0
+2020-04-05,US,Virginia,York,20,1,0
+2020-04-05,US,Texas,Young,3,0,0
+2020-04-05,US,California,Yuba,9,0,0
+2020-04-05,US,Alaska,Yukon-Koyukuk,1,0,0
+2020-04-05,US,Arizona,Yuma,13,0,0
+2020-04-05,US,Colorado,Yuma,2,0,0
+2020-04-05,Canada,Alberta,,1181,20,0
+2020-04-05,United Kingdom,Anguilla,,3,0,0
+2020-04-05,China,Anhui,,990,6,984
+2020-04-05,Netherlands,Aruba,,64,0,1
+2020-04-05,Australia,Australian Capital Territory,,96,2,28
+2020-04-05,China,Beijing,,586,8,441
+2020-04-05,United Kingdom,Bermuda,,37,0,14
+2020-04-05,Netherlands,"Bonaire, Sint Eustatius and Saba",,2,0,0
+2020-04-05,Canada,British Columbia,,1203,38,0
+2020-04-05,United Kingdom,British Virgin Islands,,3,0,0
+2020-04-05,United Kingdom,Cayman Islands,,35,1,1
+2020-04-05,United Kingdom,Channel Islands,,309,6,27
+2020-04-05,China,Chongqing,,579,6,570
+2020-04-05,Netherlands,Curacao,,11,1,5
+2020-04-05,Canada,Diamond Princess,,0,1,0
+2020-04-05,US,Diamond Princess,,49,0,0
+2020-04-05,United Kingdom,Falkland Islands (Islas Malvinas),,2,0,0
+2020-04-05,Denmark,Faroe Islands,,181,0,99
+2020-04-05,France,French Guiana,,61,0,22
+2020-04-05,France,French Polynesia,,41,0,0
+2020-04-05,China,Fujian,,350,1,303
+2020-04-05,China,Gansu,,138,2,131
+2020-04-05,United Kingdom,Gibraltar,,103,0,52
+2020-04-05,Canada,Grand Princess,,13,0,0
+2020-04-05,US,Grand Princess,,103,3,0
+2020-04-05,Denmark,Greenland,,11,0,3
+2020-04-05,France,Guadeloupe,,135,7,31
+2020-04-05,US,Guam,,112,4,0
+2020-04-05,China,Guangdong,,1524,8,1387
+2020-04-05,China,Guangxi,,254,2,252
+2020-04-05,China,Guizhou,,146,2,144
+2020-04-05,China,Hainan,,168,6,162
+2020-04-05,China,Hebei,,327,6,310
+2020-04-05,China,Heilongjiang,,504,13,469
+2020-04-05,China,Henan,,1276,22,1251
+2020-04-05,China,Hong Kong,,890,4,206
+2020-04-05,China,Hubei,,67803,3210,63945
+2020-04-05,China,Hunan,,1019,4,1014
+2020-04-05,China,Inner Mongolia,,117,1,74
+2020-04-05,United Kingdom,Isle of Man,,127,1,0
+2020-04-05,China,Jiangsu,,651,0,633
+2020-04-05,China,Jiangxi,,937,1,935
+2020-04-05,China,Jilin,,98,1,92
+2020-04-05,China,Liaoning,,142,2,126
+2020-04-05,China,Macau,,44,0,10
+2020-04-05,Canada,Manitoba,,203,2,0
+2020-04-05,France,Martinique,,149,4,50
+2020-04-05,France,Mayotte,,147,2,14
+2020-04-05,United Kingdom,Montserrat,,6,0,0
+2020-04-05,Canada,New Brunswick,,98,0,0
+2020-04-05,France,New Caledonia,,18,0,1
+2020-04-05,Australia,New South Wales,,2580,16,4
+2020-04-05,Canada,Newfoundland and Labrador,,217,1,0
+2020-04-05,China,Ningxia,,75,0,75
+2020-04-05,US,Northern Mariana Islands,,6,1,0
+2020-04-05,Australia,Northern Territory,,27,0,1
+2020-04-05,Canada,Northwest Territories,,4,0,0
+2020-04-05,Canada,Nova Scotia,,262,0,0
+2020-04-05,Canada,Ontario,,4354,119,0
+2020-04-05,Canada,Prince Edward Island,,22,0,0
+2020-04-05,US,Puerto Rico,,475,20,0
+2020-04-05,China,Qinghai,,18,0,18
+2020-04-05,Canada,Quebec,,7944,75,0
+2020-04-05,Australia,Queensland,,907,4,8
+2020-04-05,Canada,Recovered,,0,0,3012
+2020-04-05,US,Recovered,,0,0,17448
+2020-04-05,France,Reunion,,344,0,40
+2020-04-05,France,Saint Barthelemy,,6,0,1
+2020-04-05,France,Saint Pierre and Miquelon,,1,0,0
+2020-04-05,Canada,Saskatchewan,,249,3,0
+2020-04-05,China,Shaanxi,,256,3,245
+2020-04-05,China,Shandong,,779,7,755
+2020-04-05,China,Shanghai,,531,6,383
+2020-04-05,China,Shanxi,,138,0,133
+2020-04-05,China,Sichuan,,558,3,539
+2020-04-05,Netherlands,Sint Maarten,,25,4,1
+2020-04-05,Australia,South Australia,,407,0,46
+2020-04-05,France,St Martin,,32,2,7
+2020-04-05,Australia,Tasmania,,82,2,5
+2020-04-05,China,Tianjin,,180,3,144
+2020-04-05,China,Tibet,,1,0,1
+2020-04-05,United Kingdom,Turks and Caicos Islands,,5,1,0
+2020-04-05,Australia,Victoria,,1135,8,573
+2020-04-05,US,Virgin Islands,,42,1,0
+2020-04-05,Australia,Western Australia,,453,3,92
+2020-04-05,China,Xinjiang,,76,3,73
+2020-04-05,Canada,Yukon,,6,0,0
+2020-04-05,China,Yunnan,,184,2,172
+2020-04-05,China,Zhejiang,,1263,1,1230
+2020-04-05,Afghanistan,,,349,7,15
+2020-04-05,Albania,,,361,20,104
+2020-04-05,Algeria,,,1320,152,90
+2020-04-05,Andorra,,,501,18,26
+2020-04-05,Angola,,,14,2,2
+2020-04-05,Antigua and Barbuda,,,15,0,0
+2020-04-05,Argentina,,,1451,44,280
+2020-04-05,Armenia,,,822,7,57
+2020-04-05,Austria,,,12051,204,2998
+2020-04-05,Azerbaijan,,,584,7,32
+2020-04-05,Bahamas,,,28,4,0
+2020-04-05,Bahrain,,,700,4,431
+2020-04-05,Bangladesh,,,88,9,33
+2020-04-05,Barbados,,,56,1,6
+2020-04-05,Belarus,,,562,8,52
+2020-04-05,Belgium,,,19691,1447,3751
+2020-04-05,Belize,,,5,0,0
+2020-04-05,Benin,,,22,0,5
+2020-04-05,Bhutan,,,5,0,2
+2020-04-05,Bolivia,,,157,10,2
+2020-04-05,Bosnia and Herzegovina,,,654,23,30
+2020-04-05,Botswana,,,6,1,0
+2020-04-05,Brazil,,,11130,486,127
+2020-04-05,Brunei,,,135,1,73
+2020-04-05,Bulgaria,,,531,20,37
+2020-04-05,Burkina Faso,,,345,17,90
+2020-04-05,Burma,,,21,1,0
+2020-04-05,Burundi,,,3,0,0
+2020-04-05,Cabo Verde,,,7,1,0
+2020-04-05,Cambodia,,,114,0,50
+2020-04-05,Cameroon,,,650,9,17
+2020-04-05,Central African Republic,,,8,0,0
+2020-04-05,Chad,,,9,0,0
+2020-04-05,Chile,,,4471,34,618
+2020-04-05,Colombia,,,1485,35,88
+2020-04-05,Congo (Brazzaville),,,45,5,2
+2020-04-05,Congo (Kinshasa),,,154,18,3
+2020-04-05,Costa Rica,,,454,2,16
+2020-04-05,Cote d'Ivoire,,,261,3,37
+2020-04-05,Croatia,,,1182,15,125
+2020-04-05,Cuba,,,320,8,15
+2020-04-05,Cyprus,,,446,9,37
+2020-04-05,Czechia,,,4587,67,96
+2020-04-05,Denmark,,,4369,179,1327
+2020-04-05,Diamond Princess,,,712,11,619
+2020-04-05,Djibouti,,,59,0,9
+2020-04-05,Dominica,,,14,0,0
+2020-04-05,Dominican Republic,,,1745,82,17
+2020-04-05,Ecuador,,,3646,180,100
+2020-04-05,Egypt,,,1173,78,247
+2020-04-05,El Salvador,,,62,3,2
+2020-04-05,Equatorial Guinea,,,16,0,1
+2020-04-05,Eritrea,,,29,0,0
+2020-04-05,Estonia,,,1097,15,62
+2020-04-05,Eswatini,,,9,0,0
+2020-04-05,Ethiopia,,,43,2,4
+2020-04-05,Fiji,,,12,0,0
+2020-04-05,Finland,,,1927,28,300
+2020-04-05,France,,,92839,8078,16183
+2020-04-05,Gabon,,,21,1,1
+2020-04-05,Gambia,,,4,1,2
+2020-04-05,Georgia,,,174,2,36
+2020-04-05,Germany,,,100123,1584,28700
+2020-04-05,Ghana,,,214,5,31
+2020-04-05,Greece,,,1735,73,78
+2020-04-05,Grenada,,,12,0,0
+2020-04-05,Guatemala,,,61,2,15
+2020-04-05,Guinea,,,121,0,5
+2020-04-05,Guinea-Bissau,,,18,0,0
+2020-04-05,Guyana,,,24,4,0
+2020-04-05,Haiti,,,21,1,1
+2020-04-05,Holy See,,,7,0,0
+2020-04-05,Honduras,,,268,22,6
+2020-04-05,Hungary,,,733,34,66
+2020-04-05,Iceland,,,1486,4,428
+2020-04-05,India,,,3588,99,229
+2020-04-05,Indonesia,,,2273,198,164
+2020-04-05,Iran,,,58226,3603,19736
+2020-04-05,Iraq,,,961,61,279
+2020-04-05,Ireland,,,4994,158,25
+2020-04-05,Israel,,,8430,49,477
+2020-04-05,Italy,,,128948,15887,21815
+2020-04-05,Jamaica,,,58,3,8
+2020-04-05,Japan,,,3139,77,514
+2020-04-05,Jordan,,,345,5,110
+2020-04-05,Kazakhstan,,,584,6,42
+2020-04-05,Kenya,,,142,4,4
+2020-04-05,"Korea, South",,,10237,183,6463
+2020-04-05,Kosovo,,,145,1,23
+2020-04-05,Kuwait,,,556,1,99
+2020-04-05,Kyrgyzstan,,,147,1,9
+2020-04-05,Laos,,,11,0,0
+2020-04-05,Latvia,,,533,1,1
+2020-04-05,Lebanon,,,527,18,54
+2020-04-05,Liberia,,,13,3,3
+2020-04-05,Libya,,,18,1,0
+2020-04-05,Liechtenstein,,,77,1,0
+2020-04-05,Lithuania,,,811,13,7
+2020-04-05,Luxembourg,,,2804,36,500
+2020-04-05,MS Zaandam,,,9,2,0
+2020-04-05,Madagascar,,,72,0,2
+2020-04-05,Malawi,,,4,0,0
+2020-04-05,Malaysia,,,3662,61,1005
+2020-04-05,Maldives,,,19,0,13
+2020-04-05,Mali,,,45,5,1
+2020-04-05,Malta,,,227,0,5
+2020-04-05,Mauritania,,,6,1,2
+2020-04-05,Mauritius,,,227,7,7
+2020-04-05,Mexico,,,1890,79,633
+2020-04-05,Moldova,,,864,15,30
+2020-04-05,Monaco,,,73,1,3
+2020-04-05,Mongolia,,,14,0,2
+2020-04-05,Montenegro,,,214,2,1
+2020-04-05,Morocco,,,1021,70,76
+2020-04-05,Mozambique,,,10,0,1
+2020-04-05,Namibia,,,16,0,3
+2020-04-05,Nepal,,,9,0,1
+2020-04-05,Netherlands,,,17851,1766,250
+2020-04-05,New Zealand,,,1039,1,156
+2020-04-05,Nicaragua,,,6,1,0
+2020-04-05,Niger,,,184,10,13
+2020-04-05,Nigeria,,,232,5,33
+2020-04-05,North Macedonia,,,555,18,23
+2020-04-05,Norway,,,5687,71,32
+2020-04-05,Oman,,,298,2,61
+2020-04-05,Pakistan,,,3157,47,211
+2020-04-05,Panama,,,1801,46,13
+2020-04-05,Papua New Guinea,,,1,0,0
+2020-04-05,Paraguay,,,104,3,12
+2020-04-05,Peru,,,2281,83,989
+2020-04-05,Philippines,,,3246,152,64
+2020-04-05,Poland,,,4102,94,134
+2020-04-05,Portugal,,,11278,295,75
+2020-04-05,Qatar,,,1604,4,123
+2020-04-05,Romania,,,3864,151,374
+2020-04-05,Russia,,,5389,45,355
+2020-04-05,Rwanda,,,104,0,4
+2020-04-05,Saint Kitts and Nevis,,,10,0,0
+2020-04-05,Saint Lucia,,,14,0,1
+2020-04-05,Saint Vincent and the Grenadines,,,7,0,1
+2020-04-05,San Marino,,,266,32,35
+2020-04-05,Saudi Arabia,,,2402,34,488
+2020-04-05,Senegal,,,222,2,82
+2020-04-05,Serbia,,,1908,51,0
+2020-04-05,Seychelles,,,10,0,0
+2020-04-05,Sierra Leone,,,6,0,0
+2020-04-05,Singapore,,,1309,6,320
+2020-04-05,Slovakia,,,485,1,10
+2020-04-05,Slovenia,,,997,28,79
+2020-04-05,Somalia,,,7,0,1
+2020-04-05,South Africa,,,1655,11,95
+2020-04-05,South Sudan,,,1,0,0
+2020-04-05,Spain,,,131646,12641,38080
+2020-04-05,Sri Lanka,,,176,5,33
+2020-04-05,Sudan,,,12,2,2
+2020-04-05,Suriname,,,10,1,0
+2020-04-05,Sweden,,,6830,401,205
+2020-04-05,Switzerland,,,21100,715,6415
+2020-04-05,Syria,,,19,2,2
+2020-04-05,Taiwan*,,,363,5,50
+2020-04-05,Tanzania,,,22,1,3
+2020-04-05,Thailand,,,2169,23,793
+2020-04-05,Timor-Leste,,,1,0,0
+2020-04-05,Togo,,,44,3,20
+2020-04-05,Trinidad and Tobago,,,104,7,1
+2020-04-05,Tunisia,,,574,22,5
+2020-04-05,Turkey,,,27069,574,1042
+2020-04-05,Uganda,,,52,0,0
+2020-04-05,Ukraine,,,1308,37,28
+2020-04-05,United Arab Emirates,,,1799,10,144
+2020-04-05,United Kingdom,,,47806,4934,135
+2020-04-05,Uruguay,,,400,5,93
+2020-04-05,Uzbekistan,,,342,2,30
+2020-04-05,Venezuela,,,159,7,52
+2020-04-05,Vietnam,,,241,0,90
+2020-04-05,West Bank and Gaza,,,237,1,25
+2020-04-05,Western Sahara,,,4,0,0
+2020-04-05,Zambia,,,39,1,3
+2020-04-05,Zimbabwe,,,9,1,0
+2020-04-05,US,Wyoming,unassigned,0,0,0
