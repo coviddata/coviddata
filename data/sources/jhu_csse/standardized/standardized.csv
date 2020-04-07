@@ -7457,7 +7457,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-03-21,Lithuania,,,83,1,1
 2020-03-21,Moldova,,,80,1,1
 2020-03-21,Sri Lanka,,,77,0,1
-2020-03-21,US,District of Columbia,,77,1,0
+2020-03-21,US,District of Columbia,,98,1,0
 2020-03-21,Albania,,,76,2,2
 2020-03-21,Belarus,,,76,0,15
 2020-03-21,China,Xinjiang,,76,3,73
@@ -8953,7 +8953,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-03-22,US,Colorado,Sedgwick,0,0,0
 2020-03-22,US,Colorado,Teller,0,0,0
 2020-03-22,US,Colorado,Washington,0,0,0
-2020-03-22,US,District of Columbia,District of Columbia,0,0,0
+2020-03-22,US,District of Columbia,District of Columbia,102,0,0
 2020-03-22,US,Florida,Calhoun,0,0,0
 2020-03-22,US,Florida,DeSoto,0,0,0
 2020-03-22,US,Florida,Dixie,0,0,0
@@ -34820,7 +34820,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-03-29,China,Tibet,,1,0,1
 2020-03-29,United Kingdom,Turks and Caicos Islands,,4,0,0
 2020-03-29,Australia,Victoria,,769,4,191
-2020-03-29,US,Virgin Islands,,0,0,0
+2020-03-29,US,Virgin Islands,,23,0,0
 2020-03-29,Australia,Western Australia,,311,2,28
 2020-03-29,China,Xinjiang,,76,3,73
 2020-03-29,Canada,Yukon,,4,0,0
@@ -38258,7 +38258,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-03-30,China,Tibet,,1,0,1
 2020-03-30,United Kingdom,Turks and Caicos Islands,,5,0,0
 2020-03-30,Australia,Victoria,,821,4,191
-2020-03-30,US,Virgin Islands,,0,0,0
+2020-03-30,US,Virgin Islands,,30,0,0
 2020-03-30,Australia,Western Australia,,355,2,41
 2020-03-30,China,Xinjiang,,76,3,73
 2020-03-30,Canada,Yukon,,4,0,0
@@ -54715,7 +54715,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-06,US,Virginia,Essex,0,0,0
 2020-04-06,US,Alabama,Etowah,41,3,0
 2020-04-06,US,Louisiana,Evangeline,23,0,0
-2020-04-06,US,Alaska,Fairbanks North Star,0,0,0
+2020-04-06,US,Alaska,Fairbanks North Star,53,0,0
 2020-04-06,US,Virginia,Fairfax,488,2,0
 2020-04-06,US,Virginia,Fairfax City,0,0,0
 2020-04-06,US,Connecticut,Fairfield,3719,101,0
