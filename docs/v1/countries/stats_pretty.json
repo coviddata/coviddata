@@ -799,19 +799,19 @@
       },
       "2020-03-28": {
         "new": {
-          "cases": 19821,
+          "cases": 19808,
           "deaths": 445,
           "recoveries": 203
         },
         "cumulative": {
-          "cases": 121478,
+          "cases": 121465,
           "deaths": 2026,
           "recoveries": 1072
         }
       },
       "2020-03-29": {
         "new": {
-          "cases": 19431,
+          "cases": 19444,
           "deaths": 441,
           "recoveries": 1593
         },
@@ -823,19 +823,19 @@
       },
       "2020-03-30": {
         "new": {
-          "cases": 20928,
+          "cases": 20922,
           "deaths": 511,
           "recoveries": 2979
         },
         "cumulative": {
-          "cases": 161837,
+          "cases": 161831,
           "deaths": 2978,
           "recoveries": 5644
         }
       },
       "2020-03-31": {
         "new": {
-          "cases": 26335,
+          "cases": 26341,
           "deaths": 895,
           "recoveries": 1380
         },
@@ -859,19 +859,19 @@
       },
       "2020-04-02": {
         "new": {
-          "cases": 30081,
+          "cases": 30227,
           "deaths": 1169,
           "recoveries": 527
         },
         "cumulative": {
-          "cases": 243453,
+          "cases": 243599,
           "deaths": 5926,
           "recoveries": 9001
         }
       },
       "2020-04-03": {
         "new": {
-          "cases": 32133,
+          "cases": 31987,
           "deaths": 1161,
           "recoveries": 706
         },
@@ -883,19 +883,19 @@
       },
       "2020-04-04": {
         "new": {
-          "cases": 33264,
+          "cases": 33267,
           "deaths": 1320,
           "recoveries": 4945
         },
         "cumulative": {
-          "cases": 308850,
+          "cases": 308853,
           "deaths": 8407,
           "recoveries": 14652
         }
       },
       "2020-04-05": {
         "new": {
-          "cases": 28222,
+          "cases": 28219,
           "deaths": 1212,
           "recoveries": 2796
         },

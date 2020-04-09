@@ -28859,7 +28859,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-03-28,US,Tennessee,Davidson,376,2,0
 2020-03-28,US,North Carolina,Davie,6,0,0
 2020-03-28,US,Indiana,Daviess,0,0,0
-2020-03-28,US,Kentucky,Daviess,33,0,0
+2020-03-28,US,Kentucky,Daviess,20,0,0
 2020-03-28,US,Missouri,Daviess,0,0,0
 2020-03-28,US,Iowa,Davis,0,0,0
 2020-03-28,US,Utah,Davis,59,1,0
@@ -35250,7 +35250,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-03-30,US,Texas,Bowie,4,0,0
 2020-03-30,US,North Dakota,Bowman,0,0,0
 2020-03-30,US,Nebraska,Box Butte,0,0,0
-2020-03-30,US,Utah,Box Elder,13,0,0
+2020-03-30,US,Utah,Box Elder,7,0,0
 2020-03-30,US,Kentucky,Boyd,0,0,0
 2020-03-30,US,Nebraska,Boyd,0,0,0
 2020-03-30,US,Kentucky,Boyle,1,0,0
@@ -43900,7 +43900,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-02,US,South Carolina,Darlington,15,0,0
 2020-04-02,US,Pennsylvania,Dauphin,67,1,0
 2020-04-02,US,North Carolina,Davidson,41,0,0
-2020-04-02,US,Tennessee,Davidson,617,5,0
+2020-04-02,US,Tennessee,Davidson,785,5,0
 2020-04-02,US,North Carolina,Davie,12,1,0
 2020-04-02,US,Kentucky,Daviess,34,1,0
 2020-04-02,US,Utah,Davis,103,1,0
@@ -45535,7 +45535,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-02,US,Oklahoma,Washington,24,0,0
 2020-04-02,US,Oregon,Washington,211,4,0
 2020-04-02,US,Pennsylvania,Washington,38,0,0
-2020-04-02,US,Rhode Island,Washington,46,0,0
+2020-04-02,US,Rhode Island,Washington,34,0,0
 2020-04-02,US,Tennessee,Washington,20,0,0
 2020-04-02,US,Texas,Washington,17,0,0
 2020-04-02,US,Utah,Washington,18,1,0
@@ -45570,7 +45570,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-02,US,Colorado,Weld,293,13,0
 2020-04-02,US,Indiana,Wells,2,0,0
 2020-04-02,US,Louisiana,West Baton Rouge,19,1,0
-2020-04-02,US,Louisiana,West Feliciana,20,0,0
+2020-04-02,US,Louisiana,West Feliciana,10,0,0
 2020-04-02,US,New York,Westchester,11567,64,0
 2020-04-02,US,Pennsylvania,Westmoreland,84,0,0
 2020-04-02,US,West Virginia,Wetzel,2,0,0
@@ -49615,7 +49615,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-04,US,New York,Jefferson,20,0,0
 2020-04-04,US,Ohio,Jefferson,14,0,0
 2020-04-04,US,Tennessee,Jefferson,6,0,0
-2020-04-04,US,Texas,Jefferson,29,1,0
+2020-04-04,US,Texas,Jefferson,40,1,0
 2020-04-04,US,Washington,Jefferson,19,0,0
 2020-04-04,US,West Virginia,Jefferson,17,0,0
 2020-04-04,US,Wisconsin,Jefferson,13,0,0
@@ -50733,7 +50733,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-04,US,Wisconsin,Unassigned,0,4,0
 2020-04-04,US,Tennessee,Unicoi,1,0,0
 2020-04-04,US,Arkansas,Union,10,0,0
-2020-04-04,US,Florida,Union,10,0,0
+2020-04-04,US,Florida,Union,2,0,0
 2020-04-04,US,Georgia,Union,1,0,0
 2020-04-04,US,Indiana,Union,2,0,0
 2020-04-04,US,Kentucky,Union,2,0,0
