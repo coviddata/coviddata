@@ -3274,12 +3274,12 @@
       "2020-04-10": {
         "new": {
           "cases": 1175,
-          "deaths": 76,
+          "deaths": 46,
           "recoveries": 0
         },
         "cumulative": {
           "cases": 21366,
-          "deaths": 624,
+          "deaths": 594,
           "recoveries": 0
         }
       }
