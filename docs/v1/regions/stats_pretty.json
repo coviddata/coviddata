@@ -60610,12 +60610,12 @@
         "new": {
           "cases": 0,
           "deaths": 0,
-          "recoveries": 7
+          "recoveries": 1
         },
         "cumulative": {
           "cases": 168,
           "deaths": 6,
-          "recoveries": 168
+          "recoveries": 162
         }
       },
       "2020-03-25": {
@@ -60627,7 +60627,7 @@
         "cumulative": {
           "cases": 168,
           "deaths": 6,
-          "recoveries": 168
+          "recoveries": 162
         }
       },
       "2020-03-26": {
@@ -60639,7 +60639,7 @@
         "cumulative": {
           "cases": 168,
           "deaths": 6,
-          "recoveries": 168
+          "recoveries": 162
         }
       },
       "2020-03-27": {
@@ -60651,7 +60651,7 @@
         "cumulative": {
           "cases": 168,
           "deaths": 6,
-          "recoveries": 168
+          "recoveries": 162
         }
       },
       "2020-03-28": {
@@ -60663,7 +60663,7 @@
         "cumulative": {
           "cases": 168,
           "deaths": 6,
-          "recoveries": 168
+          "recoveries": 162
         }
       },
       "2020-03-29": {
@@ -60675,7 +60675,7 @@
         "cumulative": {
           "cases": 168,
           "deaths": 6,
-          "recoveries": 168
+          "recoveries": 162
         }
       },
       "2020-03-30": {
@@ -60687,7 +60687,7 @@
         "cumulative": {
           "cases": 168,
           "deaths": 6,
-          "recoveries": 168
+          "recoveries": 162
         }
       },
       "2020-03-31": {
@@ -60699,7 +60699,7 @@
         "cumulative": {
           "cases": 168,
           "deaths": 6,
-          "recoveries": 168
+          "recoveries": 162
         }
       },
       "2020-04-01": {
@@ -60711,7 +60711,7 @@
         "cumulative": {
           "cases": 168,
           "deaths": 6,
-          "recoveries": 168
+          "recoveries": 162
         }
       },
       "2020-04-02": {

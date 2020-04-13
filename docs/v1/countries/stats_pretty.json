@@ -6273,12 +6273,12 @@
         "new": {
           "cases": 95,
           "deaths": 7,
-          "recoveries": 461
+          "recoveries": 455
         },
         "cumulative": {
           "cases": 81591,
           "deaths": 3281,
-          "recoveries": 73280
+          "recoveries": 73274
         }
       },
       "2020-03-25": {
@@ -6290,7 +6290,7 @@
         "cumulative": {
           "cases": 81661,
           "deaths": 3285,
-          "recoveries": 73773
+          "recoveries": 73767
         }
       },
       "2020-03-26": {
@@ -6302,7 +6302,7 @@
         "cumulative": {
           "cases": 81782,
           "deaths": 3291,
-          "recoveries": 74181
+          "recoveries": 74175
         }
       },
       "2020-03-27": {
@@ -6314,7 +6314,7 @@
         "cumulative": {
           "cases": 81897,
           "deaths": 3296,
-          "recoveries": 74720
+          "recoveries": 74714
         }
       },
       "2020-03-28": {
@@ -6326,7 +6326,7 @@
         "cumulative": {
           "cases": 81999,
           "deaths": 3299,
-          "recoveries": 75100
+          "recoveries": 75094
         }
       },
       "2020-03-29": {
@@ -6338,7 +6338,7 @@
         "cumulative": {
           "cases": 82122,
           "deaths": 3304,
-          "recoveries": 75582
+          "recoveries": 75576
         }
       },
       "2020-03-30": {
@@ -6350,7 +6350,7 @@
         "cumulative": {
           "cases": 82198,
           "deaths": 3308,
-          "recoveries": 75923
+          "recoveries": 75917
         }
       },
       "2020-03-31": {
@@ -6362,7 +6362,7 @@
         "cumulative": {
           "cases": 82279,
           "deaths": 3309,
-          "recoveries": 76206
+          "recoveries": 76200
         }
       },
       "2020-04-01": {
@@ -6374,14 +6374,14 @@
         "cumulative": {
           "cases": 82361,
           "deaths": 3316,
-          "recoveries": 76405
+          "recoveries": 76399
         }
       },
       "2020-04-02": {
         "new": {
           "cases": 71,
           "deaths": 6,
-          "recoveries": 160
+          "recoveries": 166
         },
         "cumulative": {
           "cases": 82432,
