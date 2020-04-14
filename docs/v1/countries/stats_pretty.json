@@ -991,12 +991,12 @@
       },
       "2020-04-13": {
         "new": {
-          "cases": 127306,
+          "cases": 25306,
           "deaths": 1509,
           "recoveries": 10494
         },
         "cumulative": {
-          "cases": 682619,
+          "cases": 580619,
           "deaths": 23529,
           "recoveries": 43482
         }
