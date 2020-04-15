@@ -1003,13 +1003,13 @@
       },
       "2020-04-14": {
         "new": {
-          "cases": 24574,
-          "deaths": 2228,
+          "cases": 27051,
+          "deaths": 2303,
           "recoveries": 4281
         },
         "cumulative": {
-          "cases": 605193,
-          "deaths": 25757,
+          "cases": 607670,
+          "deaths": 25832,
           "recoveries": 47763
         }
       }

@@ -79287,6 +79287,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-14,US,Nebraska,Phelps,1,0,0
 2020-04-14,US,Pennsylvania,Philadelphia,7130,206,0
 2020-04-14,US,Arkansas,Phillips,4,1,0
+2020-04-14,US,Colorado,Phillips,4,0,0
 2020-04-14,US,Kansas,Phillips,1,0,0
 2020-04-14,US,Illinois,Piatt,6,0,0
 2020-04-14,US,Ohio,Pickaway,97,0,0
@@ -79367,6 +79368,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-14,US,Wisconsin,Price,1,0,0
 2020-04-14,US,Virginia,Prince Edward,13,0,0
 2020-04-14,US,Virginia,Prince George,27,0,0
+2020-04-14,US,Maryland,Prince George's,2356,72,0
 2020-04-14,US,Virginia,Prince William,508,1,0
 2020-04-14,US,Alaska,Prince of Wales-Hyder,2,0,0
 2020-04-14,US,Rhode Island,Providence,1278,3,0
@@ -79387,6 +79389,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-14,US,Tennessee,Putnam,92,0,0
 2020-04-14,US,West Virginia,Putnam,12,0,0
 2020-04-14,US,New Mexico,Quay,1,0,0
+2020-04-14,US,Maryland,Queen Anne's,19,0,0
 2020-04-14,US,Georgia,Quitman,3,0,0
 2020-04-14,US,Mississippi,Quitman,12,0,0
 2020-04-14,US,Georgia,Rabun,7,0,0
@@ -79640,6 +79643,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-14,US,Florida,St. Lucie,165,7,0
 2020-04-14,US,Louisiana,St. Martin,168,9,0
 2020-04-14,US,Louisiana,St. Mary,129,2,0
+2020-04-14,US,Maryland,St. Mary's,98,3,0
 2020-04-14,US,Louisiana,St. Tammany,898,55,0
 2020-04-14,US,Kansas,Stafford,1,0,0
 2020-04-14,US,Virginia,Stafford,95,0,0
