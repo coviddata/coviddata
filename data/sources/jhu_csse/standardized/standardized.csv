@@ -13910,7 +13910,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-03-23,US,Tennessee,Unassigned,54,0,0
 2020-03-23,US,Vermont,Unassigned,0,3,0
 2020-03-23,US,Washington,Unassigned,145,0,0
-2020-03-23,US,Wuhan Evacuee,Unassigned,4,0,0
 2020-03-23,US,Tennessee,Unicoi,0,0,0
 2020-03-23,US,Arkansas,Union,1,0,0
 2020-03-23,US,Florida,Union,0,0,0
@@ -13977,8 +13976,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-03-23,US,Alabama,Walker,3,0,0
 2020-03-23,US,Georgia,Walker,0,0,0
 2020-03-23,US,Texas,Walker,1,0,0
-2020-03-23,US,Washington,Walla Walla,0,0,0
-2020-03-23,US,Washington,Walla Walla County,1,0,0
+2020-03-23,US,Washington,Walla Walla,1,0,0
 2020-03-23,US,Kansas,Wallace,0,0,0
 2020-03-23,US,Texas,Waller,1,0,0
 2020-03-23,US,Oregon,Wallowa,0,0,0
@@ -17324,7 +17322,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-03-24,US,Tennessee,Unassigned,38,0,0
 2020-03-24,US,Vermont,Unassigned,0,2,0
 2020-03-24,US,Washington,Unassigned,112,0,0
-2020-03-24,US,Wuhan Evacuee,Unassigned,4,0,0
 2020-03-24,US,Tennessee,Unicoi,0,0,0
 2020-03-24,US,Arkansas,Union,1,0,0
 2020-03-24,US,Florida,Union,0,0,0
@@ -41752,7 +41749,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-01,US,Montana,Hill,1,0,0
 2020-04-01,US,Texas,Hill,2,0,0
 2020-04-01,US,Florida,Hillsborough,309,3,0
-2020-04-01,US,New Hampshire,Hillsborough,99,2,0
+2020-04-01,US,New Hampshire,Hillsborough,109,2,0
 2020-04-01,US,Michigan,Hillsdale,19,1,0
 2020-04-01,US,Mississippi,Hinds,109,0,0
 2020-04-01,US,Colorado,Hinsdale,1,0,0
@@ -42106,7 +42103,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-01,US,Virginia,Manassas,9,0,0
 2020-04-01,US,Virginia,Manassas Park,1,0,0
 2020-04-01,US,Florida,Manatee,58,2,0
-2020-04-01,US,New Hampshire,Manchester,5,0,0
 2020-04-01,US,Michigan,Manistee,1,0,0
 2020-04-01,US,Wisconsin,Marathon,5,0,0
 2020-04-01,US,Alabama,Marengo,4,0,0
@@ -42289,7 +42285,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-01,US,Texas,Nacogdoches,4,0,0
 2020-04-01,US,California,Napa,15,0,0
 2020-04-01,US,North Carolina,Nash,11,0,0
-2020-04-01,US,New Hampshire,Nashua,5,0,0
 2020-04-01,US,Florida,Nassau,11,0,0
 2020-04-01,US,New York,Nassau,9554,76,0
 2020-04-01,US,Louisiana,Natchitoches,2,0,0

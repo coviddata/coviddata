@@ -739,12 +739,12 @@
       },
       "2020-03-23": {
         "new": {
-          "cases": 9819,
+          "cases": 9815,
           "deaths": 125,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 43667,
+          "cases": 43663,
           "deaths": 552,
           "recoveries": 0
         }
@@ -756,14 +756,14 @@
           "recoveries": 348
         },
         "cumulative": {
-          "cases": 53740,
+          "cases": 53736,
           "deaths": 706,
           "recoveries": 348
         }
       },
       "2020-03-25": {
         "new": {
-          "cases": 12038,
+          "cases": 12042,
           "deaths": 236,
           "recoveries": 13
         },
