@@ -968,12 +968,12 @@
       "2020-04-11": {
         "new": {
           "cases": 29861,
-          "deaths": 1877,
+          "deaths": 1876,
           "recoveries": 2480
         },
         "cumulative": {
           "cases": 526396,
-          "deaths": 20463,
+          "deaths": 20462,
           "recoveries": 31270
         }
       },
@@ -985,7 +985,7 @@
         },
         "cumulative": {
           "cases": 555313,
-          "deaths": 22020,
+          "deaths": 22019,
           "recoveries": 32988
         }
       },
@@ -997,7 +997,7 @@
         },
         "cumulative": {
           "cases": 580619,
-          "deaths": 23529,
+          "deaths": 23528,
           "recoveries": 43482
         }
       },
@@ -1009,7 +1009,7 @@
         },
         "cumulative": {
           "cases": 607670,
-          "deaths": 25832,
+          "deaths": 25831,
           "recoveries": 47763
         }
       },
@@ -1021,14 +1021,14 @@
         },
         "cumulative": {
           "cases": 636350,
-          "deaths": 28326,
+          "deaths": 28325,
           "recoveries": 52096
         }
       },
       "2020-04-16": {
         "new": {
           "cases": 31451,
-          "deaths": 4590,
+          "deaths": 4591,
           "recoveries": 2607
         },
         "cumulative": {
