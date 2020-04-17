@@ -1028,12 +1028,12 @@
       "2020-04-16": {
         "new": {
           "cases": 31451,
-          "deaths": 4591,
+          "deaths": 4590,
           "recoveries": 2607
         },
         "cumulative": {
           "cases": 667801,
-          "deaths": 32917,
+          "deaths": 32916,
           "recoveries": 54703
         }
       }

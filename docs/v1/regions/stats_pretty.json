@@ -5078,12 +5078,12 @@
       "2020-04-16": {
         "new": {
           "cases": 27677,
-          "deaths": 957,
+          "deaths": 956,
           "recoveries": 0
         },
         "cumulative": {
           "cases": 27677,
-          "deaths": 957,
+          "deaths": 956,
           "recoveries": 0
         }
       }
