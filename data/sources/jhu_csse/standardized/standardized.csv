@@ -48038,7 +48038,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-03,US,New Mexico,Unassigned,3,0,0
 2020-04-03,US,New York,Unassigned,0,955,0
 2020-04-03,US,North Dakota,Unassigned,0,0,0
-2020-04-03,US,Northern Mariana Islands,Unassigned,2,0,0
 2020-04-03,US,Oklahoma,Unassigned,0,0,0
 2020-04-03,US,Rhode Island,Unassigned,146,11,0
 2020-04-03,US,South Dakota,Unassigned,0,0,0
@@ -48334,7 +48333,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-03,Australia,New South Wales,,2389,12,4
 2020-04-03,Canada,Newfoundland and Labrador,,195,1,0
 2020-04-03,China,Ningxia,,75,0,75
-2020-04-03,US,Northern Mariana Islands,,6,1,0
+2020-04-03,US,Northern Mariana Islands,,8,1,0
 2020-04-03,Australia,Northern Territory,,22,0,0
 2020-04-03,Canada,Northwest Territories,,2,0,0
 2020-04-03,Canada,Nova Scotia,,207,0,0
@@ -50717,7 +50716,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-04,US,New Mexico,Unassigned,2,0,0
 2020-04-04,US,New York,Unassigned,0,1173,0
 2020-04-04,US,North Dakota,Unassigned,0,0,0
-2020-04-04,US,Northern Mariana Islands,Unassigned,2,0,0
 2020-04-04,US,Oklahoma,Unassigned,0,0,0
 2020-04-04,US,Rhode Island,Unassigned,241,14,0
 2020-04-04,US,South Dakota,Unassigned,0,0,0
@@ -51013,7 +51011,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-04,Australia,New South Wales,,2493,12,4
 2020-04-04,Canada,Newfoundland and Labrador,,195,1,0
 2020-04-04,China,Ningxia,,75,0,75
-2020-04-04,US,Northern Mariana Islands,,6,1,0
+2020-04-04,US,Northern Mariana Islands,,8,1,0
 2020-04-04,Australia,Northern Territory,,26,0,1
 2020-04-04,Canada,Northwest Territories,,4,0,0
 2020-04-04,Canada,Nova Scotia,,236,0,0
@@ -53470,7 +53468,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-05,US,New Mexico,Unassigned,0,0,0
 2020-04-05,US,New York,Unassigned,0,1260,0
 2020-04-05,US,North Dakota,Unassigned,0,0,0
-2020-04-05,US,Northern Mariana Islands,Unassigned,2,0,0
 2020-04-05,US,Ohio,Unassigned,0,0,0
 2020-04-05,US,Oklahoma,Unassigned,0,0,0
 2020-04-05,US,Rhode Island,Unassigned,238,22,0
@@ -53774,7 +53771,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-05,Australia,New South Wales,,2580,16,4
 2020-04-05,Canada,Newfoundland and Labrador,,217,1,0
 2020-04-05,China,Ningxia,,75,0,75
-2020-04-05,US,Northern Mariana Islands,,6,1,0
+2020-04-05,US,Northern Mariana Islands,,8,1,0
 2020-04-05,Australia,Northern Territory,,27,0,1
 2020-04-05,Canada,Northwest Territories,,4,0,0
 2020-04-05,Canada,Nova Scotia,,262,0,0
@@ -56272,7 +56269,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-06,US,New Mexico,Unassigned,0,0,0
 2020-04-06,US,New York,Unassigned,0,309,0
 2020-04-06,US,North Dakota,Unassigned,0,0,0
-2020-04-06,US,Northern Mariana Islands,Unassigned,2,0,0
 2020-04-06,US,Ohio,Unassigned,0,0,0
 2020-04-06,US,Oklahoma,Unassigned,0,0,0
 2020-04-06,US,Rhode Island,Unassigned,332,24,0
@@ -56582,7 +56578,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-06,Australia,New South Wales,,2637,18,4
 2020-04-06,Canada,Newfoundland and Labrador,,226,1,0
 2020-04-06,China,Ningxia,,75,0,75
-2020-04-06,US,Northern Mariana Islands,,6,1,0
+2020-04-06,US,Northern Mariana Islands,,8,1,0
 2020-04-06,Australia,Northern Territory,,28,0,2
 2020-04-06,Canada,Northwest Territories,,5,0,0
 2020-04-06,Canada,Nova Scotia,,293,0,0
@@ -59129,7 +59125,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-07,US,New York,Unassigned,0,116,0
 2020-04-07,US,North Carolina,Unassigned,0,2,0
 2020-04-07,US,North Dakota,Unassigned,0,0,0
-2020-04-07,US,Northern Mariana Islands,Unassigned,2,1,0
 2020-04-07,US,Ohio,Unassigned,0,0,0
 2020-04-07,US,Oklahoma,Unassigned,0,0,0
 2020-04-07,US,Pennsylvania,Unassigned,0,0,0
@@ -59440,7 +59435,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-07,Australia,New South Wales,,2686,21,4
 2020-04-07,Canada,Newfoundland and Labrador,,228,1,0
 2020-04-07,China,Ningxia,,75,0,75
-2020-04-07,US,Northern Mariana Islands,,6,1,0
+2020-04-07,US,Northern Mariana Islands,,8,2,0
 2020-04-07,Australia,Northern Territory,,28,0,2
 2020-04-07,Canada,Northwest Territories,,5,0,0
 2020-04-07,Canada,Nova Scotia,,310,1,0
@@ -62009,7 +62004,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-08,US,New Mexico,Unassigned,0,0,0
 2020-04-08,US,New York,Unassigned,0,152,0
 2020-04-08,US,North Dakota,Unassigned,0,0,0
-2020-04-08,US,Northern Mariana Islands,Unassigned,5,1,0
 2020-04-08,US,Ohio,Unassigned,0,0,0
 2020-04-08,US,Oklahoma,Unassigned,0,0,0
 2020-04-08,US,Pennsylvania,Unassigned,0,0,0
@@ -62323,7 +62317,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-08,Australia,New South Wales,,2734,21,4
 2020-04-08,Canada,Newfoundland and Labrador,,228,1,0
 2020-04-08,China,Ningxia,,75,0,75
-2020-04-08,US,Northern Mariana Islands,,6,1,0
+2020-04-08,US,Northern Mariana Islands,,11,2,0
 2020-04-08,Australia,Northern Territory,,28,0,2
 2020-04-08,Canada,Northwest Territories,,5,0,0
 2020-04-08,Canada,Nova Scotia,,310,1,0
@@ -64918,7 +64912,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-09,US,New Mexico,Unassigned,0,0,0
 2020-04-09,US,New York,Unassigned,0,73,0
 2020-04-09,US,North Dakota,Unassigned,0,0,0
-2020-04-09,US,Northern Mariana Islands,Unassigned,5,1,0
 2020-04-09,US,Ohio,Unassigned,0,0,0
 2020-04-09,US,Oklahoma,Unassigned,0,0,0
 2020-04-09,US,Oregon,Unassigned,0,1,0
@@ -65234,7 +65227,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-09,Australia,New South Wales,,2773,21,4
 2020-04-09,Canada,Newfoundland and Labrador,,232,2,0
 2020-04-09,China,Ningxia,,75,0,75
-2020-04-09,US,Northern Mariana Islands,,6,1,0
+2020-04-09,US,Northern Mariana Islands,,11,2,0
 2020-04-09,Australia,Northern Territory,,28,0,2
 2020-04-09,Canada,Northwest Territories,,5,0,0
 2020-04-09,Canada,Nova Scotia,,342,1,0
@@ -67853,7 +67846,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-10,US,New Mexico,Unassigned,0,0,0
 2020-04-10,US,New York,Unassigned,0,0,0
 2020-04-10,US,North Dakota,Unassigned,0,0,0
-2020-04-10,US,Northern Mariana Islands,Unassigned,5,1,0
 2020-04-10,US,Ohio,Unassigned,0,18,0
 2020-04-10,US,Oklahoma,Unassigned,0,0,0
 2020-04-10,US,Oregon,Unassigned,0,1,0
@@ -68174,7 +68166,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-10,Australia,New South Wales,,2822,22,4
 2020-04-10,Canada,Newfoundland and Labrador,,239,3,0
 2020-04-10,China,Ningxia,,75,0,75
-2020-04-10,US,Northern Mariana Islands,,6,1,0
+2020-04-10,US,Northern Mariana Islands,,11,2,0
 2020-04-10,Australia,Northern Territory,,28,0,2
 2020-04-10,Canada,Northwest Territories,,5,0,0
 2020-04-10,Canada,Nova Scotia,,407,2,0
@@ -70819,7 +70811,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-11,US,New Jersey,Unassigned,924,2,0
 2020-04-11,US,New Mexico,Unassigned,0,0,0
 2020-04-11,US,New York,Unassigned,0,4,0
-2020-04-11,US,Northern Mariana Islands,Unassigned,5,1,0
 2020-04-11,US,Ohio,Unassigned,0,0,0
 2020-04-11,US,Oklahoma,Unassigned,0,0,0
 2020-04-11,US,Pennsylvania,Unassigned,0,0,0
@@ -71140,7 +71131,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-11,Australia,New South Wales,,2857,23,4
 2020-04-11,Canada,Newfoundland and Labrador,,241,3,0
 2020-04-11,China,Ningxia,,75,0,75
-2020-04-11,US,Northern Mariana Islands,,6,1,0
+2020-04-11,US,Northern Mariana Islands,,11,2,0
 2020-04-11,Australia,Northern Territory,,28,0,2
 2020-04-11,Canada,Northwest Territories,,5,0,0
 2020-04-11,Canada,Nova Scotia,,428,2,0
@@ -73807,7 +73798,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-12,US,New Jersey,Unassigned,1274,2,0
 2020-04-12,US,New Mexico,Unassigned,0,0,0
 2020-04-12,US,New York,Unassigned,0,40,0
-2020-04-12,US,Northern Mariana Islands,Unassigned,5,1,0
 2020-04-12,US,Ohio,Unassigned,2,0,0
 2020-04-12,US,Oklahoma,Unassigned,0,0,0
 2020-04-12,US,Oregon,Unassigned,1,0,0
@@ -74129,7 +74119,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-12,Australia,New South Wales,,2857,24,4
 2020-04-12,Canada,Newfoundland and Labrador,,242,3,0
 2020-04-12,China,Ningxia,,75,0,75
-2020-04-12,US,Northern Mariana Islands,,6,1,0
+2020-04-12,US,Northern Mariana Islands,,11,2,0
 2020-04-12,Australia,Northern Territory,,28,0,2
 2020-04-12,Canada,Northwest Territories,,5,0,0
 2020-04-12,Canada,Nova Scotia,,445,2,0
@@ -76810,7 +76800,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-13,US,New Jersey,Unassigned,1203,2,0
 2020-04-13,US,New Mexico,Unassigned,0,0,0
 2020-04-13,US,New York,Unassigned,0,0,0
-2020-04-13,US,Northern Mariana Islands,Unassigned,5,1,0
 2020-04-13,US,Ohio,Unassigned,0,0,0
 2020-04-13,US,Oklahoma,Unassigned,0,0,0
 2020-04-13,US,Oregon,Unassigned,0,0,0
@@ -77132,7 +77121,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-13,Australia,New South Wales,,2863,25,4
 2020-04-13,Canada,Newfoundland and Labrador,,244,3,0
 2020-04-13,China,Ningxia,,75,0,75
-2020-04-13,US,Northern Mariana Islands,,6,1,0
+2020-04-13,US,Northern Mariana Islands,,11,2,0
 2020-04-13,Australia,Northern Territory,,28,0,2
 2020-04-13,Canada,Northwest Territories,,5,0,0
 2020-04-13,Canada,Nova Scotia,,474,3,0
@@ -79822,7 +79811,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-14,US,New Jersey,Unassigned,1702,2,0
 2020-04-14,US,New Mexico,Unassigned,0,0,0
 2020-04-14,US,New York,Unassigned,0,0,0
-2020-04-14,US,Northern Mariana Islands,Unassigned,5,1,0
 2020-04-14,US,Ohio,Unassigned,0,0,0
 2020-04-14,US,Oklahoma,Unassigned,0,0,0
 2020-04-14,US,Oregon,Unassigned,0,0,0
@@ -80146,7 +80134,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-14,Australia,New South Wales,,2870,25,4
 2020-04-14,Canada,Newfoundland and Labrador,,244,3,0
 2020-04-14,China,Ningxia,,75,0,75
-2020-04-14,US,Northern Mariana Islands,,6,1,0
+2020-04-14,US,Northern Mariana Islands,,11,2,0
 2020-04-14,Australia,Northern Territory,,28,0,6
 2020-04-14,Canada,Northwest Territories,,5,0,0
 2020-04-14,Canada,Nova Scotia,,517,3,0
@@ -82848,7 +82836,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-15,US,New Jersey,Unassigned,1189,2,0
 2020-04-15,US,New Mexico,Unassigned,0,0,0
 2020-04-15,US,New York,Unassigned,0,0,0
-2020-04-15,US,Northern Mariana Islands,Unassigned,7,1,0
 2020-04-15,US,Ohio,Unassigned,0,0,0
 2020-04-15,US,Oklahoma,Unassigned,0,0,0
 2020-04-15,US,Oregon,Unassigned,0,0,0
@@ -83173,7 +83160,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-15,Australia,New South Wales,,2886,25,4
 2020-04-15,Canada,Newfoundland and Labrador,,247,3,0
 2020-04-15,China,Ningxia,,75,0,75
-2020-04-15,US,Northern Mariana Islands,,6,1,0
+2020-04-15,US,Northern Mariana Islands,,13,2,0
 2020-04-15,Australia,Northern Territory,,28,0,6
 2020-04-15,Canada,Northwest Territories,,5,0,0
 2020-04-15,Canada,Nova Scotia,,549,3,0
@@ -85889,7 +85876,6 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-16,US,New Jersey,Unassigned,1048,3,0
 2020-04-16,US,New Mexico,Unassigned,0,0,0
 2020-04-16,US,New York,Unassigned,0,0,0
-2020-04-16,US,Northern Mariana Islands,Unassigned,7,1,0
 2020-04-16,US,Ohio,Unassigned,0,16,0
 2020-04-16,US,Oklahoma,Unassigned,0,0,0
 2020-04-16,US,Oregon,Unassigned,0,0,0
@@ -86215,7 +86201,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-16,Australia,New South Wales,,2897,25,4
 2020-04-16,Canada,Newfoundland and Labrador,,252,3,0
 2020-04-16,China,Ningxia,,75,0,75
-2020-04-16,US,Northern Mariana Islands,,6,1,0
+2020-04-16,US,Northern Mariana Islands,,13,2,0
 2020-04-16,Australia,Northern Territory,,28,0,6
 2020-04-16,Canada,Northwest Territories,,5,0,0
 2020-04-16,Canada,Nova Scotia,,579,3,0
