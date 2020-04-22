@@ -2972,19 +2972,19 @@
       "2020-03-23": {
         "new": {
           "cases": 131,
-          "deaths": 0,
+          "deaths": 4,
           "recoveries": 0
         },
         "cumulative": {
           "cases": 777,
-          "deaths": 5,
+          "deaths": 9,
           "recoveries": 0
         }
       },
       "2020-03-24": {
         "new": {
           "cases": 382,
-          "deaths": 6,
+          "deaths": 2,
           "recoveries": 0
         },
         "cumulative": {
@@ -3056,19 +3056,19 @@
       "2020-03-30": {
         "new": {
           "cases": 797,
-          "deaths": 13,
+          "deaths": 8,
           "recoveries": 0
         },
         "cumulative": {
           "cases": 5752,
-          "deaths": 61,
+          "deaths": 56,
           "recoveries": 0
         }
       },
       "2020-03-31": {
         "new": {
           "cases": 868,
-          "deaths": 28,
+          "deaths": 33,
           "recoveries": 0
         },
         "cumulative": {
