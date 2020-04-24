@@ -98836,7 +98836,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-21,US,Missouri,Benton,3,0,0
 2020-04-21,US,Oregon,Benton,28,5,0
 2020-04-21,US,Tennessee,Benton,4,0,0
-2020-04-21,US,Washington,Benton,423,34,0
+2020-04-21,US,Washington,Benton,326,34,0
 2020-04-21,US,Michigan,Benzie,4,0,0
 2020-04-21,US,New Jersey,Bergen,13356,787,0
 2020-04-21,US,South Carolina,Berkeley,138,3,0
@@ -99532,7 +99532,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-21,US,Texas,Franklin,1,0,0
 2020-04-21,US,Vermont,Franklin,92,4,0
 2020-04-21,US,Virginia,Franklin,16,0,0
-2020-04-21,US,Washington,Franklin,266,4,0
+2020-04-21,US,Washington,Franklin,192,4,0
 2020-04-21,US,Virginia,Franklin City,12,0,0
 2020-04-21,US,Maryland,Frederick,632,33,0
 2020-04-21,US,Virginia,Frederick,83,0,0
@@ -101927,6 +101927,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-22,US,Missouri,Benton,3,0,0
 2020-04-22,US,Oregon,Benton,27,5,0
 2020-04-22,US,Tennessee,Benton,4,0,0
+2020-04-22,US,Washington,Benton,338,35,0
 2020-04-22,US,Michigan,Benzie,4,0,0
 2020-04-22,US,New Jersey,Bergen,13686,876,0
 2020-04-22,US,South Carolina,Berkeley,143,6,0
@@ -102625,6 +102626,7 @@ date,country,region,place,cases,deaths,recoveries
 2020-04-22,US,Texas,Franklin,1,0,0
 2020-04-22,US,Vermont,Franklin,92,4,0
 2020-04-22,US,Virginia,Franklin,17,0,0
+2020-04-22,US,Washington,Franklin,207,4,0
 2020-04-22,US,Virginia,Franklin City,14,0,0
 2020-04-22,US,Maryland,Frederick,658,35,0
 2020-04-22,US,Virginia,Frederick,86,0,0

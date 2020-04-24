@@ -1087,32 +1087,32 @@
       },
       "2020-04-21": {
         "new": {
-          "cases": 27710,
+          "cases": 27539,
           "deaths": 2350,
           "recoveries": 2875
         },
         "cumulative": {
-          "cases": 812036,
+          "cases": 811865,
           "deaths": 44444,
           "recoveries": 75204
         }
       },
       "2020-04-22": {
         "new": {
-          "cases": 27639,
-          "deaths": 2139,
+          "cases": 28355,
+          "deaths": 2178,
           "recoveries": 2162
         },
         "cumulative": {
-          "cases": 839675,
-          "deaths": 46583,
+          "cases": 840220,
+          "deaths": 46622,
           "recoveries": 77366
         }
       },
       "2020-04-23": {
         "new": {
-          "cases": 29495,
-          "deaths": 3371,
+          "cases": 28950,
+          "deaths": 3332,
           "recoveries": 2837
         },
         "cumulative": {
