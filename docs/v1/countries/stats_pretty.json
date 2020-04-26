@@ -32631,21 +32631,21 @@
       },
       "2020-04-24": {
         "new": {
-          "cases": 955,
-          "deaths": 14,
-          "recoveries": 278
+          "cases": 477,
+          "deaths": 6,
+          "recoveries": 97
         },
         "cumulative": {
-          "cases": 8125,
-          "deaths": 201,
-          "recoveries": 782
+          "cases": 7647,
+          "deaths": 193,
+          "recoveries": 601
         }
       },
       "2020-04-25": {
         "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
+          "cases": 478,
+          "deaths": 8,
+          "recoveries": 181
         },
         "cumulative": {
           "cases": 8125,
