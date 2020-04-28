@@ -5903,12 +5903,12 @@
       },
       "2020-04-27": {
         "new": {
-          "cases": 1496,
+          "cases": 1517,
           "deaths": 84,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 45187,
+          "cases": 45208,
           "deaths": 1800,
           "recoveries": 0
         }
@@ -6553,12 +6553,12 @@
       },
       "2020-04-27": {
         "new": {
-          "cases": 480,
+          "cases": 1019,
           "deaths": 75,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 43189,
+          "cases": 43728,
           "deaths": 1946,
           "recoveries": 0
         }
