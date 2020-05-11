@@ -102864,32 +102864,6 @@
   },
   {
     "region": {
-      "key": "grand-princess-united-states",
-      "name": "Grand Princess",
-      "full_name": "Grand Princess, United States",
-      "country": {
-        "location_type": "country",
-        "key": "united-states",
-        "name": "United States"
-      }
-    },
-    "dates": {
-      "2020-05-09": {
-        "new": {
-          "cases": 103,
-          "deaths": 3,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 103,
-          "deaths": 3,
-          "recoveries": 0
-        }
-      }
-    }
-  },
-  {
-    "region": {
       "key": "aruba-netherlands",
       "name": "Aruba",
       "full_name": "Aruba, Netherlands",
@@ -108924,32 +108898,6 @@
           "cases": 60,
           "deaths": 0,
           "recoveries": 56
-        }
-      }
-    }
-  },
-  {
-    "region": {
-      "key": "diamond-princess-united-states",
-      "name": "Diamond Princess",
-      "full_name": "Diamond Princess, United States",
-      "country": {
-        "location_type": "country",
-        "key": "united-states",
-        "name": "United States"
-      }
-    },
-    "dates": {
-      "2020-05-09": {
-        "new": {
-          "cases": 49,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 49,
-          "deaths": 0,
-          "recoveries": 0
         }
       }
     }
@@ -125849,32 +125797,6 @@
           "cases": 0,
           "deaths": 0,
           "recoveries": 31262
-        }
-      }
-    }
-  },
-  {
-    "region": {
-      "key": "recovered-united-states",
-      "name": "Recovered",
-      "full_name": "Recovered, United States",
-      "country": {
-        "location_type": "country",
-        "key": "united-states",
-        "name": "United States"
-      }
-    },
-    "dates": {
-      "2020-05-09": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 212534
-        },
-        "cumulative": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 212534
         }
       }
     }
