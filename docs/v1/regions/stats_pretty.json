@@ -853,13 +853,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 335395,
-          "deaths": 26641,
+          "cases": 2138,
+          "deaths": 214,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 335395,
-          "deaths": 26641,
+          "cases": 340657,
+          "deaths": 26798,
           "recoveries": 0
         }
       }
@@ -1683,13 +1683,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 138754,
-          "deaths": 9256,
+          "cases": 1447,
+          "deaths": 139,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 138754,
-          "deaths": 9256,
+          "cases": 138532,
+          "deaths": 9255,
           "recoveries": 0
         }
       }
@@ -2897,8 +2897,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 77793,
-          "deaths": 4979,
+          "cases": 1050,
+          "deaths": 139,
           "recoveries": 0
         },
         "cumulative": {
@@ -4207,13 +4207,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 77741,
-          "deaths": 3406,
+          "cases": 1654,
+          "deaths": 64,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 77741,
-          "deaths": 3406,
+          "cases": 77662,
+          "deaths": 3426,
           "recoveries": 0
         }
       }
@@ -6839,13 +6839,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 67600,
-          "deaths": 2716,
+          "cases": 1227,
+          "deaths": 37,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 67600,
-          "deaths": 2716,
+          "cases": 68051,
+          "deaths": 2769,
           "recoveries": 0
         }
       }
@@ -7645,13 +7645,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 59939,
-          "deaths": 3806,
+          "cases": 1376,
+          "deaths": 26,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 59939,
-          "deaths": 3806,
+          "cases": 60037,
+          "deaths": 3819,
           "recoveries": 0
         }
       }
@@ -8403,13 +8403,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 47182,
-          "deaths": 4555,
+          "cases": 381,
+          "deaths": 25,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 47182,
-          "deaths": 4555,
+          "cases": 47116,
+          "deaths": 4551,
           "recoveries": 0
         }
       }
@@ -9269,13 +9269,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 40596,
-          "deaths": 1721,
+          "cases": 595,
+          "deaths": 6,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 40596,
-          "deaths": 1721,
+          "cases": 40588,
+          "deaths": 1720,
           "recoveries": 0
         }
       }
@@ -10351,13 +10351,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 39258,
-          "deaths": 1094,
+          "cases": 1188,
+          "deaths": 24,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 39258,
-          "deaths": 1094,
+          "cases": 40037,
+          "deaths": 1110,
           "recoveries": 0
         }
       }
@@ -11128,6 +11128,1606 @@
         "cumulative": {
           "cases": 37732,
           "deaths": 2929,
+          "recoveries": 0
+        }
+      }
+    }
+  },
+  {
+    "region": {
+      "key": "connecticut-united-states",
+      "name": "Connecticut",
+      "full_name": "Connecticut, United States",
+      "country": {
+        "location_type": "country",
+        "key": "united-states",
+        "name": "United States"
+      }
+    },
+    "dates": {
+      "2020-03-08": {
+        "new": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-09": {
+        "new": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 2,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-10": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 2,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-11": {
+        "new": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-12": {
+        "new": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 6,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-13": {
+        "new": {
+          "cases": 5,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 11,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-14": {
+        "new": {
+          "cases": 9,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 20,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-15": {
+        "new": {
+          "cases": 6,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 26,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-16": {
+        "new": {
+          "cases": 15,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 41,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-17": {
+        "new": {
+          "cases": 27,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 68,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-18": {
+        "new": {
+          "cases": 28,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 96,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-19": {
+        "new": {
+          "cases": 63,
+          "deaths": 3,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 159,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-03-20": {
+        "new": {
+          "cases": 35,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 194,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-03-21": {
+        "new": {
+          "cases": 29,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 223,
+          "deaths": 5,
+          "recoveries": 0
+        }
+      },
+      "2020-03-22": {
+        "new": {
+          "cases": 104,
+          "deaths": 3,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 327,
+          "deaths": 8,
+          "recoveries": 0
+        }
+      },
+      "2020-03-23": {
+        "new": {
+          "cases": 88,
+          "deaths": 2,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 415,
+          "deaths": 10,
+          "recoveries": 0
+        }
+      },
+      "2020-03-24": {
+        "new": {
+          "cases": 203,
+          "deaths": 2,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 618,
+          "deaths": 12,
+          "recoveries": 0
+        }
+      },
+      "2020-03-25": {
+        "new": {
+          "cases": 257,
+          "deaths": 7,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 875,
+          "deaths": 19,
+          "recoveries": 0
+        }
+      },
+      "2020-03-26": {
+        "new": {
+          "cases": 137,
+          "deaths": 2,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1012,
+          "deaths": 21,
+          "recoveries": 0
+        }
+      },
+      "2020-03-27": {
+        "new": {
+          "cases": 279,
+          "deaths": 6,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1291,
+          "deaths": 27,
+          "recoveries": 0
+        }
+      },
+      "2020-03-28": {
+        "new": {
+          "cases": 233,
+          "deaths": 6,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1524,
+          "deaths": 33,
+          "recoveries": 0
+        }
+      },
+      "2020-03-29": {
+        "new": {
+          "cases": 469,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1993,
+          "deaths": 34,
+          "recoveries": 0
+        }
+      },
+      "2020-03-30": {
+        "new": {
+          "cases": 578,
+          "deaths": 2,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 2571,
+          "deaths": 36,
+          "recoveries": 0
+        }
+      },
+      "2020-03-31": {
+        "new": {
+          "cases": 557,
+          "deaths": 33,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3128,
+          "deaths": 69,
+          "recoveries": 0
+        }
+      },
+      "2020-04-01": {
+        "new": {
+          "cases": 429,
+          "deaths": 16,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3557,
+          "deaths": 85,
+          "recoveries": 0
+        }
+      },
+      "2020-04-02": {
+        "new": {
+          "cases": 267,
+          "deaths": 27,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3824,
+          "deaths": 112,
+          "recoveries": 0
+        }
+      },
+      "2020-04-03": {
+        "new": {
+          "cases": 1091,
+          "deaths": 20,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 4915,
+          "deaths": 132,
+          "recoveries": 0
+        }
+      },
+      "2020-04-04": {
+        "new": {
+          "cases": 361,
+          "deaths": 33,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 5276,
+          "deaths": 165,
+          "recoveries": 0
+        }
+      },
+      "2020-04-05": {
+        "new": {
+          "cases": 399,
+          "deaths": 24,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 5675,
+          "deaths": 189,
+          "recoveries": 0
+        }
+      },
+      "2020-04-06": {
+        "new": {
+          "cases": 1231,
+          "deaths": 17,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 6906,
+          "deaths": 206,
+          "recoveries": 0
+        }
+      },
+      "2020-04-07": {
+        "new": {
+          "cases": 875,
+          "deaths": 71,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 7781,
+          "deaths": 277,
+          "recoveries": 0
+        }
+      },
+      "2020-04-08": {
+        "new": {
+          "cases": 1000,
+          "deaths": 58,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 8781,
+          "deaths": 335,
+          "recoveries": 0
+        }
+      },
+      "2020-04-09": {
+        "new": {
+          "cases": 1003,
+          "deaths": 45,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 9784,
+          "deaths": 380,
+          "recoveries": 0
+        }
+      },
+      "2020-04-10": {
+        "new": {
+          "cases": 754,
+          "deaths": 68,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 10538,
+          "deaths": 448,
+          "recoveries": 0
+        }
+      },
+      "2020-04-11": {
+        "new": {
+          "cases": 972,
+          "deaths": 46,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 11510,
+          "deaths": 494,
+          "recoveries": 0
+        }
+      },
+      "2020-04-12": {
+        "new": {
+          "cases": 525,
+          "deaths": 60,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 12035,
+          "deaths": 554,
+          "recoveries": 0
+        }
+      },
+      "2020-04-13": {
+        "new": {
+          "cases": 1346,
+          "deaths": 48,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 13381,
+          "deaths": 602,
+          "recoveries": 0
+        }
+      },
+      "2020-04-14": {
+        "new": {
+          "cases": 608,
+          "deaths": 69,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 13989,
+          "deaths": 671,
+          "recoveries": 0
+        }
+      },
+      "2020-04-15": {
+        "new": {
+          "cases": 766,
+          "deaths": 197,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 14755,
+          "deaths": 868,
+          "recoveries": 0
+        }
+      },
+      "2020-04-16": {
+        "new": {
+          "cases": 1129,
+          "deaths": 103,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 15884,
+          "deaths": 971,
+          "recoveries": 0
+        }
+      },
+      "2020-04-17": {
+        "new": {
+          "cases": 925,
+          "deaths": 65,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 16809,
+          "deaths": 1036,
+          "recoveries": 0
+        }
+      },
+      "2020-04-18": {
+        "new": {
+          "cases": 741,
+          "deaths": 50,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 17550,
+          "deaths": 1086,
+          "recoveries": 0
+        }
+      },
+      "2020-04-19": {
+        "new": {
+          "cases": 412,
+          "deaths": 41,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 17962,
+          "deaths": 1127,
+          "recoveries": 0
+        }
+      },
+      "2020-04-20": {
+        "new": {
+          "cases": 1853,
+          "deaths": 204,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 19815,
+          "deaths": 1331,
+          "recoveries": 0
+        }
+      },
+      "2020-04-21": {
+        "new": {
+          "cases": 545,
+          "deaths": 92,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 20360,
+          "deaths": 1423,
+          "recoveries": 0
+        }
+      },
+      "2020-04-22": {
+        "new": {
+          "cases": 2109,
+          "deaths": 121,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 22469,
+          "deaths": 1544,
+          "recoveries": 0
+        }
+      },
+      "2020-04-23": {
+        "new": {
+          "cases": 631,
+          "deaths": 95,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 23100,
+          "deaths": 1639,
+          "recoveries": 0
+        }
+      },
+      "2020-04-24": {
+        "new": {
+          "cases": 821,
+          "deaths": 125,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 23921,
+          "deaths": 1764,
+          "recoveries": 0
+        }
+      },
+      "2020-04-25": {
+        "new": {
+          "cases": 661,
+          "deaths": 98,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 24582,
+          "deaths": 1862,
+          "recoveries": 0
+        }
+      },
+      "2020-04-26": {
+        "new": {
+          "cases": 687,
+          "deaths": 63,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 25269,
+          "deaths": 1925,
+          "recoveries": 0
+        }
+      },
+      "2020-04-27": {
+        "new": {
+          "cases": 728,
+          "deaths": 87,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 25997,
+          "deaths": 2012,
+          "recoveries": 0
+        }
+      },
+      "2020-04-28": {
+        "new": {
+          "cases": 315,
+          "deaths": 77,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 26312,
+          "deaths": 2089,
+          "recoveries": 0
+        }
+      },
+      "2020-04-29": {
+        "new": {
+          "cases": 455,
+          "deaths": 79,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 26767,
+          "deaths": 2168,
+          "recoveries": 0
+        }
+      },
+      "2020-04-30": {
+        "new": {
+          "cases": 933,
+          "deaths": 89,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 27700,
+          "deaths": 2257,
+          "recoveries": 0
+        }
+      },
+      "2020-05-01": {
+        "new": {
+          "cases": 1064,
+          "deaths": 82,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 28764,
+          "deaths": 2339,
+          "recoveries": 0
+        }
+      },
+      "2020-05-02": {
+        "new": {
+          "cases": 523,
+          "deaths": 97,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 29287,
+          "deaths": 2436,
+          "recoveries": 0
+        }
+      },
+      "2020-05-03": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 29287,
+          "deaths": 2436,
+          "recoveries": 0
+        }
+      },
+      "2020-05-04": {
+        "new": {
+          "cases": 686,
+          "deaths": 120,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 29973,
+          "deaths": 2556,
+          "recoveries": 0
+        }
+      },
+      "2020-05-05": {
+        "new": {
+          "cases": 648,
+          "deaths": 77,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 30621,
+          "deaths": 2633,
+          "recoveries": 0
+        }
+      },
+      "2020-05-06": {
+        "new": {
+          "cases": 374,
+          "deaths": 85,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 30995,
+          "deaths": 2718,
+          "recoveries": 0
+        }
+      },
+      "2020-05-07": {
+        "new": {
+          "cases": 789,
+          "deaths": 79,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 31784,
+          "deaths": 2797,
+          "recoveries": 0
+        }
+      },
+      "2020-05-08": {
+        "new": {
+          "cases": 627,
+          "deaths": 77,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 32411,
+          "deaths": 2874,
+          "recoveries": 0
+        }
+      },
+      "2020-05-09": {
+        "new": {
+          "cases": 573,
+          "deaths": 58,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 32984,
+          "deaths": 2932,
+          "recoveries": 0
+        }
+      },
+      "2020-05-10": {
+        "new": {
+          "cases": 570,
+          "deaths": 35,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 33554,
+          "deaths": 2967,
+          "recoveries": 0
+        }
+      }
+    }
+  },
+  {
+    "region": {
+      "key": "maryland-united-states",
+      "name": "Maryland",
+      "full_name": "Maryland, United States",
+      "country": {
+        "location_type": "country",
+        "key": "united-states",
+        "name": "United States"
+      }
+    },
+    "dates": {
+      "2020-03-05": {
+        "new": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-06": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-07": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-08": {
+        "new": {
+          "cases": 2,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 5,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-09": {
+        "new": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 6,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-10": {
+        "new": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 9,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-11": {
+        "new": {
+          "cases": 4,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 13,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-12": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 13,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-13": {
+        "new": {
+          "cases": 5,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 18,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-14": {
+        "new": {
+          "cases": 9,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 27,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-15": {
+        "new": {
+          "cases": 5,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 32,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-16": {
+        "new": {
+          "cases": 7,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 39,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-17": {
+        "new": {
+          "cases": 18,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 57,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-18": {
+        "new": {
+          "cases": 28,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 85,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-19": {
+        "new": {
+          "cases": 23,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 108,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-20": {
+        "new": {
+          "cases": 42,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 150,
+          "deaths": 2,
+          "recoveries": 0
+        }
+      },
+      "2020-03-21": {
+        "new": {
+          "cases": 45,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 195,
+          "deaths": 3,
+          "recoveries": 0
+        }
+      },
+      "2020-03-22": {
+        "new": {
+          "cases": 50,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 245,
+          "deaths": 3,
+          "recoveries": 0
+        }
+      },
+      "2020-03-23": {
+        "new": {
+          "cases": 45,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 290,
+          "deaths": 3,
+          "recoveries": 0
+        }
+      },
+      "2020-03-24": {
+        "new": {
+          "cases": 59,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 349,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-03-25": {
+        "new": {
+          "cases": 74,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 423,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-03-26": {
+        "new": {
+          "cases": 158,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 581,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-03-27": {
+        "new": {
+          "cases": 194,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 775,
+          "deaths": 5,
+          "recoveries": 0
+        }
+      },
+      "2020-03-28": {
+        "new": {
+          "cases": 291,
+          "deaths": 5,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1066,
+          "deaths": 10,
+          "recoveries": 0
+        }
+      },
+      "2020-03-29": {
+        "new": {
+          "cases": 178,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1244,
+          "deaths": 11,
+          "recoveries": 0
+        }
+      },
+      "2020-03-30": {
+        "new": {
+          "cases": 170,
+          "deaths": 4,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1414,
+          "deaths": 15,
+          "recoveries": 0
+        }
+      },
+      "2020-03-31": {
+        "new": {
+          "cases": 248,
+          "deaths": 3,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1662,
+          "deaths": 18,
+          "recoveries": 0
+        }
+      },
+      "2020-04-01": {
+        "new": {
+          "cases": 323,
+          "deaths": 15,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1985,
+          "deaths": 33,
+          "recoveries": 0
+        }
+      },
+      "2020-04-02": {
+        "new": {
+          "cases": 346,
+          "deaths": 3,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 2331,
+          "deaths": 36,
+          "recoveries": 0
+        }
+      },
+      "2020-04-03": {
+        "new": {
+          "cases": 427,
+          "deaths": 6,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 2758,
+          "deaths": 42,
+          "recoveries": 0
+        }
+      },
+      "2020-04-04": {
+        "new": {
+          "cases": 367,
+          "deaths": 12,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3125,
+          "deaths": 54,
+          "recoveries": 0
+        }
+      },
+      "2020-04-05": {
+        "new": {
+          "cases": 484,
+          "deaths": 14,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3609,
+          "deaths": 68,
+          "recoveries": 0
+        }
+      },
+      "2020-04-06": {
+        "new": {
+          "cases": 436,
+          "deaths": 24,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 4045,
+          "deaths": 92,
+          "recoveries": 0
+        }
+      },
+      "2020-04-07": {
+        "new": {
+          "cases": 326,
+          "deaths": 12,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 4371,
+          "deaths": 104,
+          "recoveries": 0
+        }
+      },
+      "2020-04-08": {
+        "new": {
+          "cases": 1158,
+          "deaths": 20,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 5529,
+          "deaths": 124,
+          "recoveries": 0
+        }
+      },
+      "2020-04-09": {
+        "new": {
+          "cases": 656,
+          "deaths": 15,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 6185,
+          "deaths": 139,
+          "recoveries": 0
+        }
+      },
+      "2020-04-10": {
+        "new": {
+          "cases": 783,
+          "deaths": 33,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 6968,
+          "deaths": 172,
+          "recoveries": 0
+        }
+      },
+      "2020-04-11": {
+        "new": {
+          "cases": 726,
+          "deaths": 35,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 7694,
+          "deaths": 207,
+          "recoveries": 0
+        }
+      },
+      "2020-04-12": {
+        "new": {
+          "cases": 531,
+          "deaths": 29,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 8225,
+          "deaths": 236,
+          "recoveries": 0
+        }
+      },
+      "2020-04-13": {
+        "new": {
+          "cases": 711,
+          "deaths": 26,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 8936,
+          "deaths": 262,
+          "recoveries": 0
+        }
+      },
+      "2020-04-14": {
+        "new": {
+          "cases": 536,
+          "deaths": 40,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 9472,
+          "deaths": 302,
+          "recoveries": 0
+        }
+      },
+      "2020-04-15": {
+        "new": {
+          "cases": 560,
+          "deaths": 47,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 10032,
+          "deaths": 349,
+          "recoveries": 0
+        }
+      },
+      "2020-04-16": {
+        "new": {
+          "cases": 752,
+          "deaths": 43,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 10784,
+          "deaths": 392,
+          "recoveries": 0
+        }
+      },
+      "2020-04-17": {
+        "new": {
+          "cases": 788,
+          "deaths": 33,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 11572,
+          "deaths": 425,
+          "recoveries": 0
+        }
+      },
+      "2020-04-18": {
+        "new": {
+          "cases": 736,
+          "deaths": 38,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 12308,
+          "deaths": 463,
+          "recoveries": 0
+        }
+      },
+      "2020-04-19": {
+        "new": {
+          "cases": 522,
+          "deaths": 23,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 12830,
+          "deaths": 486,
+          "recoveries": 0
+        }
+      },
+      "2020-04-20": {
+        "new": {
+          "cases": 854,
+          "deaths": 30,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 13684,
+          "deaths": 516,
+          "recoveries": 0
+        }
+      },
+      "2020-04-21": {
+        "new": {
+          "cases": 509,
+          "deaths": 68,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 14193,
+          "deaths": 584,
+          "recoveries": 0
+        }
+      },
+      "2020-04-22": {
+        "new": {
+          "cases": 582,
+          "deaths": 48,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 14775,
+          "deaths": 632,
+          "recoveries": 0
+        }
+      },
+      "2020-04-23": {
+        "new": {
+          "cases": 962,
+          "deaths": 116,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 15737,
+          "deaths": 748,
+          "recoveries": 0
+        }
+      },
+      "2020-04-24": {
+        "new": {
+          "cases": 881,
+          "deaths": 50,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 16618,
+          "deaths": 798,
+          "recoveries": 0
+        }
+      },
+      "2020-04-25": {
+        "new": {
+          "cases": 1148,
+          "deaths": 77,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 17766,
+          "deaths": 875,
+          "recoveries": 0
+        }
+      },
+      "2020-04-26": {
+        "new": {
+          "cases": 815,
+          "deaths": 56,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 18581,
+          "deaths": 931,
+          "recoveries": 0
+        }
+      },
+      "2020-04-27": {
+        "new": {
+          "cases": 906,
+          "deaths": 13,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 19487,
+          "deaths": 944,
+          "recoveries": 0
+        }
+      },
+      "2020-04-28": {
+        "new": {
+          "cases": 626,
+          "deaths": 72,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 20113,
+          "deaths": 1016,
+          "recoveries": 0
+        }
+      },
+      "2020-04-29": {
+        "new": {
+          "cases": 829,
+          "deaths": 62,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 20942,
+          "deaths": 1078,
+          "recoveries": 0
+        }
+      },
+      "2020-04-30": {
+        "new": {
+          "cases": 883,
+          "deaths": 62,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 21825,
+          "deaths": 1140,
+          "recoveries": 0
+        }
+      },
+      "2020-05-01": {
+        "new": {
+          "cases": 1741,
+          "deaths": 52,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 23566,
+          "deaths": 1192,
+          "recoveries": 0
+        }
+      },
+      "2020-05-02": {
+        "new": {
+          "cases": 1002,
+          "deaths": 59,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 24568,
+          "deaths": 1251,
+          "recoveries": 0
+        }
+      },
+      "2020-05-03": {
+        "new": {
+          "cases": 993,
+          "deaths": 30,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 25561,
+          "deaths": 1281,
+          "recoveries": 0
+        }
+      },
+      "2020-05-04": {
+        "new": {
+          "cases": 948,
+          "deaths": 36,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 26509,
+          "deaths": 1317,
+          "recoveries": 0
+        }
+      },
+      "2020-05-05": {
+        "new": {
+          "cases": 708,
+          "deaths": 73,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 27217,
+          "deaths": 1390,
+          "recoveries": 0
+        }
+      },
+      "2020-05-06": {
+        "new": {
+          "cases": 1046,
+          "deaths": 53,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 28263,
+          "deaths": 1443,
+          "recoveries": 0
+        }
+      },
+      "2020-05-07": {
+        "new": {
+          "cases": 1213,
+          "deaths": 60,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 29476,
+          "deaths": 1503,
+          "recoveries": 0
+        }
+      },
+      "2020-05-08": {
+        "new": {
+          "cases": 1116,
+          "deaths": 57,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 30592,
+          "deaths": 1560,
+          "recoveries": 0
+        }
+      },
+      "2020-05-09": {
+        "new": {
+          "cases": 1046,
+          "deaths": 54,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 31638,
+          "deaths": 1614,
+          "recoveries": 0
+        }
+      },
+      "2020-05-10": {
+        "new": {
+          "cases": 1055,
+          "deaths": 30,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 32693,
+          "deaths": 1644,
           "recoveries": 0
         }
       }
@@ -11975,1613 +13575,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 33580,
-          "deaths": 1406,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 33580,
-          "deaths": 1406,
-          "recoveries": 0
-        }
-      }
-    }
-  },
-  {
-    "region": {
-      "key": "connecticut-united-states",
-      "name": "Connecticut",
-      "full_name": "Connecticut, United States",
-      "country": {
-        "location_type": "country",
-        "key": "united-states",
-        "name": "United States"
-      }
-    },
-    "dates": {
-      "2020-03-08": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-09": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-10": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-11": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-12": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 6,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-13": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 11,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-14": {
-        "new": {
-          "cases": 9,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 20,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-15": {
-        "new": {
-          "cases": 6,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 26,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-16": {
-        "new": {
-          "cases": 15,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 41,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-17": {
-        "new": {
-          "cases": 27,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 68,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-18": {
-        "new": {
-          "cases": 28,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 96,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-19": {
-        "new": {
-          "cases": 63,
+          "cases": 786,
           "deaths": 3,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 159,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-03-20": {
-        "new": {
-          "cases": 35,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 194,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-03-21": {
-        "new": {
-          "cases": 29,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 223,
-          "deaths": 5,
-          "recoveries": 0
-        }
-      },
-      "2020-03-22": {
-        "new": {
-          "cases": 104,
-          "deaths": 3,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 327,
-          "deaths": 8,
-          "recoveries": 0
-        }
-      },
-      "2020-03-23": {
-        "new": {
-          "cases": 88,
-          "deaths": 2,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 415,
-          "deaths": 10,
-          "recoveries": 0
-        }
-      },
-      "2020-03-24": {
-        "new": {
-          "cases": 203,
-          "deaths": 2,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 618,
-          "deaths": 12,
-          "recoveries": 0
-        }
-      },
-      "2020-03-25": {
-        "new": {
-          "cases": 257,
-          "deaths": 7,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 875,
-          "deaths": 19,
-          "recoveries": 0
-        }
-      },
-      "2020-03-26": {
-        "new": {
-          "cases": 137,
-          "deaths": 2,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1012,
-          "deaths": 21,
-          "recoveries": 0
-        }
-      },
-      "2020-03-27": {
-        "new": {
-          "cases": 279,
-          "deaths": 6,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1291,
-          "deaths": 27,
-          "recoveries": 0
-        }
-      },
-      "2020-03-28": {
-        "new": {
-          "cases": 233,
-          "deaths": 6,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1524,
-          "deaths": 33,
-          "recoveries": 0
-        }
-      },
-      "2020-03-29": {
-        "new": {
-          "cases": 469,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1993,
-          "deaths": 34,
-          "recoveries": 0
-        }
-      },
-      "2020-03-30": {
-        "new": {
-          "cases": 578,
-          "deaths": 2,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2571,
-          "deaths": 36,
-          "recoveries": 0
-        }
-      },
-      "2020-03-31": {
-        "new": {
-          "cases": 557,
-          "deaths": 33,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3128,
-          "deaths": 69,
-          "recoveries": 0
-        }
-      },
-      "2020-04-01": {
-        "new": {
-          "cases": 429,
-          "deaths": 16,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3557,
-          "deaths": 85,
-          "recoveries": 0
-        }
-      },
-      "2020-04-02": {
-        "new": {
-          "cases": 267,
-          "deaths": 27,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3824,
-          "deaths": 112,
-          "recoveries": 0
-        }
-      },
-      "2020-04-03": {
-        "new": {
-          "cases": 1091,
-          "deaths": 20,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 4915,
-          "deaths": 132,
-          "recoveries": 0
-        }
-      },
-      "2020-04-04": {
-        "new": {
-          "cases": 361,
-          "deaths": 33,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 5276,
-          "deaths": 165,
-          "recoveries": 0
-        }
-      },
-      "2020-04-05": {
-        "new": {
-          "cases": 399,
-          "deaths": 24,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 5675,
-          "deaths": 189,
-          "recoveries": 0
-        }
-      },
-      "2020-04-06": {
-        "new": {
-          "cases": 1231,
-          "deaths": 17,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 6906,
-          "deaths": 206,
-          "recoveries": 0
-        }
-      },
-      "2020-04-07": {
-        "new": {
-          "cases": 875,
-          "deaths": 71,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 7781,
-          "deaths": 277,
-          "recoveries": 0
-        }
-      },
-      "2020-04-08": {
-        "new": {
-          "cases": 1000,
-          "deaths": 58,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8781,
-          "deaths": 335,
-          "recoveries": 0
-        }
-      },
-      "2020-04-09": {
-        "new": {
-          "cases": 1003,
-          "deaths": 45,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 9784,
-          "deaths": 380,
-          "recoveries": 0
-        }
-      },
-      "2020-04-10": {
-        "new": {
-          "cases": 754,
-          "deaths": 68,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10538,
-          "deaths": 448,
-          "recoveries": 0
-        }
-      },
-      "2020-04-11": {
-        "new": {
-          "cases": 972,
-          "deaths": 46,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 11510,
-          "deaths": 494,
-          "recoveries": 0
-        }
-      },
-      "2020-04-12": {
-        "new": {
-          "cases": 525,
-          "deaths": 60,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 12035,
-          "deaths": 554,
-          "recoveries": 0
-        }
-      },
-      "2020-04-13": {
-        "new": {
-          "cases": 1346,
-          "deaths": 48,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 13381,
-          "deaths": 602,
-          "recoveries": 0
-        }
-      },
-      "2020-04-14": {
-        "new": {
-          "cases": 608,
-          "deaths": 69,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 13989,
-          "deaths": 671,
-          "recoveries": 0
-        }
-      },
-      "2020-04-15": {
-        "new": {
-          "cases": 766,
-          "deaths": 197,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 14755,
-          "deaths": 868,
-          "recoveries": 0
-        }
-      },
-      "2020-04-16": {
-        "new": {
-          "cases": 1129,
-          "deaths": 103,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 15884,
-          "deaths": 971,
-          "recoveries": 0
-        }
-      },
-      "2020-04-17": {
-        "new": {
-          "cases": 925,
-          "deaths": 65,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 16809,
-          "deaths": 1036,
-          "recoveries": 0
-        }
-      },
-      "2020-04-18": {
-        "new": {
-          "cases": 741,
-          "deaths": 50,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 17550,
-          "deaths": 1086,
-          "recoveries": 0
-        }
-      },
-      "2020-04-19": {
-        "new": {
-          "cases": 412,
-          "deaths": 41,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 17962,
-          "deaths": 1127,
-          "recoveries": 0
-        }
-      },
-      "2020-04-20": {
-        "new": {
-          "cases": 1853,
-          "deaths": 204,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 19815,
-          "deaths": 1331,
-          "recoveries": 0
-        }
-      },
-      "2020-04-21": {
-        "new": {
-          "cases": 545,
-          "deaths": 92,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 20360,
-          "deaths": 1423,
-          "recoveries": 0
-        }
-      },
-      "2020-04-22": {
-        "new": {
-          "cases": 2109,
-          "deaths": 121,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 22469,
-          "deaths": 1544,
-          "recoveries": 0
-        }
-      },
-      "2020-04-23": {
-        "new": {
-          "cases": 631,
-          "deaths": 95,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 23100,
-          "deaths": 1639,
-          "recoveries": 0
-        }
-      },
-      "2020-04-24": {
-        "new": {
-          "cases": 821,
-          "deaths": 125,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 23921,
-          "deaths": 1764,
-          "recoveries": 0
-        }
-      },
-      "2020-04-25": {
-        "new": {
-          "cases": 661,
-          "deaths": 98,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 24582,
-          "deaths": 1862,
-          "recoveries": 0
-        }
-      },
-      "2020-04-26": {
-        "new": {
-          "cases": 687,
-          "deaths": 63,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 25269,
-          "deaths": 1925,
-          "recoveries": 0
-        }
-      },
-      "2020-04-27": {
-        "new": {
-          "cases": 728,
-          "deaths": 87,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 25997,
-          "deaths": 2012,
-          "recoveries": 0
-        }
-      },
-      "2020-04-28": {
-        "new": {
-          "cases": 315,
-          "deaths": 77,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 26312,
-          "deaths": 2089,
-          "recoveries": 0
-        }
-      },
-      "2020-04-29": {
-        "new": {
-          "cases": 455,
-          "deaths": 79,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 26767,
-          "deaths": 2168,
-          "recoveries": 0
-        }
-      },
-      "2020-04-30": {
-        "new": {
-          "cases": 933,
-          "deaths": 89,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 27700,
-          "deaths": 2257,
-          "recoveries": 0
-        }
-      },
-      "2020-05-01": {
-        "new": {
-          "cases": 1064,
-          "deaths": 82,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 28764,
-          "deaths": 2339,
-          "recoveries": 0
-        }
-      },
-      "2020-05-02": {
-        "new": {
-          "cases": 523,
-          "deaths": 97,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 29287,
-          "deaths": 2436,
-          "recoveries": 0
-        }
-      },
-      "2020-05-03": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 29287,
-          "deaths": 2436,
-          "recoveries": 0
-        }
-      },
-      "2020-05-04": {
-        "new": {
-          "cases": 686,
-          "deaths": 120,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 29973,
-          "deaths": 2556,
-          "recoveries": 0
-        }
-      },
-      "2020-05-05": {
-        "new": {
-          "cases": 648,
-          "deaths": 77,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 30621,
-          "deaths": 2633,
-          "recoveries": 0
-        }
-      },
-      "2020-05-06": {
-        "new": {
-          "cases": 374,
-          "deaths": 85,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 30995,
-          "deaths": 2718,
-          "recoveries": 0
-        }
-      },
-      "2020-05-07": {
-        "new": {
-          "cases": 789,
-          "deaths": 79,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 31784,
-          "deaths": 2797,
-          "recoveries": 0
-        }
-      },
-      "2020-05-08": {
-        "new": {
-          "cases": 627,
-          "deaths": 77,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 32411,
-          "deaths": 2874,
-          "recoveries": 0
-        }
-      },
-      "2020-05-09": {
-        "new": {
-          "cases": 573,
-          "deaths": 58,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 32984,
-          "deaths": 2932,
-          "recoveries": 0
-        }
-      },
-      "2020-05-10": {
-        "new": {
-          "cases": 33554,
-          "deaths": 2967,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 33554,
-          "deaths": 2967,
-          "recoveries": 0
-        }
-      }
-    }
-  },
-  {
-    "region": {
-      "key": "maryland-united-states",
-      "name": "Maryland",
-      "full_name": "Maryland, United States",
-      "country": {
-        "location_type": "country",
-        "key": "united-states",
-        "name": "United States"
-      }
-    },
-    "dates": {
-      "2020-03-05": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-06": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-07": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-08": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-09": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 6,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-10": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 9,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-11": {
-        "new": {
-          "cases": 4,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 13,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-12": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 13,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-13": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 18,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-14": {
-        "new": {
-          "cases": 9,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 27,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-15": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 32,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-16": {
-        "new": {
-          "cases": 7,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 39,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-17": {
-        "new": {
-          "cases": 18,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 57,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-18": {
-        "new": {
-          "cases": 28,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 85,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-19": {
-        "new": {
-          "cases": 23,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 108,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-20": {
-        "new": {
-          "cases": 42,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 150,
-          "deaths": 2,
-          "recoveries": 0
-        }
-      },
-      "2020-03-21": {
-        "new": {
-          "cases": 45,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 195,
-          "deaths": 3,
-          "recoveries": 0
-        }
-      },
-      "2020-03-22": {
-        "new": {
-          "cases": 50,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 245,
-          "deaths": 3,
-          "recoveries": 0
-        }
-      },
-      "2020-03-23": {
-        "new": {
-          "cases": 45,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 290,
-          "deaths": 3,
-          "recoveries": 0
-        }
-      },
-      "2020-03-24": {
-        "new": {
-          "cases": 59,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 349,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-03-25": {
-        "new": {
-          "cases": 74,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 423,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-03-26": {
-        "new": {
-          "cases": 158,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 581,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-03-27": {
-        "new": {
-          "cases": 194,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 775,
-          "deaths": 5,
-          "recoveries": 0
-        }
-      },
-      "2020-03-28": {
-        "new": {
-          "cases": 291,
-          "deaths": 5,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1066,
-          "deaths": 10,
-          "recoveries": 0
-        }
-      },
-      "2020-03-29": {
-        "new": {
-          "cases": 178,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1244,
-          "deaths": 11,
-          "recoveries": 0
-        }
-      },
-      "2020-03-30": {
-        "new": {
-          "cases": 170,
-          "deaths": 4,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1414,
-          "deaths": 15,
-          "recoveries": 0
-        }
-      },
-      "2020-03-31": {
-        "new": {
-          "cases": 248,
-          "deaths": 3,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1662,
-          "deaths": 18,
-          "recoveries": 0
-        }
-      },
-      "2020-04-01": {
-        "new": {
-          "cases": 323,
-          "deaths": 15,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1985,
-          "deaths": 33,
-          "recoveries": 0
-        }
-      },
-      "2020-04-02": {
-        "new": {
-          "cases": 346,
-          "deaths": 3,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2331,
-          "deaths": 36,
-          "recoveries": 0
-        }
-      },
-      "2020-04-03": {
-        "new": {
-          "cases": 427,
-          "deaths": 6,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 2758,
-          "deaths": 42,
-          "recoveries": 0
-        }
-      },
-      "2020-04-04": {
-        "new": {
-          "cases": 367,
-          "deaths": 12,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3125,
-          "deaths": 54,
-          "recoveries": 0
-        }
-      },
-      "2020-04-05": {
-        "new": {
-          "cases": 484,
-          "deaths": 14,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3609,
-          "deaths": 68,
-          "recoveries": 0
-        }
-      },
-      "2020-04-06": {
-        "new": {
-          "cases": 436,
-          "deaths": 24,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 4045,
-          "deaths": 92,
-          "recoveries": 0
-        }
-      },
-      "2020-04-07": {
-        "new": {
-          "cases": 326,
-          "deaths": 12,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 4371,
-          "deaths": 104,
-          "recoveries": 0
-        }
-      },
-      "2020-04-08": {
-        "new": {
-          "cases": 1158,
-          "deaths": 20,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 5529,
-          "deaths": 124,
-          "recoveries": 0
-        }
-      },
-      "2020-04-09": {
-        "new": {
-          "cases": 656,
-          "deaths": 15,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 6185,
-          "deaths": 139,
-          "recoveries": 0
-        }
-      },
-      "2020-04-10": {
-        "new": {
-          "cases": 783,
-          "deaths": 33,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 6968,
-          "deaths": 172,
-          "recoveries": 0
-        }
-      },
-      "2020-04-11": {
-        "new": {
-          "cases": 726,
-          "deaths": 35,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 7694,
-          "deaths": 207,
-          "recoveries": 0
-        }
-      },
-      "2020-04-12": {
-        "new": {
-          "cases": 531,
-          "deaths": 29,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8225,
-          "deaths": 236,
-          "recoveries": 0
-        }
-      },
-      "2020-04-13": {
-        "new": {
-          "cases": 711,
-          "deaths": 26,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8936,
-          "deaths": 262,
-          "recoveries": 0
-        }
-      },
-      "2020-04-14": {
-        "new": {
-          "cases": 536,
-          "deaths": 40,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 9472,
-          "deaths": 302,
-          "recoveries": 0
-        }
-      },
-      "2020-04-15": {
-        "new": {
-          "cases": 560,
-          "deaths": 47,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10032,
-          "deaths": 349,
-          "recoveries": 0
-        }
-      },
-      "2020-04-16": {
-        "new": {
-          "cases": 752,
-          "deaths": 43,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 10784,
-          "deaths": 392,
-          "recoveries": 0
-        }
-      },
-      "2020-04-17": {
-        "new": {
-          "cases": 788,
-          "deaths": 33,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 11572,
-          "deaths": 425,
-          "recoveries": 0
-        }
-      },
-      "2020-04-18": {
-        "new": {
-          "cases": 736,
-          "deaths": 38,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 12308,
-          "deaths": 463,
-          "recoveries": 0
-        }
-      },
-      "2020-04-19": {
-        "new": {
-          "cases": 522,
-          "deaths": 23,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 12830,
-          "deaths": 486,
-          "recoveries": 0
-        }
-      },
-      "2020-04-20": {
-        "new": {
-          "cases": 854,
-          "deaths": 30,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 13684,
-          "deaths": 516,
-          "recoveries": 0
-        }
-      },
-      "2020-04-21": {
-        "new": {
-          "cases": 509,
-          "deaths": 68,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 14193,
-          "deaths": 584,
-          "recoveries": 0
-        }
-      },
-      "2020-04-22": {
-        "new": {
-          "cases": 582,
-          "deaths": 48,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 14775,
-          "deaths": 632,
-          "recoveries": 0
-        }
-      },
-      "2020-04-23": {
-        "new": {
-          "cases": 962,
-          "deaths": 116,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 15737,
-          "deaths": 748,
-          "recoveries": 0
-        }
-      },
-      "2020-04-24": {
-        "new": {
-          "cases": 881,
-          "deaths": 50,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 16618,
-          "deaths": 798,
-          "recoveries": 0
-        }
-      },
-      "2020-04-25": {
-        "new": {
-          "cases": 1148,
-          "deaths": 77,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 17766,
-          "deaths": 875,
-          "recoveries": 0
-        }
-      },
-      "2020-04-26": {
-        "new": {
-          "cases": 815,
-          "deaths": 56,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 18581,
-          "deaths": 931,
-          "recoveries": 0
-        }
-      },
-      "2020-04-27": {
-        "new": {
-          "cases": 906,
-          "deaths": 13,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 19487,
-          "deaths": 944,
-          "recoveries": 0
-        }
-      },
-      "2020-04-28": {
-        "new": {
-          "cases": 626,
-          "deaths": 72,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 20113,
-          "deaths": 1016,
-          "recoveries": 0
-        }
-      },
-      "2020-04-29": {
-        "new": {
-          "cases": 829,
-          "deaths": 62,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 20942,
-          "deaths": 1078,
-          "recoveries": 0
-        }
-      },
-      "2020-04-30": {
-        "new": {
-          "cases": 883,
-          "deaths": 62,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 21825,
-          "deaths": 1140,
-          "recoveries": 0
-        }
-      },
-      "2020-05-01": {
-        "new": {
-          "cases": 1741,
-          "deaths": 52,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 23566,
-          "deaths": 1192,
-          "recoveries": 0
-        }
-      },
-      "2020-05-02": {
-        "new": {
-          "cases": 1002,
-          "deaths": 59,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 24568,
-          "deaths": 1251,
-          "recoveries": 0
-        }
-      },
-      "2020-05-03": {
-        "new": {
-          "cases": 993,
-          "deaths": 30,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 25561,
-          "deaths": 1281,
-          "recoveries": 0
-        }
-      },
-      "2020-05-04": {
-        "new": {
-          "cases": 948,
-          "deaths": 36,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 26509,
-          "deaths": 1317,
-          "recoveries": 0
-        }
-      },
-      "2020-05-05": {
-        "new": {
-          "cases": 708,
-          "deaths": 73,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 27217,
-          "deaths": 1390,
-          "recoveries": 0
-        }
-      },
-      "2020-05-06": {
-        "new": {
-          "cases": 1046,
-          "deaths": 53,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 28263,
-          "deaths": 1443,
-          "recoveries": 0
-        }
-      },
-      "2020-05-07": {
-        "new": {
-          "cases": 1213,
-          "deaths": 60,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 29476,
-          "deaths": 1503,
-          "recoveries": 0
-        }
-      },
-      "2020-05-08": {
-        "new": {
-          "cases": 1116,
-          "deaths": 57,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 30592,
-          "deaths": 1560,
-          "recoveries": 0
-        }
-      },
-      "2020-05-09": {
-        "new": {
-          "cases": 1046,
-          "deaths": 54,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 31638,
-          "deaths": 1614,
-          "recoveries": 0
-        }
-      },
-      "2020-05-10": {
-        "new": {
-          "cases": 32587,
-          "deaths": 1644,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 32587,
-          "deaths": 1644,
+          "cases": 32267,
+          "deaths": 1383,
           "recoveries": 0
         }
       }
@@ -14345,13 +14345,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 31600,
-          "deaths": 2286,
+          "cases": 183,
+          "deaths": 19,
           "recoveries": 0
         },
         "cumulative": {
           "cases": 31600,
-          "deaths": 2286,
+          "deaths": 2213,
           "recoveries": 0
         }
       }
@@ -15151,12 +15151,12 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 24126,
-          "deaths": 1508,
+          "cases": 394,
+          "deaths": 18,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 24126,
+          "cases": 24633,
           "deaths": 1508,
           "recoveries": 0
         }
@@ -15921,12 +15921,12 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 24081,
-          "deaths": 1341,
+          "cases": 389,
+          "deaths": 10,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 24081,
+          "cases": 24086,
           "deaths": 1341,
           "recoveries": 0
         }
@@ -16715,8 +16715,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 24081,
-          "deaths": 839,
+          "cases": 885,
+          "deaths": 12,
           "recoveries": 0
         },
         "cumulative": {
@@ -18411,13 +18411,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 19703,
-          "deaths": 971,
+          "cases": 328,
+          "deaths": 4,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 19703,
-          "deaths": 971,
+          "cases": 19595,
+          "deaths": 969,
           "recoveries": 0
         }
       }
@@ -19757,13 +19757,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 16891,
-          "deaths": 931,
+          "cases": 146,
+          "deaths": 14,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 16891,
-          "deaths": 931,
+          "cases": 17909,
+          "deaths": 939,
           "recoveries": 0
         }
       }
@@ -20575,13 +20575,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 14985,
-          "deaths": 243,
+          "cases": 385,
+          "deaths": 1,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 14985,
-          "deaths": 243,
+          "cases": 15060,
+          "deaths": 242,
           "recoveries": 0
         }
       }
@@ -21417,13 +21417,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 14938,
-          "deaths": 564,
+          "cases": 396,
+          "deaths": 7,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 14938,
-          "deaths": 564,
+          "cases": 14783,
+          "deaths": 561,
           "recoveries": 0
         }
       }
@@ -22199,8 +22199,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 11959,
-          "deaths": 265,
+          "cases": 288,
+          "deaths": 13,
           "recoveries": 0
         },
         "cumulative": {
@@ -23065,8 +23065,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 11274,
-          "deaths": 422,
+          "cases": 285,
+          "deaths": 4,
           "recoveries": 0
         },
         "cumulative": {
@@ -23871,8 +23871,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 11271,
-          "deaths": 578,
+          "cases": 481,
+          "deaths": 20,
           "recoveries": 0
         },
         "cumulative": {
@@ -25157,8 +25157,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 11119,
-          "deaths": 536,
+          "cases": 159,
+          "deaths": 4,
           "recoveries": 0
         },
         "cumulative": {
@@ -26323,8 +26323,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 10219,
-          "deaths": 400,
+          "cases": 280,
+          "deaths": 2,
           "recoveries": 0
         },
         "cumulative": {
@@ -27117,13 +27117,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 10068,
-          "deaths": 503,
+          "cases": 169,
+          "deaths": 10,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 10068,
-          "deaths": 503,
+          "cases": 9906,
+          "deaths": 502,
           "recoveries": 0
         }
       }
@@ -27839,8 +27839,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 9889,
-          "deaths": 393,
+          "cases": 221,
+          "deaths": 3,
           "recoveries": 0
         },
         "cumulative": {
@@ -28585,8 +28585,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 9501,
-          "deaths": 430,
+          "cases": 123,
+          "deaths": 9,
           "recoveries": 0
         },
         "cumulative": {
@@ -29607,13 +29607,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 8171,
-          "deaths": 90,
+          "cases": 95,
+          "deaths": 2,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 8171,
-          "deaths": 90,
+          "cases": 8329,
+          "deaths": 98,
           "recoveries": 0
         }
       }
@@ -30413,8 +30413,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 7653,
-          "deaths": 331,
+          "cases": 122,
+          "deaths": 1,
           "recoveries": 0
         },
         "cumulative": {
@@ -31207,13 +31207,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 6951,
-          "deaths": 174,
+          "cases": 122,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 6951,
-          "deaths": 174,
+          "cases": 7045,
+          "deaths": 172,
           "recoveries": 0
         }
       }
@@ -32013,13 +32013,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 6440,
-          "deaths": 304,
+          "cases": 17,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 6440,
-          "deaths": 304,
+          "cases": 6486,
+          "deaths": 312,
           "recoveries": 0
         }
       }
@@ -32759,13 +32759,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 6277,
-          "deaths": 221,
+          "cases": 170,
+          "deaths": 3,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 6277,
-          "deaths": 221,
+          "cases": 6447,
+          "deaths": 224,
           "recoveries": 0
         }
       }
@@ -33553,8 +33553,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 6272,
-          "deaths": 323,
+          "cases": 170,
+          "deaths": 12,
           "recoveries": 0
         },
         "cumulative": {
@@ -35249,8 +35249,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 6251,
-          "deaths": 67,
+          "cases": 148,
+          "deaths": 1,
           "recoveries": 0
         },
         "cumulative": {
@@ -36067,13 +36067,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 6120,
-          "deaths": 310,
+          "cases": 74,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 6120,
-          "deaths": 310,
+          "cases": 6150,
+          "deaths": 306,
           "recoveries": 0
         }
       }
@@ -36813,8 +36813,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 4863,
-          "deaths": 200,
+          "cases": 85,
+          "deaths": 9,
           "recoveries": 0
         },
         "cumulative": {
@@ -37619,8 +37619,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 4589,
-          "deaths": 272,
+          "cases": 99,
+          "deaths": 2,
           "recoveries": 0
         },
         "cumulative": {
@@ -38365,8 +38365,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 4012,
-          "deaths": 91,
+          "cases": 265,
+          "deaths": 3,
           "recoveries": 0
         },
         "cumulative": {
@@ -39123,8 +39123,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 3517,
-          "deaths": 34,
+          "cases": 124,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
@@ -40013,8 +40013,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 3228,
-          "deaths": 127,
+          "cases": 68,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
@@ -40867,8 +40867,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 3071,
-          "deaths": 133,
+          "cases": 60,
+          "deaths": 2,
           "recoveries": 0
         },
         "cumulative": {
@@ -44125,12 +44125,12 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 2230,
-          "deaths": 67,
+          "cases": 2,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 2230,
+          "cases": 2232,
           "deaths": 67,
           "recoveries": 0
         }
@@ -44847,8 +44847,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 2198,
-          "deaths": 111,
+          "cases": 25,
+          "deaths": 3,
           "recoveries": 0
         },
         "cumulative": {
@@ -48201,8 +48201,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 1491,
-          "deaths": 35,
+          "cases": 27,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
@@ -48935,8 +48935,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 1436,
-          "deaths": 64,
+          "cases": 28,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
@@ -49609,12 +49609,12 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 1360,
-          "deaths": 54,
+          "cases": 15,
+          "deaths": 1,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 1360,
+          "cases": 1362,
           "deaths": 54,
           "recoveries": 0
         }
@@ -52284,6 +52284,704 @@
           "cases": 1268,
           "deaths": 1,
           "recoveries": 1267
+        }
+      }
+    }
+  },
+  {
+    "region": {
+      "key": "guam-united-states",
+      "name": "Guam",
+      "full_name": "Guam, United States",
+      "country": {
+        "location_type": "country",
+        "key": "united-states",
+        "name": "United States"
+      }
+    },
+    "dates": {
+      "2020-03-15": {
+        "new": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-16": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-17": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-18": {
+        "new": {
+          "cases": 5,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 8,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-19": {
+        "new": {
+          "cases": 4,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 12,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-20": {
+        "new": {
+          "cases": 2,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 14,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-21": {
+        "new": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 15,
+          "deaths": 0,
+          "recoveries": 0
+        }
+      },
+      "2020-03-22": {
+        "new": {
+          "cases": 12,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 27,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-23": {
+        "new": {
+          "cases": 2,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 29,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-24": {
+        "new": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 32,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-25": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 32,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-26": {
+        "new": {
+          "cases": 17,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 49,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-27": {
+        "new": {
+          "cases": 4,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 53,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-28": {
+        "new": {
+          "cases": 4,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 57,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-29": {
+        "new": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 58,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-30": {
+        "new": {
+          "cases": 2,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 60,
+          "deaths": 1,
+          "recoveries": 0
+        }
+      },
+      "2020-03-31": {
+        "new": {
+          "cases": 79,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 139,
+          "deaths": 2,
+          "recoveries": 0
+        }
+      },
+      "2020-04-01": {
+        "new": {
+          "cases": 8,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 147,
+          "deaths": 3,
+          "recoveries": 0
+        }
+      },
+      "2020-04-02": {
+        "new": {
+          "cases": 5,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 152,
+          "deaths": 3,
+          "recoveries": 0
+        }
+      },
+      "2020-04-03": {
+        "new": {
+          "cases": 2,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 154,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-04-04": {
+        "new": {
+          "cases": 69,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 223,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-04-05": {
+        "new": {
+          "cases": 42,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 265,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-04-06": {
+        "new": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 266,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-04-07": {
+        "new": {
+          "cases": 8,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 274,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-04-08": {
+        "new": {
+          "cases": 135,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 409,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-04-09": {
+        "new": {
+          "cases": 133,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 542,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-04-10": {
+        "new": {
+          "cases": 35,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 577,
+          "deaths": 4,
+          "recoveries": 0
+        }
+      },
+      "2020-04-11": {
+        "new": {
+          "cases": 104,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 681,
+          "deaths": 5,
+          "recoveries": 0
+        }
+      },
+      "2020-04-12": {
+        "new": {
+          "cases": 35,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 716,
+          "deaths": 5,
+          "recoveries": 0
+        }
+      },
+      "2020-04-13": {
+        "new": {
+          "cases": 3,
+          "deaths": 1,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 719,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-14": {
+        "new": {
+          "cases": 2,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 721,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-15": {
+        "new": {
+          "cases": 29,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 750,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-16": {
+        "new": {
+          "cases": 40,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 790,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-17": {
+        "new": {
+          "cases": 6,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 796,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-18": {
+        "new": {
+          "cases": 9,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 805,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-19": {
+        "new": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 808,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-20": {
+        "new": {
+          "cases": 3,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 811,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-21": {
+        "new": {
+          "cases": 41,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 852,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-22": {
+        "new": {
+          "cases": 59,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 911,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-23": {
+        "new": {
+          "cases": 68,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 979,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-24": {
+        "new": {
+          "cases": 18,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 997,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-25": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 997,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-26": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 997,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-27": {
+        "new": {
+          "cases": 116,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1113,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-28": {
+        "new": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1114,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-29": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1114,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-04-30": {
+        "new": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1115,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-05-01": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1115,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-05-02": {
+        "new": {
+          "cases": 2,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1117,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-05-03": {
+        "new": {
+          "cases": 1,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1118,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-05-04": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1118,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-05-05": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1118,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-05-06": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1118,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-05-07": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1118,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-05-08": {
+        "new": {
+          "cases": 2,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1120,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-05-09": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1120,
+          "deaths": 6,
+          "recoveries": 0
+        }
+      },
+      "2020-05-10": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 0
+        },
+        "cumulative": {
+          "cases": 1120,
+          "deaths": 6,
+          "recoveries": 0
         }
       }
     }
@@ -61738,13 +62436,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 927,
-          "deaths": 53,
+          "cases": 6,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
           "cases": 927,
-          "deaths": 53,
+          "deaths": 54,
           "recoveries": 0
         }
       }
@@ -64371,8 +65069,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 662,
-          "deaths": 7,
+          "cases": 9,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
@@ -67845,12 +68543,12 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 632,
-          "deaths": 17,
+          "cases": 1,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 632,
+          "cases": 621,
           "deaths": 17,
           "recoveries": 0
         }
@@ -74914,8 +75612,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 458,
-          "deaths": 16,
+          "cases": 0,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
@@ -77574,13 +78272,13 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 379,
-          "deaths": 10,
+          "cases": 1,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 379,
-          "deaths": 10,
+          "cases": 378,
+          "deaths": 8,
           "recoveries": 0
         }
       }
@@ -94552,704 +95250,6 @@
   },
   {
     "region": {
-      "key": "guam-united-states",
-      "name": "Guam",
-      "full_name": "Guam, United States",
-      "country": {
-        "location_type": "country",
-        "key": "united-states",
-        "name": "United States"
-      }
-    },
-    "dates": {
-      "2020-03-15": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-16": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-17": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-18": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 8,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-19": {
-        "new": {
-          "cases": 4,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 12,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-20": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 14,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-21": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 15,
-          "deaths": 0,
-          "recoveries": 0
-        }
-      },
-      "2020-03-22": {
-        "new": {
-          "cases": 12,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 27,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-23": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 29,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-24": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 32,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-25": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 32,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-26": {
-        "new": {
-          "cases": 17,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 49,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-27": {
-        "new": {
-          "cases": 4,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 53,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-28": {
-        "new": {
-          "cases": 4,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 57,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-29": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 58,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-30": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 60,
-          "deaths": 1,
-          "recoveries": 0
-        }
-      },
-      "2020-03-31": {
-        "new": {
-          "cases": 79,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 139,
-          "deaths": 2,
-          "recoveries": 0
-        }
-      },
-      "2020-04-01": {
-        "new": {
-          "cases": 8,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 147,
-          "deaths": 3,
-          "recoveries": 0
-        }
-      },
-      "2020-04-02": {
-        "new": {
-          "cases": 5,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 152,
-          "deaths": 3,
-          "recoveries": 0
-        }
-      },
-      "2020-04-03": {
-        "new": {
-          "cases": 2,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 154,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-04-04": {
-        "new": {
-          "cases": 69,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 223,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-04-05": {
-        "new": {
-          "cases": 42,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 265,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-04-06": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 266,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-04-07": {
-        "new": {
-          "cases": 8,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 274,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-04-08": {
-        "new": {
-          "cases": 135,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 409,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-04-09": {
-        "new": {
-          "cases": 133,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 542,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-04-10": {
-        "new": {
-          "cases": 35,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 577,
-          "deaths": 4,
-          "recoveries": 0
-        }
-      },
-      "2020-04-11": {
-        "new": {
-          "cases": 104,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 681,
-          "deaths": 5,
-          "recoveries": 0
-        }
-      },
-      "2020-04-12": {
-        "new": {
-          "cases": 35,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 716,
-          "deaths": 5,
-          "recoveries": 0
-        }
-      },
-      "2020-04-13": {
-        "new": {
-          "cases": 3,
-          "deaths": 1,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 719,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-14": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 721,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-15": {
-        "new": {
-          "cases": 29,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 750,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-16": {
-        "new": {
-          "cases": 40,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 790,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-17": {
-        "new": {
-          "cases": 6,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 796,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-18": {
-        "new": {
-          "cases": 9,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 805,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-19": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 808,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-20": {
-        "new": {
-          "cases": 3,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 811,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-21": {
-        "new": {
-          "cases": 41,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 852,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-22": {
-        "new": {
-          "cases": 59,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 911,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-23": {
-        "new": {
-          "cases": 68,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 979,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-24": {
-        "new": {
-          "cases": 18,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 997,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-25": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 997,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-26": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 997,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-27": {
-        "new": {
-          "cases": 116,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1113,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-28": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1114,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-29": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1114,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-04-30": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1115,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-05-01": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1115,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-05-02": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1117,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-05-03": {
-        "new": {
-          "cases": 1,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1118,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-05-04": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1118,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-05-05": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1118,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-05-06": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1118,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-05-07": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1118,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-05-08": {
-        "new": {
-          "cases": 2,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1120,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-05-09": {
-        "new": {
-          "cases": 0,
-          "deaths": 0,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 1120,
-          "deaths": 6,
-          "recoveries": 0
-        }
-      },
-      "2020-05-10": {
-        "new": {
-          "cases": 151,
-          "deaths": 5,
-          "recoveries": 0
-        },
-        "cumulative": {
-          "cases": 151,
-          "deaths": 5,
-          "recoveries": 0
-        }
-      }
-    }
-  },
-  {
-    "region": {
       "key": "guizhou-china",
       "name": "Guizhou",
       "full_name": "Guizhou, China",
@@ -109524,8 +109524,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 69,
-          "deaths": 4,
+          "cases": 0,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
@@ -116964,8 +116964,8 @@
       },
       "2020-05-10": {
         "new": {
-          "cases": 16,
-          "deaths": 2,
+          "cases": 0,
+          "deaths": 0,
           "recoveries": 0
         },
         "cumulative": {
