@@ -41681,12 +41681,12 @@
       },
       "2020-05-17": {
         "new": {
-          "cases": 131,
+          "cases": 91,
           "deaths": 6,
           "recoveries": 0
         },
         "cumulative": {
-          "cases": 5978,
+          "cases": 5938,
           "deaths": 265,
           "recoveries": 0
         }
