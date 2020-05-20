@@ -147145,5 +147145,31 @@
         }
       }
     }
+  },
+  {
+    "region": {
+      "key": "unknown-spain",
+      "name": "Unknown",
+      "full_name": "Unknown, Spain",
+      "country": {
+        "location_type": "country",
+        "key": "spain",
+        "name": "Spain"
+      }
+    },
+    "dates": {
+      "2020-05-19": {
+        "new": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 150376
+        },
+        "cumulative": {
+          "cases": 0,
+          "deaths": 0,
+          "recoveries": 150376
+        }
+      }
+    }
   }
 ]
