@@ -1579,13 +1579,13 @@
       },
       "2020-06-01": {
         "new": {
-          "cases": 21188,
-          "deaths": 784,
+          "cases": 20848,
+          "deaths": 768,
           "recoveries": 13473
         },
         "cumulative": {
-          "cases": 1811360,
-          "deaths": 105165,
+          "cases": 1811020,
+          "deaths": 105149,
           "recoveries": 458231
         }
       }
