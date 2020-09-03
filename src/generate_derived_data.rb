@@ -168,13 +168,13 @@ class GenerateDerivedData
       location_keys_dates_data = @location_types_location_keys_dates_data[location_type]
       # The GitHub file size limit is 100MB, and places/stats_pretty.json can exceed this, so we'll limit
       # the number of locations included here.
-      location_keys_dates_data = location_keys_dates_data.first(3000)
+      location_keys_dates_data = location_keys_dates_data.first(2000)
       output_data = location_keys_dates_data.map do |location_key, dates_data|
         location = @location_types_location_keys_locations[location_type][location_key]
         # The GitHub file size limit is 100MB, and places/stats_pretty.json can exceed this, so we'll limit
         # the number of dates included here.
         if location_type == :place
-          dates_data = Hash[dates_data.to_a.last(150)]
+          dates_data = Hash[dates_data.to_a.last(100)]
         end
         location.delete(:location_type)
         {
