@@ -20,6 +20,7 @@ module Sources
 
           content = File.read(file_path)
           content = content.gsub(65279.chr(Encoding::UTF_8), '')
+          content = content.gsub("\r", '')
           rows = CSV.parse(content, headers: true)
           puts "CSV Headers: #{rows.first.to_h.keys.join(', ')}"
           rows.each do |row|
