@@ -1388,7 +1388,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 48259,Kendall,Texas,US,2020-05-24 02:32:43,29.94414155,-98.7113588,24,0,0,24,"Kendall, Texas, US"
 23011,Kennebec,Maine,US,2020-05-24 02:32:43,44.40759555,-69.76738544,126,9,0,117,"Kennebec, Maine, US"
 55059,Kenosha,Wisconsin,US,2020-05-24 02:32:43,42.57639354,-88.04051686,983,22,0,961,"Kenosha, Wisconsin, US"
-10001,Kent,Delaware,US,2020-05-24 02:32:43,39.08646628,-75.56884914,1296,56,0,1240,"Kent, Delaware, US"
+10001,Kent,Delaware,US,2020-05-24 02:32:43,39.08646628,-75.56884914,1296,66,0,1240,"Kent, Delaware, US"
 24029,Kent,Maryland,US,2020-05-24 02:32:43,39.24976208,-76.04741541,148,15,0,133,"Kent, Maryland, US"
 26081,Kent,Michigan,US,2020-05-24 02:32:43,43.03197711,-85.54934642,3308,67,0,3241,"Kent, Michigan, US"
 44003,Kent,Rhode Island,US,2020-05-24 02:32:43,41.67106337,-71.57641596,1005,0,0,1005,"Kent, Rhode Island, US"
@@ -1929,7 +1929,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20135,Ness,Kansas,US,2020-05-24 02:32:43,38.47974157,-99.91547333,1,0,0,1,"Ness, Kansas, US"
 5099,Nevada,Arkansas,US,2020-05-24 02:32:43,33.66340119,-93.30632432,4,0,0,4,"Nevada, Arkansas, US"
 6057,Nevada,California,US,2020-05-24 02:32:43,39.30394768,-120.7627281,41,1,0,40,"Nevada, California, US"
-10003,New Castle,Delaware,US,2020-05-24 02:32:43,39.57992638,-75.64054974,3132,146,0,2986,"New Castle, Delaware, US"
+10003,New Castle,Delaware,US,2020-05-24 02:32:43,39.57992638,-75.64054974,3132,218,0,2986,"New Castle, Delaware, US"
 37129,New Hanover,North Carolina,US,2020-05-24 02:32:43,34.25758282,-77.87075626,152,4,0,148,"New Hanover, North Carolina, US"
 9009,New Haven,Connecticut,US,2020-05-24 02:32:43,41.4080325,-72.93620426,10847,897,0,9950,"New Haven, Connecticut, US"
 51127,New Kent,Virginia,US,2020-05-24 02:32:43,37.50694406,-76.99828634,27,1,0,26,"New Kent, Virginia, US"
@@ -2572,7 +2572,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37171,Surry,North Carolina,US,2020-05-24 02:32:43,36.41689489,-80.69102283,151,1,0,150,"Surry, North Carolina, US"
 51181,Surry,Virginia,US,2020-05-24 02:32:43,37.11781893,-76.88450012,6,1,0,5,"Surry, Virginia, US"
 42115,Susquehanna,Pennsylvania,US,2020-05-24 02:32:43,41.82147784,-75.80071959,95,15,0,80,"Susquehanna, Pennsylvania, US"
-10005,Sussex,Delaware,US,2020-05-24 02:32:43,38.66143781,-75.39031349,4048,119,0,3929,"Sussex, Delaware, US"
+10005,Sussex,Delaware,US,2020-05-24 02:32:43,38.66143781,-75.39031349,4048,157,0,3929,"Sussex, Delaware, US"
 34037,Sussex,New Jersey,US,2020-05-24 02:32:43,41.13891592,-74.69118243,1080,145,0,934,"Sussex, New Jersey, US"
 51183,Sussex,Virginia,US,2020-05-24 02:32:43,36.92432914,-77.25791182,114,1,0,113,"Sussex, Virginia, US"
 6101,Sutter,California,US,2020-05-24 02:32:43,39.03417539,-121.6945899,40,2,0,38,"Sutter, California, US"
@@ -2689,7 +2689,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90015,Unassigned,Hawaii,US,2020-05-24 02:32:43,,,0,0,0,0,"Unassigned, Hawaii, US"
 90016,Unassigned,Idaho,US,2020-05-24 02:32:43,,,0,0,0,0,"Unassigned, Idaho, US"
 90017,Unassigned,Illinois,US,2020-05-24 02:32:43,,,99,0,0,99,"Unassigned, Illinois, US"
-90018,Unassigned,Indiana,US,2020-05-24 02:32:43,,,0,152,0,-152,"Unassigned, Indiana, US"
+90018,Unassigned,Indiana,US,2020-05-24 02:32:43,,,0,148,0,-152,"Unassigned, Indiana, US"
 90019,Unassigned,Iowa,US,2020-05-24 02:32:43,,,2,0,0,2,"Unassigned, Iowa, US"
 90020,Unassigned,Kansas,US,2020-05-24 02:32:43,,,0,0,0,0,"Unassigned, Kansas, US"
 90021,Unassigned,Kentucky,US,2020-05-24 02:32:43,,,29,0,0,29,"Unassigned, Kentucky, US"
@@ -3322,7 +3322,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-05-24 02:32:43,6.4280550000000005,-9.429499,255,26,136,93,Liberia
 ,,,Libya,2020-05-24 02:32:43,26.3351,17.228331,75,3,39,33,Libya
 ,,,Liechtenstein,2020-05-24 02:32:43,47.14,9.55,82,1,55,26,Liechtenstein
-,,,Lithuania,2020-05-24 02:32:43,55.1694,23.8813,1616,63,1135,418,Lithuania
+,,,Lithuania,2020-05-24 02:32:43,55.1694,23.8813,1612,47,1161,418,Lithuania
 ,,,Luxembourg,2020-05-24 02:32:43,49.8153,6.1296,3990,109,3758,123,Luxembourg
 ,,,MS Zaandam,2020-05-24 02:32:43,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-05-24 02:32:43,-18.766947,46.869107,488,2,138,348,Madagascar
